@@ -56,6 +56,13 @@ FILE_MAP = {
       "sheet_name": "SEND"
     }
 }
+COLUMN_MAP = {
+  "1": { "check": "equal", "check_col": -1, "CL": 1, "CLI": 0, "EXT": 2, "SUB": 4, "PT": 5, "DEF": 6, "SYN": 7, "NAME": 3 },
+  "2": { "check": "equal", "check_col": -1, "CL": 1, "CLI": 0, "EXT": 2, "SUB": 4, "PT": 8, "DEF": 7, "SYN": 6, "NAME": 3 },
+  "3": { "check": "empty", "check_col": 1, "CL": 0, "CLI": 0, "EXT": 2, "SUB": 4, "PT": 5, "DEF": 7, "SYN": 6, "NAME": 3 },
+  "4": { "check": "empty", "check_col": 1, "CL": 1, "CLI": 0, "EXT": 2, "SUB": 3, "PT": 5, "DEF": 6, "SYN": 7, "NAME": 3 },
+  "5": { "check": "empty", "check_col": 1, "CL": 1, "CLI": 0, "EXT": 2, "SUB": 3, "PT": 5, "DEF": 6, "SYN": 7, "NAME": 3 }
+}
 
 manifest = {}
 
@@ -82,61 +89,50 @@ def get_cell(row, index):
 
 def get_synonym(row, index):
   cell = get_cell(row, index)
-  print("CELL", cell)
-  print("CELL", cell == None)
   if cell == "":
     return []
   else:
     return cell.split(";")
 
-def add_code_list(output, row):
-  synonyms = get_synonym(row, 7)
+def add_code_list(format, output, row):
+  #print("ADD_CODE_LIST %s %s" % (format, row))
+  synonyms = get_synonym(row, COLUMN_MAP[format]["SYN"])
   code_list = {
-    "conceptId": get_cell(row, 1),
-    "definition": get_cell(row, 6),
-    "extensible": get_cell(row, 2),
-    "name": get_cell(row, 3),
-    "preferredTerm": get_cell(row, 5),
-    "submissionValue": get_cell(row, 4),
+    "conceptId": get_cell(row, COLUMN_MAP[format]["CL"]),
+    "definition": get_cell(row, COLUMN_MAP[format]["DEF"]),
+    "extensible": get_cell(row, COLUMN_MAP[format]["EXT"]),
+    "name": get_cell(row, COLUMN_MAP[format]["NAME"]),
+    "preferredTerm": get_cell(row, COLUMN_MAP[format]["PT"]),
+    "submissionValue": get_cell(row, COLUMN_MAP[format]["SUB"]),
     "synonyms": synonyms,
     "terms": []
   } 
   output["codelists"].append(code_list)
   return code_list
  
-def add_code_list_item(output, row):
-  synonyms = get_synonym(row, 7)
+def add_code_list_item(format, output, row):
+  #print("ADD_CODE_LIST_ITEM %s %s" % (format, row))
+  synonyms = get_synonym(row, COLUMN_MAP[format]["SYN"])
   code_list_item = {
-    "conceptId": get_cell(row, 0),
-    "definition": get_cell(row, 6),
-    "preferredTerm": get_cell(row, 5),
-    "submissionValue": get_cell(row, 4),
+    "conceptId": get_cell(row, COLUMN_MAP[format]["CLI"]),
+    "definition": get_cell(row, COLUMN_MAP[format]["DEF"]),
+    "preferredTerm": get_cell(row, COLUMN_MAP[format]["PT"]),
+    "submissionValue": get_cell(row, COLUMN_MAP[format]["SUB"]),
     "synonyms": synonyms
   } 
   output["terms"].append(code_list_item)
   return code_list_item
 
-def process_sheet_format_1(df, output, item, date):
+def process_sheet_format(df, format, output, item, date):
   print(df)
   code_list = None
   for index, row in df.iterrows():
-    if row['Code'] == row['Codelist Code']:
-      code_list = add_code_list(output, row)
+    if COLUMN_MAP[format]["check"] == "equal" and row[COLUMN_MAP[format]["CL"]] == row[COLUMN_MAP[format]["CLI"]]:
+      code_list = add_code_list(format, output, row)
+    elif COLUMN_MAP[format]["check"] == "empty" and get_cell(row, COLUMN_MAP[format]["check_col"]) == "":
+      code_list = add_code_list(format, output, row)
     else:
-      add_code_list_item(code_list, row)
-
-  return None
-
-def process_sheet_format_2(df, output, item, date):
-  return None
-
-def process_sheet_format_3(df, output, item, date):
-  return None
-
-def process_sheet_format_4(df, output, item, date):
-  return None
-
-def process_sheet_format_5(df, output, item, date):
+      add_code_list_item(format, code_list, row)
   return None
 
 def set_format(item, date):
@@ -170,16 +166,7 @@ def read_sheet(format, item, date):
 def process_sheet(df, format, item, date):
   output = {}
   add_header(output, item, date)
-  if format == "1":
-    process_sheet_format_1(df, output, item, date)
-  elif format == "2":
-    process_sheet_format_2(df, output, item, date)
-  elif format == "3":
-    process_sheet_format_3(df, output, item, date)
-  elif format == "4":
-    process_sheet_format_4(df, output, item, date)
-  else:
-    process_sheet_format_5(df, output, item, date)
+  process_sheet_format(df, format, output, item, date)
   return output
 
 def process_item(item, date):
