@@ -60,8 +60,8 @@ COLUMN_MAP = {
   "1": { "check": "equal", "check_col": -1, "CL": 1, "CLI": 0, "EXT": 2, "SUB": 4, "PT": 5, "DEF": 6, "SYN": 7, "NAME": 3 },
   "2": { "check": "equal", "check_col": -1, "CL": 1, "CLI": 0, "EXT": 2, "SUB": 4, "PT": 8, "DEF": 7, "SYN": 6, "NAME": 3 },
   "3": { "check": "empty", "check_col": 1, "CL": 0, "CLI": 0, "EXT": 2, "SUB": 4, "PT": 5, "DEF": 7, "SYN": 6, "NAME": 3 },
-  "4": { "check": "empty", "check_col": 1, "CL": 1, "CLI": 0, "EXT": 2, "SUB": 3, "PT": 5, "DEF": 6, "SYN": 7, "NAME": 3 },
-  "5": { "check": "empty", "check_col": 1, "CL": 1, "CLI": 0, "EXT": 2, "SUB": 3, "PT": 5, "DEF": 6, "SYN": 7, "NAME": 3 }
+  "4": { "check": "empty", "check_col": 1, "CL": 1, "CLI": 0, "EXT": 2, "SUB": 4, "PT": 5, "DEF": 6, "SYN": 7, "NAME": 3 },
+  "5": { "check": "empty", "check_col": 1, "CL": 1, "CLI": 0, "EXT": 2, "SUB": 4, "PT": 7, "DEF": 6, "SYN": 5, "NAME": 3 }
 }
 
 manifest = {}
@@ -157,7 +157,7 @@ def sheet_name(format, item, date):
 
 def read_sheet(format, item, date):
   if format == "api":
-    return None
+    return pd.DataFrame([])
   print("READ_SHEET %s %s %s" % (format, item, date))
   filename = "%s/%s/%s %s.xls" % (SOURCE_DIR, item, FILE_MAP[item]["filename"], date)
   df = pd.read_excel (filename, sheet_name(format, item, date))
@@ -172,9 +172,10 @@ def process_sheet(df, format, item, date):
 def process_item(item, date):
   format = set_format(item, date)
   df = read_sheet(format, item, date)
-  output = process_sheet(df, format, item, date)
-  with open("%s/%s %s.json" % (OUTPUT_DIR, item, date), 'w') as outfile:
-    json.dump(output, outfile)
+  if not df.empty:
+    output = process_sheet(df, format, item, date)
+    with open("%s/%s %s.json" % (OUTPUT_DIR, item, date), 'w') as outfile:
+      json.dump(output, outfile, indent=2, sort_keys=True)
 
 def process_release(date, info):
   package = info["package"]

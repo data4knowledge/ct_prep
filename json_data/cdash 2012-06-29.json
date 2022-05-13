@@ -1,1 +1,1247 @@
-{"codelists": [{"conceptId": "", "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Concomitant Medication Dose Units codelist. (NCI)", "extensible": "Yes", "name": "Concomitant Medication Dose Units", "preferredTerm": "Concomitant Medication Dose Units", "submissionValue": "Concomitant Medication Dose Units", "synonyms": ["CDISC CDASH Concomitant Medication Dose Units Terminology"], "terms": [{"conceptId": "C28253", "definition": "The unit of mass equal to one thousandth of a gram or 1000 micrograms. One milligram equals approximately 0.015432 grain or 35.274 x 10E-6 ounce.(NCI)", "preferredTerm": "Milligram", "submissionValue": "Concomitant Medication Dose Units", "synonyms": ["Milligram"]}, {"conceptId": "C48152", "definition": "A unit of mass equal to one millionth of a gram or one thousandth of a milligram.(NCI)", "preferredTerm": "Microgram; mcg", "submissionValue": "Concomitant Medication Dose Units", "synonyms": ["Microgram"]}, {"conceptId": "C28254", "definition": "The unit of volume equal to one thousandth of a liter, one cubic centimeter, 10E-6 cubic meter, or approximately to 0.061 023 7 cubic inch.(NCI)", "preferredTerm": "cm3; Milliliter", "submissionValue": "Concomitant Medication Dose Units", "synonyms": ["Milliliter"]}, {"conceptId": "C48155", "definition": "A metric unit of mass equal to one one thousandth of a kilogram. (NCI)", "preferredTerm": "Gram", "submissionValue": "Concomitant Medication Dose Units", "synonyms": ["Gram"]}, {"conceptId": "C48579", "definition": "The unitage assigned by the WHO (World Health Organization) to International Biological Standards - substances, classed as biological according to the criteria provided by WHO Expert Committee on Biological Standardization (e.g. hormones, enzymes, and vaccines), to enable the results of biological and immunological assay procedures to be expressed in the same way throughout the world. The definition of an international unit is generally arbitrary and technical, and has to be officially approved by the International Conference for Unification of Formulae.(NCI)", "preferredTerm": "International Unit", "submissionValue": "Concomitant Medication Dose Units", "synonyms": ["International Unit"]}, {"conceptId": "C48542", "definition": "A dosing measurement based on the tablet unit.(NCI)", "preferredTerm": "Tablet Dosing Unit; tab", "submissionValue": "Concomitant Medication Dose Units", "synonyms": ["Tablet Dosing Unit"]}, {"conceptId": "C48480", "definition": "A dosing measurement based on the capsule unit.(NCI)", "preferredTerm": "Capsule Dosing Unit; cap", "submissionValue": "Concomitant Medication Dose Units", "synonyms": ["Capsule Dosing Unit"]}, {"conceptId": "C65060", "definition": "A means of delivering a defined dose of a therapeutic aerolized solution into either the upper or lower respiratory tract. Metered-dose inhalers or spray pumps are devices that provide a puff dose for delivery into either the oral or the nasal cavity.(NCI)", "preferredTerm": "Puff", "submissionValue": "Concomitant Medication Dose Units", "synonyms": ["Puff Dosing Unit"]}]}, {"conceptId": "", "definition": "A terminology subset of the CDISC SDTM Pharmaceutical Dosage Form codelist created for CDASH Concomitant Medication Dose Form codelist. (NCI)", "extensible": "Yes", "name": "Concomitant Medication Dose Form", "preferredTerm": "Concomitant Medication Dose Form", "submissionValue": "Concomitant Medication Dose Form", "synonyms": ["CDISC CDASH Concomitant Medication Dose Form Terminology"], "terms": [{"conceptId": "C42998", "definition": "A solid dosage form containing medicinal substances with or without suitable diluents. (NCI)", "preferredTerm": "tab", "submissionValue": "Concomitant Medication Dose Form", "synonyms": ["Tablet Dosage Form"]}, {"conceptId": "C25158", "definition": "A solid pharmaceutical dosage form that contains medicinal agent within either a hard or soft soluble container or shell, usually used for the oral administration of medicine. The shells are made of a suitable form of gelatin or other substance. (NCI)", "preferredTerm": "cap", "submissionValue": "Concomitant Medication Dose Form", "synonyms": ["Capsule Dosage Form"]}, {"conceptId": "C42966", "definition": "A suspension or emulsion, semisolid (1) dosage form, usually containing < 20% water and volatiles (2) and > 50% hydrocarbons, waxes, or polyols as the vehicle. This dosage form is generally for external application to the skin or mucous membranes. Note 1: A semisolid is not pourable; it does not flow or conform to its container at room temperature. It does not flow at low shear stress and generally exhibits plastic flow behavior. Note 2: Percent water and volatiles are measured by a loss on drying test in which the sample is heated at 105 degrees C until constant weight is achieved. (NCI)", "preferredTerm": "oint", "submissionValue": "Concomitant Medication Dose Form", "synonyms": ["Ointment Dosage Form"]}, {"conceptId": "C42993", "definition": "A solid body of various weights and shapes, adapted for introduction into the rectal orifice of the human body; they usually melt, soften, or dissolve at body temperature. (NCI)", "preferredTerm": "supp", "submissionValue": "Concomitant Medication Dose Form", "synonyms": ["Suppository Dosage Form"]}, {"conceptId": "C42887", "definition": "A product that is packaged under pressure and contains therapeutically active ingredients that are released upon activation of an appropriate valve system; it is intended for topical application to the skin as well as local application into the nose (nasal aerosols), mouth (lingual aerosols), or lungs (inhalation aerosols). (NCI)", "preferredTerm": "aer", "submissionValue": "Concomitant Medication Dose Form", "synonyms": ["Aerosol Dosage Form"]}, {"conceptId": "C42989", "definition": "A liquid minutely divided as by a jet of air or steam. (NCI)", "preferredTerm": "", "submissionValue": "Concomitant Medication Dose Form", "synonyms": ["Spray Dosage Form"]}, {"conceptId": "C42994", "definition": "A liquid dosage form that contains solid particles dispersed in a liquid vehicle. Note: A liquid is pourable; it flows and conforms to its container at room temperature. It displays Newtonian or pseudoplastic flow behavior. (FDA)", "preferredTerm": "susp", "submissionValue": "Concomitant Medication Dose Form", "synonyms": ["Suspension Dosage Form"]}, {"conceptId": "C42968", "definition": "A drug delivery system that often contains an adhesive backing that is usually applied to an external site on the body. Its ingredients either passively diffuse from, or are actively transported from, some portion of the patch. Depending upon the patch, the ingredients are either delivered to the outer surface of the body or into the body. A patch is sometimes synonymous with the terms Extended Release Film and System. (NCI)", "preferredTerm": "", "submissionValue": "Concomitant Medication Dose Form", "synonyms": ["Patch Dosage Form"]}, {"conceptId": "C42933", "definition": "Any elastic aeriform fluid in which the molecules are separated from one another and have free paths. (NCI)", "preferredTerm": "", "submissionValue": "Concomitant Medication Dose Form", "synonyms": ["Gas Dosage Form"]}, {"conceptId": "C42934", "definition": "A semisolid (1) dosage form that contains a gelling agent to provide stiffness to a solution or a colloidal dispersion (2). A gel may contain suspended particles. Note 1: A semisolid is not pourable; it does not flow or conform to its container at room temperature. It does not flow at low shear stress and generally exhibits plastic flow behavior. Note 2: A colloidal dispersion is a system in which particles of colloidal dimension (i.e., typically between 1 nm and 1 micrometer) are distributed uniformly throughout a liquid. (NCI)", "preferredTerm": "", "submissionValue": "Concomitant Medication Dose Form", "synonyms": ["Gel Dosage Form"]}, {"conceptId": "C28944", "definition": "A semisolid emulsion of either the oil-in-water or the water-in-oil type, ordinarily intended for topical use. (NCI)", "preferredTerm": "", "submissionValue": "Concomitant Medication Dose Form", "synonyms": ["Cream Dosage Form"]}, {"conceptId": "C42972", "definition": "An intimate mixture of dry, finely divided drugs and/or chemicals that may be intended for internal or external use. (NCI)", "preferredTerm": "", "submissionValue": "Concomitant Medication Dose Form", "synonyms": ["Powder Dosage Form"]}]}, {"conceptId": "", "definition": "A terminology subset of the CDISC SDTM Frequency codelist created for CDASH Concomitant Medication Dosing Frequency per Interval codelist. (NCI)", "extensible": "Yes", "name": "Concomitant Medication Dosing Frequency per Interval", "preferredTerm": "Concomitant Medication Dosing Frequency per Interval", "submissionValue": "Concomitant Medication Dosing Frequency per Interval", "synonyms": ["CDISC CDASH Concomitant Medication Dosing Frequency per Interval Terminology"], "terms": [{"conceptId": "C64496", "definition": "Two times per day, at unspecified times. (NCI)", "preferredTerm": "Twice per day; BD", "submissionValue": "Concomitant Medication Dosing Frequency per Interval", "synonyms": ["Twice Daily"]}, {"conceptId": "C64527", "definition": "Three times per day. (NCI)", "preferredTerm": "3 times per day", "submissionValue": "Concomitant Medication Dosing Frequency per Interval", "synonyms": ["Three Times Daily"]}, {"conceptId": "C64530", "definition": "Four times per day. (NCI)", "preferredTerm": "4 times per day", "submissionValue": "Concomitant Medication Dosing Frequency per Interval", "synonyms": ["Four Times Daily"]}, {"conceptId": "C64525", "definition": "Every other day. (NCI)", "preferredTerm": "Every other day", "submissionValue": "Concomitant Medication Dosing Frequency per Interval", "synonyms": ["Every Other Day"]}, {"conceptId": "C64498", "definition": "Every month. (NCI)", "preferredTerm": "Every Month", "submissionValue": "Concomitant Medication Dosing Frequency per Interval", "synonyms": ["Monthly"]}, {"conceptId": "C64499", "definition": "As needed. (NCI)", "preferredTerm": "As Needed", "submissionValue": "Concomitant Medication Dosing Frequency per Interval", "synonyms": ["As Necessary"]}, {"conceptId": "C17998", "definition": "Not known, not observed, not recorded, or refused. (NCI)", "preferredTerm": "U; Unknown", "submissionValue": "Concomitant Medication Dosing Frequency per Interval", "synonyms": ["Unknown"]}, {"conceptId": "C25473", "definition": "Occurring or done each day. (NCI)", "preferredTerm": "Daily", "submissionValue": "Concomitant Medication Dosing Frequency per Interval", "synonyms": ["Daily"]}]}, {"conceptId": "", "definition": "A terminology subset of the CDISC SDTM Route codelist created for CDASH Concomitant Medication Route of Administration codelist. (NCI)", "extensible": "Yes", "name": "Concomitant Medication Route of Administration", "preferredTerm": "Concomitant Medication Route of Administration", "submissionValue": "Concomitant Medication Route of Administration", "synonyms": ["CDISC CDASH Concomitant Medication Route of Administration Terminology"], "terms": [{"conceptId": "C38288", "definition": "Administration to or by way of the mouth.(FDA)", "preferredTerm": "PO", "submissionValue": "Concomitant Medication Route of Administration", "synonyms": ["Oral Route of Drug administration"]}, {"conceptId": "C38304", "definition": "Administration to a particular spot on the outer surface of the body. The E2B term TRANSMAMMARY is a subset of the term TOPICAL.(FDA)", "preferredTerm": "TOP", "submissionValue": "Concomitant Medication Route of Administration", "synonyms": ["Topical Route of Drug Administration"]}, {"conceptId": "C38299", "definition": "Administration beneath the skin; hypodermic. Synonymous with the term SUBDERMAL.(FDA)", "preferredTerm": "SC", "submissionValue": "Concomitant Medication Route of Administration", "synonyms": ["Subcutaneous Route of Drug Administration"]}, {"conceptId": "C38305", "definition": "Administration through the dermal layer of the skin to the systemic circulation by diffusion.(FDA)", "preferredTerm": "", "submissionValue": "Concomitant Medication Route of Administration", "synonyms": ["Transdermal Route of Drug Administration"]}, {"conceptId": "C38255", "definition": "Administration within the eye.(FDA)", "preferredTerm": "", "submissionValue": "Concomitant Medication Route of Administration", "synonyms": ["Intraocular Route of Drug Administration"]}, {"conceptId": "C28161", "definition": "Administration within a muscle.(FDA)", "preferredTerm": "", "submissionValue": "Concomitant Medication Route of Administration", "synonyms": ["Intramuscular Route of Administration"]}, {"conceptId": "C38216", "definition": "Administration within the respiratory tract by inhaling orally or nasally for local or systemic effect.(FDA)", "preferredTerm": "", "submissionValue": "Concomitant Medication Route of Administration", "synonyms": ["Inhalation Route of Administration"]}, {"conceptId": "C38250", "definition": "Administration within or introduced directly into a localized lesion.(FDA)", "preferredTerm": "", "submissionValue": "Concomitant Medication Route of Administration", "synonyms": ["Intralesional Route of Drug Administration"]}, {"conceptId": "C38258", "definition": "Administration within the peritoneal cavity.(FDA)", "preferredTerm": "", "submissionValue": "Concomitant Medication Route of Administration", "synonyms": ["Intraperitoneal Route of Drug Administration"]}, {"conceptId": "C38284", "definition": "Administration to the nose; administered by way of the nose.(FDA)", "preferredTerm": "", "submissionValue": "Concomitant Medication Route of Administration", "synonyms": ["Nasal Route of Drug Administration"]}, {"conceptId": "C38313", "definition": "Administration into the vagina.(FDA)", "preferredTerm": "", "submissionValue": "Concomitant Medication Route of Administration", "synonyms": ["Vaginal Route of Drug Administration"]}, {"conceptId": "C38295", "definition": "Administration to the rectum.(FDA)", "preferredTerm": "", "submissionValue": "Concomitant Medication Route of Administration", "synonyms": ["Rectal Route of Drug Administration"]}]}, {"conceptId": "", "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Unit of Drug Dispensed or Returned codelist. (NCI)", "extensible": "Yes", "name": "Unit of Drug Dispensed or Returned", "preferredTerm": "Unit of Drug Dispensed or Returned", "submissionValue": "Unit of Drug Dispensed or Returned", "synonyms": ["CDISC CDASH Unit of Drug Dispensed or Returned Terminology"], "terms": [{"conceptId": "C48474", "definition": "A dosing measurement based on the bag unit.(NCI)", "preferredTerm": "Bag Dosing Unit", "submissionValue": "Unit of Drug Dispensed or Returned", "synonyms": ["Bag Dosing Unit"]}, {"conceptId": "C48477", "definition": "A dosing measurement based on the bottle unit.(NCI)", "preferredTerm": "Bottle Dosing Unit", "submissionValue": "Unit of Drug Dispensed or Returned", "synonyms": ["Bottle Dosing Unit"]}, {"conceptId": "C48478", "definition": "A dosing measurement based on the box unit.(NCI)", "preferredTerm": "Box Dosing Unit", "submissionValue": "Unit of Drug Dispensed or Returned", "synonyms": ["Box Dosing Unit"]}, {"conceptId": "C48480", "definition": "A dosing measurement based on the capsule unit.(NCI)", "preferredTerm": "Capsule Dosing Unit; cap", "submissionValue": "Unit of Drug Dispensed or Returned", "synonyms": ["Capsule Dosing Unit"]}, {"conceptId": "C48484", "definition": "A dosing measurement based on the container unit.(NCI)", "preferredTerm": "Container Dosing Unit", "submissionValue": "Unit of Drug Dispensed or Returned", "synonyms": ["Container Dosing Unit"]}, {"conceptId": "C48490", "definition": "A dosing measurement based on the disk unit.(NCI)", "preferredTerm": "Disk Dosing Unit", "submissionValue": "Unit of Drug Dispensed or Returned", "synonyms": ["Disk Dosing Unit"]}, {"conceptId": "C48520", "definition": "A dosing measurement based on the package unit.(NCI)", "preferredTerm": "Pack Dosing Unit; Package Dosing Unit", "submissionValue": "Unit of Drug Dispensed or Returned", "synonyms": ["Package Dosing Unit"]}, {"conceptId": "C48521", "definition": "A dosing measurement based on the packet unit.(NCI)", "preferredTerm": "Packet Dosing Unit", "submissionValue": "Unit of Drug Dispensed or Returned", "synonyms": ["Packet Dosing Unit"]}, {"conceptId": "C48524", "definition": "A dosing measurement based on the patch unit.(NCI)", "preferredTerm": "Patch Dosing Unit", "submissionValue": "Unit of Drug Dispensed or Returned", "synonyms": ["Patch Dosing Unit"]}, {"conceptId": "C48542", "definition": "A dosing measurement based on the tablet unit.(NCI)", "preferredTerm": "Tablet Dosing Unit; tab", "submissionValue": "Unit of Drug Dispensed or Returned", "synonyms": ["Tablet Dosing Unit"]}, {"conceptId": "C48549", "definition": "A dosing measurement based on the tube unit.(NCI)", "preferredTerm": "Tube Dosing Unit", "submissionValue": "Unit of Drug Dispensed or Returned", "synonyms": ["Tube Dosing Unit"]}, {"conceptId": "C48551", "definition": "A dosing measurement based on the vial unit.(NCI)", "preferredTerm": "Vial Dosing Unit", "submissionValue": "Unit of Drug Dispensed or Returned", "synonyms": ["Vial Dosing Unit"]}]}, {"conceptId": "", "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH ECG Original Units codelist. (NCI)", "extensible": "Yes", "name": "ECG Original Units", "preferredTerm": "ECG Original Units", "submissionValue": "ECG Original Units", "synonyms": ["CDISC CDASH ECG Original Units Terminology"], "terms": [{"conceptId": "C41140", "definition": "A unit of time, which is equal to one thousandth of a second.(NCI)", "preferredTerm": "Millisecond", "submissionValue": "ECG Original Units", "synonyms": ["Millisecond"]}, {"conceptId": "C42535", "definition": "The second is a unit of time with a duration of 919 263 177 0 periods of the specified light radiation corresponding to the transition between the two hyperfine levels of the cesium 133 atom in its ground state at 0 K. According to the convention, 60 seconds constitute one minute; 3,600 seconds constitute one hour. Abbreviation Sec. is acceptable in non-scientific usage only.(NCI)", "preferredTerm": "Second", "submissionValue": "ECG Original Units", "synonyms": ["Second"]}, {"conceptId": "C49673", "definition": "The number of heartbeats measured per minute time. (NCI)", "preferredTerm": "Beats per Minute", "submissionValue": "ECG Original Units", "synonyms": ["Beats per Minute"]}]}, {"conceptId": "", "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Units for Exposure codelist. (NCI)", "extensible": "Yes", "name": "Units for Exposure", "preferredTerm": "Units for Exposure", "submissionValue": "Units for Exposure", "synonyms": ["CDISC CDASH Units for Exposure Terminology"], "terms": [{"conceptId": "C48542", "definition": "A dosing measurement based on the tablet unit.(NCI)", "preferredTerm": "Tablet Dosing Unit; tab", "submissionValue": "Units for Exposure", "synonyms": ["Tablet Dosing Unit"]}, {"conceptId": "C48480", "definition": "A dosing measurement based on the capsule unit.(NCI)", "preferredTerm": "Capsule Dosing Unit; cap", "submissionValue": "Units for Exposure", "synonyms": ["Capsule Dosing Unit"]}, {"conceptId": "C65060", "definition": "A means of delivering a defined dose of a therapeutic aerolized solution into either the upper or lower respiratory tract. Metered-dose inhalers or spray pumps are devices that provide a puff dose for delivery into either the oral or the nasal cavity.(NCI)", "preferredTerm": "Puff", "submissionValue": "Units for Exposure", "synonyms": ["Puff Dosing Unit"]}, {"conceptId": "C28254", "definition": "The unit of volume equal to one thousandth of a liter, one cubic centimeter, 10E-6 cubic meter, or approximately to 0.061 023 7 cubic inch.(NCI)", "preferredTerm": "cm3; Milliliter", "submissionValue": "Units for Exposure", "synonyms": ["Milliliter"]}, {"conceptId": "C48152", "definition": "A unit of mass equal to one millionth of a gram or one thousandth of a milligram.(NCI)", "preferredTerm": "Microgram; mcg", "submissionValue": "Units for Exposure", "synonyms": ["Microgram"]}, {"conceptId": "C28253", "definition": "The unit of mass equal to one thousandth of a gram or 1000 micrograms. One milligram equals approximately 0.015432 grain or 35.274 x 10E-6 ounce.(NCI)", "preferredTerm": "Milligram", "submissionValue": "Units for Exposure", "synonyms": ["Milligram"]}, {"conceptId": "C48155", "definition": "A metric unit of mass equal to one one thousandth of a kilogram. (NCI)", "preferredTerm": "Gram", "submissionValue": "Units for Exposure", "synonyms": ["Gram"]}]}, {"conceptId": "", "definition": "A terminology subset of the CDISC SDTM Frequency codelist created for CDASH Exposure Dosing Frequency per Interval codelist. (NCI)", "extensible": "Yes", "name": "Exposure Dosing Frequency per Interval", "preferredTerm": "Exposure Dosing Frequency per Interval", "submissionValue": "Exposure Dosing Frequency per Interval", "synonyms": ["CDISC CDASH Exposure Dosing Frequency per Interval Terminology"], "terms": [{"conceptId": "C64496", "definition": "Two times per day, at unspecified times. (NCI)", "preferredTerm": "BD; Twice per Day", "submissionValue": "Exposure Dosing Frequency per Interval", "synonyms": ["Twice Daily"]}, {"conceptId": "C64527", "definition": "Three times per day. (NCI)", "preferredTerm": "3 times per day", "submissionValue": "Exposure Dosing Frequency per Interval", "synonyms": ["Three Times Daily"]}, {"conceptId": "C64530", "definition": "Four times per day. (NCI)", "preferredTerm": "4 times per day", "submissionValue": "Exposure Dosing Frequency per Interval", "synonyms": ["Four Times Daily"]}, {"conceptId": "C64525", "definition": "Every other day. (NCI)", "preferredTerm": "Every other day", "submissionValue": "Exposure Dosing Frequency per Interval", "synonyms": ["Every Other Day"]}, {"conceptId": "C64498", "definition": "Every month. (NCI)", "preferredTerm": "Every Month", "submissionValue": "Exposure Dosing Frequency per Interval", "synonyms": ["Monthly"]}, {"conceptId": "C64499", "definition": "As needed. (NCI)", "preferredTerm": "As Needed", "submissionValue": "Exposure Dosing Frequency per Interval", "synonyms": ["As Necessary"]}, {"conceptId": "C17998", "definition": "Not known, not observed, not recorded, or refused. (NCI)", "preferredTerm": "U; Unknown", "submissionValue": "Exposure Dosing Frequency per Interval", "synonyms": ["Unknown"]}, {"conceptId": "C25473", "definition": "Occurring or done each day. (NCI)", "preferredTerm": "Daily", "submissionValue": "Exposure Dosing Frequency per Interval", "synonyms": ["Daily"]}]}, {"conceptId": "", "definition": "A terminology subset of the CDISC SDTM Route codelist created for CDASH Exposure Route of Administration codelist. (NCI)", "extensible": "Yes", "name": "Exposure Route of Administration", "preferredTerm": "Exposure Route of Administration", "submissionValue": "Exposure Route of Administration", "synonyms": ["CDISC CDASH Exposure Route of Administration Terminology"], "terms": [{"conceptId": "C38288", "definition": "Administration to or by way of the mouth.(FDA)", "preferredTerm": "PO", "submissionValue": "Exposure Route of Administration", "synonyms": ["Oral Route of Drug administration"]}, {"conceptId": "C38304", "definition": "Administration to a particular spot on the outer surface of the body. The E2B term TRANSMAMMARY is a subset of the term TOPICAL.(FDA)", "preferredTerm": "TOP", "submissionValue": "Exposure Route of Administration", "synonyms": ["Topical Route of Drug Administration"]}, {"conceptId": "C38299", "definition": "Administration beneath the skin; hypodermic. Synonymous with the term SUBDERMAL.(FDA)", "preferredTerm": "SC", "submissionValue": "Exposure Route of Administration", "synonyms": ["Subcutaneous Route of Drug Administration"]}, {"conceptId": "C38305", "definition": "Administration through the dermal layer of the skin to the systemic circulation by diffusion.(FDA)", "preferredTerm": "", "submissionValue": "Exposure Route of Administration", "synonyms": ["Transdermal Route of Drug Administration"]}, {"conceptId": "C38255", "definition": "Administration within the eye.(FDA)", "preferredTerm": "", "submissionValue": "Exposure Route of Administration", "synonyms": ["Intraocular Route of Drug Administration"]}, {"conceptId": "C28161", "definition": "Administration within a muscle.(FDA)", "preferredTerm": "", "submissionValue": "Exposure Route of Administration", "synonyms": ["Intramuscular Route of Administration"]}, {"conceptId": "C38216", "definition": "Administration within the respiratory tract by inhaling orally or nasally for local or systemic effect.(FDA)", "preferredTerm": "", "submissionValue": "Exposure Route of Administration", "synonyms": ["Inhalation Route of Administration"]}, {"conceptId": "C38250", "definition": "Administration within or introduced directly into a localized lesion.(FDA)", "preferredTerm": "", "submissionValue": "Exposure Route of Administration", "synonyms": ["Intralesional Route of Drug Administration"]}, {"conceptId": "C38258", "definition": "Administration within the peritoneal cavity.(FDA)", "preferredTerm": "", "submissionValue": "Exposure Route of Administration", "synonyms": ["Intraperitoneal Route of Drug Administration"]}, {"conceptId": "C38284", "definition": "Administration to the nose; administered by way of the nose.(FDA)", "preferredTerm": "", "submissionValue": "Exposure Route of Administration", "synonyms": ["Nasal Route of Drug Administration"]}, {"conceptId": "C38313", "definition": "Administration into the vagina.(FDA)", "preferredTerm": "", "submissionValue": "Exposure Route of Administration", "synonyms": ["Vaginal Route of Drug Administration"]}, {"conceptId": "C38295", "definition": "Administration to the rectum.(FDA)", "preferredTerm": "", "submissionValue": "Exposure Route of Administration", "synonyms": ["Rectal Route of Drug Administration"]}]}, {"conceptId": "", "definition": "A terminology subset of the CDISC SDTM Pharmaceutical Dosage Form codelist created for CDASH Exposure Dose Form codelist. (NCI)", "extensible": "Yes", "name": "Exposure Dose Form", "preferredTerm": "Exposure Dose Form", "submissionValue": "Exposure Dose Form", "synonyms": ["CDISC CDASH Exposure Dose Form Terminology"], "terms": [{"conceptId": "C42998", "definition": "A solid dosage form containing medicinal substances with or without suitable diluents. (NCI)", "preferredTerm": "tab", "submissionValue": "Exposure Dose Form", "synonyms": ["Tablet Dosage Form"]}, {"conceptId": "C25158", "definition": "A solid pharmaceutical dosage form that contains medicinal agent within either a hard or soft soluble container or shell, usually used for the oral administration of medicine. The shells are made of a suitable form of gelatin or other substance. (NCI)", "preferredTerm": "cap", "submissionValue": "Exposure Dose Form", "synonyms": ["Capsule Dosage Form"]}, {"conceptId": "C42966", "definition": "A suspension or emulsion, semisolid (1) dosage form, usually containing < 20% water and volatiles (2) and > 50% hydrocarbons, waxes, or polyols as the vehicle. This dosage form is generally for external application to the skin or mucous membranes. Note 1: A semisolid is not pourable; it does not flow or conform to its container at room temperature. It does not flow at low shear stress and generally exhibits plastic flow behavior. Note 2: Percent water and volatiles are measured by a loss on drying test in which the sample is heated at 105 degrees C until constant weight is achieved. (NCI)", "preferredTerm": "oint", "submissionValue": "Exposure Dose Form", "synonyms": ["Ointment Dosage Form"]}, {"conceptId": "C42993", "definition": "A solid body of various weights and shapes, adapted for introduction into the rectal orifice of the human body; they usually melt, soften, or dissolve at body temperature. (NCI)", "preferredTerm": "supp", "submissionValue": "Exposure Dose Form", "synonyms": ["Suppository Dosage Form"]}, {"conceptId": "C42887", "definition": "A product that is packaged under pressure and contains therapeutically active ingredients that are released upon activation of an appropriate valve system; it is intended for topical application to the skin as well as local application into the nose (nasal aerosols), mouth (lingual aerosols), or lungs (inhalation aerosols). (NCI)", "preferredTerm": "aer", "submissionValue": "Exposure Dose Form", "synonyms": ["Aerosol Dosage Form"]}, {"conceptId": "C42989", "definition": "A liquid minutely divided as by a jet of air or steam. (NCI)", "preferredTerm": "", "submissionValue": "Exposure Dose Form", "synonyms": ["Spray Dosage Form"]}, {"conceptId": "C42994", "definition": "A liquid dosage form that contains solid particles dispersed in a liquid vehicle. Note: A liquid is pourable; it flows and conforms to its container at room temperature. It displays Newtonian or pseudoplastic flow behavior. (FDA)", "preferredTerm": "susp", "submissionValue": "Exposure Dose Form", "synonyms": ["Suspension Dosage Form"]}, {"conceptId": "C42968", "definition": "A drug delivery system that often contains an adhesive backing that is usually applied to an external site on the body. Its ingredients either passively diffuse from, or are actively transported from, some portion of the patch. Depending upon the patch, the ingredients are either delivered to the outer surface of the body or into the body. A patch is sometimes synonymous with the terms Extended Release Film and System. (NCI)", "preferredTerm": "", "submissionValue": "Exposure Dose Form", "synonyms": ["Patch Dosage Form"]}, {"conceptId": "C42933", "definition": "Any elastic aeriform fluid in which the molecules are separated from one another and have free paths. (NCI)", "preferredTerm": "", "submissionValue": "Exposure Dose Form", "synonyms": ["Gas Dosage Form"]}, {"conceptId": "C42934", "definition": "A semisolid (1) dosage form that contains a gelling agent to provide stiffness to a solution or a colloidal dispersion (2). A gel may contain suspended particles. Note 1: A semisolid is not pourable; it does not flow or conform to its container at room temperature. It does not flow at low shear stress and generally exhibits plastic flow behavior. Note 2: A colloidal dispersion is a system in which particles of colloidal dimension (i.e., typically between 1 nm and 1 micrometer) are distributed uniformly throughout a liquid. (NCI)", "preferredTerm": "", "submissionValue": "Exposure Dose Form", "synonyms": ["Gel Dosage Form"]}, {"conceptId": "C28944", "definition": "A semisolid emulsion of either the oil-in-water or the water-in-oil type, ordinarily intended for topical use. (NCI)", "preferredTerm": "", "submissionValue": "Exposure Dose Form", "synonyms": ["Cream Dosage Form"]}, {"conceptId": "C42972", "definition": "An intimate mixture of dry, finely divided drugs and/or chemicals that may be intended for internal or external use. (NCI)", "preferredTerm": "", "submissionValue": "Exposure Dose Form", "synonyms": ["Powder Dosage Form"]}]}, {"conceptId": "", "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Unit for Duration of Treatment Interruption codelist. (NCI)", "extensible": "Yes", "name": "Unit for the Duration of Treatment Interruption", "preferredTerm": "Unit for the Duration of Treatment Interruption", "submissionValue": "Unit for the Duration of Treatment Interruption", "synonyms": ["CDISC CDASH Unit for Duration of Treatment Interruption Terminology"], "terms": [{"conceptId": "C42535", "definition": "The second is a unit of time with a duration of 919 263 177 0 periods of the specified light radiation corresponding to the transition between the two hyperfine levels of the cesium 133 atom in its ground state at 0 K. According to the convention, 60 seconds constitute one minute; 3,600 seconds constitute one hour. Abbreviation Sec. is acceptable in non-scientific usage only.(NCI)", "preferredTerm": "Second", "submissionValue": "Unit for the Duration of Treatment Interruption", "synonyms": ["Second"]}, {"conceptId": "C48154", "definition": "A unit measure of time equal to 60 seconds.(NCI)", "preferredTerm": "Minute Unit of Time", "submissionValue": "Unit for the Duration of Treatment Interruption", "synonyms": ["Minute"]}, {"conceptId": "C25529", "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day. (NCI)", "preferredTerm": "Hour; hr", "submissionValue": "Unit for the Duration of Treatment Interruption", "synonyms": ["Hour"]}]}, {"conceptId": "", "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Total Volume Administration Unit codelist. (NCI)", "extensible": "Yes", "name": "Total Volume Administration Unit", "preferredTerm": "Total Volume Administration Unit", "submissionValue": "Total Volume Administration Unit", "synonyms": ["CDISC CDASH Total Volume Administration Unit Terminology"], "terms": [{"conceptId": "C28254", "definition": "The unit of volume equal to one thousandth of a liter, one cubic centimeter, 10E-6 cubic meter, or approximately to 0.061 023 7 cubic inch.(NCI)", "preferredTerm": "cm3; Milliliter", "submissionValue": "Total Volume Administration Unit", "synonyms": ["Milliliter"]}, {"conceptId": "C48152", "definition": "A unit of mass equal to one millionth of a gram or one thousandth of a milligram.(NCI)", "preferredTerm": "Microgram; mcg", "submissionValue": "Total Volume Administration Unit", "synonyms": ["Microgram"]}, {"conceptId": "C28253", "definition": "The unit of mass equal to one thousandth of a gram or 1000 micrograms. One milligram equals approximately 0.015432 grain or 35.274 x 10E-6 ounce.(NCI)", "preferredTerm": "Milligram", "submissionValue": "Total Volume Administration Unit", "synonyms": ["Milligram"]}]}, {"conceptId": "", "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Unit of Measure for Flow Rate codelist. (NCI)", "extensible": "Yes", "name": "Unit of Measure for Flow Rate", "preferredTerm": "Unit of Measure for Flow Rate", "submissionValue": "Unit of Measure for Flow Rate", "synonyms": ["CDISC CDASH Unit of Measure for Flow Rate Terminology"], "terms": [{"conceptId": "C71211", "definition": "A unit of mass flow rate equivalent to the rate at which one millionth of a gram of matter travels to a given object or space over a period of time equal to one minute. Microgram per minute is also a dose administration rate unit equal to the rate at which one millionth of a gram of a product is administered per unit of time equal to one minute.(NCI)", "preferredTerm": "Micrograms per Minute; mcg/min", "submissionValue": "Unit of Measure for Flow Rate", "synonyms": ["Microgram per Minute"]}, {"conceptId": "C71205", "definition": "A unit of mass flow rate equivalent to the rate at which one millionth of a gram of matter travels to a given object or space over a period of time equal to twenty four hours. Microgram per day is also a dose administration rate unit equal to the rate at which one millionth of a gram of a product is administered per unit of time equal to twenty four hours.(NCI)", "preferredTerm": "Microgram per Day; mcg/day", "submissionValue": "Unit of Measure for Flow Rate", "synonyms": ["Microgram per Day"]}, {"conceptId": "C64777", "definition": "A metric unit of volumetric flow rate defined as the rate at which one milliliter of matter travels during the period of time equal to one minute.(NCI)", "preferredTerm": "Milliliters per Minute", "submissionValue": "Unit of Measure for Flow Rate", "synonyms": ["Milliliter per Minute"]}, {"conceptId": "C67420", "definition": "A unit of amount of substance flow rate equivalent to the rate at which one thousandth of a mole of substance travels or is delivered to a given object or space over a period of time equal to 24 hours.(NCI)", "preferredTerm": "Millimole per 24 Hours", "submissionValue": "Unit of Measure for Flow Rate", "synonyms": ["Millimole per 24 Hours"]}, {"conceptId": "C67406", "definition": "A unit of amount of substance flow rate equivalent to the rate at which one millionth of a mole of substance travels to a given object or space over a period of time equal to 24 hours.(NCI)", "preferredTerm": "mcmol/day; Micromoles per Day", "submissionValue": "Unit of Measure for Flow Rate", "synonyms": ["Micromole per 24 Hours"]}]}, {"conceptId": "", "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Units for Planned Exposure codelist. (NCI)", "extensible": "Yes", "name": "Units for Planned Exposure", "preferredTerm": "Units for Planned Exposure", "submissionValue": "Units for Planned Exposure", "synonyms": ["CDISC CDASH Units for Planned Exposure Terminology"], "terms": [{"conceptId": "C48542", "definition": "A dosing measurement based on the tablet unit.(NCI)", "preferredTerm": "Tablet Dosing Unit; tab", "submissionValue": "Units for Planned Exposure", "synonyms": ["Tablet Dosing Unit"]}, {"conceptId": "C48480", "definition": "A dosing measurement based on the capsule unit.(NCI)", "preferredTerm": "Capsule Dosing Unit; cap", "submissionValue": "Units for Planned Exposure", "synonyms": ["Capsule Dosing Unit"]}, {"conceptId": "C65060", "definition": "A means of delivering a defined dose of a therapeutic aerolized solution into either the upper or lower respiratory tract. Metered-dose inhalers or spray pumps are devices that provide a puff dose for delivery into either the oral or the nasal cavity.(NCI)", "preferredTerm": "Puff", "submissionValue": "Units for Planned Exposure", "synonyms": ["Puff Dosing Unit"]}, {"conceptId": "C28254", "definition": "The unit of volume equal to one thousandth of a liter, one cubic centimeter, 10E-6 cubic meter, or approximately to 0.061 023 7 cubic inch.(NCI)", "preferredTerm": "cm3; Milliliter", "submissionValue": "Units for Planned Exposure", "synonyms": ["Milligram"]}, {"conceptId": "C48152", "definition": "A unit of mass equal to one millionth of a gram or one thousandth of a milligram.(NCI)", "preferredTerm": "Microgram; mcg", "submissionValue": "Units for Planned Exposure", "synonyms": ["Microgram"]}, {"conceptId": "C28253", "definition": "The unit of mass equal to one thousandth of a gram or 1000 micrograms. One milligram equals approximately 0.015432 grain or 35.274 x 10E-6 ounce.(NCI)", "preferredTerm": "Milligram", "submissionValue": "Units for Planned Exposure", "synonyms": ["Milliliter"]}, {"conceptId": "C48155", "definition": "A metric unit of mass equal to one one thousandth of a kilogram. (NCI)", "preferredTerm": "Gram", "submissionValue": "Units for Planned Exposure", "synonyms": ["Gram"]}]}, {"conceptId": "", "definition": "A terminology subset of the CDISC SDTM Position codelist created for CDASH Vital Signs Position of Subject codelist. (NCI)", "extensible": "Yes", "name": "Vital Signs Position of Subject", "preferredTerm": "Vital Signs Position of Subject", "submissionValue": "Vital Signs Position of Subject", "synonyms": ["CDISC CDASH Vital Signs Position of Subject Terminology"], "terms": [{"conceptId": "C62122", "definition": "The state or act of one who sits; the posture of one who occupies a seat. (NCI)", "preferredTerm": "Sitting", "submissionValue": "Vital Signs Position of Subject", "synonyms": ["Sitting"]}, {"conceptId": "C62166", "definition": "The act of assuming or maintaining an erect upright position. (NCI)", "preferredTerm": "Standing", "submissionValue": "Vital Signs Position of Subject", "synonyms": ["Standing"]}, {"conceptId": "C62167", "definition": "A posterior recumbent body position whereby the person lies on its back and faces upward. (NCI)", "preferredTerm": "Supine", "submissionValue": "Vital Signs Position of Subject", "synonyms": ["Supine Position"]}]}, {"conceptId": "", "definition": "A terminology subset of the CDISC SDTM Never/Current/Former Classification codelist created for CDASH Substance Use Never/Current/Former Classification codelist. (NCI)", "extensible": "Yes", "name": "Substance Use Never/Current/Former Classification", "preferredTerm": "Substance Use Never/Current/Former Classification", "submissionValue": "Substance Use Never/Current/Former Classification", "synonyms": ["CDISC CDASH Substance Use Never/Current/Former Classification Terminology"], "terms": [{"conceptId": "C70543", "definition": "Not ever; at no time in the past.", "preferredTerm": "", "submissionValue": "Substance Use Never/Current/Former Classification", "synonyms": ["Never"]}, {"conceptId": "C25471", "definition": "Occurring in or belonging to the present time. (NCI)", "preferredTerm": "", "submissionValue": "Substance Use Never/Current/Former Classification", "synonyms": ["Current"]}, {"conceptId": "C25627", "definition": "Occurring prior to something else. (NCI)", "preferredTerm": "Previous", "submissionValue": "Substance Use Never/Current/Former Classification", "synonyms": ["Previous"]}]}], "_links": {"priorVersion": {"href": "", "title": "", "type": "Terminology"}, "self": {"href": "", "title": "", "type": "Terminology"}}}
+{
+  "_links": {
+    "priorVersion": {
+      "href": "",
+      "title": "",
+      "type": "Terminology"
+    },
+    "self": {
+      "href": "",
+      "title": "",
+      "type": "Terminology"
+    }
+  },
+  "codelists": [
+    {
+      "conceptId": "",
+      "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Concomitant Medication Dose Units codelist. (NCI)",
+      "extensible": "Yes",
+      "name": "Concomitant Medication Dose Units",
+      "preferredTerm": "CDISC CDASH Concomitant Medication Dose Units Terminology",
+      "submissionValue": "CMDOSU",
+      "synonyms": [
+        "Concomitant Medication Dose Units"
+      ],
+      "terms": [
+        {
+          "conceptId": "C28253",
+          "definition": "The unit of mass equal to one thousandth of a gram or 1000 micrograms. One milligram equals approximately 0.015432 grain or 35.274 x 10E-6 ounce.(NCI)",
+          "preferredTerm": "Milligram",
+          "submissionValue": "mg",
+          "synonyms": [
+            "Milligram"
+          ]
+        },
+        {
+          "conceptId": "C48152",
+          "definition": "A unit of mass equal to one millionth of a gram or one thousandth of a milligram.(NCI)",
+          "preferredTerm": "Microgram",
+          "submissionValue": "ug",
+          "synonyms": [
+            "Microgram",
+            " mcg"
+          ]
+        },
+        {
+          "conceptId": "C28254",
+          "definition": "The unit of volume equal to one thousandth of a liter, one cubic centimeter, 10E-6 cubic meter, or approximately to 0.061 023 7 cubic inch.(NCI)",
+          "preferredTerm": "Milliliter",
+          "submissionValue": "mL",
+          "synonyms": [
+            "cm3",
+            " Milliliter"
+          ]
+        },
+        {
+          "conceptId": "C48155",
+          "definition": "A metric unit of mass equal to one one thousandth of a kilogram. (NCI)",
+          "preferredTerm": "Gram",
+          "submissionValue": "g",
+          "synonyms": [
+            "Gram"
+          ]
+        },
+        {
+          "conceptId": "C48579",
+          "definition": "The unitage assigned by the WHO (World Health Organization) to International Biological Standards - substances, classed as biological according to the criteria provided by WHO Expert Committee on Biological Standardization (e.g. hormones, enzymes, and vaccines), to enable the results of biological and immunological assay procedures to be expressed in the same way throughout the world. The definition of an international unit is generally arbitrary and technical, and has to be officially approved by the International Conference for Unification of Formulae.(NCI)",
+          "preferredTerm": "International Unit",
+          "submissionValue": "IU",
+          "synonyms": [
+            "International Unit"
+          ]
+        },
+        {
+          "conceptId": "C48542",
+          "definition": "A dosing measurement based on the tablet unit.(NCI)",
+          "preferredTerm": "Tablet Dosing Unit",
+          "submissionValue": "TABLET",
+          "synonyms": [
+            "Tablet Dosing Unit",
+            " tab"
+          ]
+        },
+        {
+          "conceptId": "C48480",
+          "definition": "A dosing measurement based on the capsule unit.(NCI)",
+          "preferredTerm": "Capsule Dosing Unit",
+          "submissionValue": "CAPSULE",
+          "synonyms": [
+            "Capsule Dosing Unit",
+            " cap"
+          ]
+        },
+        {
+          "conceptId": "C65060",
+          "definition": "A means of delivering a defined dose of a therapeutic aerolized solution into either the upper or lower respiratory tract. Metered-dose inhalers or spray pumps are devices that provide a puff dose for delivery into either the oral or the nasal cavity.(NCI)",
+          "preferredTerm": "Puff Dosing Unit",
+          "submissionValue": "PUFF",
+          "synonyms": [
+            "Puff"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology subset of the CDISC SDTM Pharmaceutical Dosage Form codelist created for CDASH Concomitant Medication Dose Form codelist. (NCI)",
+      "extensible": "Yes",
+      "name": "Concomitant Medication Dose Form",
+      "preferredTerm": "CDISC CDASH Concomitant Medication Dose Form Terminology",
+      "submissionValue": "CMDOSFRM",
+      "synonyms": [
+        "Concomitant Medication Dose Form"
+      ],
+      "terms": [
+        {
+          "conceptId": "C42998",
+          "definition": "A solid dosage form containing medicinal substances with or without suitable diluents. (NCI)",
+          "preferredTerm": "Tablet Dosage Form",
+          "submissionValue": "TABLET",
+          "synonyms": [
+            "tab"
+          ]
+        },
+        {
+          "conceptId": "C25158",
+          "definition": "A solid pharmaceutical dosage form that contains medicinal agent within either a hard or soft soluble container or shell, usually used for the oral administration of medicine. The shells are made of a suitable form of gelatin or other substance. (NCI)",
+          "preferredTerm": "Capsule Dosage Form",
+          "submissionValue": "CAPSULE",
+          "synonyms": [
+            "cap"
+          ]
+        },
+        {
+          "conceptId": "C42966",
+          "definition": "A suspension or emulsion, semisolid (1) dosage form, usually containing < 20% water and volatiles (2) and > 50% hydrocarbons, waxes, or polyols as the vehicle. This dosage form is generally for external application to the skin or mucous membranes. Note 1: A semisolid is not pourable; it does not flow or conform to its container at room temperature. It does not flow at low shear stress and generally exhibits plastic flow behavior. Note 2: Percent water and volatiles are measured by a loss on drying test in which the sample is heated at 105 degrees C until constant weight is achieved. (NCI)",
+          "preferredTerm": "Ointment Dosage Form",
+          "submissionValue": "OINTMENT",
+          "synonyms": [
+            "oint"
+          ]
+        },
+        {
+          "conceptId": "C42993",
+          "definition": "A solid body of various weights and shapes, adapted for introduction into the rectal orifice of the human body; they usually melt, soften, or dissolve at body temperature. (NCI)",
+          "preferredTerm": "Suppository Dosage Form",
+          "submissionValue": "SUPPOSITORY",
+          "synonyms": [
+            "supp"
+          ]
+        },
+        {
+          "conceptId": "C42887",
+          "definition": "A product that is packaged under pressure and contains therapeutically active ingredients that are released upon activation of an appropriate valve system; it is intended for topical application to the skin as well as local application into the nose (nasal aerosols), mouth (lingual aerosols), or lungs (inhalation aerosols). (NCI)",
+          "preferredTerm": "Aerosol Dosage Form",
+          "submissionValue": "AEROSOL",
+          "synonyms": [
+            "aer"
+          ]
+        },
+        {
+          "conceptId": "C42989",
+          "definition": "A liquid minutely divided as by a jet of air or steam. (NCI)",
+          "preferredTerm": "Spray Dosage Form",
+          "submissionValue": "SPRAY",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C42994",
+          "definition": "A liquid dosage form that contains solid particles dispersed in a liquid vehicle. Note: A liquid is pourable; it flows and conforms to its container at room temperature. It displays Newtonian or pseudoplastic flow behavior. (FDA)",
+          "preferredTerm": "Suspension Dosage Form",
+          "submissionValue": "SUSPENSION",
+          "synonyms": [
+            "susp"
+          ]
+        },
+        {
+          "conceptId": "C42968",
+          "definition": "A drug delivery system that often contains an adhesive backing that is usually applied to an external site on the body. Its ingredients either passively diffuse from, or are actively transported from, some portion of the patch. Depending upon the patch, the ingredients are either delivered to the outer surface of the body or into the body. A patch is sometimes synonymous with the terms Extended Release Film and System. (NCI)",
+          "preferredTerm": "Patch Dosage Form",
+          "submissionValue": "PATCH",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C42933",
+          "definition": "Any elastic aeriform fluid in which the molecules are separated from one another and have free paths. (NCI)",
+          "preferredTerm": "Gas Dosage Form",
+          "submissionValue": "GAS",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C42934",
+          "definition": "A semisolid (1) dosage form that contains a gelling agent to provide stiffness to a solution or a colloidal dispersion (2). A gel may contain suspended particles. Note 1: A semisolid is not pourable; it does not flow or conform to its container at room temperature. It does not flow at low shear stress and generally exhibits plastic flow behavior. Note 2: A colloidal dispersion is a system in which particles of colloidal dimension (i.e., typically between 1 nm and 1 micrometer) are distributed uniformly throughout a liquid. (NCI)",
+          "preferredTerm": "Gel Dosage Form",
+          "submissionValue": "GEL",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C28944",
+          "definition": "A semisolid emulsion of either the oil-in-water or the water-in-oil type, ordinarily intended for topical use. (NCI)",
+          "preferredTerm": "Cream Dosage Form",
+          "submissionValue": "CREAM",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C42972",
+          "definition": "An intimate mixture of dry, finely divided drugs and/or chemicals that may be intended for internal or external use. (NCI)",
+          "preferredTerm": "Powder Dosage Form",
+          "submissionValue": "POWDER",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology subset of the CDISC SDTM Frequency codelist created for CDASH Concomitant Medication Dosing Frequency per Interval codelist. (NCI)",
+      "extensible": "Yes",
+      "name": "Concomitant Medication Dosing Frequency per Interval",
+      "preferredTerm": "CDISC CDASH Concomitant Medication Dosing Frequency per Interval Terminology",
+      "submissionValue": "CMDOSFRQ",
+      "synonyms": [
+        "Concomitant Medication Dosing Frequency per Interval"
+      ],
+      "terms": [
+        {
+          "conceptId": "C64496",
+          "definition": "Two times per day, at unspecified times. (NCI)",
+          "preferredTerm": "Twice Daily",
+          "submissionValue": "BID",
+          "synonyms": [
+            "Twice per day",
+            " BD"
+          ]
+        },
+        {
+          "conceptId": "C64527",
+          "definition": "Three times per day. (NCI)",
+          "preferredTerm": "Three Times Daily",
+          "submissionValue": "TID",
+          "synonyms": [
+            "3 times per day"
+          ]
+        },
+        {
+          "conceptId": "C64530",
+          "definition": "Four times per day. (NCI)",
+          "preferredTerm": "Four Times Daily",
+          "submissionValue": "QID",
+          "synonyms": [
+            "4 times per day"
+          ]
+        },
+        {
+          "conceptId": "C64525",
+          "definition": "Every other day. (NCI)",
+          "preferredTerm": "Every Other Day",
+          "submissionValue": "QOD",
+          "synonyms": [
+            "Every other day"
+          ]
+        },
+        {
+          "conceptId": "C64498",
+          "definition": "Every month. (NCI)",
+          "preferredTerm": "Monthly",
+          "submissionValue": "QM",
+          "synonyms": [
+            "Every Month"
+          ]
+        },
+        {
+          "conceptId": "C64499",
+          "definition": "As needed. (NCI)",
+          "preferredTerm": "As Necessary",
+          "submissionValue": "PRN",
+          "synonyms": [
+            "As Needed"
+          ]
+        },
+        {
+          "conceptId": "C17998",
+          "definition": "Not known, not observed, not recorded, or refused. (NCI)",
+          "preferredTerm": "Unknown",
+          "submissionValue": "UNKNOWN",
+          "synonyms": [
+            "U",
+            " Unknown"
+          ]
+        },
+        {
+          "conceptId": "C25473",
+          "definition": "Occurring or done each day. (NCI)",
+          "preferredTerm": "Daily",
+          "submissionValue": "QD",
+          "synonyms": [
+            "Daily"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology subset of the CDISC SDTM Route codelist created for CDASH Concomitant Medication Route of Administration codelist. (NCI)",
+      "extensible": "Yes",
+      "name": "Concomitant Medication Route of Administration",
+      "preferredTerm": "CDISC CDASH Concomitant Medication Route of Administration Terminology",
+      "submissionValue": "CMROUTE",
+      "synonyms": [
+        "Concomitant Medication Route of Administration"
+      ],
+      "terms": [
+        {
+          "conceptId": "C38288",
+          "definition": "Administration to or by way of the mouth.(FDA)",
+          "preferredTerm": "Oral Route of Drug administration",
+          "submissionValue": "ORAL",
+          "synonyms": [
+            "PO"
+          ]
+        },
+        {
+          "conceptId": "C38304",
+          "definition": "Administration to a particular spot on the outer surface of the body. The E2B term TRANSMAMMARY is a subset of the term TOPICAL.(FDA)",
+          "preferredTerm": "Topical Route of Drug Administration",
+          "submissionValue": "TOPICAL",
+          "synonyms": [
+            "TOP"
+          ]
+        },
+        {
+          "conceptId": "C38299",
+          "definition": "Administration beneath the skin; hypodermic. Synonymous with the term SUBDERMAL.(FDA)",
+          "preferredTerm": "Subcutaneous Route of Drug Administration",
+          "submissionValue": "SUBCUTANEOUS",
+          "synonyms": [
+            "SC"
+          ]
+        },
+        {
+          "conceptId": "C38305",
+          "definition": "Administration through the dermal layer of the skin to the systemic circulation by diffusion.(FDA)",
+          "preferredTerm": "Transdermal Route of Drug Administration",
+          "submissionValue": "TRANSDERMAL",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C38255",
+          "definition": "Administration within the eye.(FDA)",
+          "preferredTerm": "Intraocular Route of Drug Administration",
+          "submissionValue": "INTRAOCULAR",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C28161",
+          "definition": "Administration within a muscle.(FDA)",
+          "preferredTerm": "Intramuscular Route of Administration",
+          "submissionValue": "INTRAMUSCULAR",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C38216",
+          "definition": "Administration within the respiratory tract by inhaling orally or nasally for local or systemic effect.(FDA)",
+          "preferredTerm": "Inhalation Route of Administration",
+          "submissionValue": "RESPIRATORY (INHALATION)",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C38250",
+          "definition": "Administration within or introduced directly into a localized lesion.(FDA)",
+          "preferredTerm": "Intralesional Route of Drug Administration",
+          "submissionValue": "INTRALESIONAL",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C38258",
+          "definition": "Administration within the peritoneal cavity.(FDA)",
+          "preferredTerm": "Intraperitoneal Route of Drug Administration",
+          "submissionValue": "INTRAPERITONEAL",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C38284",
+          "definition": "Administration to the nose; administered by way of the nose.(FDA)",
+          "preferredTerm": "Nasal Route of Drug Administration",
+          "submissionValue": "NASAL",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C38313",
+          "definition": "Administration into the vagina.(FDA)",
+          "preferredTerm": "Vaginal Route of Drug Administration",
+          "submissionValue": "VAGINAL",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C38295",
+          "definition": "Administration to the rectum.(FDA)",
+          "preferredTerm": "Rectal Route of Drug Administration",
+          "submissionValue": "RECTAL",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Unit of Drug Dispensed or Returned codelist. (NCI)",
+      "extensible": "Yes",
+      "name": "Unit of Drug Dispensed or Returned",
+      "preferredTerm": "CDISC CDASH Unit of Drug Dispensed or Returned Terminology",
+      "submissionValue": "DAORRESU",
+      "synonyms": [
+        "Unit of Drug Dispensed or Returned"
+      ],
+      "terms": [
+        {
+          "conceptId": "C48474",
+          "definition": "A dosing measurement based on the bag unit.(NCI)",
+          "preferredTerm": "Bag Dosing Unit",
+          "submissionValue": "BAG",
+          "synonyms": [
+            "Bag Dosing Unit"
+          ]
+        },
+        {
+          "conceptId": "C48477",
+          "definition": "A dosing measurement based on the bottle unit.(NCI)",
+          "preferredTerm": "Bottle Dosing Unit",
+          "submissionValue": "BOTTLE",
+          "synonyms": [
+            "Bottle Dosing Unit"
+          ]
+        },
+        {
+          "conceptId": "C48478",
+          "definition": "A dosing measurement based on the box unit.(NCI)",
+          "preferredTerm": "Box Dosing Unit",
+          "submissionValue": "BOX",
+          "synonyms": [
+            "Box Dosing Unit"
+          ]
+        },
+        {
+          "conceptId": "C48480",
+          "definition": "A dosing measurement based on the capsule unit.(NCI)",
+          "preferredTerm": "Capsule Dosing Unit",
+          "submissionValue": "CAPSULE",
+          "synonyms": [
+            "Capsule Dosing Unit",
+            " cap"
+          ]
+        },
+        {
+          "conceptId": "C48484",
+          "definition": "A dosing measurement based on the container unit.(NCI)",
+          "preferredTerm": "Container Dosing Unit",
+          "submissionValue": "CONTAINER",
+          "synonyms": [
+            "Container Dosing Unit"
+          ]
+        },
+        {
+          "conceptId": "C48490",
+          "definition": "A dosing measurement based on the disk unit.(NCI)",
+          "preferredTerm": "Disk Dosing Unit",
+          "submissionValue": "DISK",
+          "synonyms": [
+            "Disk Dosing Unit"
+          ]
+        },
+        {
+          "conceptId": "C48520",
+          "definition": "A dosing measurement based on the package unit.(NCI)",
+          "preferredTerm": "Package Dosing Unit",
+          "submissionValue": "PACKAGE",
+          "synonyms": [
+            "Pack Dosing Unit",
+            " Package Dosing Unit"
+          ]
+        },
+        {
+          "conceptId": "C48521",
+          "definition": "A dosing measurement based on the packet unit.(NCI)",
+          "preferredTerm": "Packet Dosing Unit",
+          "submissionValue": "PACKET",
+          "synonyms": [
+            "Packet Dosing Unit"
+          ]
+        },
+        {
+          "conceptId": "C48524",
+          "definition": "A dosing measurement based on the patch unit.(NCI)",
+          "preferredTerm": "Patch Dosing Unit",
+          "submissionValue": "PATCH",
+          "synonyms": [
+            "Patch Dosing Unit"
+          ]
+        },
+        {
+          "conceptId": "C48542",
+          "definition": "A dosing measurement based on the tablet unit.(NCI)",
+          "preferredTerm": "Tablet Dosing Unit",
+          "submissionValue": "TABLET",
+          "synonyms": [
+            "Tablet Dosing Unit",
+            " tab"
+          ]
+        },
+        {
+          "conceptId": "C48549",
+          "definition": "A dosing measurement based on the tube unit.(NCI)",
+          "preferredTerm": "Tube Dosing Unit",
+          "submissionValue": "TUBE",
+          "synonyms": [
+            "Tube Dosing Unit"
+          ]
+        },
+        {
+          "conceptId": "C48551",
+          "definition": "A dosing measurement based on the vial unit.(NCI)",
+          "preferredTerm": "Vial Dosing Unit",
+          "submissionValue": "VIAL",
+          "synonyms": [
+            "Vial Dosing Unit"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH ECG Original Units codelist. (NCI)",
+      "extensible": "Yes",
+      "name": "ECG Original Units",
+      "preferredTerm": "CDISC CDASH ECG Original Units Terminology",
+      "submissionValue": "EGORRESU",
+      "synonyms": [
+        "ECG Original Units"
+      ],
+      "terms": [
+        {
+          "conceptId": "C41140",
+          "definition": "A unit of time, which is equal to one thousandth of a second.(NCI)",
+          "preferredTerm": "Millisecond",
+          "submissionValue": "msec",
+          "synonyms": [
+            "Millisecond"
+          ]
+        },
+        {
+          "conceptId": "C42535",
+          "definition": "The second is a unit of time with a duration of 919 263 177 0 periods of the specified light radiation corresponding to the transition between the two hyperfine levels of the cesium 133 atom in its ground state at 0 K. According to the convention, 60 seconds constitute one minute; 3,600 seconds constitute one hour. Abbreviation Sec. is acceptable in non-scientific usage only.(NCI)",
+          "preferredTerm": "Second",
+          "submissionValue": "sec",
+          "synonyms": [
+            "Second"
+          ]
+        },
+        {
+          "conceptId": "C49673",
+          "definition": "The number of heartbeats measured per minute time. (NCI)",
+          "preferredTerm": "Beats per Minute",
+          "submissionValue": "BEATS/MIN",
+          "synonyms": [
+            "Beats per Minute"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Units for Exposure codelist. (NCI)",
+      "extensible": "Yes",
+      "name": "Units for Exposure",
+      "preferredTerm": "CDISC CDASH Units for Exposure Terminology",
+      "submissionValue": "EXDOSU",
+      "synonyms": [
+        "Units for Exposure"
+      ],
+      "terms": [
+        {
+          "conceptId": "C48542",
+          "definition": "A dosing measurement based on the tablet unit.(NCI)",
+          "preferredTerm": "Tablet Dosing Unit",
+          "submissionValue": "TABLET",
+          "synonyms": [
+            "Tablet Dosing Unit",
+            " tab"
+          ]
+        },
+        {
+          "conceptId": "C48480",
+          "definition": "A dosing measurement based on the capsule unit.(NCI)",
+          "preferredTerm": "Capsule Dosing Unit",
+          "submissionValue": "CAPSULE",
+          "synonyms": [
+            "Capsule Dosing Unit",
+            " cap"
+          ]
+        },
+        {
+          "conceptId": "C65060",
+          "definition": "A means of delivering a defined dose of a therapeutic aerolized solution into either the upper or lower respiratory tract. Metered-dose inhalers or spray pumps are devices that provide a puff dose for delivery into either the oral or the nasal cavity.(NCI)",
+          "preferredTerm": "Puff Dosing Unit",
+          "submissionValue": "PUFF",
+          "synonyms": [
+            "Puff"
+          ]
+        },
+        {
+          "conceptId": "C28254",
+          "definition": "The unit of volume equal to one thousandth of a liter, one cubic centimeter, 10E-6 cubic meter, or approximately to 0.061 023 7 cubic inch.(NCI)",
+          "preferredTerm": "Milliliter",
+          "submissionValue": "mL",
+          "synonyms": [
+            "cm3",
+            " Milliliter"
+          ]
+        },
+        {
+          "conceptId": "C48152",
+          "definition": "A unit of mass equal to one millionth of a gram or one thousandth of a milligram.(NCI)",
+          "preferredTerm": "Microgram",
+          "submissionValue": "ug",
+          "synonyms": [
+            "Microgram",
+            " mcg"
+          ]
+        },
+        {
+          "conceptId": "C28253",
+          "definition": "The unit of mass equal to one thousandth of a gram or 1000 micrograms. One milligram equals approximately 0.015432 grain or 35.274 x 10E-6 ounce.(NCI)",
+          "preferredTerm": "Milligram",
+          "submissionValue": "mg",
+          "synonyms": [
+            "Milligram"
+          ]
+        },
+        {
+          "conceptId": "C48155",
+          "definition": "A metric unit of mass equal to one one thousandth of a kilogram. (NCI)",
+          "preferredTerm": "Gram",
+          "submissionValue": "g",
+          "synonyms": [
+            "Gram"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology subset of the CDISC SDTM Frequency codelist created for CDASH Exposure Dosing Frequency per Interval codelist. (NCI)",
+      "extensible": "Yes",
+      "name": "Exposure Dosing Frequency per Interval",
+      "preferredTerm": "CDISC CDASH Exposure Dosing Frequency per Interval Terminology",
+      "submissionValue": "EXDOSFRQ",
+      "synonyms": [
+        "Exposure Dosing Frequency per Interval"
+      ],
+      "terms": [
+        {
+          "conceptId": "C64496",
+          "definition": "Two times per day, at unspecified times. (NCI)",
+          "preferredTerm": "Twice Daily",
+          "submissionValue": "BID",
+          "synonyms": [
+            "BD",
+            " Twice per Day"
+          ]
+        },
+        {
+          "conceptId": "C64527",
+          "definition": "Three times per day. (NCI)",
+          "preferredTerm": "Three Times Daily",
+          "submissionValue": "TID",
+          "synonyms": [
+            "3 times per day"
+          ]
+        },
+        {
+          "conceptId": "C64530",
+          "definition": "Four times per day. (NCI)",
+          "preferredTerm": "Four Times Daily",
+          "submissionValue": "QID",
+          "synonyms": [
+            "4 times per day"
+          ]
+        },
+        {
+          "conceptId": "C64525",
+          "definition": "Every other day. (NCI)",
+          "preferredTerm": "Every Other Day",
+          "submissionValue": "QOD",
+          "synonyms": [
+            "Every other day"
+          ]
+        },
+        {
+          "conceptId": "C64498",
+          "definition": "Every month. (NCI)",
+          "preferredTerm": "Monthly",
+          "submissionValue": "QM",
+          "synonyms": [
+            "Every Month"
+          ]
+        },
+        {
+          "conceptId": "C64499",
+          "definition": "As needed. (NCI)",
+          "preferredTerm": "As Necessary",
+          "submissionValue": "PRN",
+          "synonyms": [
+            "As Needed"
+          ]
+        },
+        {
+          "conceptId": "C17998",
+          "definition": "Not known, not observed, not recorded, or refused. (NCI)",
+          "preferredTerm": "Unknown",
+          "submissionValue": "UNKNOWN",
+          "synonyms": [
+            "U",
+            " Unknown"
+          ]
+        },
+        {
+          "conceptId": "C25473",
+          "definition": "Occurring or done each day. (NCI)",
+          "preferredTerm": "Daily",
+          "submissionValue": "QD",
+          "synonyms": [
+            "Daily"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology subset of the CDISC SDTM Route codelist created for CDASH Exposure Route of Administration codelist. (NCI)",
+      "extensible": "Yes",
+      "name": "Exposure Route of Administration",
+      "preferredTerm": "CDISC CDASH Exposure Route of Administration Terminology",
+      "submissionValue": "EXROUTE",
+      "synonyms": [
+        "Exposure Route of Administration"
+      ],
+      "terms": [
+        {
+          "conceptId": "C38288",
+          "definition": "Administration to or by way of the mouth.(FDA)",
+          "preferredTerm": "Oral Route of Drug administration",
+          "submissionValue": "ORAL",
+          "synonyms": [
+            "PO"
+          ]
+        },
+        {
+          "conceptId": "C38304",
+          "definition": "Administration to a particular spot on the outer surface of the body. The E2B term TRANSMAMMARY is a subset of the term TOPICAL.(FDA)",
+          "preferredTerm": "Topical Route of Drug Administration",
+          "submissionValue": "TOPICAL",
+          "synonyms": [
+            "TOP"
+          ]
+        },
+        {
+          "conceptId": "C38299",
+          "definition": "Administration beneath the skin; hypodermic. Synonymous with the term SUBDERMAL.(FDA)",
+          "preferredTerm": "Subcutaneous Route of Drug Administration",
+          "submissionValue": "SUBCUTANEOUS",
+          "synonyms": [
+            "SC"
+          ]
+        },
+        {
+          "conceptId": "C38305",
+          "definition": "Administration through the dermal layer of the skin to the systemic circulation by diffusion.(FDA)",
+          "preferredTerm": "Transdermal Route of Drug Administration",
+          "submissionValue": "TRANSDERMAL",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C38255",
+          "definition": "Administration within the eye.(FDA)",
+          "preferredTerm": "Intraocular Route of Drug Administration",
+          "submissionValue": "INTRAOCULAR",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C28161",
+          "definition": "Administration within a muscle.(FDA)",
+          "preferredTerm": "Intramuscular Route of Administration",
+          "submissionValue": "INTRAMUSCULAR",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C38216",
+          "definition": "Administration within the respiratory tract by inhaling orally or nasally for local or systemic effect.(FDA)",
+          "preferredTerm": "Inhalation Route of Administration",
+          "submissionValue": "RESPIRATORY (INHALATION)",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C38250",
+          "definition": "Administration within or introduced directly into a localized lesion.(FDA)",
+          "preferredTerm": "Intralesional Route of Drug Administration",
+          "submissionValue": "INTRALESIONAL",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C38258",
+          "definition": "Administration within the peritoneal cavity.(FDA)",
+          "preferredTerm": "Intraperitoneal Route of Drug Administration",
+          "submissionValue": "INTRAPERITONEAL",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C38284",
+          "definition": "Administration to the nose; administered by way of the nose.(FDA)",
+          "preferredTerm": "Nasal Route of Drug Administration",
+          "submissionValue": "NASAL",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C38313",
+          "definition": "Administration into the vagina.(FDA)",
+          "preferredTerm": "Vaginal Route of Drug Administration",
+          "submissionValue": "VAGINAL",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C38295",
+          "definition": "Administration to the rectum.(FDA)",
+          "preferredTerm": "Rectal Route of Drug Administration",
+          "submissionValue": "RECTAL",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology subset of the CDISC SDTM Pharmaceutical Dosage Form codelist created for CDASH Exposure Dose Form codelist. (NCI)",
+      "extensible": "Yes",
+      "name": "Exposure Dose Form",
+      "preferredTerm": "CDISC CDASH Exposure Dose Form Terminology",
+      "submissionValue": "EXDOSFRM",
+      "synonyms": [
+        "Exposure Dose Form"
+      ],
+      "terms": [
+        {
+          "conceptId": "C42998",
+          "definition": "A solid dosage form containing medicinal substances with or without suitable diluents. (NCI)",
+          "preferredTerm": "Tablet Dosage Form",
+          "submissionValue": "TABLET",
+          "synonyms": [
+            "tab"
+          ]
+        },
+        {
+          "conceptId": "C25158",
+          "definition": "A solid pharmaceutical dosage form that contains medicinal agent within either a hard or soft soluble container or shell, usually used for the oral administration of medicine. The shells are made of a suitable form of gelatin or other substance. (NCI)",
+          "preferredTerm": "Capsule Dosage Form",
+          "submissionValue": "CAPSULE",
+          "synonyms": [
+            "cap"
+          ]
+        },
+        {
+          "conceptId": "C42966",
+          "definition": "A suspension or emulsion, semisolid (1) dosage form, usually containing < 20% water and volatiles (2) and > 50% hydrocarbons, waxes, or polyols as the vehicle. This dosage form is generally for external application to the skin or mucous membranes. Note 1: A semisolid is not pourable; it does not flow or conform to its container at room temperature. It does not flow at low shear stress and generally exhibits plastic flow behavior. Note 2: Percent water and volatiles are measured by a loss on drying test in which the sample is heated at 105 degrees C until constant weight is achieved. (NCI)",
+          "preferredTerm": "Ointment Dosage Form",
+          "submissionValue": "OINTMENT",
+          "synonyms": [
+            "oint"
+          ]
+        },
+        {
+          "conceptId": "C42993",
+          "definition": "A solid body of various weights and shapes, adapted for introduction into the rectal orifice of the human body; they usually melt, soften, or dissolve at body temperature. (NCI)",
+          "preferredTerm": "Suppository Dosage Form",
+          "submissionValue": "SUPPOSITORY",
+          "synonyms": [
+            "supp"
+          ]
+        },
+        {
+          "conceptId": "C42887",
+          "definition": "A product that is packaged under pressure and contains therapeutically active ingredients that are released upon activation of an appropriate valve system; it is intended for topical application to the skin as well as local application into the nose (nasal aerosols), mouth (lingual aerosols), or lungs (inhalation aerosols). (NCI)",
+          "preferredTerm": "Aerosol Dosage Form",
+          "submissionValue": "AEROSOL",
+          "synonyms": [
+            "aer"
+          ]
+        },
+        {
+          "conceptId": "C42989",
+          "definition": "A liquid minutely divided as by a jet of air or steam. (NCI)",
+          "preferredTerm": "Spray Dosage Form",
+          "submissionValue": "SPRAY",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C42994",
+          "definition": "A liquid dosage form that contains solid particles dispersed in a liquid vehicle. Note: A liquid is pourable; it flows and conforms to its container at room temperature. It displays Newtonian or pseudoplastic flow behavior. (FDA)",
+          "preferredTerm": "Suspension Dosage Form",
+          "submissionValue": "SUSPENSION",
+          "synonyms": [
+            "susp"
+          ]
+        },
+        {
+          "conceptId": "C42968",
+          "definition": "A drug delivery system that often contains an adhesive backing that is usually applied to an external site on the body. Its ingredients either passively diffuse from, or are actively transported from, some portion of the patch. Depending upon the patch, the ingredients are either delivered to the outer surface of the body or into the body. A patch is sometimes synonymous with the terms Extended Release Film and System. (NCI)",
+          "preferredTerm": "Patch Dosage Form",
+          "submissionValue": "PATCH",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C42933",
+          "definition": "Any elastic aeriform fluid in which the molecules are separated from one another and have free paths. (NCI)",
+          "preferredTerm": "Gas Dosage Form",
+          "submissionValue": "GAS",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C42934",
+          "definition": "A semisolid (1) dosage form that contains a gelling agent to provide stiffness to a solution or a colloidal dispersion (2). A gel may contain suspended particles. Note 1: A semisolid is not pourable; it does not flow or conform to its container at room temperature. It does not flow at low shear stress and generally exhibits plastic flow behavior. Note 2: A colloidal dispersion is a system in which particles of colloidal dimension (i.e., typically between 1 nm and 1 micrometer) are distributed uniformly throughout a liquid. (NCI)",
+          "preferredTerm": "Gel Dosage Form",
+          "submissionValue": "GEL",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C28944",
+          "definition": "A semisolid emulsion of either the oil-in-water or the water-in-oil type, ordinarily intended for topical use. (NCI)",
+          "preferredTerm": "Cream Dosage Form",
+          "submissionValue": "CREAM",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C42972",
+          "definition": "An intimate mixture of dry, finely divided drugs and/or chemicals that may be intended for internal or external use. (NCI)",
+          "preferredTerm": "Powder Dosage Form",
+          "submissionValue": "POWDER",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Unit for Duration of Treatment Interruption codelist. (NCI)",
+      "extensible": "Yes",
+      "name": "Unit for the Duration of Treatment Interruption",
+      "preferredTerm": "CDISC CDASH Unit for Duration of Treatment Interruption Terminology",
+      "submissionValue": "EXINTPU",
+      "synonyms": [
+        "Unit for the Duration of Treatment Interruption"
+      ],
+      "terms": [
+        {
+          "conceptId": "C42535",
+          "definition": "The second is a unit of time with a duration of 919 263 177 0 periods of the specified light radiation corresponding to the transition between the two hyperfine levels of the cesium 133 atom in its ground state at 0 K. According to the convention, 60 seconds constitute one minute; 3,600 seconds constitute one hour. Abbreviation Sec. is acceptable in non-scientific usage only.(NCI)",
+          "preferredTerm": "Second",
+          "submissionValue": "sec",
+          "synonyms": [
+            "Second"
+          ]
+        },
+        {
+          "conceptId": "C48154",
+          "definition": "A unit measure of time equal to 60 seconds.(NCI)",
+          "preferredTerm": "Minute",
+          "submissionValue": "min",
+          "synonyms": [
+            "Minute Unit of Time"
+          ]
+        },
+        {
+          "conceptId": "C25529",
+          "definition": "A unit measure of time equal to 3,600 seconds or 60 minutes. It is approximately 1/24 of a median day. (NCI)",
+          "preferredTerm": "Hour",
+          "submissionValue": "HOURS",
+          "synonyms": [
+            "Hour",
+            " hr"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Total Volume Administration Unit codelist. (NCI)",
+      "extensible": "Yes",
+      "name": "Total Volume Administration Unit",
+      "preferredTerm": "CDISC CDASH Total Volume Administration Unit Terminology",
+      "submissionValue": "EXVOLTU",
+      "synonyms": [
+        "Total Volume Administration Unit"
+      ],
+      "terms": [
+        {
+          "conceptId": "C28254",
+          "definition": "The unit of volume equal to one thousandth of a liter, one cubic centimeter, 10E-6 cubic meter, or approximately to 0.061 023 7 cubic inch.(NCI)",
+          "preferredTerm": "Milliliter",
+          "submissionValue": "mL",
+          "synonyms": [
+            "cm3",
+            " Milliliter"
+          ]
+        },
+        {
+          "conceptId": "C48152",
+          "definition": "A unit of mass equal to one millionth of a gram or one thousandth of a milligram.(NCI)",
+          "preferredTerm": "Microgram",
+          "submissionValue": "ug",
+          "synonyms": [
+            "Microgram",
+            " mcg"
+          ]
+        },
+        {
+          "conceptId": "C28253",
+          "definition": "The unit of mass equal to one thousandth of a gram or 1000 micrograms. One milligram equals approximately 0.015432 grain or 35.274 x 10E-6 ounce.(NCI)",
+          "preferredTerm": "Milligram",
+          "submissionValue": "mg",
+          "synonyms": [
+            "Milligram"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Unit of Measure for Flow Rate codelist. (NCI)",
+      "extensible": "Yes",
+      "name": "Unit of Measure for Flow Rate",
+      "preferredTerm": "CDISC CDASH Unit of Measure for Flow Rate Terminology",
+      "submissionValue": "EXFLRTU",
+      "synonyms": [
+        "Unit of Measure for Flow Rate"
+      ],
+      "terms": [
+        {
+          "conceptId": "C71211",
+          "definition": "A unit of mass flow rate equivalent to the rate at which one millionth of a gram of matter travels to a given object or space over a period of time equal to one minute. Microgram per minute is also a dose administration rate unit equal to the rate at which one millionth of a gram of a product is administered per unit of time equal to one minute.(NCI)",
+          "preferredTerm": "Microgram per Minute",
+          "submissionValue": "ug/min",
+          "synonyms": [
+            "Micrograms per Minute",
+            " mcg/min"
+          ]
+        },
+        {
+          "conceptId": "C71205",
+          "definition": "A unit of mass flow rate equivalent to the rate at which one millionth of a gram of matter travels to a given object or space over a period of time equal to twenty four hours. Microgram per day is also a dose administration rate unit equal to the rate at which one millionth of a gram of a product is administered per unit of time equal to twenty four hours.(NCI)",
+          "preferredTerm": "Microgram per Day",
+          "submissionValue": "ug/day",
+          "synonyms": [
+            "Microgram per Day",
+            " mcg/day"
+          ]
+        },
+        {
+          "conceptId": "C64777",
+          "definition": "A metric unit of volumetric flow rate defined as the rate at which one milliliter of matter travels during the period of time equal to one minute.(NCI)",
+          "preferredTerm": "Milliliter per Minute",
+          "submissionValue": "mL/min",
+          "synonyms": [
+            "Milliliters per Minute"
+          ]
+        },
+        {
+          "conceptId": "C67420",
+          "definition": "A unit of amount of substance flow rate equivalent to the rate at which one thousandth of a mole of substance travels or is delivered to a given object or space over a period of time equal to 24 hours.(NCI)",
+          "preferredTerm": "Millimole per 24 Hours",
+          "submissionValue": "mmol/day",
+          "synonyms": [
+            "Millimole per 24 Hours"
+          ]
+        },
+        {
+          "conceptId": "C67406",
+          "definition": "A unit of amount of substance flow rate equivalent to the rate at which one millionth of a mole of substance travels to a given object or space over a period of time equal to 24 hours.(NCI)",
+          "preferredTerm": "Micromole per 24 Hours",
+          "submissionValue": "umol/day",
+          "synonyms": [
+            "mcmol/day",
+            " Micromoles per Day"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Units for Planned Exposure codelist. (NCI)",
+      "extensible": "Yes",
+      "name": "Units for Planned Exposure",
+      "preferredTerm": "CDISC CDASH Units for Planned Exposure Terminology",
+      "submissionValue": "EXPDOSEU",
+      "synonyms": [
+        "Units for Planned Exposure"
+      ],
+      "terms": [
+        {
+          "conceptId": "C48542",
+          "definition": "A dosing measurement based on the tablet unit.(NCI)",
+          "preferredTerm": "Tablet Dosing Unit",
+          "submissionValue": "TABLET",
+          "synonyms": [
+            "Tablet Dosing Unit",
+            " tab"
+          ]
+        },
+        {
+          "conceptId": "C48480",
+          "definition": "A dosing measurement based on the capsule unit.(NCI)",
+          "preferredTerm": "Capsule Dosing Unit",
+          "submissionValue": "CAPSULE",
+          "synonyms": [
+            "Capsule Dosing Unit",
+            " cap"
+          ]
+        },
+        {
+          "conceptId": "C65060",
+          "definition": "A means of delivering a defined dose of a therapeutic aerolized solution into either the upper or lower respiratory tract. Metered-dose inhalers or spray pumps are devices that provide a puff dose for delivery into either the oral or the nasal cavity.(NCI)",
+          "preferredTerm": "Puff Dosing Unit",
+          "submissionValue": "PUFF",
+          "synonyms": [
+            "Puff"
+          ]
+        },
+        {
+          "conceptId": "C28254",
+          "definition": "The unit of volume equal to one thousandth of a liter, one cubic centimeter, 10E-6 cubic meter, or approximately to 0.061 023 7 cubic inch.(NCI)",
+          "preferredTerm": "Milligram",
+          "submissionValue": "mL",
+          "synonyms": [
+            "cm3",
+            " Milliliter"
+          ]
+        },
+        {
+          "conceptId": "C48152",
+          "definition": "A unit of mass equal to one millionth of a gram or one thousandth of a milligram.(NCI)",
+          "preferredTerm": "Microgram",
+          "submissionValue": "ug",
+          "synonyms": [
+            "Microgram",
+            " mcg"
+          ]
+        },
+        {
+          "conceptId": "C28253",
+          "definition": "The unit of mass equal to one thousandth of a gram or 1000 micrograms. One milligram equals approximately 0.015432 grain or 35.274 x 10E-6 ounce.(NCI)",
+          "preferredTerm": "Milliliter",
+          "submissionValue": "mg",
+          "synonyms": [
+            "Milligram"
+          ]
+        },
+        {
+          "conceptId": "C48155",
+          "definition": "A metric unit of mass equal to one one thousandth of a kilogram. (NCI)",
+          "preferredTerm": "Gram",
+          "submissionValue": "g",
+          "synonyms": [
+            "Gram"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology subset of the CDISC SDTM Position codelist created for CDASH Vital Signs Position of Subject codelist. (NCI)",
+      "extensible": "Yes",
+      "name": "Vital Signs Position of Subject",
+      "preferredTerm": "CDISC CDASH Vital Signs Position of Subject Terminology",
+      "submissionValue": "VSPOS",
+      "synonyms": [
+        "Vital Signs Position of Subject"
+      ],
+      "terms": [
+        {
+          "conceptId": "C62122",
+          "definition": "The state or act of one who sits; the posture of one who occupies a seat. (NCI)",
+          "preferredTerm": "Sitting",
+          "submissionValue": "SITTING",
+          "synonyms": [
+            "Sitting"
+          ]
+        },
+        {
+          "conceptId": "C62166",
+          "definition": "The act of assuming or maintaining an erect upright position. (NCI)",
+          "preferredTerm": "Standing",
+          "submissionValue": "STANDING",
+          "synonyms": [
+            "Standing"
+          ]
+        },
+        {
+          "conceptId": "C62167",
+          "definition": "A posterior recumbent body position whereby the person lies on its back and faces upward. (NCI)",
+          "preferredTerm": "Supine Position",
+          "submissionValue": "SUPINE",
+          "synonyms": [
+            "Supine"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology subset of the CDISC SDTM Never/Current/Former Classification codelist created for CDASH Substance Use Never/Current/Former Classification codelist. (NCI)",
+      "extensible": "Yes",
+      "name": "Substance Use Never/Current/Former Classification",
+      "preferredTerm": "CDISC CDASH Substance Use Never/Current/Former Classification Terminology",
+      "submissionValue": "SUNCF",
+      "synonyms": [
+        "Substance Use Never/Current/Former Classification"
+      ],
+      "terms": [
+        {
+          "conceptId": "C70543",
+          "definition": "Not ever; at no time in the past.",
+          "preferredTerm": "Never",
+          "submissionValue": "NEVER",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C25471",
+          "definition": "Occurring in or belonging to the present time. (NCI)",
+          "preferredTerm": "Current",
+          "submissionValue": "CURRENT",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C25627",
+          "definition": "Occurring prior to something else. (NCI)",
+          "preferredTerm": "Previous",
+          "submissionValue": "FORMER",
+          "synonyms": [
+            "Previous"
+          ]
+        }
+      ]
+    }
+  ]
+}
