@@ -1,0 +1,2611 @@
+{
+  "_links": {
+    "priorVersion": {
+      "href": "/mdr/ct/packages/cdashct-2021-09-24",
+      "title": "CDASH Controlled Terminology Package 47 Effective 2021-09-24",
+      "type": "Terminology"
+    },
+    "self": {
+      "href": "/mdr/ct/packages/cdashct-2021-12-17",
+      "title": "CDASH Controlled Terminology Package 48 Effective 2021-12-17",
+      "type": "Terminology"
+    }
+  },
+  "codelists": [
+    {
+      "conceptId": "C78418",
+      "definition": "A terminology subset of the CDISC SDTM Pharmaceutical Dosage Form codelist created for CDASH Concomitant Medication Dose Form codelist. (NCI)",
+      "extensible": "true",
+      "name": "Concomitant Medication Dose Form",
+      "preferredTerm": "CDISC CDASH Concomitant Medication Dose Form Terminology",
+      "submissionValue": "CMDOSFRM",
+      "synonyms": [
+        "Concomitant Medication Dose Form"
+      ],
+      "terms": [
+        {
+          "conceptId": "C42887",
+          "definition": "A product that is packaged under pressure and contains therapeutically active ingredients that are released upon activation of an appropriate valve system; it is intended for topical application to the skin as well as local application into the nose (nasal aerosols), mouth (lingual aerosols), or lungs (inhalation aerosols).",
+          "preferredTerm": "Aerosol Dosage Form",
+          "submissionValue": "AEROSOL",
+          "synonyms": [
+            "aer"
+          ]
+        },
+        {
+          "conceptId": "C25158",
+          "definition": "A solid pharmaceutical dosage form that contains medicinal agent within either a hard or soft soluble container or shell, usually used for the oral administration of medicine. The shells are made of a suitable form of gelatin or other substance. (NCI)",
+          "preferredTerm": "Capsule Dosage Form",
+          "submissionValue": "CAPSULE",
+          "synonyms": [
+            "cap"
+          ]
+        },
+        {
+          "conceptId": "C28944",
+          "definition": "A semisolid emulsion of either the oil-in-water or the water-in-oil type, ordinarily intended for topical use. (NCI)",
+          "preferredTerm": "Cream Dosage Form",
+          "submissionValue": "CREAM"
+        },
+        {
+          "conceptId": "C42933",
+          "definition": "Any elastic aeriform fluid in which the molecules are separated from one another and have free paths. (NCI)",
+          "preferredTerm": "Gas Dosage Form",
+          "submissionValue": "GAS"
+        },
+        {
+          "conceptId": "C42934",
+          "definition": "A semisolid (1) dosage form that contains a gelling agent to provide stiffness to a solution or a colloidal dispersion (2). A gel may contain suspended particles. Note 1: A semisolid is not pourable; it does not flow or conform to its container at room temperature. It does not flow at low shear stress and generally exhibits plastic flow behavior. Note 2: A colloidal dispersion is a system in which particles of colloidal dimension (i.e., typically between 1 nm and 1 micrometer) are distributed uniformly throughout a liquid.",
+          "preferredTerm": "Gel Dosage Form",
+          "submissionValue": "GEL"
+        },
+        {
+          "conceptId": "C42966",
+          "definition": "A suspension or emulsion, semisolid (1) dosage form, usually containing less than 20 percent water and volatiles (2) and greater than 50 percent hydrocarbons, waxes, or polyols as the vehicle. This dosage form is generally for external application to the skin or mucous membranes. Note 1: A semisolid is not pourable; it does not flow or conform to its container at room temperature. It does not flow at low shear stress and generally exhibits plastic flow behavior. Note 2: Percent water and volatiles are measured by a loss on drying test in which the sample is heated at 105 degrees C until constant weight is achieved.",
+          "preferredTerm": "Ointment Dosage Form",
+          "submissionValue": "OINTMENT",
+          "synonyms": [
+            "oint"
+          ]
+        },
+        {
+          "conceptId": "C42968",
+          "definition": "A drug delivery system that often contains an adhesive backing that is usually applied to an external site on the body. Its ingredients either passively diffuse from, or are actively transported from, some portion of the patch. Depending upon the patch, the ingredients are either delivered to the outer surface of the body or into the body. A patch is sometimes synonymous with the terms Extended Release Film and System.",
+          "preferredTerm": "Patch Dosage Form",
+          "submissionValue": "PATCH"
+        },
+        {
+          "conceptId": "C42972",
+          "definition": "An intimate mixture of dry, finely divided drugs and/or chemicals that may be intended for internal or external use. (NCI)",
+          "preferredTerm": "Powder Dosage Form",
+          "submissionValue": "POWDER"
+        },
+        {
+          "conceptId": "C42989",
+          "definition": "A liquid minutely divided as by a jet of air or steam. (NCI)",
+          "preferredTerm": "Spray Dosage Form",
+          "submissionValue": "SPRAY"
+        },
+        {
+          "conceptId": "C42993",
+          "definition": "A solid body of various weights and shapes, adapted for introduction into the rectal, vaginal, or urethral orifice of the human body; they usually melt, soften, or dissolve at body temperature.",
+          "preferredTerm": "Suppository Dosage Form",
+          "submissionValue": "SUPPOSITORY",
+          "synonyms": [
+            "supp"
+          ]
+        },
+        {
+          "conceptId": "C42994",
+          "definition": "A liquid dosage form that contains solid particles dispersed in a liquid vehicle. Note: A liquid is pourable; it flows and conforms to its container at room temperature. It displays Newtonian or pseudoplastic flow behavior.",
+          "preferredTerm": "Suspension Dosage Form",
+          "submissionValue": "SUSPENSION",
+          "synonyms": [
+            "Ready to Use Suspension",
+            "susp"
+          ]
+        },
+        {
+          "conceptId": "C42998",
+          "definition": "A solid dosage form containing medicinal substances with or without suitable diluents. (NCI)",
+          "preferredTerm": "Tablet Dosage Form",
+          "submissionValue": "TABLET",
+          "synonyms": [
+            "tab"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "C78417",
+      "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Concomitant Medication Dose Units codelist. (NCI)",
+      "extensible": "true",
+      "name": "Concomitant Medication Dose Units",
+      "preferredTerm": "CDISC CDASH Concomitant Medication Dose Units Terminology",
+      "submissionValue": "CMDOSU",
+      "synonyms": [
+        "Concomitant Medication Dose Units"
+      ],
+      "terms": [
+        {
+          "conceptId": "C48480",
+          "definition": "A dosing measurement based on the capsule unit.(NCI)",
+          "preferredTerm": "Capsule Dosing Unit",
+          "submissionValue": "CAPSULE",
+          "synonyms": [
+            "cap",
+            "Capsule Dosing Unit"
+          ]
+        },
+        {
+          "conceptId": "C48155",
+          "definition": "A unit of mass equal to one thousandth (1E-3) of a kilogram, the kilogram being the base unit of mass in the International System of Units (SI).",
+          "preferredTerm": "Gram",
+          "submissionValue": "g",
+          "synonyms": [
+            "Gram"
+          ]
+        },
+        {
+          "conceptId": "C48579",
+          "definition": "The unitage assigned by the WHO (World Health Organization) to International Biological Standards - substances, classed as biological according to the criteria provided by WHO Expert Committee on Biological Standardization, to enable the results of biological and immunological assay procedures to be expressed in the same way throughout the world. The definition of an international unit is generally arbitrary and technical, and has to be officially approved by the International Conference for Unification of Formulae.(NCI)",
+          "preferredTerm": "International Unit",
+          "submissionValue": "IU",
+          "synonyms": [
+            "IE",
+            "International Unit"
+          ]
+        },
+        {
+          "conceptId": "C28253",
+          "definition": "A unit of mass equal to one thousandth (1E-3) of a gram.",
+          "preferredTerm": "Milligram",
+          "submissionValue": "mg",
+          "synonyms": [
+            "Milligram"
+          ]
+        },
+        {
+          "conceptId": "C28254",
+          "definition": "A unit of volume equal to one thousandth (1E-3) of a liter.",
+          "preferredTerm": "Milliliter",
+          "submissionValue": "mL",
+          "synonyms": [
+            "cm3",
+            "Milliliter"
+          ]
+        },
+        {
+          "conceptId": "C65060",
+          "definition": "A means of delivering a defined dose of a therapeutic aerolized solution into either the upper or lower respiratory tract. Metered-dose inhalers or spray pumps are devices that provide a puff dose for delivery into either the oral or the nasal cavity.(NCI)",
+          "preferredTerm": "Puff Dosing Unit",
+          "submissionValue": "PUFF",
+          "synonyms": [
+            "Puff Dosing Unit"
+          ]
+        },
+        {
+          "conceptId": "C48542",
+          "definition": "A dosing measurement based on the tablet unit.(NCI)",
+          "preferredTerm": "Tablet Dosing Unit",
+          "submissionValue": "TABLET",
+          "synonyms": [
+            "tab",
+            "Tablet Dosing Unit"
+          ]
+        },
+        {
+          "conceptId": "C48152",
+          "definition": "A unit of mass equal to one millionth (1E-6) of a gram.",
+          "preferredTerm": "Microgram",
+          "submissionValue": "ug",
+          "synonyms": [
+            "mcg",
+            "Microgram"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "C78419",
+      "definition": "A terminology subset of the CDISC SDTM Frequency codelist created for CDASH Concomitant Medication Dosing Frequency per Interval codelist. (NCI)",
+      "extensible": "true",
+      "name": "Concomitant Medication Dosing Frequency per Interval",
+      "preferredTerm": "CDISC CDASH Concomitant Medication Dosing Frequency per Interval Terminology",
+      "submissionValue": "CMDOSFRQ",
+      "synonyms": [
+        "Concomitant Medication Dosing Frequency per Interval"
+      ],
+      "terms": [
+        {
+          "conceptId": "C64496",
+          "definition": "Two times per day, at unspecified times. (NCI)",
+          "preferredTerm": "Twice Daily",
+          "submissionValue": "BID",
+          "synonyms": [
+            "BD",
+            "Twice per day"
+          ]
+        },
+        {
+          "conceptId": "C64499",
+          "definition": "As needed. (NCI)",
+          "preferredTerm": "As Needed",
+          "submissionValue": "PRN",
+          "synonyms": [
+            "As needed"
+          ]
+        },
+        {
+          "conceptId": "C25473",
+          "definition": "A rate of occurrences within a period of time equal to one day.",
+          "preferredTerm": "Daily",
+          "submissionValue": "QD",
+          "synonyms": [
+            "/day",
+            "Daily",
+            "Per Day"
+          ]
+        },
+        {
+          "conceptId": "C64530",
+          "definition": "Four times per day. (NCI)",
+          "preferredTerm": "Four Times Daily",
+          "submissionValue": "QID",
+          "synonyms": [
+            "4 times per day"
+          ]
+        },
+        {
+          "conceptId": "C64498",
+          "definition": "Every month. (NCI)",
+          "preferredTerm": "Monthly",
+          "submissionValue": "QM",
+          "synonyms": [
+            "Every Month",
+            "Per Month"
+          ]
+        },
+        {
+          "conceptId": "C64525",
+          "definition": "Every other day. (NCI)",
+          "preferredTerm": "Every Other Day",
+          "submissionValue": "QOD",
+          "synonyms": [
+            "Every other day",
+            "Every Second Day",
+            "Every Two Days",
+            "Q2D"
+          ]
+        },
+        {
+          "conceptId": "C64527",
+          "definition": "Three times per day. (NCI)",
+          "preferredTerm": "Three Times Daily",
+          "submissionValue": "TID",
+          "synonyms": [
+            "3 times per day"
+          ]
+        },
+        {
+          "conceptId": "C17998",
+          "definition": "Not known, not observed, not recorded, or refused. (NCI)",
+          "preferredTerm": "Unknown",
+          "submissionValue": "UNKNOWN",
+          "synonyms": [
+            "U",
+            "UNK",
+            "Unknown"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "C78420",
+      "definition": "A terminology subset of the CDISC SDTM Route codelist created for CDASH Concomitant Medication Route of Administration codelist. (NCI)",
+      "extensible": "true",
+      "name": "Concomitant Medication Route of Administration",
+      "preferredTerm": "CDISC CDASH Concomitant Medication Route of Administration Terminology",
+      "submissionValue": "CMROUTE",
+      "synonyms": [
+        "Concomitant Medication Route of Administration"
+      ],
+      "terms": [
+        {
+          "conceptId": "C38250",
+          "definition": "Administration within or introduced directly into a localized lesion. (FDA)",
+          "preferredTerm": "Intralesional Route of Administration",
+          "submissionValue": "INTRALESIONAL"
+        },
+        {
+          "conceptId": "C28161",
+          "definition": "Administration within a muscle. (FDA)",
+          "preferredTerm": "Intramuscular Route of Administration",
+          "submissionValue": "INTRAMUSCULAR"
+        },
+        {
+          "conceptId": "C38255",
+          "definition": "Administration within the eye. (FDA)",
+          "preferredTerm": "Intraocular Route of Administration",
+          "submissionValue": "INTRAOCULAR"
+        },
+        {
+          "conceptId": "C38258",
+          "definition": "Administration within the peritoneal cavity. (FDA)",
+          "preferredTerm": "Intraperitoneal Route of Administration",
+          "submissionValue": "INTRAPERITONEAL"
+        },
+        {
+          "conceptId": "C38284",
+          "definition": "Administration to the nose; administered by way of the nose. (FDA)",
+          "preferredTerm": "Nasal Route of Administration",
+          "submissionValue": "NASAL",
+          "synonyms": [
+            "Intranasal Route of Administration"
+          ]
+        },
+        {
+          "conceptId": "C38288",
+          "definition": "Administration to or by way of the mouth. (FDA)",
+          "preferredTerm": "Oral Route of Administration",
+          "submissionValue": "ORAL",
+          "synonyms": [
+            "Intraoral Route of Administration",
+            "PO"
+          ]
+        },
+        {
+          "conceptId": "C38295",
+          "definition": "Administration to the rectum. (FDA)",
+          "preferredTerm": "Rectal Route of Administration",
+          "submissionValue": "RECTAL"
+        },
+        {
+          "conceptId": "C38216",
+          "definition": "Administration within the respiratory tract by inhaling orally or nasally for local or systemic effect. (FDA)",
+          "preferredTerm": "Inhalation Route of Administration",
+          "submissionValue": "RESPIRATORY (INHALATION)"
+        },
+        {
+          "conceptId": "C38299",
+          "definition": "Administration beneath the skin; hypodermic. Synonymous with the term SUBDERMAL. (FDA)",
+          "preferredTerm": "Subcutaneous Route of Administration",
+          "submissionValue": "SUBCUTANEOUS",
+          "synonyms": [
+            "SC",
+            "Subdermal Route of Administration"
+          ]
+        },
+        {
+          "conceptId": "C38304",
+          "definition": "Administration to a particular spot on the outer surface of the body. The E2B term TRANSMAMMARY is a subset of the term TOPICAL. (FDA)",
+          "preferredTerm": "Topical Route of Administration",
+          "submissionValue": "TOPICAL",
+          "synonyms": [
+            "TOP"
+          ]
+        },
+        {
+          "conceptId": "C38305",
+          "definition": "Administration through the dermal layer of the skin to the systemic circulation by diffusion. (FDA)",
+          "preferredTerm": "Transdermal Route of Administration",
+          "submissionValue": "TRANSDERMAL"
+        },
+        {
+          "conceptId": "C38313",
+          "definition": "Administration into the vagina. (FDA)",
+          "preferredTerm": "Vaginal Route of Administration",
+          "submissionValue": "VAGINAL"
+        }
+      ]
+    },
+    {
+      "conceptId": "C78422",
+      "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH ECG Original Units codelist. (NCI)",
+      "extensible": "true",
+      "name": "ECG Original Units",
+      "preferredTerm": "CDISC CDASH ECG Original Units Terminology",
+      "submissionValue": "EGORRESU",
+      "synonyms": [
+        "ECG Original Units"
+      ],
+      "terms": [
+        {
+          "conceptId": "C49673",
+          "definition": "The number of heartbeats measured per minute time. (NCI)",
+          "preferredTerm": "Beats per Minute",
+          "submissionValue": "beats/min",
+          "synonyms": [
+            "Beats per Minute",
+            "bpm",
+            "BPM"
+          ]
+        },
+        {
+          "conceptId": "C41140",
+          "definition": "A unit of time, which is equal to one thousandth of a second.(NCI)",
+          "preferredTerm": "Millisecond",
+          "submissionValue": "msec",
+          "synonyms": [
+            "Millisecond",
+            "ms"
+          ]
+        },
+        {
+          "conceptId": "C42535",
+          "definition": "The base unit of time in the International System of Units (SI) equal to the duration of 9,192,631,770 periods of the specified light radiation corresponding to the transition between the two hyperfine levels of the cesium 133 atom in its ground state at 0 K.",
+          "preferredTerm": "Second",
+          "submissionValue": "sec",
+          "synonyms": [
+            "Second"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "C128690",
+      "definition": "A terminology codelist relevant to the ethnicity of an individual as collected on the case report form.",
+      "extensible": "true",
+      "name": "Ethnicity As Collected",
+      "preferredTerm": "CDISC SDTM Collected Ethnicity Terminology",
+      "submissionValue": "ETHNICC",
+      "synonyms": [
+        "Ethnicity As Collected"
+      ],
+      "terms": [
+        {
+          "conceptId": "C158197",
+          "definition": "A Chinese person from the Achang ethnic group.",
+          "preferredTerm": "Achang Chinese",
+          "submissionValue": "ACHANG",
+          "synonyms": [
+            "AC"
+          ]
+        },
+        {
+          "conceptId": "C17950",
+          "definition": "A person of Ashkenazi Jewish descent.",
+          "preferredTerm": "Ashkenazi Jew",
+          "submissionValue": "ASHKENAZI JEW"
+        },
+        {
+          "conceptId": "C158171",
+          "definition": "A Chinese person from the Bai ethnic group.",
+          "preferredTerm": "Bai Chinese",
+          "submissionValue": "BAI",
+          "synonyms": [
+            "BA"
+          ]
+        },
+        {
+          "conceptId": "C158193",
+          "definition": "A Chinese person from the Blang ethnic group.",
+          "preferredTerm": "Blang Chinese",
+          "submissionValue": "BLANG",
+          "synonyms": [
+            "BL"
+          ]
+        },
+        {
+          "conceptId": "C158203",
+          "definition": "A Chinese person from the Bonan ethnic group.",
+          "preferredTerm": "Bonan Chinese",
+          "submissionValue": "BONAN",
+          "synonyms": [
+            "BN"
+          ]
+        },
+        {
+          "conceptId": "C158169",
+          "definition": "A Chinese person from the Buyei ethnic group.",
+          "preferredTerm": "Buyei Chinese",
+          "submissionValue": "BUYEI",
+          "synonyms": [
+            "BY"
+          ]
+        },
+        {
+          "conceptId": "C67118",
+          "definition": "A person of Central American descent.",
+          "preferredTerm": "Central American",
+          "submissionValue": "CENTRAL AMERICAN"
+        },
+        {
+          "conceptId": "C158172",
+          "definition": "A Chinese person from the Chosen ethnic group.",
+          "preferredTerm": "Chosen Chinese",
+          "submissionValue": "CHOSEN",
+          "synonyms": [
+            "CS"
+          ]
+        },
+        {
+          "conceptId": "C67115",
+          "definition": "A person of Cuban and American descent.",
+          "preferredTerm": "Cuban or Cuban American",
+          "submissionValue": "CUBAN AMERICAN"
+        },
+        {
+          "conceptId": "C107608",
+          "definition": "A person of Cuban descent.",
+          "preferredTerm": "Cuban",
+          "submissionValue": "CUBAN"
+        },
+        {
+          "conceptId": "C158176",
+          "definition": "A Chinese person from the Dai (including several different Tai-speaking groups historically referred to as Bai-yi) ethnic group.",
+          "preferredTerm": "Dai Chinese",
+          "submissionValue": "DAI",
+          "synonyms": [
+            "DA"
+          ]
+        },
+        {
+          "conceptId": "C158191",
+          "definition": "A Chinese person from the Daur ethnic group.",
+          "preferredTerm": "Daur Chinese",
+          "submissionValue": "DAUR",
+          "synonyms": [
+            "DU"
+          ]
+        },
+        {
+          "conceptId": "C158202",
+          "definition": "A Chinese person from the Deang ethnic group.",
+          "preferredTerm": "Deang Chinese",
+          "submissionValue": "DEANG",
+          "synonyms": [
+            "DE"
+          ]
+        },
+        {
+          "conceptId": "C158209",
+          "definition": "A Chinese person from the Derung ethnic group.",
+          "preferredTerm": "Derung Chinese",
+          "submissionValue": "DERUNG",
+          "synonyms": [
+            "DR"
+          ]
+        },
+        {
+          "conceptId": "C158168",
+          "definition": "A Chinese person from the Dong ethnic group.",
+          "preferredTerm": "Dong Chinese",
+          "submissionValue": "DONG",
+          "synonyms": [
+            "DO"
+          ]
+        },
+        {
+          "conceptId": "C158179",
+          "definition": "A Chinese person from the Dongxiang ethnic group.",
+          "preferredTerm": "Dongxiang Chinese",
+          "submissionValue": "DONGXIANG",
+          "synonyms": [
+            "DX"
+          ]
+        },
+        {
+          "conceptId": "C158199",
+          "definition": "A Chinese person from the Ewenki ethnic group.",
+          "preferredTerm": "Ewenki Chinese",
+          "submissionValue": "EWENKI",
+          "synonyms": [
+            "EW"
+          ]
+        },
+        {
+          "conceptId": "C158211",
+          "definition": "A Chinese person from the Gaoshan ethnic group.",
+          "preferredTerm": "Gaoshan Chinese",
+          "submissionValue": "GAOSHAN",
+          "synonyms": [
+            "GS"
+          ]
+        },
+        {
+          "conceptId": "C158180",
+          "definition": "A Chinese person from the Gelao ethnic group.",
+          "preferredTerm": "Gelao Chinese",
+          "submissionValue": "GELAO",
+          "synonyms": [
+            "GL"
+          ]
+        },
+        {
+          "conceptId": "C158200",
+          "definition": "A Chinese person from the Gin ethnic group.",
+          "preferredTerm": "Gin Chinese",
+          "submissionValue": "GIN",
+          "synonyms": [
+            "GI"
+          ]
+        },
+        {
+          "conceptId": "C158158",
+          "definition": "A Chinese person from the Han ethnic group (including Chuanqing).",
+          "preferredTerm": "Han Chinese",
+          "submissionValue": "HAN",
+          "synonyms": [
+            "HA"
+          ]
+        },
+        {
+          "conceptId": "C158173",
+          "definition": "A Chinese person from the Hani (including Sangkong) ethnic group.",
+          "preferredTerm": "Hani Chinese",
+          "submissionValue": "HANI",
+          "synonyms": [
+            "HN"
+          ]
+        },
+        {
+          "conceptId": "C158210",
+          "definition": "A Chinese person from the Hezhen ethnic group.",
+          "preferredTerm": "Hezhen Chinese",
+          "submissionValue": "HEZHEN",
+          "synonyms": [
+            "HZ"
+          ]
+        },
+        {
+          "conceptId": "C17459",
+          "definition": "A person of Mexican, Puerto Rican, Cuban, Central or South American or other Spanish culture or origin, regardless of race. (NCI)",
+          "preferredTerm": "Hispanic or Latino",
+          "submissionValue": "HISPANIC OR LATINO"
+        },
+        {
+          "conceptId": "C158160",
+          "definition": "A Chinese person from the Hui (including Utsuls of Hainan, descended from Cham refugees) ethnic group.",
+          "preferredTerm": "Hui Chinese",
+          "submissionValue": "HUI",
+          "synonyms": [
+            "HU"
+          ]
+        },
+        {
+          "conceptId": "C158190",
+          "definition": "A Chinese person from the Jingpo ethnic group.",
+          "preferredTerm": "Jingpo Chinese",
+          "submissionValue": "JINGPO",
+          "synonyms": [
+            "JP"
+          ]
+        },
+        {
+          "conceptId": "C158201",
+          "definition": "A Chinese person from the Jino ethnic group.",
+          "preferredTerm": "Jino Chinese",
+          "submissionValue": "JINO",
+          "synonyms": [
+            "JN"
+          ]
+        },
+        {
+          "conceptId": "C158175",
+          "definition": "A Chinese person from the Kazak ethnic group.",
+          "preferredTerm": "Kazak Chinese",
+          "submissionValue": "KAZAK",
+          "synonyms": [
+            "KZ"
+          ]
+        },
+        {
+          "conceptId": "C158189",
+          "definition": "A Chinese person from the Kirgiz ethnic group.",
+          "preferredTerm": "Kirgiz Chinese",
+          "submissionValue": "KIRGIZ",
+          "synonyms": [
+            "KG"
+          ]
+        },
+        {
+          "conceptId": "C158181",
+          "definition": "A Chinese person from the Lahu ethnic group.",
+          "preferredTerm": "Lahu Chinese",
+          "submissionValue": "LAHU",
+          "synonyms": [
+            "LH"
+          ]
+        },
+        {
+          "conceptId": "C126531",
+          "definition": "A person of Latin American descent.",
+          "preferredTerm": "Latin American",
+          "submissionValue": "LATIN AMERICAN"
+        },
+        {
+          "conceptId": "C158212",
+          "definition": "A Chinese person from the Lhoba ethnic group.",
+          "preferredTerm": "Lhoba Chinese",
+          "submissionValue": "LHOBA",
+          "synonyms": [
+            "LB"
+          ]
+        },
+        {
+          "conceptId": "C158174",
+          "definition": "A Chinese person from the Li ethnic group.",
+          "preferredTerm": "Li Chinese",
+          "submissionValue": "LI",
+          "synonyms": [
+            "LI"
+          ]
+        },
+        {
+          "conceptId": "C158178",
+          "definition": "A Chinese person from the Lisu ethnic group.",
+          "preferredTerm": "Lisu Chinese",
+          "submissionValue": "LISU",
+          "synonyms": [
+            "LS"
+          ]
+        },
+        {
+          "conceptId": "C158161",
+          "definition": "A Chinese person from the Man ethnic group.",
+          "preferredTerm": "Man Chinese",
+          "submissionValue": "MAN",
+          "synonyms": [
+            "MA"
+          ]
+        },
+        {
+          "conceptId": "C158194",
+          "definition": "A Chinese person from the Maonan (including the Then) ethnic group.",
+          "preferredTerm": "Maonan Chinese",
+          "submissionValue": "MAONAN",
+          "synonyms": [
+            "MN"
+          ]
+        },
+        {
+          "conceptId": "C67114",
+          "definition": "A person of Mexican and American descent.",
+          "preferredTerm": "Mexican American",
+          "submissionValue": "MEXICAN AMERICAN"
+        },
+        {
+          "conceptId": "C67113",
+          "definition": "A person of Mexican descent.",
+          "preferredTerm": "Mexican",
+          "submissionValue": "MEXICAN"
+        },
+        {
+          "conceptId": "C158163",
+          "definition": "A Chinese person from the Miao (Including Hmong) ethnic group.",
+          "preferredTerm": "Miao Chinese",
+          "submissionValue": "MIAO",
+          "synonyms": [
+            "MH"
+          ]
+        },
+        {
+          "conceptId": "C158207",
+          "definition": "A Chinese person from the Monba ethnic group.",
+          "preferredTerm": "Monba Chinese",
+          "submissionValue": "MONBA",
+          "synonyms": [
+            "MB"
+          ]
+        },
+        {
+          "conceptId": "C158167",
+          "definition": "A Chinese person from the Mongol ethnic group.",
+          "preferredTerm": "Mongol Chinese",
+          "submissionValue": "MONGOL",
+          "synonyms": [
+            "MG"
+          ]
+        },
+        {
+          "conceptId": "C158187",
+          "definition": "A Chinese person from the Mulao (including the Qago) ethnic group.",
+          "preferredTerm": "Mulao Chinese",
+          "submissionValue": "MULAO",
+          "synonyms": [
+            "ML"
+          ]
+        },
+        {
+          "conceptId": "C158184",
+          "definition": "A Chinese person from the Naxi (including Mosuo) ethnic group.",
+          "preferredTerm": "Naxi Chinese",
+          "submissionValue": "NAXI",
+          "synonyms": [
+            "NX"
+          ]
+        },
+        {
+          "conceptId": "C41222",
+          "definition": "A person not of Cuban, Mexican, Puerto Rican, South or Central American, or other Spanish culture or origin, regardless of race. An arbitrary ethnic classification. (NCI)",
+          "preferredTerm": "Not Hispanic or Latino",
+          "submissionValue": "NOT HISPANIC OR LATINO"
+        },
+        {
+          "conceptId": "C43234",
+          "definition": "Not provided or available.",
+          "preferredTerm": "Not Reported",
+          "submissionValue": "NOT REPORTED",
+          "synonyms": [
+            "Not reported"
+          ]
+        },
+        {
+          "conceptId": "C158198",
+          "definition": "A Chinese person from the Nu ethnic group.",
+          "preferredTerm": "Nu Chinese",
+          "submissionValue": "NU",
+          "synonyms": [
+            "NU"
+          ]
+        },
+        {
+          "conceptId": "C158208",
+          "definition": "A Chinese person from the Oroqen ethnic group.",
+          "preferredTerm": "Oroqen Chinese",
+          "submissionValue": "OROQEN",
+          "synonyms": [
+            "OR"
+          ]
+        },
+        {
+          "conceptId": "C67112",
+          "definition": "A person of Puerto Rican descent.",
+          "preferredTerm": "Puerto Rican",
+          "submissionValue": "PUERTO RICAN"
+        },
+        {
+          "conceptId": "C158196",
+          "definition": "A Chinese person from the Pumi ethnic group.",
+          "preferredTerm": "Pumi Chinese",
+          "submissionValue": "PUMI",
+          "synonyms": [
+            "PM"
+          ]
+        },
+        {
+          "conceptId": "C158185",
+          "definition": "A Chinese person from the Qiang ethnic group.",
+          "preferredTerm": "Qiang Chinese",
+          "submissionValue": "QIANG",
+          "synonyms": [
+            "QI"
+          ]
+        },
+        {
+          "conceptId": "C158204",
+          "definition": "A Chinese person from the Russ ethnic group.",
+          "preferredTerm": "Russ Chinese",
+          "submissionValue": "RUSS",
+          "synonyms": [
+            "RS"
+          ]
+        },
+        {
+          "conceptId": "C158192",
+          "definition": "A Chinese person from the Salar ethnic group.",
+          "preferredTerm": "Salar Chinese",
+          "submissionValue": "SALAR",
+          "synonyms": [
+            "SL"
+          ]
+        },
+        {
+          "conceptId": "C103283",
+          "definition": "A person of Sephardic Jewish descent.",
+          "preferredTerm": "Sephardic Jew",
+          "submissionValue": "SEPHARDIC JEW"
+        },
+        {
+          "conceptId": "C158177",
+          "definition": "A Chinese person from the She ethnic group.",
+          "preferredTerm": "She Chinese",
+          "submissionValue": "SHE",
+          "synonyms": [
+            "SH"
+          ]
+        },
+        {
+          "conceptId": "C126532",
+          "definition": "A person of South American descent.",
+          "preferredTerm": "South American",
+          "submissionValue": "SOUTH AMERICAN"
+        },
+        {
+          "conceptId": "C67120",
+          "definition": "A person from Spain or of Spanish descent.",
+          "preferredTerm": "Spanish",
+          "submissionValue": "SPANISH"
+        },
+        {
+          "conceptId": "C158183",
+          "definition": "A Chinese person from the Sui ethnic group.",
+          "preferredTerm": "Sui Chinese",
+          "submissionValue": "SUI",
+          "synonyms": [
+            "SU"
+          ]
+        },
+        {
+          "conceptId": "C158195",
+          "definition": "A Chinese person from the Tajik ethnic group.",
+          "preferredTerm": "Tajik Chinese",
+          "submissionValue": "TAJIK",
+          "synonyms": [
+            "TA"
+          ]
+        },
+        {
+          "conceptId": "C158213",
+          "definition": "A Chinese person from the Tatar ethnic group.",
+          "preferredTerm": "Tatar Chinese",
+          "submissionValue": "TATAR",
+          "synonyms": [
+            "TT"
+          ]
+        },
+        {
+          "conceptId": "C158186",
+          "definition": "A Chinese person from the Tu ethnic group.",
+          "preferredTerm": "Tu Chinese",
+          "submissionValue": "TU",
+          "synonyms": [
+            "TU"
+          ]
+        },
+        {
+          "conceptId": "C158165",
+          "definition": "A Chinese person from the Tujia ethnic group.",
+          "preferredTerm": "Tujia Chinese",
+          "submissionValue": "TUJIA",
+          "synonyms": [
+            "TJ"
+          ]
+        },
+        {
+          "conceptId": "C17998",
+          "definition": "Not known, not observed, not recorded, or refused. (NCI)",
+          "preferredTerm": "Unknown",
+          "submissionValue": "UNKNOWN",
+          "synonyms": [
+            "U",
+            "UNK",
+            "Unknown"
+          ]
+        },
+        {
+          "conceptId": "C158162",
+          "definition": "A Chinese person from the Uygur ethnic group.",
+          "preferredTerm": "Uygur Chinese",
+          "submissionValue": "UYGUR",
+          "synonyms": [
+            "UG"
+          ]
+        },
+        {
+          "conceptId": "C158206",
+          "definition": "A Chinese person from the Uzbek ethnic group.",
+          "preferredTerm": "Uzbek Chinese",
+          "submissionValue": "UZBEK",
+          "synonyms": [
+            "UZ"
+          ]
+        },
+        {
+          "conceptId": "C158182",
+          "definition": "A Chinese person from the Va ethnic group.",
+          "preferredTerm": "Va Chinese",
+          "submissionValue": "VA",
+          "synonyms": [
+            "VA"
+          ]
+        },
+        {
+          "conceptId": "C158188",
+          "definition": "A Chinese person from the Xibe ethnic group.",
+          "preferredTerm": "Xibe Chinese",
+          "submissionValue": "XIBE",
+          "synonyms": [
+            "XB"
+          ]
+        },
+        {
+          "conceptId": "C158170",
+          "definition": "A Chinese person from the Yao ethnic group.",
+          "preferredTerm": "Yao Chinese",
+          "submissionValue": "YAO",
+          "synonyms": [
+            "YA"
+          ]
+        },
+        {
+          "conceptId": "C158164",
+          "definition": "A Chinese person from the Yi ethnic group.",
+          "preferredTerm": "Yi Chinese",
+          "submissionValue": "YI",
+          "synonyms": [
+            "YI"
+          ]
+        },
+        {
+          "conceptId": "C158205",
+          "definition": "A Chinese person from the Yugur ethnic group.",
+          "preferredTerm": "Yugur Chinese",
+          "submissionValue": "YUGUR",
+          "synonyms": [
+            "YG"
+          ]
+        },
+        {
+          "conceptId": "C158166",
+          "definition": "A Chinese person from the Zang (including Amdowa, Khampa and some Pumi speakers) ethnic group.",
+          "preferredTerm": "Zang Chinese",
+          "submissionValue": "ZANG",
+          "synonyms": [
+            "ZA"
+          ]
+        },
+        {
+          "conceptId": "C158159",
+          "definition": "A Chinese person from the Zhuang ethnic group.",
+          "preferredTerm": "Zhuang Chinese",
+          "submissionValue": "ZHUANG",
+          "synonyms": [
+            "ZH"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "C78426",
+      "definition": "A terminology subset of the CDISC SDTM Pharmaceutical Dosage Form codelist created for CDASH Exposure Dose Form codelist. (NCI)",
+      "extensible": "true",
+      "name": "Exposure Dose Form",
+      "preferredTerm": "CDISC CDASH Exposure Dose Form Terminology",
+      "submissionValue": "EXDOSFRM",
+      "synonyms": [
+        "Exposure Dose Form"
+      ],
+      "terms": [
+        {
+          "conceptId": "C42887",
+          "definition": "A product that is packaged under pressure and contains therapeutically active ingredients that are released upon activation of an appropriate valve system; it is intended for topical application to the skin as well as local application into the nose (nasal aerosols), mouth (lingual aerosols), or lungs (inhalation aerosols).",
+          "preferredTerm": "Aerosol Dosage Form",
+          "submissionValue": "AEROSOL",
+          "synonyms": [
+            "aer"
+          ]
+        },
+        {
+          "conceptId": "C25158",
+          "definition": "A solid pharmaceutical dosage form that contains medicinal agent within either a hard or soft soluble container or shell, usually used for the oral administration of medicine. The shells are made of a suitable form of gelatin or other substance. (NCI)",
+          "preferredTerm": "Capsule Dosage Form",
+          "submissionValue": "CAPSULE",
+          "synonyms": [
+            "cap"
+          ]
+        },
+        {
+          "conceptId": "C28944",
+          "definition": "A semisolid emulsion of either the oil-in-water or the water-in-oil type, ordinarily intended for topical use. (NCI)",
+          "preferredTerm": "Cream Dosage Form",
+          "submissionValue": "CREAM"
+        },
+        {
+          "conceptId": "C42933",
+          "definition": "Any elastic aeriform fluid in which the molecules are separated from one another and have free paths. (NCI)",
+          "preferredTerm": "Gas Dosage Form",
+          "submissionValue": "GAS"
+        },
+        {
+          "conceptId": "C42934",
+          "definition": "A semisolid (1) dosage form that contains a gelling agent to provide stiffness to a solution or a colloidal dispersion (2). A gel may contain suspended particles. Note 1: A semisolid is not pourable; it does not flow or conform to its container at room temperature. It does not flow at low shear stress and generally exhibits plastic flow behavior. Note 2: A colloidal dispersion is a system in which particles of colloidal dimension (i.e., typically between 1 nm and 1 micrometer) are distributed uniformly throughout a liquid.",
+          "preferredTerm": "Gel Dosage Form",
+          "submissionValue": "GEL"
+        },
+        {
+          "conceptId": "C42966",
+          "definition": "A suspension or emulsion, semisolid (1) dosage form, usually containing less than 20 percent water and volatiles (2) and greater than 50 percent hydrocarbons, waxes, or polyols as the vehicle. This dosage form is generally for external application to the skin or mucous membranes. Note 1: A semisolid is not pourable; it does not flow or conform to its container at room temperature. It does not flow at low shear stress and generally exhibits plastic flow behavior. Note 2: Percent water and volatiles are measured by a loss on drying test in which the sample is heated at 105 degrees C until constant weight is achieved.",
+          "preferredTerm": "Ointment Dosage Form",
+          "submissionValue": "OINTMENT",
+          "synonyms": [
+            "oint"
+          ]
+        },
+        {
+          "conceptId": "C42968",
+          "definition": "A drug delivery system that often contains an adhesive backing that is usually applied to an external site on the body. Its ingredients either passively diffuse from, or are actively transported from, some portion of the patch. Depending upon the patch, the ingredients are either delivered to the outer surface of the body or into the body. A patch is sometimes synonymous with the terms Extended Release Film and System.",
+          "preferredTerm": "Patch Dosage Form",
+          "submissionValue": "PATCH"
+        },
+        {
+          "conceptId": "C42972",
+          "definition": "An intimate mixture of dry, finely divided drugs and/or chemicals that may be intended for internal or external use. (NCI)",
+          "preferredTerm": "Powder Dosage Form",
+          "submissionValue": "POWDER"
+        },
+        {
+          "conceptId": "C42989",
+          "definition": "A liquid minutely divided as by a jet of air or steam. (NCI)",
+          "preferredTerm": "Spray Dosage Form",
+          "submissionValue": "SPRAY"
+        },
+        {
+          "conceptId": "C42993",
+          "definition": "A solid body of various weights and shapes, adapted for introduction into the rectal, vaginal, or urethral orifice of the human body; they usually melt, soften, or dissolve at body temperature.",
+          "preferredTerm": "Suppository Dosage Form",
+          "submissionValue": "SUPPOSITORY",
+          "synonyms": [
+            "supp"
+          ]
+        },
+        {
+          "conceptId": "C42994",
+          "definition": "A liquid dosage form that contains solid particles dispersed in a liquid vehicle. Note: A liquid is pourable; it flows and conforms to its container at room temperature. It displays Newtonian or pseudoplastic flow behavior.",
+          "preferredTerm": "Suspension Dosage Form",
+          "submissionValue": "SUSPENSION",
+          "synonyms": [
+            "Ready to Use Suspension",
+            "susp"
+          ]
+        },
+        {
+          "conceptId": "C42998",
+          "definition": "A solid dosage form containing medicinal substances with or without suitable diluents. (NCI)",
+          "preferredTerm": "Tablet Dosage Form",
+          "submissionValue": "TABLET",
+          "synonyms": [
+            "tab"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "C78745",
+      "definition": "A terminology subset of the CDISC SDTM Frequency codelist created for CDASH Exposure Dosing Frequency per Interval codelist. (NCI)",
+      "extensible": "true",
+      "name": "Exposure Dosing Frequency per Interval",
+      "preferredTerm": "CDISC CDASH Exposure Dosing Frequency per Interval Terminology",
+      "submissionValue": "EXDOSFRQ",
+      "synonyms": [
+        "Exposure Dosing Frequency per Interval"
+      ],
+      "terms": [
+        {
+          "conceptId": "C64496",
+          "definition": "Two times per day, at unspecified times. (NCI)",
+          "preferredTerm": "Twice Daily",
+          "submissionValue": "BID",
+          "synonyms": [
+            "BD",
+            "Twice per day"
+          ]
+        },
+        {
+          "conceptId": "C64499",
+          "definition": "As needed. (NCI)",
+          "preferredTerm": "As Needed",
+          "submissionValue": "PRN",
+          "synonyms": [
+            "As needed"
+          ]
+        },
+        {
+          "conceptId": "C25473",
+          "definition": "A rate of occurrences within a period of time equal to one day.",
+          "preferredTerm": "Daily",
+          "submissionValue": "QD",
+          "synonyms": [
+            "/day",
+            "Daily",
+            "Per Day"
+          ]
+        },
+        {
+          "conceptId": "C64530",
+          "definition": "Four times per day. (NCI)",
+          "preferredTerm": "Four Times Daily",
+          "submissionValue": "QID",
+          "synonyms": [
+            "4 times per day"
+          ]
+        },
+        {
+          "conceptId": "C64498",
+          "definition": "Every month. (NCI)",
+          "preferredTerm": "Monthly",
+          "submissionValue": "QM",
+          "synonyms": [
+            "Every Month",
+            "Per Month"
+          ]
+        },
+        {
+          "conceptId": "C64525",
+          "definition": "Every other day. (NCI)",
+          "preferredTerm": "Every Other Day",
+          "submissionValue": "QOD",
+          "synonyms": [
+            "Every other day",
+            "Every Second Day",
+            "Every Two Days",
+            "Q2D"
+          ]
+        },
+        {
+          "conceptId": "C64527",
+          "definition": "Three times per day. (NCI)",
+          "preferredTerm": "Three Times Daily",
+          "submissionValue": "TID",
+          "synonyms": [
+            "3 times per day"
+          ]
+        },
+        {
+          "conceptId": "C17998",
+          "definition": "Not known, not observed, not recorded, or refused. (NCI)",
+          "preferredTerm": "Unknown",
+          "submissionValue": "UNKNOWN",
+          "synonyms": [
+            "U",
+            "UNK",
+            "Unknown"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "C78425",
+      "definition": "A terminology subset of the CDISC SDTM Route codelist created for CDASH Exposure Route of Administration codelist. (NCI)",
+      "extensible": "true",
+      "name": "Exposure Route of Administration",
+      "preferredTerm": "CDISC CDASH Exposure Route of Administration Terminology",
+      "submissionValue": "EXROUTE",
+      "synonyms": [
+        "Exposure Route of Administration"
+      ],
+      "terms": [
+        {
+          "conceptId": "C38250",
+          "definition": "Administration within or introduced directly into a localized lesion. (FDA)",
+          "preferredTerm": "Intralesional Route of Administration",
+          "submissionValue": "INTRALESIONAL"
+        },
+        {
+          "conceptId": "C28161",
+          "definition": "Administration within a muscle. (FDA)",
+          "preferredTerm": "Intramuscular Route of Administration",
+          "submissionValue": "INTRAMUSCULAR"
+        },
+        {
+          "conceptId": "C38255",
+          "definition": "Administration within the eye. (FDA)",
+          "preferredTerm": "Intraocular Route of Administration",
+          "submissionValue": "INTRAOCULAR"
+        },
+        {
+          "conceptId": "C38258",
+          "definition": "Administration within the peritoneal cavity. (FDA)",
+          "preferredTerm": "Intraperitoneal Route of Administration",
+          "submissionValue": "INTRAPERITONEAL"
+        },
+        {
+          "conceptId": "C38284",
+          "definition": "Administration to the nose; administered by way of the nose. (FDA)",
+          "preferredTerm": "Nasal Route of Administration",
+          "submissionValue": "NASAL",
+          "synonyms": [
+            "Intranasal Route of Administration"
+          ]
+        },
+        {
+          "conceptId": "C38288",
+          "definition": "Administration to or by way of the mouth. (FDA)",
+          "preferredTerm": "Oral Route of Administration",
+          "submissionValue": "ORAL",
+          "synonyms": [
+            "Intraoral Route of Administration",
+            "PO"
+          ]
+        },
+        {
+          "conceptId": "C38295",
+          "definition": "Administration to the rectum. (FDA)",
+          "preferredTerm": "Rectal Route of Administration",
+          "submissionValue": "RECTAL"
+        },
+        {
+          "conceptId": "C38216",
+          "definition": "Administration within the respiratory tract by inhaling orally or nasally for local or systemic effect. (FDA)",
+          "preferredTerm": "Inhalation Route of Administration",
+          "submissionValue": "RESPIRATORY (INHALATION)"
+        },
+        {
+          "conceptId": "C38299",
+          "definition": "Administration beneath the skin; hypodermic. Synonymous with the term SUBDERMAL. (FDA)",
+          "preferredTerm": "Subcutaneous Route of Administration",
+          "submissionValue": "SUBCUTANEOUS",
+          "synonyms": [
+            "SC",
+            "Subdermal Route of Administration"
+          ]
+        },
+        {
+          "conceptId": "C38304",
+          "definition": "Administration to a particular spot on the outer surface of the body. The E2B term TRANSMAMMARY is a subset of the term TOPICAL. (FDA)",
+          "preferredTerm": "Topical Route of Administration",
+          "submissionValue": "TOPICAL",
+          "synonyms": [
+            "TOP"
+          ]
+        },
+        {
+          "conceptId": "C38305",
+          "definition": "Administration through the dermal layer of the skin to the systemic circulation by diffusion. (FDA)",
+          "preferredTerm": "Transdermal Route of Administration",
+          "submissionValue": "TRANSDERMAL"
+        },
+        {
+          "conceptId": "C38313",
+          "definition": "Administration into the vagina. (FDA)",
+          "preferredTerm": "Vaginal Route of Administration",
+          "submissionValue": "VAGINAL"
+        }
+      ]
+    },
+    {
+      "conceptId": "C181165",
+      "definition": "A terminology codelist relevant to the mode of delivery of a fetus or neonate.",
+      "extensible": "true",
+      "name": "Mode of Delivery",
+      "preferredTerm": "CDISC SDTM Mode of Delivery Terminology",
+      "submissionValue": "MODDLV",
+      "synonyms": [
+        "Mode of Delivery"
+      ],
+      "terms": [
+        {
+          "conceptId": "C114136",
+          "definition": "The delivery of a breech-presenting fetus, which is manually pulled through the birth canal.",
+          "preferredTerm": "Breech Extraction",
+          "submissionValue": "BREECH EXTRACTION"
+        },
+        {
+          "conceptId": "C46088",
+          "definition": "Surgical delivery of one or more intrauterine fetuses though an abdominal incision.",
+          "preferredTerm": "Cesarean Section",
+          "submissionValue": "CESAREAN SECTION"
+        },
+        {
+          "conceptId": "C114143",
+          "definition": "Extraction of a fetus through the cervix using destructive surgical techniques.",
+          "preferredTerm": "Delivery by Destructive Operation",
+          "submissionValue": "DELIVERY BY DESTRUCTIVE OPERATION"
+        },
+        {
+          "conceptId": "C81301",
+          "definition": "Birth of the fetus through the vagina with the application of vacuum or forceps or any other instrument.",
+          "preferredTerm": "Vaginal Assisted Delivery",
+          "submissionValue": "VAGINAL ASSISTED DELIVERY",
+          "synonyms": [
+            "Operative Vaginal Delivery"
+          ]
+        },
+        {
+          "conceptId": "C81302",
+          "definition": "A vaginal birth in a woman with one or more previous cesarean births. (reVITALize)",
+          "preferredTerm": "Vaginal Birth after Cesarean Delivery",
+          "submissionValue": "VAGINAL BIRTH AFTER CESAREAN DELIVERY"
+        },
+        {
+          "conceptId": "C81303",
+          "definition": "Birth of the fetus through the vagina.",
+          "preferredTerm": "Vaginal Delivery",
+          "submissionValue": "VAGINAL DELIVERY"
+        }
+      ]
+    },
+    {
+      "conceptId": "C128689",
+      "definition": "A terminology codelist relevant to the race of an individual as collected on the case report form.",
+      "extensible": "true",
+      "name": "Race As Collected",
+      "preferredTerm": "CDISC SDTM Collected Race Terminology",
+      "submissionValue": "RACEC",
+      "synonyms": [
+        "Race As Collected"
+      ],
+      "terms": [
+        {
+          "conceptId": "C154875",
+          "definition": "The native people of Australia.",
+          "preferredTerm": "Aboriginal Australian",
+          "submissionValue": "ABORIGINAL AUSTRALIAN"
+        },
+        {
+          "conceptId": "C128937",
+          "definition": "A person having origins in the original peoples of sub-Saharan Africa and the United States.",
+          "preferredTerm": "African American",
+          "submissionValue": "AFRICAN AMERICAN"
+        },
+        {
+          "conceptId": "C41226",
+          "definition": "A person having origins in the original peoples of sub-Saharan Africa and the Caribbean.",
+          "preferredTerm": "African Caribbean",
+          "submissionValue": "AFRICAN CARIBBEAN"
+        },
+        {
+          "conceptId": "C42331",
+          "definition": "A person having origins in any of the original peoples of sub-Saharan Africa.",
+          "preferredTerm": "African",
+          "submissionValue": "AFRICAN"
+        },
+        {
+          "conceptId": "C18237",
+          "definition": "The native people of Alaska.",
+          "preferredTerm": "Alaska Native",
+          "submissionValue": "ALASKA NATIVE"
+        },
+        {
+          "conceptId": "C41259",
+          "definition": "A person having origins in any of the original peoples of North and South America (including Central America), and who maintains tribal affiliation or community attachment. (FDA)",
+          "preferredTerm": "American Indian or Alaska Native",
+          "submissionValue": "AMERICAN INDIAN OR ALASKA NATIVE"
+        },
+        {
+          "conceptId": "C43877",
+          "definition": "The native people of North America.",
+          "preferredTerm": "American Indian",
+          "submissionValue": "AMERICAN INDIAN"
+        },
+        {
+          "conceptId": "C43876",
+          "definition": "A person having origins in any of the original peoples of the Arabian peninsula and surrounding territories in the Middle East and northern Africa.",
+          "preferredTerm": "Arab",
+          "submissionValue": "ARAB"
+        },
+        {
+          "conceptId": "C16310",
+          "definition": "A person having origins in the original peoples of Asia and the United States.",
+          "preferredTerm": "Asian American",
+          "submissionValue": "ASIAN AMERICAN"
+        },
+        {
+          "conceptId": "C41262",
+          "definition": "A person having origins in any of the original peoples of the Indian subcontinent.",
+          "preferredTerm": "Asian Indian",
+          "submissionValue": "ASIAN INDIAN"
+        },
+        {
+          "conceptId": "C41260",
+          "definition": "A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian subcontinent including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam. (FDA)",
+          "preferredTerm": "Asian",
+          "submissionValue": "ASIAN"
+        },
+        {
+          "conceptId": "C67271",
+          "definition": "A person having origins in any of the original peoples of the Bahamas.",
+          "preferredTerm": "Bahamian",
+          "submissionValue": "BAHAMIAN"
+        },
+        {
+          "conceptId": "C43671",
+          "definition": "A person having origins in any of the original peoples of Bangladesh.",
+          "preferredTerm": "Bangladeshi",
+          "submissionValue": "BANGLADESHI"
+        },
+        {
+          "conceptId": "C43823",
+          "definition": "A person having origins in any of the original peoples of Barbados.",
+          "preferredTerm": "Barbadian",
+          "submissionValue": "BARBADIAN"
+        },
+        {
+          "conceptId": "C43673",
+          "definition": "A person having origins in any of the original peoples of Bhutan.",
+          "preferredTerm": "Bhutanese",
+          "submissionValue": "BHUTANESE"
+        },
+        {
+          "conceptId": "C128991",
+          "definition": "A person having origins in the original peoples of sub-Saharan Africa and Central America.",
+          "preferredTerm": "Black Central American",
+          "submissionValue": "BLACK CENTRAL AMERICAN"
+        },
+        {
+          "conceptId": "C16352",
+          "definition": "A person having origins in any of the black racial groups of Africa. Terms such as \"Haitian\" or \"Negro\" can be used in addition to \"Black or African American.\" (FDA)",
+          "preferredTerm": "Black or African American",
+          "submissionValue": "BLACK OR AFRICAN AMERICAN"
+        },
+        {
+          "conceptId": "C128992",
+          "definition": "A person having origins in the original peoples of sub-Saharan Africa and South America.",
+          "preferredTerm": "Black South American",
+          "submissionValue": "BLACK SOUTH AMERICAN"
+        },
+        {
+          "conceptId": "C128938",
+          "definition": "A person having origins in the original peoples of sub-Saharan Africa or the Caribbean.",
+          "preferredTerm": "Black",
+          "submissionValue": "BLACK"
+        },
+        {
+          "conceptId": "C43830",
+          "definition": "A person having origins in any of the original peoples of Botswana.",
+          "preferredTerm": "Botswanan",
+          "submissionValue": "BOTSWANAN"
+        },
+        {
+          "conceptId": "C43674",
+          "definition": "A person having origins in any of the original peoples of Myanmar (formerly Burma).",
+          "preferredTerm": "Burmese",
+          "submissionValue": "BURMESE"
+        },
+        {
+          "conceptId": "C43399",
+          "definition": "A person having origins in any of the original peoples of Cambodia (formerly Kampuchea).",
+          "preferredTerm": "Cambodian",
+          "submissionValue": "CAMBODIAN"
+        },
+        {
+          "conceptId": "C77810",
+          "definition": "The native people of the Caribbean.",
+          "preferredTerm": "Caribbean Indian",
+          "submissionValue": "CARIBBEAN INDIAN"
+        },
+        {
+          "conceptId": "C44950",
+          "definition": "The native people of Central America.",
+          "preferredTerm": "Central American Indian",
+          "submissionValue": "CENTRAL AMERICAN INDIAN"
+        },
+        {
+          "conceptId": "C126534",
+          "definition": "A person having origins in any of the original peoples of Central Asia.",
+          "preferredTerm": "Central Asian",
+          "submissionValue": "CENTRAL ASIAN"
+        },
+        {
+          "conceptId": "C43403",
+          "definition": "The native people of the Mariana Islands, including the United States territories of Guam and the Commonwealth of the Northern Mariana Islands in Micronesia.",
+          "preferredTerm": "Chamorran",
+          "submissionValue": "CHAMORRO"
+        },
+        {
+          "conceptId": "C43391",
+          "definition": "A person having origins in any of the original peoples of China.",
+          "preferredTerm": "Chinese",
+          "submissionValue": "CHINESE"
+        },
+        {
+          "conceptId": "C43824",
+          "definition": "A person having origins in any of the original peoples of Dominica.",
+          "preferredTerm": "Dominica Islander",
+          "submissionValue": "DOMINICA ISLANDER"
+        },
+        {
+          "conceptId": "C67117",
+          "definition": "A person having origins in any of the original peoples of the Dominican Republic.",
+          "preferredTerm": "Dominican",
+          "submissionValue": "DOMINICAN"
+        },
+        {
+          "conceptId": "C161419",
+          "definition": "A person having origins in any of the original peoples of East Asia.",
+          "preferredTerm": "East Asian",
+          "submissionValue": "EAST ASIAN"
+        },
+        {
+          "conceptId": "C77819",
+          "definition": "A person having origins in any of the original peoples of Eastern Europe.",
+          "preferredTerm": "Eastern European",
+          "submissionValue": "EASTERN EUROPEAN"
+        },
+        {
+          "conceptId": "C43831",
+          "definition": "A person having origins in any of the original peoples of Ethiopia.",
+          "preferredTerm": "Ethiopian",
+          "submissionValue": "ETHIOPIAN"
+        },
+        {
+          "conceptId": "C43851",
+          "definition": "A person having origins in any of the original peoples of Europe.",
+          "preferredTerm": "European",
+          "submissionValue": "EUROPEAN"
+        },
+        {
+          "conceptId": "C43393",
+          "definition": "A person having origins in any of the original peoples of the Philippines.",
+          "preferredTerm": "Filipino",
+          "submissionValue": "FILIPINO"
+        },
+        {
+          "conceptId": "C44265",
+          "definition": "The native people of Greenland.",
+          "preferredTerm": "Greenland Eskimo",
+          "submissionValue": "GREENLAND INUIT"
+        },
+        {
+          "conceptId": "C43837",
+          "definition": "A person having origins in the original peoples of the United States territories of Guam and the Commonwealth of the Northern Mariana Islands in Micronesia.",
+          "preferredTerm": "Guamanian or Chamorro",
+          "submissionValue": "GUAMANIAN OR CHAMORRO"
+        },
+        {
+          "conceptId": "C43404",
+          "definition": "A person having origins in any of the original peoples of Guam.",
+          "preferredTerm": "Guamanian",
+          "submissionValue": "GUAMANIAN"
+        },
+        {
+          "conceptId": "C43825",
+          "definition": "A person having origins in any of the original peoples of Haiti.",
+          "preferredTerm": "Haitian",
+          "submissionValue": "HAITIAN"
+        },
+        {
+          "conceptId": "C43398",
+          "definition": "The native people originating in China around the Yellow River or Hoang Ho.",
+          "preferredTerm": "Hmong",
+          "submissionValue": "HMONG"
+        },
+        {
+          "conceptId": "C43715",
+          "definition": "A person having origins in any of the original peoples of Indonesia.",
+          "preferredTerm": "Indonesian",
+          "submissionValue": "INDONESIAN"
+        },
+        {
+          "conceptId": "C44268",
+          "definition": "The native people inhabiting the territory spanning the Norton Sound on the Bering Sea to the Canadian border.",
+          "preferredTerm": "Inupiat Eskimo",
+          "submissionValue": "INUPIAT INUIT"
+        },
+        {
+          "conceptId": "C43718",
+          "definition": "A person having origins in any of the original peoples of Iwo Jima.",
+          "preferredTerm": "Iwo Jiman",
+          "submissionValue": "IWO JIMAN"
+        },
+        {
+          "conceptId": "C43826",
+          "definition": "A person having origins in any of the original peoples of Jamaica.",
+          "preferredTerm": "Jamaican",
+          "submissionValue": "JAMAICAN"
+        },
+        {
+          "conceptId": "C43392",
+          "definition": "A person having origins in any of the original peoples of Japan.",
+          "preferredTerm": "Japanese",
+          "submissionValue": "JAPANESE"
+        },
+        {
+          "conceptId": "C154874",
+          "definition": "The native people of the Western Cape in southern Africa.",
+          "preferredTerm": "Khoisan",
+          "submissionValue": "KHOISAN"
+        },
+        {
+          "conceptId": "C43395",
+          "definition": "A person having origins in any of the original peoples of North and South Korea.",
+          "preferredTerm": "Korean",
+          "submissionValue": "KOREAN"
+        },
+        {
+          "conceptId": "C43397",
+          "definition": "A person having origins in any of the original peoples of Laos.",
+          "preferredTerm": "Laotian",
+          "submissionValue": "LAOTIAN"
+        },
+        {
+          "conceptId": "C126531",
+          "definition": "A person of Latin American descent.",
+          "preferredTerm": "Latin American",
+          "submissionValue": "LATIN AMERICAN"
+        },
+        {
+          "conceptId": "C43832",
+          "definition": "A person having origins in any of the original peoples of Liberia.",
+          "preferredTerm": "Liberian",
+          "submissionValue": "LIBERIAN"
+        },
+        {
+          "conceptId": "C43722",
+          "definition": "A person having origins in any of the original peoples of Madagascar.",
+          "preferredTerm": "Malagasy",
+          "submissionValue": "MALAGASY"
+        },
+        {
+          "conceptId": "C43716",
+          "definition": "A person having origins in any of the original peoples of Malaysia.",
+          "preferredTerm": "Malaysian",
+          "submissionValue": "MALAYSIAN"
+        },
+        {
+          "conceptId": "C43719",
+          "definition": "A person having origins in any of the original peoples of the Maldives.",
+          "preferredTerm": "Maldivian",
+          "submissionValue": "MALDIVIAN"
+        },
+        {
+          "conceptId": "C158274",
+          "definition": "The native people of New Zealand.",
+          "preferredTerm": "Maori",
+          "submissionValue": "MAORI"
+        },
+        {
+          "conceptId": "C77811",
+          "definition": "A person having origins in any of the original peoples of the countries surrounding the Mediterranean sea.",
+          "preferredTerm": "Mediterranean",
+          "submissionValue": "MEDITERRANEAN"
+        },
+        {
+          "conceptId": "C43409",
+          "definition": "A person having origins in any of the original peoples of Melanesia.",
+          "preferredTerm": "Melanesian",
+          "submissionValue": "MELANESIAN"
+        },
+        {
+          "conceptId": "C43402",
+          "definition": "A person having origins in any of the original peoples of Micronesia.",
+          "preferredTerm": "Micronesian",
+          "submissionValue": "MICRONESIAN"
+        },
+        {
+          "conceptId": "C77820",
+          "definition": "A person having origins in any of the original peoples of the Middle East.",
+          "preferredTerm": "Middle Eastern",
+          "submissionValue": "MIDDLE EASTERN"
+        },
+        {
+          "conceptId": "C43864",
+          "definition": "A person having origins in any of the original peoples of Mongolia.",
+          "preferredTerm": "Mongolian",
+          "submissionValue": "MONGOLIAN"
+        },
+        {
+          "conceptId": "C43833",
+          "definition": "A person having origins in any of the original peoples of Namibia.",
+          "preferredTerm": "Namibian",
+          "submissionValue": "NAMIBIAN"
+        },
+        {
+          "conceptId": "C41219",
+          "definition": "Denotes a person having origins in any of the original peoples of Hawaii, Guam, Samoa, or other Pacific Islands. The term covers particularly people who identify themselves as part-Hawaiian, Native Hawaiian, Guamanian or Chamorro, Carolinian, Samoan, Chuu. (FDA)",
+          "preferredTerm": "Native Hawaiian or Other Pacific Islander",
+          "submissionValue": "NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER"
+        },
+        {
+          "conceptId": "C43394",
+          "definition": "A person having origins in any of the original peoples of Hawaii. (NCI)",
+          "preferredTerm": "Native Hawaiian",
+          "submissionValue": "NATIVE HAWAIIAN"
+        },
+        {
+          "conceptId": "C43720",
+          "definition": "A person having origins in any of the original peoples of Nepal.",
+          "preferredTerm": "Nepalese",
+          "submissionValue": "NEPALESE"
+        },
+        {
+          "conceptId": "C43834",
+          "definition": "A person having origins in any of the original peoples of Nigeria.",
+          "preferredTerm": "Nigerian",
+          "submissionValue": "NIGERIAN"
+        },
+        {
+          "conceptId": "C77813",
+          "definition": "A person having origins in any of the original peoples of North Africa.",
+          "preferredTerm": "North Coast of Africa",
+          "submissionValue": "NORTH AFRICAN"
+        },
+        {
+          "conceptId": "C77814",
+          "definition": "A person having origins in any of the original peoples of Northern Europe.",
+          "preferredTerm": "Northern European",
+          "submissionValue": "NORTHERN EUROPEAN"
+        },
+        {
+          "conceptId": "C43234",
+          "definition": "Not provided or available.",
+          "preferredTerm": "Not Reported",
+          "submissionValue": "NOT REPORTED",
+          "synonyms": [
+            "Not reported"
+          ]
+        },
+        {
+          "conceptId": "C43717",
+          "definition": "A person having origins in any of the original peoples of Okinawa.",
+          "preferredTerm": "Okinawan",
+          "submissionValue": "OKINAWAN"
+        },
+        {
+          "conceptId": "C107602",
+          "definition": "A person having origins in the original peoples of the Pacific Islands, but not Guam, Hawaii, the Mariana Islands or Samoa. (NCI)",
+          "preferredTerm": "Other Pacific Islander",
+          "submissionValue": "OTHER PACIFIC ISLANDER"
+        },
+        {
+          "conceptId": "C43427",
+          "definition": "A person having origins in any of the original peoples of Pakistan.",
+          "preferredTerm": "Pakistani",
+          "submissionValue": "PAKISTANI"
+        },
+        {
+          "conceptId": "C43405",
+          "definition": "A person having origins in any of the original peoples of Polynesia.",
+          "preferredTerm": "Polynesian",
+          "submissionValue": "POLYNESIAN"
+        },
+        {
+          "conceptId": "C43860",
+          "definition": "A person having origins in any of the original peoples of Russia.",
+          "preferredTerm": "Russian",
+          "submissionValue": "RUSSIAN"
+        },
+        {
+          "conceptId": "C43407",
+          "definition": "A person having origins in any of the original peoples of Samoa. (NCI)",
+          "preferredTerm": "Samoan",
+          "submissionValue": "SAMOAN"
+        },
+        {
+          "conceptId": "C44269",
+          "definition": "The native Yupik people inhabiting the coast of the Chukchi Peninsula in the far northeast of the Russian Federation and on St. Lawrence Island in Alaska.",
+          "preferredTerm": "Siberian Eskimo",
+          "submissionValue": "SIBERIAN ESKIMO"
+        },
+        {
+          "conceptId": "C43721",
+          "definition": "A person having origins in any of the original peoples of Singapore.",
+          "preferredTerm": "Singaporean",
+          "submissionValue": "SINGAPOREAN"
+        },
+        {
+          "conceptId": "C44953",
+          "definition": "The native people of South America.",
+          "preferredTerm": "South American Indian",
+          "submissionValue": "SOUTH AMERICAN INDIAN"
+        },
+        {
+          "conceptId": "C41263",
+          "definition": "A person having origins in any of the original peoples of the South Asia.",
+          "preferredTerm": "South Asian",
+          "submissionValue": "SOUTH ASIAN"
+        },
+        {
+          "conceptId": "C126533",
+          "definition": "A person having origins in any of the original peoples of Southeast Asia.",
+          "preferredTerm": "Southeast Asian",
+          "submissionValue": "SOUTHEAST ASIAN"
+        },
+        {
+          "conceptId": "C156583",
+          "definition": "A person of mixed race, whose ancestry is from one or more of the naturalized racial groups of Southern Africa (typically Western European, South Asian, or Southeastern Asian) and one or more of the indigenous Southern African peoples.",
+          "preferredTerm": "Southern African Coloured",
+          "submissionValue": "SOUTHERN AFRICAN COLOURED"
+        },
+        {
+          "conceptId": "C43672",
+          "definition": "A person having origins in any of the original peoples of Sri Lanka.",
+          "preferredTerm": "Sri Lankan",
+          "submissionValue": "SRI LANKAN"
+        },
+        {
+          "conceptId": "C43675",
+          "definition": "A person having origins in any of the original peoples of Taiwan.",
+          "preferredTerm": "Taiwanese",
+          "submissionValue": "TAIWANESE"
+        },
+        {
+          "conceptId": "C43400",
+          "definition": "A person having origins in any of the original peoples of Thailand.",
+          "preferredTerm": "Thai",
+          "submissionValue": "THAI"
+        },
+        {
+          "conceptId": "C43827",
+          "definition": "A person having origins in any of the original peoples of Tobago.",
+          "preferredTerm": "Tobagoan",
+          "submissionValue": "TOBAGOAN"
+        },
+        {
+          "conceptId": "C43828",
+          "definition": "A person having origins in any of the original peoples of Trinidad.",
+          "preferredTerm": "Trinidadian",
+          "submissionValue": "TRINIDADIAN"
+        },
+        {
+          "conceptId": "C17998",
+          "definition": "Not known, not observed, not recorded, or refused. (NCI)",
+          "preferredTerm": "Unknown",
+          "submissionValue": "UNKNOWN",
+          "synonyms": [
+            "U",
+            "UNK",
+            "Unknown"
+          ]
+        },
+        {
+          "conceptId": "C43396",
+          "definition": "A person having origins in any of the original peoples of Viet Nam.",
+          "preferredTerm": "Vietnamese",
+          "submissionValue": "VIETNAMESE"
+        },
+        {
+          "conceptId": "C153343",
+          "definition": "A person having origins in any of the original peoples of Western Asia.",
+          "preferredTerm": "Western Asian",
+          "submissionValue": "WEST ASIAN"
+        },
+        {
+          "conceptId": "C43829",
+          "definition": "A person having origins in any of the original peoples of the West Indies.",
+          "preferredTerm": "West Indian",
+          "submissionValue": "WEST INDIAN"
+        },
+        {
+          "conceptId": "C77817",
+          "definition": "A person having origins in any of the original peoples of Western Europe.",
+          "preferredTerm": "Western European",
+          "submissionValue": "WESTERN EUROPEAN"
+        },
+        {
+          "conceptId": "C77816",
+          "definition": "A person having origins in the original peoples of Europe, the Middle East, or North Africa, and the Caribbean.",
+          "preferredTerm": "White Caribbean",
+          "submissionValue": "WHITE CARIBBEAN"
+        },
+        {
+          "conceptId": "C128993",
+          "definition": "A person having origins in the original peoples of Europe, the Middle East, or North Africa, and Central America.",
+          "preferredTerm": "White Central American",
+          "submissionValue": "WHITE CENTRAL AMERICAN"
+        },
+        {
+          "conceptId": "C128994",
+          "definition": "A person having origins in the original peoples of Europe, the Middle East, or North Africa, and South America.",
+          "preferredTerm": "White South American",
+          "submissionValue": "WHITE SOUTH AMERICAN"
+        },
+        {
+          "conceptId": "C41261",
+          "definition": "Denotes a person with European, Middle Eastern, or North African ancestral origin who identifies, or is identified, as White. (FDA)",
+          "preferredTerm": "White",
+          "submissionValue": "WHITE"
+        },
+        {
+          "conceptId": "C44270",
+          "definition": "The native people inhabiting western, southwestern, and southcentral Alaska and the Russian Far East.",
+          "preferredTerm": "Yupik Eskimo",
+          "submissionValue": "YUPIK ESKIMO"
+        },
+        {
+          "conceptId": "C43835",
+          "definition": "A person having origins in any of the original peoples of Zaire.",
+          "preferredTerm": "Zairean",
+          "submissionValue": "ZAIREAN"
+        }
+      ]
+    },
+    {
+      "conceptId": "C177909",
+      "definition": "Terminology relevant to the classification of a serious adverse event report.",
+      "extensible": "false",
+      "name": "Serious Adverse Event Report Category",
+      "preferredTerm": "CDISC CDASH Serious Adverse Event Report Category Response Terminology",
+      "submissionValue": "SAERCAT",
+      "synonyms": [
+        "Serious Adverse Event Report Category"
+      ],
+      "terms": [
+        {
+          "conceptId": "C41200",
+          "definition": "Action(s) undertaken to modify by means of correction, addition, subtraction, or replacement.",
+          "preferredTerm": "Amendment",
+          "submissionValue": "AMENDMENT",
+          "synonyms": [
+            "Amended"
+          ]
+        },
+        {
+          "conceptId": "C178052",
+          "definition": "Action(s) undertaken to void, negate, or invalidate.",
+          "preferredTerm": "Nullification",
+          "submissionValue": "NULLIFICATION",
+          "synonyms": [
+            "Nullified"
+          ]
+        },
+        {
+          "conceptId": "C25604",
+          "definition": "Preceding all others in time or being as first made or performed.",
+          "preferredTerm": "Original",
+          "submissionValue": "ORIGINAL"
+        }
+      ]
+    },
+    {
+      "conceptId": "C181164",
+      "definition": "A terminology codelist relevant to the resultant reaction due to withdrawing, interrupting, or otherwise altering administration of study treatment.",
+      "extensible": "true",
+      "name": "Study Agent Dechallenge Reaction Response",
+      "preferredTerm": "CDISC CDASH Study Agent Dechallenge Reaction Response Terminology",
+      "submissionValue": "SADCRR",
+      "synonyms": [
+        "Study Agent Dechallenge Reaction Response"
+      ],
+      "terms": [
+        {
+          "conceptId": "C181222",
+          "definition": "Continued presence of an adverse event after decrease or change in dose, or withdrawal of the product/drug.",
+          "preferredTerm": "Negative Dechallenge Response",
+          "submissionValue": "NEGATIVE DECHALLENGE"
+        },
+        {
+          "conceptId": "C181224",
+          "definition": "The outcome of decreasing the dose or discontinuation of the product/drug is not relevant in the current context.",
+          "preferredTerm": "Not Applicable Dechallenge Response",
+          "submissionValue": "NOT APPLICABLE DECHALLENGE"
+        },
+        {
+          "conceptId": "C181223",
+          "definition": "Partial or complete abatement of an adverse event after decrease or change in dose, or withdrawal of the product/drug.",
+          "preferredTerm": "Positive Dechallenge Response",
+          "submissionValue": "POSITIVE DECHALLENGE"
+        },
+        {
+          "conceptId": "C181225",
+          "definition": "No information regarding the outcome of decreasing the dose or discontinuation of the product/drug.",
+          "preferredTerm": "Unknown Dechallenge Response",
+          "submissionValue": "UNKNOWN DECHALLENGE"
+        }
+      ]
+    },
+    {
+      "conceptId": "C181163",
+      "definition": "A terminology codelist relevant to the resultant reaction due to restarting or otherwise returning administration of study treatment to previous level, after a dechallenge event.",
+      "extensible": "true",
+      "name": "Study Agent Rechallenge Reaction Response",
+      "preferredTerm": "CDISC CDASH Study Agent Rechallenge Reaction Response Terminology",
+      "submissionValue": "SARCRR",
+      "synonyms": [
+        "Study Agent Rechallenge Reaction Response"
+      ],
+      "terms": [
+        {
+          "conceptId": "C181226",
+          "definition": "Failure of the product/drug, when reintroduced, to produce signs or symptoms similar to those observed when the product/drug was previously used.",
+          "preferredTerm": "Negative Rechallenge Response",
+          "submissionValue": "NEGATIVE RECHALLENGE"
+        },
+        {
+          "conceptId": "C181228",
+          "definition": "The outcome of reintroduction of product/drug is not relevant in the current context.",
+          "preferredTerm": "Not Applicable Rechallenge Response",
+          "submissionValue": "NOT APPLICABLE RECHALLENGE"
+        },
+        {
+          "conceptId": "C181227",
+          "definition": "Recurrence of similar or new signs and symptoms upon reintroduction of the product/drug.",
+          "preferredTerm": "Positive Rechallenge Response",
+          "submissionValue": "POSITIVE RECHALLENGE"
+        },
+        {
+          "conceptId": "C181229",
+          "definition": "No information regarding the outcome of reintroduction of product/drug.",
+          "preferredTerm": "Unknown Rechallenge Response",
+          "submissionValue": "UKNOWN RECHALLENGE"
+        }
+      ]
+    },
+    {
+      "conceptId": "C83004",
+      "definition": "A terminology subset of the CDISC SDTM Never/Current/Former Classification codelist created for CDASH Substance Use Never/Current/Former Classification codelist. (NCI)",
+      "extensible": "true",
+      "name": "Substance Use Never/Current/Former Classification",
+      "preferredTerm": "CDISC CDASH Substance Use Never/Current/Former Classification Terminology",
+      "submissionValue": "SUNCF",
+      "synonyms": [
+        "Substance Use Never/Current/Former Classification"
+      ],
+      "terms": [
+        {
+          "conceptId": "C25471",
+          "definition": "Occurring in or belonging to the present time. (NCI)",
+          "preferredTerm": "Current",
+          "submissionValue": "CURRENT"
+        },
+        {
+          "conceptId": "C25627",
+          "definition": "Occurring prior to something else. (NCI)",
+          "preferredTerm": "Previous",
+          "submissionValue": "FORMER",
+          "synonyms": [
+            "Previous"
+          ]
+        },
+        {
+          "conceptId": "C70543",
+          "definition": "Not ever; at no time in the past.",
+          "preferredTerm": "Never",
+          "submissionValue": "NEVER"
+        }
+      ]
+    },
+    {
+      "conceptId": "C78428",
+      "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Total Volume Administration Unit codelist. (NCI)",
+      "extensible": "true",
+      "name": "Total Volume Administration Unit",
+      "preferredTerm": "CDISC CDASH Total Volume Administration Unit Terminology",
+      "submissionValue": "EXVOLTU",
+      "synonyms": [
+        "Total Volume Administration Unit"
+      ],
+      "terms": [
+        {
+          "conceptId": "C28253",
+          "definition": "A unit of mass equal to one thousandth (1E-3) of a gram.",
+          "preferredTerm": "Milligram",
+          "submissionValue": "mg",
+          "synonyms": [
+            "Milligram"
+          ]
+        },
+        {
+          "conceptId": "C28254",
+          "definition": "A unit of volume equal to one thousandth (1E-3) of a liter.",
+          "preferredTerm": "Milliliter",
+          "submissionValue": "mL",
+          "synonyms": [
+            "cm3",
+            "Milliliter"
+          ]
+        },
+        {
+          "conceptId": "C48152",
+          "definition": "A unit of mass equal to one millionth (1E-6) of a gram.",
+          "preferredTerm": "Microgram",
+          "submissionValue": "ug",
+          "synonyms": [
+            "mcg",
+            "Microgram"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "C78427",
+      "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Unit for Duration of Treatment Interruption codelist. (NCI)",
+      "extensible": "true",
+      "name": "Unit for the Duration of Treatment Interruption",
+      "preferredTerm": "CDISC CDASH Unit for Duration of Treatment Interruption Terminology",
+      "submissionValue": "EXINTPU",
+      "synonyms": [
+        "Unit for the Duration of Treatment Interruption"
+      ],
+      "terms": [
+        {
+          "conceptId": "C25529",
+          "definition": "A unit of measurement of time equal to 60 minutes.",
+          "preferredTerm": "Hour",
+          "submissionValue": "HOURS",
+          "synonyms": [
+            "h",
+            "Hours",
+            "hr"
+          ]
+        },
+        {
+          "conceptId": "C48154",
+          "definition": "A unit of measurement of time equal to 60 seconds.",
+          "preferredTerm": "Minute",
+          "submissionValue": "min",
+          "synonyms": [
+            "Minute"
+          ]
+        },
+        {
+          "conceptId": "C42535",
+          "definition": "The base unit of time in the International System of Units (SI) equal to the duration of 9,192,631,770 periods of the specified light radiation corresponding to the transition between the two hyperfine levels of the cesium 133 atom in its ground state at 0 K.",
+          "preferredTerm": "Second",
+          "submissionValue": "sec",
+          "synonyms": [
+            "Second"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "C78421",
+      "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Unit of Drug Dispensed or Returned codelist. (NCI)",
+      "extensible": "true",
+      "name": "Unit of Drug Dispensed or Returned",
+      "preferredTerm": "CDISC CDASH Unit of Drug Dispensed or Returned Terminology",
+      "submissionValue": "DAORRESU",
+      "synonyms": [
+        "Unit of Drug Dispensed or Returned"
+      ],
+      "terms": [
+        {
+          "conceptId": "C48474",
+          "definition": "A dosing measurement based on the bag unit.(NCI)",
+          "preferredTerm": "Bag Dosing Unit",
+          "submissionValue": "BAG",
+          "synonyms": [
+            "Bag Dosing Unit"
+          ]
+        },
+        {
+          "conceptId": "C48477",
+          "definition": "A dosing measurement based on the bottle unit.(NCI)",
+          "preferredTerm": "Bottle Dosing Unit",
+          "submissionValue": "BOTTLE",
+          "synonyms": [
+            "Bottle Dosing Unit"
+          ]
+        },
+        {
+          "conceptId": "C48478",
+          "definition": "A dosing measurement based on the box unit.(NCI)",
+          "preferredTerm": "Box Dosing Unit",
+          "submissionValue": "BOX",
+          "synonyms": [
+            "Box Dosing Unit"
+          ]
+        },
+        {
+          "conceptId": "C48480",
+          "definition": "A dosing measurement based on the capsule unit.(NCI)",
+          "preferredTerm": "Capsule Dosing Unit",
+          "submissionValue": "CAPSULE",
+          "synonyms": [
+            "cap",
+            "Capsule Dosing Unit"
+          ]
+        },
+        {
+          "conceptId": "C48484",
+          "definition": "A dosing measurement based on the container unit.(NCI)",
+          "preferredTerm": "Container Dosing Unit",
+          "submissionValue": "CONTAINER",
+          "synonyms": [
+            "Container Dosing Unit"
+          ]
+        },
+        {
+          "conceptId": "C48490",
+          "definition": "A dosing measurement based on the disk unit.(NCI)",
+          "preferredTerm": "Disk Dosing Unit",
+          "submissionValue": "DISK",
+          "synonyms": [
+            "Disk Dosing Unit"
+          ]
+        },
+        {
+          "conceptId": "C48520",
+          "definition": "A dosing measurement based on the package unit.(NCI)",
+          "preferredTerm": "Package Dosing Unit",
+          "submissionValue": "PACKAGE",
+          "synonyms": [
+            "Pack Dosing Unit",
+            "Package Dosing Unit"
+          ]
+        },
+        {
+          "conceptId": "C48521",
+          "definition": "A dosing measurement based on the packet unit.(NCI)",
+          "preferredTerm": "Packet Dosing Unit",
+          "submissionValue": "PACKET",
+          "synonyms": [
+            "Packet Dosing Unit"
+          ]
+        },
+        {
+          "conceptId": "C48524",
+          "definition": "A dosing measurement based on the patch unit.(NCI)",
+          "preferredTerm": "Patch Dosing Unit",
+          "submissionValue": "PATCH",
+          "synonyms": [
+            "Patch Dosing Unit"
+          ]
+        },
+        {
+          "conceptId": "C48542",
+          "definition": "A dosing measurement based on the tablet unit.(NCI)",
+          "preferredTerm": "Tablet Dosing Unit",
+          "submissionValue": "TABLET",
+          "synonyms": [
+            "tab",
+            "Tablet Dosing Unit"
+          ]
+        },
+        {
+          "conceptId": "C48549",
+          "definition": "A dosing measurement based on the tube unit.(NCI)",
+          "preferredTerm": "Tube Dosing Unit",
+          "submissionValue": "TUBE",
+          "synonyms": [
+            "Tube Dosing Unit"
+          ]
+        },
+        {
+          "conceptId": "C48551",
+          "definition": "A dosing measurement based on the vial unit.(NCI)",
+          "preferredTerm": "Vial Dosing Unit",
+          "submissionValue": "VIAL",
+          "synonyms": [
+            "Vial Dosing Unit"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "C78429",
+      "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Unit of Measure for Flow Rate codelist. (NCI)",
+      "extensible": "true",
+      "name": "Unit of Measure for Flow Rate",
+      "preferredTerm": "CDISC CDASH Unit of Measure for Flow Rate Terminology",
+      "submissionValue": "EXFLRTU",
+      "synonyms": [
+        "Unit of Measure for Flow Rate"
+      ],
+      "terms": [
+        {
+          "conceptId": "C64777",
+          "definition": "A unit of flow rate equal to one milliliter per minute.",
+          "preferredTerm": "Milliliter per Minute",
+          "submissionValue": "mL/min"
+        },
+        {
+          "conceptId": "C67420",
+          "definition": "A unit of substance flow rate equal to one millimole per day.",
+          "preferredTerm": "Millimole per 24 Hours",
+          "submissionValue": "mmol/day",
+          "synonyms": [
+            "mmol/24h"
+          ]
+        },
+        {
+          "conceptId": "C71205",
+          "definition": "A unit of mass flow rate equal to one microgram per day.",
+          "preferredTerm": "Microgram per Day",
+          "submissionValue": "ug/day",
+          "synonyms": [
+            "mcg/day"
+          ]
+        },
+        {
+          "conceptId": "C71211",
+          "definition": "A unit of mass flow rate equal to one microgram per minute.",
+          "preferredTerm": "Microgram per Minute",
+          "submissionValue": "ug/min",
+          "synonyms": [
+            "mcg/min"
+          ]
+        },
+        {
+          "conceptId": "C67406",
+          "definition": "A unit of substance flow rate equal to one micromole per day.",
+          "preferredTerm": "Micromole per 24 Hours",
+          "submissionValue": "umol/day",
+          "synonyms": [
+            "mcmol/day"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "C78423",
+      "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Units for Exposure codelist. (NCI)",
+      "extensible": "true",
+      "name": "Units for Exposure",
+      "preferredTerm": "CDISC CDASH Units for Exposure Terminology",
+      "submissionValue": "EXDOSU",
+      "synonyms": [
+        "Units for Exposure"
+      ],
+      "terms": [
+        {
+          "conceptId": "C48480",
+          "definition": "A dosing measurement based on the capsule unit.(NCI)",
+          "preferredTerm": "Capsule Dosing Unit",
+          "submissionValue": "CAPSULE",
+          "synonyms": [
+            "cap",
+            "Capsule Dosing Unit"
+          ]
+        },
+        {
+          "conceptId": "C48155",
+          "definition": "A unit of mass equal to one thousandth (1E-3) of a kilogram, the kilogram being the base unit of mass in the International System of Units (SI).",
+          "preferredTerm": "Gram",
+          "submissionValue": "g",
+          "synonyms": [
+            "Gram"
+          ]
+        },
+        {
+          "conceptId": "C28253",
+          "definition": "A unit of mass equal to one thousandth (1E-3) of a gram.",
+          "preferredTerm": "Milligram",
+          "submissionValue": "mg",
+          "synonyms": [
+            "Milligram"
+          ]
+        },
+        {
+          "conceptId": "C28254",
+          "definition": "A unit of volume equal to one thousandth (1E-3) of a liter.",
+          "preferredTerm": "Milliliter",
+          "submissionValue": "mL",
+          "synonyms": [
+            "cm3",
+            "Milliliter"
+          ]
+        },
+        {
+          "conceptId": "C65060",
+          "definition": "A means of delivering a defined dose of a therapeutic aerolized solution into either the upper or lower respiratory tract. Metered-dose inhalers or spray pumps are devices that provide a puff dose for delivery into either the oral or the nasal cavity.(NCI)",
+          "preferredTerm": "Puff Dosing Unit",
+          "submissionValue": "PUFF",
+          "synonyms": [
+            "Puff Dosing Unit"
+          ]
+        },
+        {
+          "conceptId": "C48542",
+          "definition": "A dosing measurement based on the tablet unit.(NCI)",
+          "preferredTerm": "Tablet Dosing Unit",
+          "submissionValue": "TABLET",
+          "synonyms": [
+            "tab",
+            "Tablet Dosing Unit"
+          ]
+        },
+        {
+          "conceptId": "C48152",
+          "definition": "A unit of mass equal to one millionth (1E-6) of a gram.",
+          "preferredTerm": "Microgram",
+          "submissionValue": "ug",
+          "synonyms": [
+            "mcg",
+            "Microgram"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "C78430",
+      "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Units for Planned Exposure codelist. (NCI)",
+      "extensible": "true",
+      "name": "Units for Planned Exposure",
+      "preferredTerm": "CDISC CDASH Units for Planned Exposure Terminology",
+      "submissionValue": "EXPDOSEU",
+      "synonyms": [
+        "Units for Planned Exposure"
+      ],
+      "terms": [
+        {
+          "conceptId": "C48480",
+          "definition": "A dosing measurement based on the capsule unit.(NCI)",
+          "preferredTerm": "Capsule Dosing Unit",
+          "submissionValue": "CAPSULE",
+          "synonyms": [
+            "cap",
+            "Capsule Dosing Unit"
+          ]
+        },
+        {
+          "conceptId": "C48155",
+          "definition": "A unit of mass equal to one thousandth (1E-3) of a kilogram, the kilogram being the base unit of mass in the International System of Units (SI).",
+          "preferredTerm": "Gram",
+          "submissionValue": "g",
+          "synonyms": [
+            "Gram"
+          ]
+        },
+        {
+          "conceptId": "C28253",
+          "definition": "A unit of mass equal to one thousandth (1E-3) of a gram.",
+          "preferredTerm": "Milligram",
+          "submissionValue": "mg",
+          "synonyms": [
+            "Milligram"
+          ]
+        },
+        {
+          "conceptId": "C28254",
+          "definition": "A unit of volume equal to one thousandth (1E-3) of a liter.",
+          "preferredTerm": "Milliliter",
+          "submissionValue": "mL",
+          "synonyms": [
+            "cm3",
+            "Milliliter"
+          ]
+        },
+        {
+          "conceptId": "C65060",
+          "definition": "A means of delivering a defined dose of a therapeutic aerolized solution into either the upper or lower respiratory tract. Metered-dose inhalers or spray pumps are devices that provide a puff dose for delivery into either the oral or the nasal cavity.(NCI)",
+          "preferredTerm": "Puff Dosing Unit",
+          "submissionValue": "PUFF",
+          "synonyms": [
+            "Puff Dosing Unit"
+          ]
+        },
+        {
+          "conceptId": "C48542",
+          "definition": "A dosing measurement based on the tablet unit.(NCI)",
+          "preferredTerm": "Tablet Dosing Unit",
+          "submissionValue": "TABLET",
+          "synonyms": [
+            "tab",
+            "Tablet Dosing Unit"
+          ]
+        },
+        {
+          "conceptId": "C48152",
+          "definition": "A unit of mass equal to one millionth (1E-6) of a gram.",
+          "preferredTerm": "Microgram",
+          "submissionValue": "ug",
+          "synonyms": [
+            "mcg",
+            "Microgram"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "C78431",
+      "definition": "A terminology subset of the CDISC SDTM Position codelist created for CDASH Vital Signs Position of Subject codelist. (NCI)",
+      "extensible": "true",
+      "name": "Vital Signs Position of Subject",
+      "preferredTerm": "CDISC CDASH Vital Signs Position of Subject Terminology",
+      "submissionValue": "VSPOS",
+      "synonyms": [
+        "Vital Signs Position of Subject"
+      ],
+      "terms": [
+        {
+          "conceptId": "C62122",
+          "definition": "The state or act of one who sits; the posture of one who occupies a seat. (NCI)",
+          "preferredTerm": "Sitting",
+          "submissionValue": "SITTING",
+          "synonyms": [
+            "Sitting"
+          ]
+        },
+        {
+          "conceptId": "C62166",
+          "definition": "The act of assuming or maintaining an erect upright position. (NCI)",
+          "preferredTerm": "Standing",
+          "submissionValue": "STANDING",
+          "synonyms": [
+            "Orthostatic",
+            "Standing"
+          ]
+        },
+        {
+          "conceptId": "C62167",
+          "definition": "A posterior recumbent body position whereby the person lies on its back and faces upward. (NCI)",
+          "preferredTerm": "Supine Position",
+          "submissionValue": "SUPINE",
+          "synonyms": [
+            "Supine"
+          ]
+        }
+      ]
+    }
+  ],
+  "description": "CDISC Controlled Terminology for CDASH is the set of CDISC-developed or CDISC-adopted standard expressions (values) used with data items within CDISC-defined CDASH datasets.",
+  "effectiveDate": "2021-12-17",
+  "label": "CDASH Controlled Terminology Package 48 Effective 2021-12-17",
+  "name": "CDASH CT 2021-12-17",
+  "registrationStatus": "Final",
+  "source": "CDASH Controlled Terminology developed by the CDISC Terminology Team in collaboration with the National Cancer Institute's Enterprise Vocabulary Services (EVS)",
+  "version": "2021-12-17"
+}
