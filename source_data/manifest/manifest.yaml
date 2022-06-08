@@ -1,0 +1,688 @@
+---
+"2007-03-06":
+  package: ""
+  format: 
+  - "1"
+  items:
+    sdtm: "2007-03-06"
+"2007-04-20":
+  package: ""
+  format: 
+  - "1"
+  items:
+    sdtm: "2007-04-20"
+"2007-04-26":
+  package: ""
+  format: 
+  - "1"
+  items:
+    sdtm: "2007-04-26"
+"2007-05-31":
+  package: ""
+  format: 
+  - "2"
+  items:
+    sdtm: "2007-05-31"
+"2007-06-05":
+  package: ""
+  format: 
+  - "2"
+  items:
+    sdtm: "2007-06-05"
+"2008-01-15":
+  package: ""
+  format: 
+  - "2"
+  items:
+    sdtm: "2008-01-15"
+"2008-01-25":
+  package: ""
+  format: 
+  - "2"
+  items:
+    sdtm: "2008-01-25"
+"2008-08-26":
+  package: ""
+  format: 
+  - "2"
+  items:
+    sdtm: "2008-08-26"
+"2008-09-22":
+  package: ""
+  format: 
+  - "3"
+  items:
+    sdtm: "2008-09-22"
+"2008-09-24":
+  package: ""
+  format: 
+  - "3"
+  items:
+    sdtm: "2008-09-24"
+"2008-09-30":
+  package: ""
+  format: 
+  - "3"
+  items:
+    sdtm: "2008-09-30"
+"2008-10-09":
+  package: ""
+  format: 
+  - "3"
+  items:
+    sdtm: "2008-10-09"
+"2008-10-15":
+  package: ""
+  format: 
+  - "3"
+  items:
+    sdtm: "2008-10-15"
+"2009-02-17":
+  package: ""
+  format: 
+  - "3"
+  items:
+    sdtm: "2009-02-17"
+"2009-02-18":
+  package: ""
+  format: 
+  - "3"
+  items:
+    sdtm: "2009-02-18"
+"2009-05-01":
+  package: ""
+  format: 
+  - "4"
+  items:
+    sdtm: "2009-05-01"
+"2009-07-06":
+  package: ""
+  format: 
+  - "4"
+  items:
+    sdtm: "2009-07-06"
+"2009-10-06":
+  package: ""
+  format: 
+  - "4"
+  items:
+    sdtm: "2009-10-06"
+"2010-03-05":
+  package: ""
+  format: 
+  - "4" 
+  items:
+    adam: "2010-03-05"
+    cdash: "2010-03-05"
+    sdtm: "2010-03-05"
+"2010-04-08":
+  package: ""
+  format: 
+  - "5"
+  items:
+    adam: "2010-03-05"
+    cdash: "2010-03-05"
+    sdtm: "2010-04-08"
+"2010-07-02":
+  package: ""
+  format: 
+  - "5"
+  items:
+    adam: "2010-03-05"
+    cdash: "2010-03-05"
+    sdtm: "2010-07-02"
+"2010-10-06":
+  package: ""
+  format: 
+  - "5"
+  items:
+    adam: "2010-10-06"
+    cdash: "2010-03-05"
+    sdtm: "2010-10-06"
+"2010-10-22":
+  package: ""
+  format: 
+  - "5"
+  items:
+    adam: "2010-10-06"
+    cdash: "2010-03-05"
+    sdtm: "2010-10-22"
+"2011-01-07":
+  package: ""
+  format: 
+  - "5"
+  items:
+    adam: "2011-01-07"
+    cdash: "2011-01-07"
+    sdtm: "2011-01-07"
+"2011-04-08":
+  package: ""
+  format: 
+  - "5"
+  items:
+    adam: "2011-01-07"
+    cdash: "2011-04-08"
+    sdtm: "2011-04-08"
+"2011-06-10":
+  package: ""
+  format: 
+  - "5"
+  items:
+    adam: "2011-01-07"
+    cdash: "2011-04-08"
+    sdtm: "2011-06-10"
+    send: "2011-06-10"
+"2011-07-22":
+  package: ""
+  format: 
+  - "5"
+  items:
+    adam: "2011-07-22"
+    cdash: "2011-07-22"
+    sdtm: "2011-07-22"
+    send: "2011-07-22"
+"2011-12-09":
+  package: ""
+  format: 
+  - "5"
+  items:
+    adam: "2011-07-22"
+    cdash: "2011-12-09"
+    sdtm: "2011-12-09"
+    send: "2011-12-09"
+"2012-01-02":
+  package: ""
+  format: 
+  - "5"
+  items:
+    adam: "2011-07-22"
+    cdash: "2011-12-09"
+    sdtm: "2011-12-09"
+    send: "2012-01-02"
+"2012-03-23":
+  package: ""
+  format: 
+  - "5"
+  items:
+    adam: "2011-07-22"
+    cdash: "2011-12-09"
+    qs: "2012-03-23"
+    sdtm: "2012-03-23"
+    send: "2012-03-23"
+"2012-06-29":
+  package: ""
+  format: 
+  - "5"
+  items:
+    adam: "2011-07-22"
+    cdash: "2012-06-29"
+    qs: "2012-06-29"
+    sdtm: "2012-06-29"
+    send: "2012-03-23"
+"2012-08-03":
+  package: ""
+  format: 
+  - "5"
+  items:
+    adam: "2011-07-22"
+    cdash: "2012-06-29"
+    qs: "2012-08-03"
+    sdtm: "2012-08-03"
+    send: "2012-08-03"
+"2012-12-21":
+  package: ""
+  format: 
+  - "5"
+  items:
+    adam: "2011-07-22"
+    cdash: "2012-12-21"
+    qs: "2012-12-21"
+    sdtm: "2012-12-21"
+    send: "2012-12-21"
+"2013-04-12":
+  package: ""
+  format: 
+  - "5"
+  items:
+    adam: "2011-07-22"
+    cdash: "2012-12-21"
+    qs: "2013-04-12"
+    sdtm: "2013-04-12"
+    send: "2013-04-12"
+"2013-06-28":
+  package: ""
+  format: 
+  - "5"
+  items:
+    adam: "2011-07-22"
+    cdash: "2013-06-28"
+    qs: "2013-06-28"
+    sdtm: "2013-06-28"
+    send: "2013-06-28"
+"2013-10-04":
+  package: ""
+  format: 
+  - "5"
+  items:
+    adam: "2011-07-22"
+    cdash: "2013-10-04"
+    qs: "2013-10-04"
+    sdtm: "2013-10-04"
+    send: "2013-10-04"
+"2013-12-20":
+  package: ""
+  format: 
+  - "5"
+  items:
+    adam: "2011-07-22"
+    cdash: "2013-12-20"
+    qs: "2013-12-20"
+    sdtm: "2013-12-20"
+    send: "2013-12-20"
+"2014-03-28":
+  package: ""
+  format: 
+  - "5"
+  items:
+    adam: "2011-07-22"
+    cdash: "2014-03-28"
+    qs: "2014-03-28"
+    sdtm: "2014-03-28"
+    send: "2014-03-28"
+"2014-06-27":
+  package: ""
+  format: 
+  - "5"
+  items:
+    adam: "2011-07-22"
+    cdash: "2014-03-28"
+    qs-ft: "2014-06-27"
+    sdtm: "2014-06-27"
+    send: "2014-06-27"
+"2014-09-26":
+  package: "19"
+  format: 
+  - "5"
+  - "api"
+  items:
+    adam: "2014-09-26"
+    cdash: "2014-09-26"
+    qs-ft: "2014-09-26"
+    sdtm: "2014-09-26"
+    send: "2014-09-26"
+"2014-10-06":
+  package: ""
+  format: 
+  - "5"
+  items:
+    adam: "2014-09-26"
+    cdash: "2014-09-26"
+    qs-ft: "2014-09-26"
+    sdtm: "2014-10-06"
+    send: "2014-09-26"
+"2014-12-19":
+  package: "20"
+  format:
+  - "api"
+  - "5"
+  items:
+    adam: "2014-09-26"
+    cdash: "2014-09-26"
+    coa: "2014-12-19"
+    sdtm: "2014-12-19"
+    send: "2014-12-19"
+"2015-03-27":
+  package: "21"
+  format: 
+  - "api"
+  - "5"
+  items:
+    adam: "2014-09-26"
+    cdash: "2015-03-27"
+    coa: "2015-03-27"
+    sdtm: "2015-03-27"
+    send: "2015-03-27"
+"2015-06-26":
+  package: "22"
+  format: 
+  - "api"
+  - "5"
+  items:
+    adam: "2014-09-26"
+    cdash: "2015-06-26"
+    qrs: "2015-06-26"
+    sdtm: "2015-06-26"
+    send: "2015-06-26"
+"2015-09-25":
+  package: "23"
+  format: 
+  - "api"
+  - "5"
+  items:
+    adam: "2014-09-26"
+    cdash: "2015-06-26"
+    qrs: "2015-09-25"
+    sdtm: "2015-09-25"
+    send: "2015-09-25"
+"2015-12-18":
+  package: "24"
+  format: 
+  - "api"
+  - "5"
+  items:
+    adam: "2015-12-18"
+    cdash: "2015-06-26"
+    sdtm: "2015-12-18"
+    send: "2015-12-18"
+"2016-03-25":
+  package: "25"
+  format: 
+  - "api"
+  - "5"
+  items:
+    adam: "2016-03-25"
+    cdash: "2016-03-25"
+    sdtm: "2016-03-25"
+    send: "2016-03-25"
+"2016-06-24":
+  package: "26"
+  format: 
+  - "api"
+  - "5"
+  items:
+    adam: "2016-03-25"
+    cdash: "2016-03-25"
+    sdtm: "2016-06-24"
+    send: "2016-06-24"
+"2016-09-30":
+  package: "27"
+  format: 
+  - "api"
+  - "5"
+  items:
+    adam: "2016-09-30"
+    cdash: "2016-09-30"
+    sdtm: "2016-09-30"
+    send: "2016-09-30"
+"2016-12-16":
+  package: "28"
+  format: 
+  - "api"
+  - "5"
+  items:
+    adam: "2016-12-16"
+    cdash: "2016-12-16"
+    sdtm: "2016-12-16"
+    send: "2016-12-16"
+"2017-03-31":
+  package: "29"
+  format: 
+  - "api"
+  - "5"
+  items:
+    adam: "2017-03-31"
+    cdash: "2016-12-16"
+    protocol: "2017-03-31"
+    sdtm: "2017-03-31"
+    send: "2017-03-31"
+"2017-06-30":
+  package: "30"
+  format: 
+  - "api"
+  - "5"
+  items:
+    adam: "2017-03-31"
+    cdash: "2016-12-16"
+    protocol: "2017-06-30"
+    sdtm: "2017-06-30"
+    send: "2017-06-30"
+"2017-09-29":
+  package: "31"
+  format: 
+  - "api"
+  - "5"
+  items:
+    adam: "2017-09-29"
+    cdash: "2017-09-29"
+    protocol: "2017-09-29"
+    sdtm: "2017-09-29"
+    send: "2017-09-29"
+"2017-12-22":
+  package: "32"
+  format: 
+  - "api"
+  - "5"
+  items:
+    adam: "2017-09-29"
+    cdash: "2017-09-29"
+    protocol: "2017-09-29"
+    sdtm: "2017-12-22"
+    send: "2017-12-22"
+"2018-03-30":
+  package: "33"
+  format: 
+  - "api"
+  - "5"
+  items:
+    adam: "2017-09-29"
+    cdash: "2018-03-30"
+    protocol: "2018-03-30"
+    sdtm: "2018-03-30"
+    send: "2018-03-30"
+"2018-06-29":
+  package: "34"
+  format: 
+  - "api"
+  - "5"
+  items:
+    adam: "2017-09-29"
+    cdash: "2018-06-29"
+    protocol: "2018-06-29"
+    sdtm: "2018-06-29"
+    send: "2018-06-29"
+"2018-09-28":
+  package: "35"
+  format: 
+  - "api"
+  - "5"
+  items:
+    adam: "2017-09-29"
+    cdash: "2018-09-28"
+    protocol: "2018-09-28"
+    sdtm: "2018-09-28"
+    send: "2018-09-28"
+"2018-12-21":
+  package: "36"
+  format: 
+  - "api"
+  - "5"
+  items:
+    adam: "2018-12-21"
+    cdash: "2018-12-21"
+    protocol: "2018-09-28"
+    sdtm: "2018-12-21"
+    send: "2018-12-21"
+"2019-03-29":
+  package: "37"
+  format: 
+  - "api"
+  - "5"
+  items:
+    adam: "2019-03-29"
+    cdash: "2019-03-29"
+    protocol: "2019-03-29"
+    sdtm: "2019-03-29"
+    send: "2019-03-29"
+"2019-06-28":
+  package: "38"
+  format: 
+  - "api"
+  - "5"
+  items:
+    adam: "2019-03-29"
+    cdash: "2019-06-28"
+    protocol: "2019-06-28"
+    sdtm: "2019-06-28"
+    send: "2019-06-28"
+"2019-09-27":
+  package: "39"
+  format: 
+  - "api"
+  - "5"
+  items:
+    adam: "2019-03-29"
+    cdash: "2019-06-28"
+    protocol: "2019-09-27"
+    sdtm: "2019-09-27"
+    send: "2019-09-27"
+"2019-12-20":
+  package: "40"
+  format: 
+  - "api"
+  - "5"
+  items:
+    adam: "2019-12-20"
+    cdash: "2019-12-20"
+    define-xml: "2019-12-20"
+    protocol: "2019-12-20"
+    sdtm: "2019-12-20"
+    send: "2019-12-20"
+"2020-03-27":
+  package: "41"
+  format: 
+  - "api"
+  - "5"
+  items:
+    adam: "2020-03-27"
+    cdash: "2019-12-20"
+    define-xml: "2020-03-27"
+    protocol: "2020-03-27"
+    sdtm: "2020-03-27"
+    send: "2020-03-27"
+"2020-05-08":
+  package: "41"
+  format: 
+  - "api"
+  - "5"
+  items:
+    adam: "2020-03-27"
+    cdash: "2020-05-08"
+    define-xml: "2020-03-27"
+    protocol: "2020-03-27"
+    sdtm: "2020-05-08"
+    send: "2020-05-08"
+"2020-06-26":
+  package: "42"
+  format: 
+  - "api"
+  - "5"
+  items:
+    adam: "2020-06-26"
+    cdash: "2019-12-20"
+    define-xml: "2020-06-26"
+    protocol: "2020-06-26"
+    sdtm: "2020-06-26"
+    send: "2020-06-26"
+"2020-09-25":
+  package: "43"
+  format: 
+  - "api"
+  - "5"
+  items:
+    adam: "2020-09-25"
+    cdash: "2020-09-25"
+    define-xml: "2019-12-20"
+    protocol: "2020-09-25"
+    sdtm: "2020-09-25"
+    send: "2020-09-25"
+"2020-11-06":
+  package: ""
+  format: 
+  - "api"
+  - "5"
+  items:
+    adam: "2020-11-06"
+    cdash: "2020-11-06"
+    define-xml: "2020-11-06"
+    glossary: "2020-12-18"
+    protocol: "2020-11-06"
+    sdtm: "2020-11-06"
+    send: "2020-11-06"
+"2020-12-18":
+  package: "44"
+  format: 
+  - "api"
+  - "5"
+  items:
+    adam: "2020-11-06"
+    cdash: "2020-12-18"
+    define-xml: "2020-12-18"
+    glossary: "2020-12-18"
+    protocol: "2020-12-18"
+    sdtm: "2020-12-18"
+    send: "2020-12-18"
+"2021-03-26":
+  package: "45"
+  format: 
+  - "api"
+  - "5"
+  items:
+    adam: "2020-11-06"
+    cdash: "2021-03-26"
+    define-xml: "2021-03-26"
+    glossary: "2020-12-18"
+    protocol: "2021-03-26"
+    sdtm: "2021-03-26"
+    send: "2021-03-26"
+"2021-06-25":
+  package: "46"
+  format: 
+  - "api"
+  - "5"
+  items:
+    adam: "2020-11-06"
+    cdash: "2021-06-25"
+    define-xml: "2021-06-25"
+    glossary: "2020-12-18"
+    protocol: "2021-06-25"
+    sdtm: "2021-06-25"
+    send: "2021-06-25"
+"2021-09-24":
+  package: "47"
+  format: 
+  - "api"
+  - "5"
+  items:
+    adam: "2020-11-06"
+    cdash: "2021-09-24"
+    define-xml: "2021-09-24"
+    glossary: "2020-12-18"
+    protocol: "2021-09-24"
+    sdtm: "2021-09-24"
+    send: "2021-09-24"
+"2021-12-17":
+  package: "48"
+  format: 
+  - "api"
+  - "5"
+  items:
+    adam: "2021-12-17"
+    cdash: "2021-12-17"
+    define-xml: "2021-12-17"
+    glossary: "2021-12-17"
+    protocol: "2021-12-17"
+    sdtm: "2021-12-17"
+    send: "2021-12-17"
+"2022-03-25":
+  package: "49"
+  format: 
+  - "api"
+  - "5"
+  items:
+    adam: "2021-12-17"
+    cdash: "2021-12-17"
+    define-xml: "2021-12-17"
+    glossary: "2021-12-17"
+    protocol: "2022-03-25"
+    sdtm: "2022-03-25"
+    send: "2022-03-25"
