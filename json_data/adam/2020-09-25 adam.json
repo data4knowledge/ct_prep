@@ -1,0 +1,504 @@
+{
+  "_links": {
+    "priorVersion": {
+      "href": "",
+      "title": "",
+      "type": "Terminology"
+    },
+    "self": {
+      "href": "",
+      "title": "",
+      "type": "Terminology"
+    }
+  },
+  "codelists": [
+    {
+      "conceptId": "",
+      "definition": "Date Imputation Flag: Indicates the level of imputation reflected in a date value.",
+      "extensible": "No",
+      "name": "Date Imputation Flag",
+      "preferredTerm": "CDISC ADaM Date Imputation Flag Terminology",
+      "submissionValue": "DATEFL",
+      "synonyms": [
+        "Date Imputation Flag"
+      ],
+      "terms": [
+        {
+          "conceptId": "C81212",
+          "definition": "Day Imputed: Day is imputed.",
+          "preferredTerm": "Day Imputed",
+          "submissionValue": "D",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C81211",
+          "definition": "Month Imputed: Month and day are imputed.",
+          "preferredTerm": "Month Day Imputed",
+          "submissionValue": "M",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C81210",
+          "definition": "Year Imputed: Entire date (year, month and day) is imputed.",
+          "preferredTerm": "Year Month Day Imputed",
+          "submissionValue": "Y",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "Derivation Type: Analysis value derivation method.",
+      "extensible": "Yes",
+      "name": "Derivation Type",
+      "preferredTerm": "CDISC ADaM Derivation Type Terminology",
+      "submissionValue": "DTYPE",
+      "synonyms": [
+        "Derivation Type"
+      ],
+      "terms": [
+        {
+          "conceptId": "C81209",
+          "definition": "A data derivation or imputation technique which sets the analysis value on the record to the subject's average value over a defined set of records.",
+          "preferredTerm": "Average of Value Derivation Technique",
+          "submissionValue": "AVERAGE",
+          "synonyms": [
+            "Average"
+          ]
+        },
+        {
+          "conceptId": "C92225",
+          "definition": "A data derivation or imputation technique which sets the analysis value on the record to the best possible outcome.",
+          "preferredTerm": "Best Case Imputation Technique",
+          "submissionValue": "BC",
+          "synonyms": [
+            "Best Case"
+          ]
+        },
+        {
+          "conceptId": "C81201",
+          "definition": "A data derivation or imputation technique which sets the analysis value on the record to the subject's non-missing baseline observation.",
+          "preferredTerm": "Baseline Observation Carried Forward Imputation Technique",
+          "submissionValue": "BLOCF",
+          "synonyms": [
+            "Baseline Observation Carried Forward"
+          ]
+        },
+        {
+          "conceptId": "C132340",
+          "definition": "A data derivation or imputation technique which sets the analysis value on the record to the best outcome recorded within a subject.",
+          "preferredTerm": "Best Observed Case Imputation Technique",
+          "submissionValue": "BOC",
+          "synonyms": [
+            "Best Observed Case"
+          ]
+        },
+        {
+          "conceptId": "C92226",
+          "definition": "A data derivation or imputation technique which sets the analysis value on the record to the subject's previous best-case non-missing value.",
+          "preferredTerm": "Best Observation Carried Forward Imputation Technique",
+          "submissionValue": "BOCF",
+          "synonyms": [
+            "Best Observation Carried Forward"
+          ]
+        },
+        {
+          "conceptId": "C139176",
+          "definition": "A data derivation or imputation technique which sets the analysis value on the record to an estimation of a value based on extending a known sequence of values.",
+          "preferredTerm": "Extrapolation Imputation Technique",
+          "submissionValue": "EXTRAP",
+          "synonyms": [
+            "Extrapolation"
+          ]
+        },
+        {
+          "conceptId": "C170546",
+          "definition": "A data derivation or imputation technique which sets the analysis value on the record to one half of the lower limit of quantification of a test.",
+          "preferredTerm": "One Half of Lower Limit of Quantification Derivation Technique",
+          "submissionValue": "HALFLLOQ",
+          "synonyms": [
+            "One Half of Lower Limit of Quantification"
+          ]
+        },
+        {
+          "conceptId": "C81208",
+          "definition": "A data derivation or imputation technique which sets the analysis value on the record to a function of known values to estimate a value within the range.",
+          "preferredTerm": "Interpolation Imputation Technique",
+          "submissionValue": "INTERP",
+          "synonyms": [
+            "Interpolation"
+          ]
+        },
+        {
+          "conceptId": "C105701",
+          "definition": "A data derivation or imputation technique which sets the analysis value on the record to the lower limit of detection of a test.",
+          "preferredTerm": "Detection Limit",
+          "submissionValue": "LLOD",
+          "synonyms": [
+            "Lower Limit of Detection"
+          ]
+        },
+        {
+          "conceptId": "C170543",
+          "definition": "A data derivation or imputation technique which sets the analysis value on the record to the lower limit of quantification of a test.",
+          "preferredTerm": "Lower Limit of Quantification Derivation Technique",
+          "submissionValue": "LLOQ",
+          "synonyms": [
+            "Lower Limit of Quantification"
+          ]
+        },
+        {
+          "conceptId": "C81198",
+          "definition": "A data derivation or imputation technique which sets the analysis value on the record to the subject's previous non-missing value.",
+          "preferredTerm": "Last Observation Carried Forward Imputation Technique",
+          "submissionValue": "LOCF",
+          "synonyms": [
+            "Last Observation Carried Forward"
+          ]
+        },
+        {
+          "conceptId": "C132341",
+          "definition": "A data derivation or imputation technique which sets the analysis value on the record to the subject's last recorded non-missing observation.",
+          "preferredTerm": "Last Observed Value Imputation Technique",
+          "submissionValue": "LOV",
+          "synonyms": [
+            "Last Observed Value"
+          ]
+        },
+        {
+          "conceptId": "C132342",
+          "definition": "A data derivation or imputation technique which sets the analysis value on the record to the subject's last observed value prior to the start of study treatment.",
+          "preferredTerm": "Last Value Prior to Dosing Imputation Technique",
+          "submissionValue": "LVPD",
+          "synonyms": [
+            "Last Value Prior to Dosing"
+          ]
+        },
+        {
+          "conceptId": "C82868",
+          "definition": "A data derivation or imputation technique which sets the analysis value on the record to the subject's maximum value over a defined set of records.",
+          "preferredTerm": "Maximum Value Derivation Technique",
+          "submissionValue": "MAXIMUM",
+          "synonyms": [
+            "Maximum"
+          ]
+        },
+        {
+          "conceptId": "C82867",
+          "definition": "A data derivation or imputation technique which sets the analysis value on the record to the subject's minimum value over a defined set of records.",
+          "preferredTerm": "Minimum Value Derivation Technique",
+          "submissionValue": "MINIMUM",
+          "synonyms": [
+            "Minimum"
+          ]
+        },
+        {
+          "conceptId": "C53331",
+          "definition": "A data derivation or imputation technique which sets the analysis value on the record to the estimate that maximizes the probability of observing what has in fact been observed.",
+          "preferredTerm": "Maximum Likelihood Estimation",
+          "submissionValue": "ML",
+          "synonyms": [
+            "Maximum Likelihood"
+          ]
+        },
+        {
+          "conceptId": "C81204",
+          "definition": "A data derivation or imputation technique which sets the analysis value on the record to the mean value from a comparator or reference group.",
+          "preferredTerm": "Mean of Other Group Imputation Technique",
+          "submissionValue": "MOTH",
+          "synonyms": [
+            "Mean of Other Group"
+          ]
+        },
+        {
+          "conceptId": "C81207",
+          "definition": "A data derivation or imputation technique which sets the analysis value on the record to the mean value observed in a group of subjects.",
+          "preferredTerm": "Mean Observed Value in a Group Imputation Technique",
+          "submissionValue": "MOV",
+          "synonyms": [
+            "Mean Observed Value in a Group"
+          ]
+        },
+        {
+          "conceptId": "C170545",
+          "definition": "A technique that creates a record with a missing analysis value when there is no observed record for a given analysis visit or analysis timepoint.",
+          "preferredTerm": "Phantom Record Imputation Technique",
+          "submissionValue": "PHANTOM",
+          "synonyms": [
+            "Phantom Record"
+          ]
+        },
+        {
+          "conceptId": "C81205",
+          "definition": "A data derivation or imputation technique which sets the analysis value on the record to the subject's next-to-last non-missing value.",
+          "preferredTerm": "Penultimate Observation Carried Forward Imputation Technique",
+          "submissionValue": "POCF",
+          "synonyms": [
+            "Penultimate Observation Carried Forward"
+          ]
+        },
+        {
+          "conceptId": "C81200",
+          "definition": "A data derivation or imputation technique which sets the analysis value on the record to the subject's non-missing screening observation.",
+          "preferredTerm": "Screening Observation Carried Forward Imputation Technique",
+          "submissionValue": "SOCF",
+          "synonyms": [
+            "Screening Observation Carried Forward"
+          ]
+        },
+        {
+          "conceptId": "C174264",
+          "definition": "A data derivation or imputation technique which sets the analysis value on the record to the upper limit of detection of a test.",
+          "preferredTerm": "Upper Limit of Detection Imputation Technique",
+          "submissionValue": "ULOD",
+          "synonyms": [
+            "Upper Limit of Detection"
+          ]
+        },
+        {
+          "conceptId": "C170544",
+          "definition": "A data derivation or imputation technique which sets the analysis value on the record to the upper limit of quantification of a test.",
+          "preferredTerm": "Upper Limit of Quantification Derivation Technique",
+          "submissionValue": "ULOQ",
+          "synonyms": [
+            "Upper Limit of Quantification"
+          ]
+        },
+        {
+          "conceptId": "C81203",
+          "definition": "A data derivation or imputation technique which sets the analysis value on the record to the worst possible outcome.",
+          "preferredTerm": "Worst Case Imputation Technique",
+          "submissionValue": "WC",
+          "synonyms": [
+            "Worst Case"
+          ]
+        },
+        {
+          "conceptId": "C132343",
+          "definition": "A data derivation or imputation technique which sets the analysis value on the record to the worst recorded outcome within a subject.",
+          "preferredTerm": "Worst Observed Case Imputation Technique",
+          "submissionValue": "WOC",
+          "synonyms": [
+            "Worst Observed Case"
+          ]
+        },
+        {
+          "conceptId": "C81199",
+          "definition": "A data derivation or imputation technique which sets the analysis value on the record to the subject's worst-case non-missing observation.",
+          "preferredTerm": "Worst Observation Carried Forward Imputation Technique",
+          "submissionValue": "WOCF",
+          "synonyms": [
+            "Worst Observed Value Carried Forward"
+          ]
+        },
+        {
+          "conceptId": "C81206",
+          "definition": "A data derivation or imputation technique which sets the analysis value on the record to the worst value observed in a group of subjects.",
+          "preferredTerm": "Worst Observed Value in a Group Imputation Technique",
+          "submissionValue": "WOV",
+          "synonyms": [
+            "Worst Observed Value in a Group"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A parameter code codelist for the Generalized Anxiety Disorder - 7 Version 2 Questionnaire (GAD-7 V2) to support the calculation of total score in ADaM.",
+      "extensible": "No",
+      "name": "Generalized Anxiety Disorder - 7 Version 2 Questionnaire Parameter Code",
+      "preferredTerm": "CDISC ADaM Generalized Anxiety Disorder-7 Version 2 Questionnaire Parameter Code Terminology",
+      "submissionValue": "GAD02PC",
+      "synonyms": [
+        "Generalized Anxiety Disorder - 7 Version 2 Questionnaire Parameter Code"
+      ],
+      "terms": [
+        {
+          "conceptId": "C172451",
+          "definition": "Generalized Anxiety Disorder - 7 Version 2 - Total score used for analysis.",
+          "preferredTerm": "Generalized Anxiety Disorder - 7 Version 2 - Analysis",
+          "submissionValue": "GAD02TS",
+          "synonyms": [
+            "GAD02-Total Score - Analysis"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A parameter name codelist for the Generalized Anxiety Disorder - 7 Version 2 Questionnaire (GAD-7 V2) to support the calculation of total score in ADaM.",
+      "extensible": "No",
+      "name": "Generalized Anxiety Disorder - 7 Version 2 Questionnaire Parameter Name",
+      "preferredTerm": "CDISC ADaM Generalized Anxiety Disorder-7 Version 2 Questionnaire Parameter Name Terminology",
+      "submissionValue": "GAD02PN",
+      "synonyms": [
+        "Generalized Anxiety Disorder - 7 Version 2 Questionnaire Parameter Name"
+      ],
+      "terms": [
+        {
+          "conceptId": "C172451",
+          "definition": "Generalized Anxiety Disorder - 7 Version 2 - Total score used for analysis.",
+          "preferredTerm": "Generalized Anxiety Disorder - 7 Version 2 - Analysis",
+          "submissionValue": "GAD02-Total Score - Analysis",
+          "synonyms": [
+            "GAD02-Total Score - Analysis"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A parameter code codelist for the Geriatric Depression Scale Short Form questionnaire (GDS02) to support the calculation of total score in ADaM.",
+      "extensible": "No",
+      "name": "Geriatric Depression Scale Short Form Questionnaire Parameter Code",
+      "preferredTerm": "CDISC ADaM Geriatric Depression Scale Short Form Questionnaire Parameter Code Terminology",
+      "submissionValue": "GDS02PC",
+      "synonyms": [
+        "Geriatric Depression Scale Short Form Questionnaire Parameter Code"
+      ],
+      "terms": [
+        {
+          "conceptId": "C158155",
+          "definition": "Geriatric Depression Scale Short Form - Total score used for analysis.",
+          "preferredTerm": "Geriatric Depression Scale Short Form - Total Score",
+          "submissionValue": "GDS02TS",
+          "synonyms": [
+            "GDS02-Total Score - Analysis"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A parameter name codelist for the Geriatric Depression Scale Short Form questionnaire (GDS02) to support the calculation of total score in ADaM.",
+      "extensible": "No",
+      "name": "Geriatric Depression Scale Short Form Questionnaire Parameter Name",
+      "preferredTerm": "CDISC ADaM Geriatric Depression Scale Short Form Questionnaire Parameter Name Terminology",
+      "submissionValue": "GDS02PN",
+      "synonyms": [
+        "Geriatric Depression Scale Short Form Questionnaire Parameter Name"
+      ],
+      "terms": [
+        {
+          "conceptId": "C158155",
+          "definition": "Geriatric Depression Scale Short Form - Total score used for analysis.",
+          "preferredTerm": "Geriatric Depression Scale Short Form - Total Score",
+          "submissionValue": "GDS02-Total Score - Analysis",
+          "synonyms": [
+            "GDS02-Total Score - Analysis"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "Parameter Type: Indicates whether the parameter is derived as a function of one or more other parameters.",
+      "extensible": "No",
+      "name": "Parameter Type",
+      "preferredTerm": "CDISC ADaM Parameter Type Terminology",
+      "submissionValue": "PARAMTYP",
+      "synonyms": [
+        "Parameter Type"
+      ],
+      "terms": [
+        {
+          "conceptId": "C81197",
+          "definition": "Derived: Indicates that a parameter is derived as a function of one or more other parameters.",
+          "preferredTerm": "Derived Flag",
+          "submissionValue": "DERIVED",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "Terminology relevant to the name of the Pool, often defined in the integrated statistical analysis plan, which identifies the combination of subjects' clinical trial experience and will be the focus of the integrated analysis.",
+      "extensible": "Yes",
+      "name": "Pool for Integration",
+      "preferredTerm": "CDISC ADaM Pool for Integration Terminology",
+      "submissionValue": "POOLINT",
+      "synonyms": [
+        "Pool for Integration"
+      ],
+      "terms": [
+        {
+          "conceptId": "C165858",
+          "definition": "The pool that includes data across all studies within which the subject has participated, used for the overall integrated analysis.",
+          "preferredTerm": "Overall Pooled Data",
+          "submissionValue": "OVERALL",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "Indicates the status of the subject in the trial.",
+      "extensible": "Yes",
+      "name": "Subject Trial Status",
+      "preferredTerm": "CDISC ADaM Subject Trial Status Terminology",
+      "submissionValue": "SBJTSTAT",
+      "synonyms": [
+        "Subject Trial Status"
+      ],
+      "terms": [
+        {
+          "conceptId": "C25250",
+          "definition": "To possess every necessary or normal part or component or step; having come or been brought to a conclusion. (NCI)",
+          "preferredTerm": "Complete",
+          "submissionValue": "COMPLETED",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C25484",
+          "definition": "To stop or end, permanently or temporarily.",
+          "preferredTerm": "Discontinue",
+          "submissionValue": "DISCONTINUED",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C53279",
+          "definition": "Remain in force or carry on without letup; keep or maintain in unaltered condition; exist in time or space without stop or interruption. (NCI)",
+          "preferredTerm": "Continue",
+          "submissionValue": "ONGOING",
+          "synonyms": [
+            "Continuous"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "Time Imputation Flag: Indicates the level of imputation reflected in a time value.",
+      "extensible": "No",
+      "name": "Time Imputation Flag",
+      "preferredTerm": "CDISC ADaM Time Imputation Flag Terminology",
+      "submissionValue": "TIMEFL",
+      "synonyms": [
+        "Time Imputation Flag"
+      ],
+      "terms": [
+        {
+          "conceptId": "C81213",
+          "definition": "Hours Imputed: Entire time (hours, minutes and seconds) is imputed.",
+          "preferredTerm": "Hours Minutes Seconds Imputed",
+          "submissionValue": "H",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C81214",
+          "definition": "Minutes Imputed: Minutes and seconds are imputed.",
+          "preferredTerm": "Minutes Seconds Imputed",
+          "submissionValue": "M",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C81215",
+          "definition": "Seconds Imputed: Seconds are imputed.",
+          "preferredTerm": "Seconds Imputed",
+          "submissionValue": "S",
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2443 @@
+{
+  "_links": {
+    "priorVersion": {
+      "href": "",
+      "title": "",
+      "type": "Terminology"
+    },
+    "self": {
+      "href": "",
+      "title": "",
+      "type": "Terminology"
+    }
+  },
+  "codelists": [
+    {
+      "conceptId": "",
+      "definition": "A terminology value set relevant to the attributes of the clinical study entity.",
+      "extensible": "",
+      "name": "Clinical Study Attribute Terminology",
+      "preferredTerm": "CDISC Protocol Entities Clinical Study Attribute Terminology",
+      "submissionValue": "Clinical Study Attribute Terminology",
+      "synonyms": [
+        "Clinical Study Attribute Terminology"
+      ],
+      "terms": [
+        {
+          "conceptId": "C70794",
+          "definition": "The individual, organization, group or other legal person taking responsibility for securing the arrangements to initiate and/or manage a study (including arrangements to ensure that the study design meets appropriate standards and to ensure appropriate conduct and reporting). In commercial trials, the primary sponsor is normally the main applicant for regulatory authorization to begin the study. It may or may not be the main funder. (NCI)",
+          "preferredTerm": "Primary Clinical Study Sponsor",
+          "submissionValue": "Primary Clinical Study Sponsor",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C70795",
+          "definition": "Additional individuals, organizations or other legal persons, if any, that have agreed with the primary sponsor to take on responsibilities of sponsorship. A secondary sponsor may have agreed to take on all the responsibilities of sponsorship jointly with the primary sponsor; or to form a group with the primary sponsor in which the responsibilities of sponsorship are allocated among the members of the group; or to act as the sponsor's legal representative in relation to some or all of the study sites; or to take responsibility for the accuracy of study registration information submitted.",
+          "preferredTerm": "Secondary Clinical Study Sponsor",
+          "submissionValue": "Secondary Clinical Study Sponsor",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C71473",
+          "definition": "An action, undertaking, or event, which is anticipated to be performed or observed, or was performed or observed, according to the study protocol during the execution of the study.",
+          "preferredTerm": "Study Activity",
+          "submissionValue": "Study Activity",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C94122",
+          "definition": "A statement describing the overall rationale of the study. This field describes the contribution of this study to product development, i.e., what knowledge is being contributed from the conduct of this study.",
+          "preferredTerm": "Study Protocol Version Purpose Statement",
+          "submissionValue": "Study Rationale",
+          "synonyms": [
+            "Study Purpose"
+          ]
+        },
+        {
+          "conceptId": "C93682",
+          "definition": "A diagram that outlines the decision points (e.g. randomization, response evaluation) that define the different paths a participant could take through the study. This is typically a block diagram and may include epochs, timing of randomization, treatment arms, and duration of treatments.",
+          "preferredTerm": "Study Schematic",
+          "submissionValue": "Study Schematic Diagram",
+          "synonyms": [
+            "Study Schema"
+          ]
+        },
+        {
+          "conceptId": "C142175",
+          "definition": "The nature of the investigation for which study information is being collected. (After clinicaltrials.gov)",
+          "preferredTerm": "Study Type",
+          "submissionValue": "Study Type",
+          "synonyms": [
+            "Study Type"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology value set relevant to the attributes of the clinical trial entity.",
+      "extensible": "",
+      "name": "Clinical Trial Attribute Terminology",
+      "preferredTerm": "CDISC Protocol Entities Clinical Trial Attribute Terminology",
+      "submissionValue": "Clinical Trial Attribute Terminology",
+      "synonyms": [
+        "Clinical Trial Attribute Terminology"
+      ],
+      "terms": [
+        {
+          "conceptId": "C139170",
+          "definition": "The country in which participants are located when enrolling in a trial or study.",
+          "preferredTerm": "Country of Recruitment",
+          "submissionValue": "Country of Recruitment",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C139171",
+          "definition": "Date or date and time of first subject enrollment into a study, as verifiable by a convention that is consistent with authoritative regulatory criteria. Compare with study start. [Modified from ICH E3] (CDISC Glossary)",
+          "preferredTerm": "Date of First Enrollment into Study",
+          "submissionValue": "Date of First Enrollment",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C25370",
+          "definition": "List of characteristics in a protocol, any one of which may exclude a potential subject from participation in a study. (CDISC glossary)",
+          "preferredTerm": "Exclusion Criteria",
+          "submissionValue": "Exclusion Criteria",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C25532",
+          "definition": "The criteria in a protocol that prospective subjects must meet to be eligible for participation in a study. NOTE: Exclusion and inclusion criteria define the study population. See also exclusion criteria. (CDISC glossary)",
+          "preferredTerm": "Inclusion Criteria",
+          "submissionValue": "Inclusion Criteria",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C127796",
+          "definition": "The approximate period of time over which the clinical trial is expected to occur.",
+          "preferredTerm": "Planned Trial Duration",
+          "submissionValue": "Planned Trial Duration",
+          "synonyms": [
+            "Planned Trial Duration"
+          ]
+        },
+        {
+          "conceptId": "C139168",
+          "definition": "The name of the entity that is considered the primary sponsor for the trial or study. (NCI)",
+          "preferredTerm": "Primary Study Sponsor Name",
+          "submissionValue": "Primary Sponsor Name",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C139169",
+          "definition": "The name of the entity that is considered the secondary sponsor for the trial or study. (NCI)",
+          "preferredTerm": "Secondary Study Sponsor Name",
+          "submissionValue": "Secondary Sponsor Name",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C139167",
+          "definition": "The major organizations providing monetary or material support for the conduct of the trial, including, but not limited to, funding, design, implementation, data analysis and reporting. (EudraCT)",
+          "preferredTerm": "Source of Monetary or Material Support for Study",
+          "submissionValue": "Source of Monetary or Material Support for Study",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C139172",
+          "definition": "The total number of planned participants in a study or trial.",
+          "preferredTerm": "Target Sample Size",
+          "submissionValue": "Target Sample Size",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C101302",
+          "definition": "A knowledge field that focuses on research and development of specific treatments for diseases and pathologic findings, as well as prevention of conditions that negatively impact the health of an individual. (NCI)",
+          "preferredTerm": "Therapeutic Area",
+          "submissionValue": "Therapeutic Area",
+          "synonyms": [
+            "Therapeutic Area"
+          ]
+        },
+        {
+          "conceptId": "C15787",
+          "definition": "The detailed planning of a study of the safety, efficacy, or optimum dosage schedule (if appropriate) of one or more diagnostic, therapeutic, or prophylactic drugs, devices, or techniques selected according to predetermined criteria of eligibility and observed for predefined evidence of favorable and unfavorable effects. (NCI)",
+          "preferredTerm": "Clinical Trials Design",
+          "submissionValue": "Trial Design",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C112038",
+          "definition": "The condition, disease or disorder that the clinical trial is intended to investigate or address.",
+          "preferredTerm": "Trial Indication",
+          "submissionValue": "Trial Disease/Condition Indication",
+          "synonyms": [
+            "Trial Disease/Condition Indication"
+          ]
+        },
+        {
+          "conceptId": "C49652",
+          "definition": "The planned purpose of the therapy, device, or agent under study in the clinical trial.",
+          "preferredTerm": "Clinical Study by Intent",
+          "submissionValue": "Trial Intent",
+          "synonyms": [
+            "Trial Intent Type"
+          ]
+        },
+        {
+          "conceptId": "C48281",
+          "definition": "Any defined stage in the lifecycle of a clinical trial.",
+          "preferredTerm": "Trial Phase",
+          "submissionValue": "Trial Phase",
+          "synonyms": [
+            "Trial Phase Classification"
+          ]
+        },
+        {
+          "conceptId": "C85826",
+          "definition": "The principal purpose of the trial.",
+          "preferredTerm": "Trial Primary Objective",
+          "submissionValue": "Trial Primary Objective",
+          "synonyms": [
+            "Trial Primary Objective"
+          ]
+        },
+        {
+          "conceptId": "C139166",
+          "definition": "An indication as to whether the clinical trial has been registered with a trial registry system.",
+          "preferredTerm": "Trial Registration Indicator",
+          "submissionValue": "Trial Registration Indicator",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C85827",
+          "definition": "The auxiliary purpose of the trial.",
+          "preferredTerm": "Trial Secondary Objective",
+          "submissionValue": "Trial Secondary Objective",
+          "synonyms": [
+            "Trial Secondary Objective"
+          ]
+        },
+        {
+          "conceptId": "C85838",
+          "definition": "Any healthcare organization, institution, facility or provider directly involved in conducting or facilitating a particular clinical trial. (NCI)",
+          "preferredTerm": "Clinical Trial Site",
+          "submissionValue": "Trial Site",
+          "synonyms": [
+            "Investigative Site",
+            " Investigator Site"
+          ]
+        },
+        {
+          "conceptId": "C49660",
+          "definition": "The nature of the interventional study for which information is being collected.",
+          "preferredTerm": "Trial Type",
+          "submissionValue": "Trial Type",
+          "synonyms": [
+            "Trial Scope",
+            " Trial Type"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology value set relevant to the attributes of the endpoint entity.",
+      "extensible": "",
+      "name": "Endpoint Attribute Terminology",
+      "preferredTerm": "CDISC Protocol Endpoint Attribute Terminology",
+      "submissionValue": "Endpoint Attribute Terminology",
+      "synonyms": [
+        "Endpoint Attribute Terminology"
+      ],
+      "terms": [
+        {
+          "conceptId": "C170557",
+          "definition": "A characterization or classification of the defined variable intended to reflect an outcome measure of interest that is statistically analyzed to address a particular research question.",
+          "preferredTerm": "Study Endpoint Type",
+          "submissionValue": "Endpoint Type",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C170558",
+          "definition": "The rationale or explanation for why each study endpoint was chosen.",
+          "preferredTerm": "Justification for Study Endpoint",
+          "submissionValue": "Justification for Endpoint",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "The terminology relevant to the type of endpoint for the study.",
+      "extensible": "",
+      "name": "Endpoint Type Value Set Terminology",
+      "preferredTerm": "CDISC Protocol Endpoint Type Value Set Terminology",
+      "submissionValue": "Endpoint Type Value Set Terminology",
+      "synonyms": [
+        "Endpoint Type Value Set Terminology"
+      ],
+      "terms": [
+        {
+          "conceptId": "C170561",
+          "definition": "Endpoint(s) constructed from two or more endpoints that represents an overall clinically relevant measure of clinical benefit.",
+          "preferredTerm": "Composite Endpoint",
+          "submissionValue": "Composite Endpoint",
+          "synonyms": [
+            "Combined Endpoint"
+          ]
+        },
+        {
+          "conceptId": "C170560",
+          "definition": "Endpoint(s) used in clinical studies to directly measure how a patient feels, functions, or survives. These endpoint(s) in themselves represent or characterize the clinical outcome of interest. (FDA: https://www.fda.gov/media/84987/download)",
+          "preferredTerm": "Direct Endpoint",
+          "submissionValue": "Direct Endpoint",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C170559",
+          "definition": "Endpoint(s) that may include clinically important events that are expected to occur too infrequently to show a treatment effect or endpoints that for other reasons are thought to be less likely to show an effect but are included to explore new hypotheses. (After FDA-NIH Protocol Template)",
+          "preferredTerm": "Exploratory Endpoint",
+          "submissionValue": "Exploratory Endpoint",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C94496",
+          "definition": "Endpoint(s) of greatest importance that is the basis for concluding whether the study met its objective(s) and provides a clinically relevant, valid, and reliable measure of the primary objective(s). (After FDA-NIH Protocol Template)",
+          "preferredTerm": "Primary Endpoint",
+          "submissionValue": "Primary Endpoint",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C139173",
+          "definition": "Endpoint(s) that may provide supportive information about the effect of the study intervention(s) on the primary endpoint or demonstrate additional effects on the disease or condition. (After FDA-NIH Protocol Template)",
+          "preferredTerm": "Secondary Endpoint",
+          "submissionValue": "Secondary Endpoint",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C68772",
+          "definition": "Endpoint(s) used in clinical studies as a substitute for a direct measure of how a patient feels, functions, or survives. A surrogate endpoint is expected to predict clinical benefit or harm based on epidemiologic, therapeutic, pathophysiologic, or other scientific evidence. A surrogate endpoint does not measure the clinical benefit of primary interest in and of itself. (After NIH-FDA BEST (Biomarkers, Endpoints, and other Tools) Resource, https://www.ncbi.nlm.nih.gov/books/NBK338448/)",
+          "preferredTerm": "Surrogate Endpoint",
+          "submissionValue": "Surrogate Endpoint",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology codelist relevant to the trial design developed to compare treatment groups.",
+      "extensible": "Yes",
+      "name": "Intervention Model Response",
+      "preferredTerm": "CDISC SDTM Intervention Model Terminology",
+      "submissionValue": "INTMODEL",
+      "synonyms": [
+        "Intervention Model Response"
+      ],
+      "terms": [
+        {
+          "conceptId": "C82637",
+          "definition": "Participants receive one of two or more alternative intervention(s) during the initial epoch of the study and receive other intervention(s) during the subsequent epoch(s) of the study.",
+          "preferredTerm": "Crossover Study",
+          "submissionValue": "CROSS-OVER",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C82638",
+          "definition": "Two or more interventions, each alone or in combination, are evaluated in parallel against a control group. This study design allows for the comparison of active drug to placebo, presence of drug-drug interactions, and comparison of active drugs against each other.",
+          "preferredTerm": "Factorial Study",
+          "submissionValue": "FACTORIAL",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C82639",
+          "definition": "Participants are assigned to one of two or more treatment groups in parallel for the duration of the study.",
+          "preferredTerm": "Parallel Study",
+          "submissionValue": "PARALLEL",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C142568",
+          "definition": "Groups of participants are assigned to receive interventions based on prior milestones being reached in the study. (clinicaltrials.gov)",
+          "preferredTerm": "Group Sequential Design",
+          "submissionValue": "SEQUENTIAL",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C82640",
+          "definition": "All trial participants are assigned to a single treatment group for the duration of the study.",
+          "preferredTerm": "Single Group Study",
+          "submissionValue": "SINGLE GROUP",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A term that is used to indicate a question with permissible values of yes/no/unknown/not applicable.",
+      "extensible": "No",
+      "name": "No Yes Response",
+      "preferredTerm": "CDISC SDTM Yes No Unknown or Not Applicable Response Terminology",
+      "submissionValue": "NY",
+      "synonyms": [
+        "No Yes Response"
+      ],
+      "terms": [
+        {
+          "conceptId": "C49487",
+          "definition": "The non-affirmative response to a question. (NCI)",
+          "preferredTerm": "No",
+          "submissionValue": "N",
+          "synonyms": [
+            "No"
+          ]
+        },
+        {
+          "conceptId": "C48660",
+          "definition": "Determination of a value is not relevant in the current context. (NCI)",
+          "preferredTerm": "Not Applicable",
+          "submissionValue": "",
+          "synonyms": [
+            "NA",
+            " Not Applicable"
+          ]
+        },
+        {
+          "conceptId": "C17998",
+          "definition": "Not known, not observed, not recorded, or refused. (NCI)",
+          "preferredTerm": "Unknown",
+          "submissionValue": "U",
+          "synonyms": [
+            "U",
+            " UNK",
+            " Unknown"
+          ]
+        },
+        {
+          "conceptId": "C49488",
+          "definition": "The affirmative response to a question. (NCI)",
+          "preferredTerm": "Yes",
+          "submissionValue": "Y",
+          "synonyms": [
+            "Yes"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "The terminology relevant to the trial design for observational studies.",
+      "extensible": "Yes",
+      "name": "Observational Study Model",
+      "preferredTerm": "CDISC SDTM Observational Study Model Terminology",
+      "submissionValue": "OBSSMO",
+      "synonyms": [
+        "Observational Study Model"
+      ],
+      "terms": [
+        {
+          "conceptId": "C15197",
+          "definition": "A study that compares groups of people with generally similar characteristics, those with the condition under study (case) and those without the condition under study (control).",
+          "preferredTerm": "Case-Control Study",
+          "submissionValue": "CASE CONTROL",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C127779",
+          "definition": "A study in which the subject characteristics of the case, immediately prior to disease onset (sometimes called the hazard period), are compared to characteristics of same case at a prior time (i.e., control period). (ClinicalTrials.gov)",
+          "preferredTerm": "Observational Case-Crossover Study",
+          "submissionValue": "CASE CROSSOVER",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C15362",
+          "definition": "A study in which the subject with the condition under study (the case) is compared against a theoretical/historical model of distribution that serves as a control.",
+          "preferredTerm": "Case Study",
+          "submissionValue": "CASE ONLY",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C15208",
+          "definition": "A study in which subjects are grouped based on a predefined personal or administrative characteristic.",
+          "preferredTerm": "Cohort Study",
+          "submissionValue": "COHORT",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C127780",
+          "definition": "A study in which geographically distinct study populations are compared with respect to a particular outcome.",
+          "preferredTerm": "Ecologic or Community Based Study",
+          "submissionValue": "ECOLOGIC OR COMMUNITY",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C15407",
+          "definition": "A study in which related or non-related family members are compared with respect to a particular outcome.",
+          "preferredTerm": "Family Study",
+          "submissionValue": "FAMILY BASED",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology value set relevant to the attributes of the outcome measure entity.",
+      "extensible": "",
+      "name": "Outcome Measure Attribute Terminology",
+      "preferredTerm": "CDISC Protocol Outcome Measure Attribute Terminology",
+      "submissionValue": "Outcome Measure Attribute Terminology",
+      "synonyms": [
+        "Outcome Measure Attribute Terminology"
+      ],
+      "terms": [
+        {
+          "conceptId": "C165138",
+          "definition": "A full description of the outcome measure.",
+          "preferredTerm": "Study Outcome Measure Description",
+          "submissionValue": "Outcome Measure Description",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C165859",
+          "definition": "The period of time over which the study outcome measure is assessed.",
+          "preferredTerm": "Outcome Measure Time Frame",
+          "submissionValue": "Outcome Measure Time Frame",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C165860",
+          "definition": "The descriptive name of the outcome measure.",
+          "preferredTerm": "Outcome Measure Title",
+          "submissionValue": "Outcome Measure Title",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C165861",
+          "definition": "A characterization or classification of the specific key measurement(s) or observation(s) used to measure the effect of experimental variables on the participants in a study, or for observational studies, to describe patterns of diseases or traits or associations with exposures, risk factors or treatment.",
+          "preferredTerm": "Outcome Measure Type",
+          "submissionValue": "Outcome Measure Type",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "The terminology relevant to the type of outcome measure for the study.",
+      "extensible": "",
+      "name": "Outcome Measure Type Value Set Terminology",
+      "preferredTerm": "CDISC Protocol Outcome Measure Type Value Set Terminology",
+      "submissionValue": "Outcome Measure Type Value Set Terminology",
+      "synonyms": [
+        "Outcome Measure Type Value Set Terminology"
+      ],
+      "terms": [
+        {
+          "conceptId": "C98724",
+          "definition": "The outcome measure(s) that is part of a pre-specified analysis plan used to evaluate the exploratory endpoint(s) associated with exploratory study objective(s) and/or any other measures, excluding post-hoc measures, that are a focus of the study. (After clinicaltrials.gov)",
+          "preferredTerm": "Exploratory Outcome Measure",
+          "submissionValue": "Exploratory Outcome Measure",
+          "synonyms": [
+            "Exploratory Outcome Measure"
+          ]
+        },
+        {
+          "conceptId": "C98772",
+          "definition": "The outcome measure(s) of greatest importance specified in the protocol, usually the one(s) used in the power calculation, to evaluate the primary endpoint(s) associated with the primary study objective(s). (After Clinicaltrials.gov)",
+          "preferredTerm": "Primary Outcome Measure",
+          "submissionValue": "Primary Outcome Measure",
+          "synonyms": [
+            "Primary Outcome Measure"
+          ]
+        },
+        {
+          "conceptId": "C98781",
+          "definition": "The outcome measure(s) that is part of a pre-specified analysis plan used to evaluate the secondary endpoint(s) associated with secondary study objective(s) and/or used to evaluate any measure(s) ancillary to the primary or secondary endpoint(s). (After Clinicaltrials.gov).",
+          "preferredTerm": "Secondary Outcome Measure",
+          "submissionValue": "Secondary Outcome Measure",
+          "synonyms": [
+            "Secondary Outcome Measure"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "The terminology relevant to the type of oversight entity for the study.",
+      "extensible": "",
+      "name": "Oversight Entity Value Set",
+      "preferredTerm": "CDISC Protocol Oversight Entity Value Set Terminology",
+      "submissionValue": "Oversight Entity Value Set",
+      "synonyms": [
+        "Oversight Entity Value Set"
+      ],
+      "terms": [
+        {
+          "conceptId": "C142489",
+          "definition": "A group of independent experts who are appointed to monitor the safety and scientific integrity of a research intervention, protect the confidentiality of participant data, and to make recommendations to the sponsor regarding the stopping of the trial for safety, efficacy, or for futility. (clinicaltrials.gov)",
+          "preferredTerm": "Data Monitoring Committee",
+          "submissionValue": "Data Monitoring Committee",
+          "synonyms": [
+            "DMC",
+            " DMOC",
+            " DSMC",
+            " Data Monitoring and Oversight Committee",
+            " Data and Safety Monitoring Board",
+            " Data and Safety Monitoring Committee DSMB",
+            " IDMC",
+            " Independent Data Monitoring Committee"
+          ]
+        },
+        {
+          "conceptId": "C142579",
+          "definition": "An independent body (a review board or a committee, institutional, regional, national, or supranational), constituted of medical professionals and non-medical members, whose responsibility it is to ensure the protection of the rights, safety and well-being of human subjects involved in a study and to provide public assurance of that protection, by, among other things, reviewing and approving/providing favorable opinion on, the study protocol, the suitability of the investigator(s), facilities, and the methods and material to be used in obtaining and documenting informed consent of the study subjects. The legal status, composition, function, operations and regulatory requirements pertaining to Independent Ethics Committees may differ among countries, but should allow the Independent Ethics Committee to act in agreement with GCP as described in the ICH E6 guideline. (ICH E6 R2)",
+          "preferredTerm": "Independent Ethics Committee",
+          "submissionValue": "Independent Ethics Committee",
+          "synonyms": [
+            "IEC"
+          ]
+        },
+        {
+          "conceptId": "C165865",
+          "definition": "An independent physician or health-care professional who evaluates individual and cumulative participant data to make recommendations regarding the safe continuation of the study. (NIH)",
+          "preferredTerm": "Independent Safety Monitor",
+          "submissionValue": "Independent Safety Monitor",
+          "synonyms": [
+            "ISM"
+          ]
+        },
+        {
+          "conceptId": "C16741",
+          "definition": "An independent body constituted of medical, scientific, and non-scientific members, whose responsibility is to ensure the protection of the rights, safety and well-being of human subjects involved in a study by, among other things, reviewing, approving, and providing continuing review of study protocol and amendments and of the methods and material to be used in obtaining and documenting informed consent of the study subjects. (ICH E6 R2)",
+          "preferredTerm": "Institutional Review Board",
+          "submissionValue": "Institutional Review Board",
+          "synonyms": [
+            "IRB"
+          ]
+        },
+        {
+          "conceptId": "C165866",
+          "definition": "A group of independent experts who are appointed to monitor the safety and scientific integrity of an observational study, including protecting the confidentiality of participant data and to make recommendations regarding the stopping of the study for safety or for futility. (clinicaltrials.gov)",
+          "preferredTerm": "Observational Study Monitoring Committee",
+          "submissionValue": "Observational Study Monitoring Committee",
+          "synonyms": [
+            "OSMB",
+            " OSMC",
+            " Observational Study Monitoring Board"
+          ]
+        },
+        {
+          "conceptId": "C165867",
+          "definition": "Group of individuals with pertinent expertise that reviews, on a regular basis, accumulating safety data from an ongoing clinical study. This independent committee monitors the safety of participants during the study.",
+          "preferredTerm": "Safety Monitoring Committee",
+          "submissionValue": "Safety Monitoring Committee",
+          "synonyms": [
+            "SMC",
+            " Safety Assessment Committee",
+            " Safety Monitoring Board"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology codelist for the method of assigning participants, or subjects, to groups or categories within a clinical study.",
+      "extensible": "",
+      "name": "Participant Allocation Value Set",
+      "preferredTerm": "CDISC Protocol Subject Allocation Response Terminology",
+      "submissionValue": "Participant Allocation Value Set",
+      "synonyms": [
+        "Participant Allocation Value Set"
+      ],
+      "terms": [
+        {
+          "conceptId": "C93043",
+          "definition": "Participants are expressly assigned to intervention groups through a non-random method. (clinicaltrials.gov)",
+          "preferredTerm": "Nonrandomized Clinical Trial",
+          "submissionValue": "Nonrandomized",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C48660",
+          "definition": "Determination of a value is not relevant in the current context. (NCI)",
+          "preferredTerm": "Not Applicable",
+          "submissionValue": "Not Applicable",
+          "synonyms": [
+            "NA",
+            " Not Applicable"
+          ]
+        },
+        {
+          "conceptId": "C25196",
+          "definition": "The process of assigning trial subjects to treatment or control groups using an element of chance to determine the assignments in order to reduce bias. NOTE: Unequal randomization is used to allocate subjects into groups at a differential rate; for example, three subjects may be assigned to a treatment group for every one assigned to the control group. [ICH E6 1.48] See also balanced study. (CDISC glossary)",
+          "preferredTerm": "Randomization",
+          "submissionValue": "Randomized",
+          "synonyms": [
+            "Trial is Randomized"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology value set relevant to the attributes of the physical address entity.",
+      "extensible": "",
+      "name": "Physical Address Attribute Terminology",
+      "preferredTerm": "CDISC Protocol Entities Physical Address Attribute Terminology",
+      "submissionValue": "Physical Address Attribute Terminology",
+      "synonyms": [
+        "Physical Address Attribute Terminology"
+      ],
+      "terms": [
+        {
+          "conceptId": "C25160",
+          "definition": "A relatively large and/or densely populated area of human habitation with administrative or legal status that may be specified as a component of a postal address.",
+          "preferredTerm": "City",
+          "submissionValue": "City",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C25464",
+          "definition": "A sovereign nation occupying a distinct territory and ruled by an autonomous government.",
+          "preferredTerm": "Country",
+          "submissionValue": "Country",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C87189",
+          "definition": "A distinct geographic area in the immediate vicinity of a particular place, such as a city, neighborhood or district.",
+          "preferredTerm": "Locality",
+          "submissionValue": "Geographic Locality",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C16632",
+          "definition": "Any demarcated area of the Earth; may be determined by both natural and human boundaries, such as a state or province.",
+          "preferredTerm": "Geographic Area",
+          "submissionValue": "Geographic Region",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C25621",
+          "definition": "An alphanumeric code assigned to a mail delivery area.",
+          "preferredTerm": "Postal Code",
+          "submissionValue": "Postal Code",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C25632",
+          "definition": "A sub-division of a country created by the central government for administrative purposes. Provinces are usually, but not always, less autonomous than states, and must obey the laws of the central government.",
+          "preferredTerm": "Province",
+          "submissionValue": "Province",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C87194",
+          "definition": "A sub-division of a country that forms part of a federal union. States are usually, but not always, more autonomous than provinces and may have different laws from the central government.",
+          "preferredTerm": "State",
+          "submissionValue": "State",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C25690",
+          "definition": "The street name and building number where an entity is located.",
+          "preferredTerm": "Street Address",
+          "submissionValue": "Street Address",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "The terminology relevant to the role that the individual or entity plays with respect to being a contact within a study protocol.",
+      "extensible": "",
+      "name": "Protocol Contact Role Value Set",
+      "preferredTerm": "CDISC Protocol Entities Protocol Contact Role Response Terminology",
+      "submissionValue": "Protocol Contact Role Value Set",
+      "synonyms": [
+        "Protocol Contact Role Value Set"
+      ],
+      "terms": [
+        {
+          "conceptId": "C154709",
+          "definition": "A person who is responsible for the statistical aspects of the clinical or pre-clinical study. (NCI)",
+          "preferredTerm": "Biostatistician",
+          "submissionValue": "Biostatistician",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C154708",
+          "definition": "An individual that designs, implements, evaluates and/or analyzes information technology in a healthcare or research setting. (NCI)",
+          "preferredTerm": "Clinical Informaticist",
+          "submissionValue": "Clinical Informaticist",
+          "synonyms": [
+            "Clinical Informatician"
+          ]
+        },
+        {
+          "conceptId": "C51811",
+          "definition": "A person to whom a clinical investigator delegates routine administrative requirements of a protocol. The duties and responsibilities of a clinical research coordinator may vary across different infrastructures. Generally, the coordinator manages the subject's clinical trial participation and provides a vital linkage between the subject, the investigator, and the sponsor. (NCI)",
+          "preferredTerm": "Clinical Coordinator",
+          "submissionValue": "Clinical Research Coordinator",
+          "synonyms": [
+            "CRC"
+          ]
+        },
+        {
+          "conceptId": "C127526",
+          "definition": "The study contact person who is responsible for questions from the public.",
+          "preferredTerm": "Public Queries Study Contact",
+          "submissionValue": "Contact for Public Queries",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C51818",
+          "definition": "An investigator assigned the responsibility for the coordination of investigators at different centers participating in a multi-center trial. While a single-center study would not include a coordinating investigator, the investigator at the site would fulfill the same responsibilities as a principal investigator. (after ICH E6)",
+          "preferredTerm": "Coordinating Investigator",
+          "submissionValue": "Coordinating Investigator",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C51820",
+          "definition": "An individual who is responsible for the development and implementation of architectures, policies and procedures for the effective management of data across its business lifecycle.",
+          "preferredTerm": "Data Manager",
+          "submissionValue": "Data Manager",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C25936",
+          "definition": "A person responsible for the conduct of the clinical trial at a trial site. If a trial is conducted by a team of individuals at the trial site, the investigator is the responsible leader of the team and may be called the principle investigator.",
+          "preferredTerm": "Investigator",
+          "submissionValue": "Investigator",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C127532",
+          "definition": "An individual with expertise in the law who provides legal counsel and representation for a study.",
+          "preferredTerm": "Legal Representative for the Study",
+          "submissionValue": "Legal Representative for the Study",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C51836",
+          "definition": "A sponsor representative who has medical authority for the evaluation of the safety aspects of a clinical trial. (CDISC Glossary)",
+          "preferredTerm": "Medical Monitor",
+          "submissionValue": "Medical Monitor",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C154706",
+          "definition": "In the case of a multinational study, a person who has the responsibilities of the sponsor of the study in his/her country and will be responsible for the coordination of the principal investigators at different sites within that member state. (EMA)",
+          "preferredTerm": "National Coordinating Investigator",
+          "submissionValue": "National Coordinating Investigator",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C70794",
+          "definition": "The individual, organization, group or other legal person taking responsibility for securing the arrangements to initiate and/or manage a study (including arrangements to ensure that the study design meets appropriate standards and to ensure appropriate conduct and reporting). In commercial trials, the primary sponsor is normally the main applicant for regulatory authorization to begin the study. It may or may not be the main funder. (NCI)",
+          "preferredTerm": "Primary Clinical Study Sponsor",
+          "submissionValue": "Primary Sponsor",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C19924",
+          "definition": "A person who has the primary responsibility for the conduct of a clinical study and study-related personnel at a study site. While a single-center study would not include a coordinating investigator, the investigator at the site would fulfill the same responsibilities as a principal investigator.",
+          "preferredTerm": "Principal Investigator",
+          "submissionValue": "Principal Investigator",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C70795",
+          "definition": "Additional individuals, organizations or other legal persons, if any, that have agreed with the primary sponsor to take on responsibilities of sponsorship. A secondary sponsor may have agreed to take on all the responsibilities of sponsorship jointly with the primary sponsor; or to form a group with the primary sponsor in which the responsibilities of sponsorship are allocated among the members of the group; or to act as the sponsor's legal representative in relation to some or all of the study sites; or to take responsibility for the accuracy of study registration information submitted.",
+          "preferredTerm": "Secondary Clinical Study Sponsor",
+          "submissionValue": "Secondary Sponsor",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C70793",
+          "definition": "An entity that is responsible for the initiation, management, and/or financing of a clinical study.",
+          "preferredTerm": "Clinical Study Sponsor",
+          "submissionValue": "Sponsor",
+          "synonyms": [
+            "Clinical Study Sponsor",
+            " Sponsor",
+            " Study Sponsor"
+          ]
+        },
+        {
+          "conceptId": "C51878",
+          "definition": "A person who has overall responsibility for the technical conduct of a study, as well as for the interpretation, analysis, documentation and reporting of results, and represents the single point of study control. (FDA)",
+          "preferredTerm": "Study Chair",
+          "submissionValue": "Study Chair",
+          "synonyms": [
+            "Study Director"
+          ]
+        },
+        {
+          "conceptId": "C54622",
+          "definition": "Any member of the clinical trial team designated and supervised by the investigator at a trial site to perform critical trial-related procedures and/or to make important trial-related decisions (e.g., associates, residents, research fellows). (ICH)",
+          "preferredTerm": "Subinvestigator",
+          "submissionValue": "Subinvestigator",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C154707",
+          "definition": "An individual who is responsible for the delivery of technical aspects of a project. (NCI)",
+          "preferredTerm": "Technical Lead",
+          "submissionValue": "Technical Lead",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology value set relevant to the entities within a protocol.",
+      "extensible": "",
+      "name": "Protocol Entity Terminology",
+      "preferredTerm": "CDISC Protocol Entities Terminology",
+      "submissionValue": "Protocol Entity Terminology",
+      "synonyms": [
+        "Protocol Entity Terminology"
+      ],
+      "terms": [
+        {
+          "conceptId": "C15206",
+          "definition": "A clinical study involves research using human volunteers (also called participants) that is intended to add to medical knowledge. There are two main types of clinical studies: clinical trials (also called interventional studies) and observational studies. [ClinicalTrials.gov] See also clinical trial. (CDISC Glossary)",
+          "preferredTerm": "Clinical Study",
+          "submissionValue": "Clinical Study",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C71104",
+          "definition": "1) A research investigation involving human subjects that is designed to answer specific questions about the safety and efficacy of a biomedical intervention (drug, treatment, device) or new ways of using a known drug, treatment, or device). 2) A research study in which one or more human subjects are prospectively assigned to one or more interventions (which may include placebo or other control) to evaluate the effects of those interventions on health-related biomedical or behavioral outcomes.(1. modified from ICH E6 Glossary, Directive 2001/20/EC. 2. NIH revised definition 2015) (CDISC Glossary)",
+          "preferredTerm": "Clinical Trial",
+          "submissionValue": "Clinical Trial",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C25212",
+          "definition": "A defined variable intended to reflect an outcome measure of interest that is statistically analyzed to address a particular research question. NOTE: A precise definition of an endpoint typically specifies the type of assessments made, the timing of those assessments, the assessment tools used, and possibly other details, as applicable, such as how multiple assessments within an individual are to be combined. [After BEST Resource] (CDISC Glossary)",
+          "preferredTerm": "End Point",
+          "submissionValue": "Endpoint",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C20200",
+          "definition": "Events or experiences that clinicians or investigators examining the impact of an intervention or exposure measure because they believe such events or experiences may be influenced by the research intervention or exposure. Outcome is a general term in that it does not necessarily relate to a planned objective of the study. (FDA)",
+          "preferredTerm": "Outcome",
+          "submissionValue": "Outcome",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C93407",
+          "definition": "Specific key measurement(s) or observation(s) used to measure the effect of experimental variables on the participants in a study, or for observational studies, to describe patterns of diseases or traits or associations with exposures, risk factors or treatment. (BRIDG)",
+          "preferredTerm": "Study Outcome Measurement",
+          "submissionValue": "Outcome Measure",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C25407",
+          "definition": "A standardized representation of the location of a person, business, building, or organization. (NCI)",
+          "preferredTerm": "Address",
+          "submissionValue": "Physical Address",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C174447",
+          "definition": "A planned pathway assigned to the subject as they progress through the study, usually referred to by a name that reflects one or more treatments, exposures, and/or controls included in the path.",
+          "preferredTerm": "Study Arm",
+          "submissionValue": "Study Arm",
+          "synonyms": [
+            "Arm"
+          ]
+        },
+        {
+          "conceptId": "C154705",
+          "definition": "Information regarding the means of contacting a person or group that performs a function within a clinical study.",
+          "preferredTerm": "Study Contact Information",
+          "submissionValue": "Study Contact Information",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C15320",
+          "definition": "A plan detailing how a study will be performed in order to represent the phenomenon under examination, to answer the research questions that have been asked, and informing the statistical approach.",
+          "preferredTerm": "Study Design",
+          "submissionValue": "Study Design",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C142707",
+          "definition": "The act of overseeing the progress of a clinical study and of ensuring that it is conducted, recorded, and reported in accordance with the protocol, standard operating procedures (SOPs), good clinical practice (GCP), and regulatory requirement(s) where applicable. [after ICH E6 Glossary]",
+          "preferredTerm": "Study Monitoring",
+          "submissionValue": "Study Monitoring",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C93450",
+          "definition": "A group of individuals that approves, monitors and reviews biomedical research to protect the rights, safety and welfare of the study participants, by providing critical scientific, ethical, and/or regulatory oversight functions.",
+          "preferredTerm": "Study Oversight Authority",
+          "submissionValue": "Study Oversight Entity",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C70833",
+          "definition": "A group of individuals taken from the general population who share a set of common characteristics, such as age, sex, or health condition, precisely defined in the study protocol. This is a population to which the study results could be reasonably generalized.",
+          "preferredTerm": "Study Population",
+          "submissionValue": "Study Population",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C174271",
+          "definition": "The material artifact(s), such as the trial product, interventional product, study drug, device, or procedure and their comparator(s), that is the focus of the study.",
+          "preferredTerm": "Study Product",
+          "submissionValue": "Study Product",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C70817",
+          "definition": "The formal plan of an experiment or research activity, including the objective, rationale, design, materials and methods for the conduct of the study, intervention description, and method of data analysis.",
+          "preferredTerm": "Study Protocol",
+          "submissionValue": "Study Protocol",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology codelist relevant to the types of randomization schemas associated with a randomized controlled trial.",
+      "extensible": "",
+      "name": "Randomization Type Value Set",
+      "preferredTerm": "CDISC Protocol Randomization Type Response Terminology",
+      "submissionValue": "Randomization Type Value Set",
+      "synonyms": [
+        "Randomization Type Value Set"
+      ],
+      "terms": [
+        {
+          "conceptId": "C147126",
+          "definition": "A type of randomization schema in which the group assignment probability of a participant is adjusted based on the group assignments of those participants already randomized in the trial.",
+          "preferredTerm": "Adaptive Randomization",
+          "submissionValue": "Adaptive Randomization",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C147127",
+          "definition": "A type of adaptive randomization in which a pre-specified number of participants is assigned to a block containing the same pre-specified number of balanced group assignments in random order.",
+          "preferredTerm": "Block Randomization",
+          "submissionValue": "Block Randomization",
+          "synonyms": [
+            "Constrained Randomization"
+          ]
+        },
+        {
+          "conceptId": "C147143",
+          "definition": "A type of adaptive randomization in which the participant is assigned to the treatment group in an attempt to minimize imbalances in the number of participants for each stratification covariate across treatment groups.",
+          "preferredTerm": "Minimization Randomization",
+          "submissionValue": "Minimization Randomization",
+          "synonyms": [
+            "Covariate Adaptive Randomization"
+          ]
+        },
+        {
+          "conceptId": "C147144",
+          "definition": "A type of randomization schema in which each participant has the same chance of being randomized into any one group as all other participants.",
+          "preferredTerm": "Simple Randomization",
+          "submissionValue": "Simple Randomization",
+          "synonyms": [
+            "Unrestricted Randomization"
+          ]
+        },
+        {
+          "conceptId": "C147145",
+          "definition": "A type of block randomization in which participants are stratified into groups based on prognostic variables and then randomized into balanced treatment groups.",
+          "preferredTerm": "Stratified Randomization",
+          "submissionValue": "Stratified Randomization",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C142743",
+          "definition": "A type of randomization schema in which unequal numbers of participants are purposely assigned to multiple treatment groups.",
+          "preferredTerm": "Unequal Randomization",
+          "submissionValue": "Unequal Randomization",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology value set relevant to the attributes of the study arm entity.",
+      "extensible": "",
+      "name": "Study Arm Attribute Terminology",
+      "preferredTerm": "CDISC Protocol Study Arm Attribute Terminology",
+      "submissionValue": "Study Arm Attribute Terminology",
+      "synonyms": [
+        "Study Arm Attribute Terminology"
+      ],
+      "terms": [
+        {
+          "conceptId": "C172458",
+          "definition": "The total number of subjects intended to be included within each arm for the study. (NCI)",
+          "preferredTerm": "Planned Number of Subjects Per Study Arm",
+          "submissionValue": "Planned Number of Subjects Per Study Arm",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C93728",
+          "definition": "The textual representation of the arm for the study.",
+          "preferredTerm": "Arm Description",
+          "submissionValue": "Study Arm Description",
+          "synonyms": [
+            "Arm Description"
+          ]
+        },
+        {
+          "conceptId": "C172456",
+          "definition": "The given name of the arm for the study. (NCI)",
+          "preferredTerm": "Study Arm Label",
+          "submissionValue": "Study Arm Label",
+          "synonyms": [
+            "Arm Label"
+          ]
+        },
+        {
+          "conceptId": "C172457",
+          "definition": "The identification of the kind of arm(s) for the study. (NCI)",
+          "preferredTerm": "Study Arm Type",
+          "submissionValue": "Study Arm Type",
+          "synonyms": [
+            "Arm Type"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "The terminology relevant to the identification of the kind of arm.",
+      "extensible": "",
+      "name": "Study Arm Type Value Set Terminology",
+      "preferredTerm": "CDISC Protocol Study Arm Type Value Set Terminology",
+      "submissionValue": "Study Arm Type Value Set Terminology",
+      "synonyms": [
+        "Study Arm Type Value Set Terminology"
+      ],
+      "terms": [
+        {
+          "conceptId": "C174267",
+          "definition": "An arm describing the active comparator.",
+          "preferredTerm": "Active Comparator Arm",
+          "submissionValue": "Active Comparator Arm",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C174226",
+          "definition": "An arm describing the intervention or treatment plan for a group of participants in the study receiving a control. The control may comprise a non-investigational product (active control) or regimen, placebo, or no treatment.",
+          "preferredTerm": "Control Arm",
+          "submissionValue": "Control Arm",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C174266",
+          "definition": "An arm describing the intervention or treatment plan for a group of participants in the study receiving test product(s).",
+          "preferredTerm": "Investigational Arm",
+          "submissionValue": "Experimental Arm",
+          "synonyms": [
+            "Investigational Arm"
+          ]
+        },
+        {
+          "conceptId": "C174270",
+          "definition": "A study arm without an intervention or treatment.",
+          "preferredTerm": "No Intervention Arm",
+          "submissionValue": "No Intervention Arm",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C174268",
+          "definition": "An arm describing the placebo comparator.",
+          "preferredTerm": "Placebo Control Arm",
+          "submissionValue": "Placebo Comparator Arm",
+          "synonyms": [
+            "Placebo Control Arm"
+          ]
+        },
+        {
+          "conceptId": "C174269",
+          "definition": "An arm describing the sham comparator.",
+          "preferredTerm": "Sham Comparator Arm",
+          "submissionValue": "Sham Comparator Arm",
+          "synonyms": [
+            "Sham Intervention Arm"
+          ]
+        },
+        {
+          "conceptId": "C15538",
+          "definition": "An arm describing the intervention or treatment plan for a group of participants in the study. Treatment may consist of either experimental or control products under investigation.",
+          "preferredTerm": "Protocol Treatment Arm",
+          "submissionValue": "Treatment Arm",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology value set relevant to the attributes of the study contact information entity.",
+      "extensible": "",
+      "name": "Study Contact Information Attribute Terminology",
+      "preferredTerm": "CDISC Protocol Entities Study Contact Information Attribute Terminology",
+      "submissionValue": "Study Contact Information Attribute Terminology",
+      "synonyms": [
+        "Study Contact Information Attribute Terminology"
+      ],
+      "terms": [
+        {
+          "conceptId": "C25354",
+          "definition": "An academic rank conferred by a college, university, or other postsecondary education institution as official recognition for the successful completion of a program of studies.",
+          "preferredTerm": "Academic Degree",
+          "submissionValue": "Academic Degree",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C25191",
+          "definition": "A word or group of words indicating the identity of a person usually consisting of a first (personal) name and a last (family) name with an optional middle name. In some cultural traditions the family name comes first.",
+          "preferredTerm": "Person Name",
+          "submissionValue": "Contact Name",
+          "synonyms": [
+            "Individual's Name",
+            " Person Name"
+          ]
+        },
+        {
+          "conceptId": "C42775",
+          "definition": "A text string identifier for a location to which electronic mail can be delivered. (NCI)",
+          "preferredTerm": "E-mail Address",
+          "submissionValue": "E-mail Address",
+          "synonyms": [
+            "Email Address"
+          ]
+        },
+        {
+          "conceptId": "C42879",
+          "definition": "A telephone number that is used for identifying a specific fax machine in a telephone network.",
+          "preferredTerm": "Fax Number",
+          "submissionValue": "Fax Number",
+          "synonyms": [
+            "Facsimile Number"
+          ]
+        },
+        {
+          "conceptId": "C154704",
+          "definition": "The name of the organization or entity that the person or group has an established relationship with.",
+          "preferredTerm": "Organizational Affiliation Name",
+          "submissionValue": "Organizational Affiliation",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C25407",
+          "definition": "A standardized representation of the location of a person, business, building, or organization. (NCI)",
+          "preferredTerm": "Address",
+          "submissionValue": "Physical Address",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C48835",
+          "definition": "The usual or expected function of something; the part something plays in an action or event. (NCI)",
+          "preferredTerm": "Role",
+          "submissionValue": "Role",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C40978",
+          "definition": "A sequence of decimal digits (0-9) that is used for identifying a specific telephone line or other device in a telephone network.",
+          "preferredTerm": "Telephone Number",
+          "submissionValue": "Telephone Number",
+          "synonyms": [
+            "Phone Number"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology value set relevant to the attributes of the study design entity.",
+      "extensible": "",
+      "name": "Study Design Attribute Terminology",
+      "preferredTerm": "CDISC Protocol Entities Study Design Attribute Terminology",
+      "submissionValue": "Study Design Attribute Terminology",
+      "synonyms": [
+        "Study Design Attribute Terminology"
+      ],
+      "terms": [
+        {
+          "conceptId": "C49068",
+          "definition": "A process to limit bias by preventing subjects and/ or study personnel from identifying which treatments or procedures are administered, or from learning the results of tests and measures undertaken as part of a clinical investigation. (CDISC Glossary)",
+          "preferredTerm": "Blinded",
+          "submissionValue": "Blinding",
+          "synonyms": [
+            "Masking"
+          ]
+        },
+        {
+          "conceptId": "C98746",
+          "definition": "The general design of the strategy for assigning interventions to participants in a clinical study. (clinicaltrials.gov)",
+          "preferredTerm": "Intervention Model",
+          "submissionValue": "Interventional Study Design",
+          "synonyms": [
+            "Intervention Model"
+          ]
+        },
+        {
+          "conceptId": "C147138",
+          "definition": "The general design of the strategy for identifying and following up with participants during observational studies. (clinicaltrials.gov)",
+          "preferredTerm": "Observational Study Model",
+          "submissionValue": "Observational Study Design",
+          "synonyms": [
+            "Observation Model"
+          ]
+        },
+        {
+          "conceptId": "C147139",
+          "definition": "Summary description of the overall study plan and design, should include treatments studied, population studied, level and method of blinding/unmasking, kind of controls, method of assignment to treatment, sequence and duration of study periods, any safety, data monitoring or special steering or evaluation committees, and interim analyses. (ICH E3)",
+          "preferredTerm": "Study Design Description",
+          "submissionValue": "Overall Study Design",
+          "synonyms": [
+            "Overall Design",
+            " Study Design Description",
+            " Study Design Overview",
+            " Summary of Study Design"
+          ]
+        },
+        {
+          "conceptId": "C52580",
+          "definition": "The process of assigning participants to particular treatment groups or cohorts in a clinical study.",
+          "preferredTerm": "Allocation",
+          "submissionValue": "Participant Allocation",
+          "synonyms": [
+            "Subject Allocation"
+          ]
+        },
+        {
+          "conceptId": "C98771",
+          "definition": "The planned number of intervention groups.",
+          "preferredTerm": "Planned Number of Arms",
+          "submissionValue": "Planned Number of Arms",
+          "synonyms": [
+            "Planned Number of Arms"
+          ]
+        },
+        {
+          "conceptId": "C147137",
+          "definition": "The planned number of study groups.",
+          "preferredTerm": "Planned Number of Cohorts",
+          "submissionValue": "Planned Number of Cohorts",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C49692",
+          "definition": "The planned number of subjects to be entered in a clinical trial. (NCI)",
+          "preferredTerm": "Planned Subject Number",
+          "submissionValue": "Planned Number of Participants",
+          "synonyms": [
+            "Anticipated Enrollment",
+            " Planned Enrollment",
+            " Planned Number of Subjects",
+            " Target Enrollment"
+          ]
+        },
+        {
+          "conceptId": "C147140",
+          "definition": "A characterization or classification of the process of assigning trial subjects to treatment or control groups using an element of chance to determine the assignments in order to reduce bias.",
+          "preferredTerm": "Randomization Method",
+          "submissionValue": "Randomization Type",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C25689",
+          "definition": "Grouping defined by important prognostic factors measured at baseline. (ICH E9)",
+          "preferredTerm": "Stratification",
+          "submissionValue": "Stratification",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C16153",
+          "definition": "Selected factors that are used during randomization to ensure there is balance of these factors across all subjects within each arm of a study. The subject level values of these factors may be used as fixed effects in statistical models and for sensitivity analyses.",
+          "preferredTerm": "Stratification Factors",
+          "submissionValue": "Stratification Factor",
+          "synonyms": [
+            "Stratification Factor"
+          ]
+        },
+        {
+          "conceptId": "C142705",
+          "definition": "Reason(s) for choosing the study design. This may include reasons for the choice of control or comparator, as well as the scientific rationale for the study design.",
+          "preferredTerm": "Study Design Rationale",
+          "submissionValue": "Study Design Rationale",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C142668",
+          "definition": "A supposition or proposal made to explain certain observations or facts, which requires further investigation or exploration within a clinical study. (NCI)",
+          "preferredTerm": "Research Hypothesis",
+          "submissionValue": "Study Hypothesis",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C147141",
+          "definition": "The principal reason or intention for the execution of an interventional or non-interventional clinical study. (NCI)",
+          "preferredTerm": "Study Primary Purpose",
+          "submissionValue": "Study Primary Purpose",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C147142",
+          "definition": "The ancillary reason or intention for the execution of an interventional or non-interventional clinical study. (NCI)",
+          "preferredTerm": "Study Secondary Purpose",
+          "submissionValue": "Study Secondary Purpose",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C49658",
+          "definition": "The type of experimental design used to describe the level of awareness of the clinical trial subjects and/or investigators of the intervention(s) that they are receiving and/or administering.",
+          "preferredTerm": "Trial Blinding Schema",
+          "submissionValue": "Trial Blinding Schema",
+          "synonyms": [
+            "Trial Blinding Schema"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology value set relevant to the attributes of the study monitoring entity.",
+      "extensible": "",
+      "name": "Study Monitoring Attribute Terminology",
+      "preferredTerm": "CDISC Protocol Study Monitoring Attribute Terminology",
+      "submissionValue": "Study Monitoring Attribute Terminology",
+      "synonyms": [
+        "Study Monitoring Attribute Terminology"
+      ],
+      "terms": [
+        {
+          "conceptId": "C115753",
+          "definition": "A description of the strategy, methods, responsibilities, and requirements for monitoring the study. (ICH E6(R2))",
+          "preferredTerm": "Clinical Trial Monitoring Plan",
+          "submissionValue": "Clinical Monitoring Plan",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C163406",
+          "definition": "A written plan that prospectively identifies and documents monitoring activities intended to protect the safety of the participants, the validity of the data and the integrity of the research study. The DSMP may also identify when to terminate a participant's participation (i.e. individual stopping rules) and/or the appropriate termination of a study (i.e. study stopping rules). (Mayo Clinic)",
+          "preferredTerm": "Data and Safety Monitoring Plan",
+          "submissionValue": "Data and Safety Monitoring Plan",
+          "synonyms": [
+            "DSMP",
+            " Data Safety Monitoring Plan",
+            " Safety Data Monitoring Plan"
+          ]
+        },
+        {
+          "conceptId": "C142488",
+          "definition": "Review of study data for completeness, consistency, and accuracy for the duration of the study lifecycle.",
+          "preferredTerm": "Data Monitoring",
+          "submissionValue": "Data Monitoring",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C163407",
+          "definition": "A written message that asserts, affirms, or declares that the study is conducted in accordance with Good Clinical Practice (GCP).",
+          "preferredTerm": "GCP Adherence Statement",
+          "submissionValue": "GCP Adherence Statement",
+          "synonyms": [
+            "Good Clinical Practice Adherence Statement"
+          ]
+        },
+        {
+          "conceptId": "C142674",
+          "definition": "A systematic, prioritized approach that involves identifying, assessing, monitoring and mitigating the risks that could affect the quality of the study or safety of the study participants.",
+          "preferredTerm": "Risk Based Monitoring",
+          "submissionValue": "Risk Monitoring",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C163408",
+          "definition": "Review of cumulative safety data to identify possible safety concerns.",
+          "preferredTerm": "Safety Data Monitoring",
+          "submissionValue": "Safety Data Monitoring",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C163409",
+          "definition": "Review of safety data to ensure safety of the individuals who are participating in the study, or to identify potential safety concerns for the duration of the study lifecycle.",
+          "preferredTerm": "Safety Monitoring",
+          "submissionValue": "Safety Monitoring",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C163410",
+          "definition": "A written message that asserts, affirms, or declares that the study will be monitored in adherence to a clinical monitoring plan and in accordance with Good Clinical Practice (GCP).",
+          "preferredTerm": "Study Monitoring Statement",
+          "submissionValue": "Study Monitoring Statement",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C163411",
+          "definition": "A systematic approach to identify and assess the risks of participant suicidal ideation and/or suicide.",
+          "preferredTerm": "Suicidal Risk Monitoring",
+          "submissionValue": "Suicidal Risk Monitoring",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C15789",
+          "definition": "The act of overseeing the progress of a clinical trial and of ensuring that it is conducted, recorded, and reported in accordance with the protocol, standard operating procedures (SOPs), good clinical practice (GCP), and the applicable regulatory requirement(s). [ICH E6 Glossary]",
+          "preferredTerm": "Clinical Trials, Monitoring",
+          "submissionValue": "Trial Monitoring",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology value set relevant to the attributes of the study oversight entity.",
+      "extensible": "",
+      "name": "Study Oversight Entity Attribute Terminology",
+      "preferredTerm": "CDISC Protocol Study Oversight Entity Attribute Terminology",
+      "submissionValue": "Study Oversight Entity Attribute Terminology",
+      "synonyms": [
+        "Study Oversight Entity Attribute Terminology"
+      ],
+      "terms": [
+        {
+          "conceptId": "C165862",
+          "definition": "The date on which the study oversight entity grants approval.",
+          "preferredTerm": "Study Oversight Entity Approval Date",
+          "submissionValue": "Study Oversight Entity Approval Date",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C165863",
+          "definition": "The state of the study oversight entity approval process.",
+          "preferredTerm": "Study Oversight Entity Approval Status",
+          "submissionValue": "Study Oversight Entity Approval Status",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C165864",
+          "definition": "A characterization or classification of the group of individuals that approves, monitors and reviews biomedical research to protect the rights, safety and welfare of the study participants, by providing critical scientific, ethical, and/or regulatory oversight functions.",
+          "preferredTerm": "Study Oversight Entity Type",
+          "submissionValue": "Study Oversight Entity Type",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology value set relevant to the attributes of the study population entity.",
+      "extensible": "",
+      "name": "Study Population Attribute Terminology",
+      "preferredTerm": "CDISC Protocol Study Population Attribute Terminology",
+      "submissionValue": "Study Population Attribute Terminology",
+      "synonyms": [
+        "Study Population Attribute Terminology"
+      ],
+      "terms": [
+        {
+          "conceptId": "C161320",
+          "definition": "Medical or health condition that is concomitant or concurrent with the primary condition or disease under study.",
+          "preferredTerm": "Comorbid Condition",
+          "submissionValue": "Comorbid Condition",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C161319",
+          "definition": "Primary disease(s) or condition(s) being studied in the trial, or the focus of the study. (clinicaltrials.gov)",
+          "preferredTerm": "Condition or Disease under Study",
+          "submissionValue": "Condition or Disease under Study",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C28143",
+          "definition": "A study population that is defined for the purpose of comparison to the treatment group in a controlled trial. In an epidemiological study, a study population that does not have the outcome of interest.",
+          "preferredTerm": "Control Group",
+          "submissionValue": "Control Group",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C161324",
+          "definition": "A descriptive characterization of the study population (e.g., age, sex, race, education, etc.).",
+          "preferredTerm": "Demographic Group",
+          "submissionValue": "Demographic Group",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C161323",
+          "definition": "A study population that receives the intervention that is the focus of the study.",
+          "preferredTerm": "Experimental Group",
+          "submissionValue": "Experimental Group",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C161316",
+          "definition": "Female study subjects or patients who have the potential to become pregnant, i.e., those who have experienced menarche and who have not undergone surgical sterilization and are not postmenopausal.",
+          "preferredTerm": "Female of Childbearing Potential",
+          "submissionValue": "Females of Childbearing Potential",
+          "synonyms": [
+            "FOCBP",
+            " WOCBP",
+            " Women of Childbearing Potential"
+          ]
+        },
+        {
+          "conceptId": "C16669",
+          "definition": "The state of a subject's mental or physical condition.",
+          "preferredTerm": "Health Status",
+          "submissionValue": "General Health Status",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C49651",
+          "definition": "An individual who is or becomes a participant in a research study and has no significant health-related issues. (NCI)",
+          "preferredTerm": "Healthy Subject",
+          "submissionValue": "Healthy Volunteer",
+          "synonyms": [
+            "Healthy Subject"
+          ]
+        },
+        {
+          "conceptId": "C161318",
+          "definition": "An explanation with defensible proof as to the reason why a special population of subjects is included in the clinical study.",
+          "preferredTerm": "Justification of Special Population",
+          "submissionValue": "Justification of Special Population",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C161317",
+          "definition": "An explanation as to the logical reasons for why a specific population of subjects is being considered for inclusion in a clinical study.",
+          "preferredTerm": "Population Rationale",
+          "submissionValue": "Population Rationale",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C161321",
+          "definition": "The study population that is defined for the purpose of comparison to the population under investigation.",
+          "preferredTerm": "Reference Group",
+          "submissionValue": "Reference Group",
+          "synonyms": [
+            "Reference Group for Study Sample Population"
+          ]
+        },
+        {
+          "conceptId": "C142728",
+          "definition": "The population within the general population for which the study results can be generalized.",
+          "preferredTerm": "Target Study Population",
+          "submissionValue": "Target Study Population",
+          "synonyms": [
+            "Target Population"
+          ]
+        },
+        {
+          "conceptId": "C161322",
+          "definition": "A study population that receives an intervention(s) within a trial. This could include the investigational product(s) or a comparator (e.g., placebo or an approved intervention).",
+          "preferredTerm": "Treatment Group",
+          "submissionValue": "Treatment Group",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C142747",
+          "definition": "Individuals whose willingness to volunteer in a clinical trial may be unduly influenced by the expectation, whether justified or not, of benefits associated with participation, or of a retaliatory response from senior members of a hierarchy in case of refusal to participate. Examples include subordinate members of a group with a hierarchical structure, patients with incurable diseases, persons in nursing homes, unemployed or impoverished persons, patients in emergency situations, ethnic minority groups, homeless persons, nomads, refugees, minors, and those incapable of giving consent. (ICH)",
+          "preferredTerm": "Vulnerable Subjects",
+          "submissionValue": "Vulnerable Population",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology value set relevant to the attributes of the study product.",
+      "extensible": "",
+      "name": "Study Product Attribute Terminology",
+      "preferredTerm": "CDISC Protocol Study Product Attribute Terminology",
+      "submissionValue": "Study Product Attribute Terminology",
+      "synonyms": [
+        "Study Product Attribute Terminology"
+      ],
+      "terms": [
+        {
+          "conceptId": "C174265",
+          "definition": "The characterization or classification of the material artifact(s) that is the focus of the study.",
+          "preferredTerm": "Study Product Type",
+          "submissionValue": "Study Product Type",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "The terminology relevant to the identification of the kind of study product.",
+      "extensible": "",
+      "name": "Study Product Type Value Set Terminology",
+      "preferredTerm": "CDISC Protocol Study Product Type Value Set Terminology",
+      "submissionValue": "Study Product Type Value Set Terminology",
+      "synonyms": [
+        "Study Product Type Value Set Terminology"
+      ],
+      "terms": [
+        {
+          "conceptId": "C68609",
+          "definition": "A type of control, which has a demonstrated effect, administered as a comparator to subjects in a clinical trial. [From ICH E10]",
+          "preferredTerm": "Active Comparator",
+          "submissionValue": "Active Comparator",
+          "synonyms": [
+            "Active Control"
+          ]
+        },
+        {
+          "conceptId": "C142703",
+          "definition": "A comparator product against which the study treatment is evaluated [e.g., concurrent (placebo, no treatment, dose-response, active), and external (historical, published literature)]. [After ICH E10]",
+          "preferredTerm": "Study Control",
+          "submissionValue": "Control Product",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C142587",
+          "definition": "A material (such as a drug, biologic, or device) produced by or resulting from a process, which is being tested in a study. This may also include a product with a marketing authorization when used or assembled (formulated or packaged) in a way different from the approved form, or when used for an unapproved indication, or when used to gain further information about an approved use. [After ICH]",
+          "preferredTerm": "Investigational Product",
+          "submissionValue": "Investigational Product",
+          "synonyms": [
+            "Experimental Product"
+          ]
+        },
+        {
+          "conceptId": "C49648",
+          "definition": "An inactive, identical-appearing drug or treatment that does not contain the test product.",
+          "preferredTerm": "Placebo Control",
+          "submissionValue": "Placebo Comparator",
+          "synonyms": [
+            "Placebo",
+            " Placebo Control"
+          ]
+        },
+        {
+          "conceptId": "C116527",
+          "definition": "A procedure or device that appears to be the same as the actual procedure or device being studied but does not contain active processes or components.",
+          "preferredTerm": "Sham Intervention",
+          "submissionValue": "Sham Comparator",
+          "synonyms": [
+            "Sham Intervention"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology value set relevant to the attributes of the study protocol entity.",
+      "extensible": "",
+      "name": "Study Protocol Attribute Terminology",
+      "preferredTerm": "CDISC Protocol Entities Study Protocol Attribute Terminology",
+      "submissionValue": "Study Protocol Attribute Terminology",
+      "synonyms": [
+        "Study Protocol Attribute Terminology"
+      ],
+      "terms": [
+        {
+          "conceptId": "C132344",
+          "definition": "A unique code assigned by an affiliated governing body or other organization that identifies a specific protocol (e.g., grant number, national number).",
+          "preferredTerm": "Alternate Protocol Identifier",
+          "submissionValue": "Alternate Protocol Identifier",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C132345",
+          "definition": "The short descriptive name for the protocol.",
+          "preferredTerm": "Brief Protocol Title",
+          "submissionValue": "Brief Protocol Title",
+          "synonyms": [
+            "Abbreviated Protocol Title"
+          ]
+        },
+        {
+          "conceptId": "C132346",
+          "definition": "The formal descriptive name for the protocol.",
+          "preferredTerm": "Official Protocol Title",
+          "submissionValue": "Official Protocol Title",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C132347",
+          "definition": "A written description of a change(s) to, or formal clarification of, a protocol. (ICH E6)",
+          "preferredTerm": "Protocol Amendment",
+          "submissionValue": "Protocol Amendment",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C51853",
+          "definition": "A person who is the writer of a structured research study protocol.",
+          "preferredTerm": "Protocol Author",
+          "submissionValue": "Protocol Author",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C115628",
+          "definition": "A scientific summary of the key points of the protocol.",
+          "preferredTerm": "Clinical Trial Protocol Synopsis",
+          "submissionValue": "Protocol Synopsis",
+          "synonyms": [
+            "Protocol Scientific Summary"
+          ]
+        },
+        {
+          "conceptId": "C94105",
+          "definition": "The descriptive name of the protocol that is intended for the lay public, written in easily understood language.",
+          "preferredTerm": "Study Protocol Document Version Public Title",
+          "submissionValue": "Public Protocol Title",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C132348",
+          "definition": "A unique code assigned by a clinical trial registry that identifies a specific protocol.",
+          "preferredTerm": "Registry Protocol Identifier",
+          "submissionValue": "Registry Protocol Identifier",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C132349",
+          "definition": "A standardized representation of planned clinical trial activities including interventions (e.g., administering drug, surgery) and study administrative activities (e.g., obtaining informed consent, distributing clinical trial material and diaries, randomization) as well as assessments. (CDISC Glossary)",
+          "preferredTerm": "Schedule of Activities",
+          "submissionValue": "Schedule of Activities",
+          "synonyms": [
+            "Schedule of Events",
+            " SoA"
+          ]
+        },
+        {
+          "conceptId": "C132350",
+          "definition": "A more extensive descriptive name of the protocol that is intended for medical professionals, written using medical and scientific language.",
+          "preferredTerm": "Scientific Protocol Title",
+          "submissionValue": "Scientific Protocol Title",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C132351",
+          "definition": "A unique code assigned by the sponsor that identifies a specific protocol.",
+          "preferredTerm": "Sponsor Protocol Identifier",
+          "submissionValue": "Sponsor Protocol Identifier",
+          "synonyms": [
+            "Sponsor Protocol Code",
+            " Sponsor Protocol Number"
+          ]
+        },
+        {
+          "conceptId": "C94108",
+          "definition": "A word or words formed from the beginning letters or a combination of syllables and letters of a compound term, which identifies a clinical study.",
+          "preferredTerm": "Study Protocol Version Acronym",
+          "submissionValue": "Study Acronym",
+          "synonyms": [
+            "Trial Acronym"
+          ]
+        },
+        {
+          "conceptId": "C93490",
+          "definition": "A plan at a particular point in time for a formal investigation to assess the utility, impact, pharmacological, physiological, and/or psychological effects of a particular treatment, procedure, drug, device, biologic, food product, cosmetic, care plan, or subject characteristic. (BRIDG)",
+          "preferredTerm": "Study Protocol Version",
+          "submissionValue": "Study Protocol Version",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C132352",
+          "definition": "The date on which a version of the protocol was finalized or approved by the sponsor.",
+          "preferredTerm": "Protocol Approval Date",
+          "submissionValue": "Study Protocol Version Approval Date",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology codelist relevant to the reason(s) or intention(s) for the execution of an interventional or non-interventional clinical study.",
+      "extensible": "",
+      "name": "Study Purpose Value Set",
+      "preferredTerm": "CDISC Protocol Study Purpose Response Terminology",
+      "submissionValue": "Study Purpose Value Set",
+      "synonyms": [
+        "Study Purpose Value Set"
+      ],
+      "terms": [
+        {
+          "conceptId": "C15714",
+          "definition": "A type of study designed to examine the basic mechanism of action (e.g., physiology, biomechanics) of an intervention. (ClinicalTrials.gov)",
+          "preferredTerm": "Basic Research",
+          "submissionValue": "Basic Science",
+          "synonyms": [
+            "Basic Research"
+          ]
+        },
+        {
+          "conceptId": "C139174",
+          "definition": "An intervention of a device product is being evaluated to determine the feasibility of the product or to test a prototype device and not health outcomes. Such studies are conducted to confirm the design and operating specifications of a device before beginning a full clinical trial. (ClinicalTrials.gov)",
+          "preferredTerm": "Device Feasibility Study",
+          "submissionValue": "Device Feasibility",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C15220",
+          "definition": "The investigation, analysis and recognition of the presence and nature of disease, condition, or injury from expressed signs and symptoms; also, the scientific determination of any kind; the concise results or summary of such an investigation. (NCI)",
+          "preferredTerm": "Diagnosis",
+          "submissionValue": "Diagnosis",
+          "synonyms": [
+            "Diagnostic"
+          ]
+        },
+        {
+          "conceptId": "C147146",
+          "definition": "Any action or process to perform research on a hypothetical or theoretical idea in order to determine whether the phenomena is new (which may lead to additional studies) or can be explained by an existing and well-substantiated theory. (NCI)",
+          "preferredTerm": "Exploratory Research",
+          "submissionValue": "Exploratory Research",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C15245",
+          "definition": "A type of study designed to evaluate the delivery, processes, management, organization or financing of health care. (ClinicalTrials.gov)",
+          "preferredTerm": "Health Services Research",
+          "submissionValue": "Health Services Research",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C147147",
+          "definition": "Any action or process to create a tentative proposal to explain certain observations or facts, and which requires further investigation to be verified. (NCI)",
+          "preferredTerm": "Hypothesis Generation",
+          "submissionValue": "Hypothesis Generation",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C15843",
+          "definition": "Any action or response to modify or stop the development of a disease.",
+          "preferredTerm": "Preventive Intervention",
+          "submissionValue": "Prevention",
+          "synonyms": [
+            "Prophylaxis"
+          ]
+        },
+        {
+          "conceptId": "C15419",
+          "definition": "Any action or process to identify a condition, or risk factors for a condition, in humans who are not yet known to have the condition or risk factor. (clinicaltrials.gov)",
+          "preferredTerm": "Disease Screening",
+          "submissionValue": "Screening",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C15747",
+          "definition": "Any action or process to maximize comfort, minimize side effects, or mitigate against a decline in the participant's health or function. (clinicaltrials.gov)",
+          "preferredTerm": "Supportive Care",
+          "submissionValue": "Supportive Care",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C70742",
+          "definition": "Any action or process to improve or remedy a syndrome, disease, or condition.",
+          "preferredTerm": "Treat",
+          "submissionValue": "Treatment",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology codelist relevant to the role the study plays in determining the interventions a subject receives.",
+      "extensible": "No",
+      "name": "Study Type Response",
+      "preferredTerm": "CDISC SDTM Study Type Terminology",
+      "submissionValue": "STYPE",
+      "synonyms": [
+        "Study Type Response"
+      ],
+      "terms": [
+        {
+          "conceptId": "C98722",
+          "definition": "Studies that provide a means for obtaining an experimental drug or device for patients who are not adequately treated by existing therapy, who do not meet the eligibility criteria for enrollment, or who are otherwise unable to participate in another clinical study. Expanded Access studies include individual-patient IND, treatment IND, compassionate use, emergency use or continued access.",
+          "preferredTerm": "Expanded Access Study",
+          "submissionValue": "EXPANDED ACCESS",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C98388",
+          "definition": "Studies in which individuals are assigned by an investigator based on a protocol to receive specific interventions. Subjects may receive diagnostic, therapeutic or other types of interventions. The assignment of the intervention may or may not be random. The individuals are then followed and biomedical and/or health outcomes are assessed.",
+          "preferredTerm": "Interventional Study",
+          "submissionValue": "INTERVENTIONAL",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C16084",
+          "definition": "Studies in which biomedical and/or health outcomes are assessed in pre-defined groups of individuals. Subjects in the study may receive diagnostic, therapeutic, or other interventions, but the investigator does not assign specific interventions to the subjects of the study.",
+          "preferredTerm": "Observational Study",
+          "submissionValue": "OBSERVATIONAL",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C129000",
+          "definition": "Observational studies which include an organized system that uses observational methods to collect uniform data (clinical and other) prospectively for a population defined by a particular disorder/disease, condition (including susceptibility to a disorder), or exposure (including products, health care services, and/or procedures) and that serves a predetermined scientific, clinical, or policy purpose. Patient registries may be single purpose or on-going data collection programs that address one or more questions. (AHRQ)",
+          "preferredTerm": "Patient Registry Study",
+          "submissionValue": "PATIENT REGISTRY",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology codelist relevant to the responses for the planned purpose of the therapy, device, or agent under study in the clinical trial.",
+      "extensible": "Yes",
+      "name": "Trial Intent Type Response",
+      "preferredTerm": "CDISC SDTM Trial Indication Type Terminology",
+      "submissionValue": "TINDTP",
+      "synonyms": [
+        "Trial Intent Type Response"
+      ],
+      "terms": [
+        {
+          "conceptId": "C15714",
+          "definition": "A type of study designed to examine the basic mechanism of action (e.g., physiology, biomechanics) of an intervention. (ClinicalTrials.gov)",
+          "preferredTerm": "Basic Research",
+          "submissionValue": "BASIC SCIENCE",
+          "synonyms": [
+            "Basic Research"
+          ]
+        },
+        {
+          "conceptId": "C49654",
+          "definition": "A type of study designed to evaluate intervention(s) aimed to cure a disease or condition.",
+          "preferredTerm": "Cure Study",
+          "submissionValue": "CURE",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C139174",
+          "definition": "An intervention of a device product is being evaluated to determine the feasibility of the product or to test a prototype device and not health outcomes. Such studies are conducted to confirm the design and operating specifications of a device before beginning a full clinical trial. (ClinicalTrials.gov)",
+          "preferredTerm": "Device Feasibility Study",
+          "submissionValue": "DEVICE FEASIBILITY",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C49653",
+          "definition": "A type of study designed to evaluate intervention(s) aimed at identifying a disease or condition.",
+          "preferredTerm": "Diagnosis Study",
+          "submissionValue": "DIAGNOSIS",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C170629",
+          "definition": "A type of study designed to evaluate the effects of treatment(s) intended to cause a change in disease, syndrome, or condition beyond the point of treatment administration.",
+          "preferredTerm": "Disease Modifying Treatment Study",
+          "submissionValue": "DISEASE MODIFYING",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C15245",
+          "definition": "A type of study designed to evaluate the delivery, processes, management, organization or financing of health care. (ClinicalTrials.gov)",
+          "preferredTerm": "Health Services Research",
+          "submissionValue": "HEALTH SERVICES RESEARCH",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C49655",
+          "definition": "A type of study designed to identify actions necessary to eliminate or reduce the risk to human life or well-being as a result of a particular medication or treatment regimen. (NCI)",
+          "preferredTerm": "Adverse Effect Mitigation Study",
+          "submissionValue": "MITIGATION",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C49657",
+          "definition": "A type of study designed to identify actions necessary to permanently eliminate or reduce the long-term risk to human life as a result of a particular medication or treatment regimen.",
+          "preferredTerm": "Prevention Study",
+          "submissionValue": "PREVENTION",
+          "synonyms": [
+            "Prophylaxis Study"
+          ]
+        },
+        {
+          "conceptId": "C71485",
+          "definition": "A type of study designed to assess or examine methods of identifying a condition (or risk factors for a condition) in people who are not yet known to have the condition (or risk factor). (Clinicaltrials.gov)",
+          "preferredTerm": "Screening Study",
+          "submissionValue": "SCREENING",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C71486",
+          "definition": "A type of study designed to evaluate one or more interventions where the primary intent is to maximize comfort, minimize side effects or mitigate against a decline in the subject's health or function. In general, supportive care interventions are not intended to cure a disease. (ClinicalTrials.gov)",
+          "preferredTerm": "Supportive Care Study",
+          "submissionValue": "SUPPORTIVE CARE",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C49656",
+          "definition": "A type of study designed to evaluate intervention(s) for treatment of disease, syndrome or condition.",
+          "preferredTerm": "Treatment Study",
+          "submissionValue": "TREATMENT",
+          "synonyms": [
+            "Therapy Trial"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology codelist relevant to the phase, or stage, of the clinical trial.",
+      "extensible": "Yes",
+      "name": "Trial Phase Response",
+      "preferredTerm": "CDISC SDTM Trial Phase Terminology",
+      "submissionValue": "TPHASE",
+      "synonyms": [
+        "Trial Phase Response"
+      ],
+      "terms": [
+        {
+          "conceptId": "C48660",
+          "definition": "Determination of a value is not relevant in the current context. (NCI)",
+          "preferredTerm": "Not Applicable",
+          "submissionValue": "NOT APPLICABLE",
+          "synonyms": [
+            "NA",
+            " Not Applicable"
+          ]
+        },
+        {
+          "conceptId": "C54721",
+          "definition": "First-in-human trials, in a small number of subjects, that are conducted before Phase 1 trials and are intended to assess new candidate therapeutic and imaging agents. The study agent is administered at a low dose for a limited time, and there is no therapeutic or diagnostic intent. NOTE: FDA Guidance for Industry, Investigators, and Reviewers: Exploratory IND Studies, January 2006 classifies such studies as Phase 1. NOTE: A Phase 0 study might not include any drug delivery but may be an exploration of human material from a study (e.g., tissue samples or biomarker determinations). [Improving the Quality of Cancer Clinical Trials: Workshop summary-Proceedings of the National Cancer Policy Forum Workshop, improving the Quality of Cancer Clinical Trials (Washington, DC, Oct 2007)] (CDISC glossary)",
+          "preferredTerm": "Phase 0 Trial",
+          "submissionValue": "PHASE 0 TRIAL",
+          "synonyms": [
+            "0",
+            " Pre-clinical Trial",
+            " Trial Phase 0"
+          ]
+        },
+        {
+          "conceptId": "C15600",
+          "definition": "The initial introduction of an investigational new drug into humans. Phase 1 studies are typically closely monitored and may be conducted in patients or normal volunteer subjects. NOTE: These studies are designed to determine the metabolism and pharmacologic actions of the drug in humans, the side effects associated with increasing doses, and, if possible, to gain early evidence on effectiveness. During Phase 1, sufficient information about the drug's pharmacokinetics and pharmacological effects should be obtained to permit the design of well-controlled, scientifically valid, Phase 2 studies. The total number of subjects and patients included in Phase I studies varies with the drug, but is generally in the range of 20 to 80. Phase 1 studies also include studies of drug metabolism, structure-activity relationships, and mechanism of action in humans, as well as studies in which investigational drugs are used as research tools to explore biological phenomena or disease processes. [After FDA CDER Handbook, ICH E8] (CDISC glossary)",
+          "preferredTerm": "Phase I Trial",
+          "submissionValue": "PHASE I TRIAL",
+          "synonyms": [
+            "1",
+            " Trial Phase 1"
+          ]
+        },
+        {
+          "conceptId": "C15693",
+          "definition": "A class of clinical study that combines elements characteristic of traditional Phase I and Phase II trials. See also Phase I, Phase II.",
+          "preferredTerm": "Phase I/II Trial",
+          "submissionValue": "PHASE I/II TRIAL",
+          "synonyms": [
+            "1-2",
+            " Trial Phase 1-2"
+          ]
+        },
+        {
+          "conceptId": "C15601",
+          "definition": "Phase 2. Controlled clinical studies conducted to evaluate the effectiveness of the drug for a particular indication or indications in patients with the disease or condition under study and to determine the common short-term side effects and risks associated with the drug. NOTE: Phase 2 studies are typically well controlled, closely monitored, and conducted in a relatively small number of patients, usually involving no more than several hundred subjects. [After FDA CDER Handbook, ICH E8] (CDISC glossary)",
+          "preferredTerm": "Phase II Trial",
+          "submissionValue": "PHASE II TRIAL",
+          "synonyms": [
+            "2",
+            " Trial Phase 2"
+          ]
+        },
+        {
+          "conceptId": "C15694",
+          "definition": "A class of clinical study that combines elements characteristic of traditional Phase II and Phase III trials.",
+          "preferredTerm": "Phase II/III Trial",
+          "submissionValue": "PHASE II/III TRIAL",
+          "synonyms": [
+            "2-3",
+            " Trial Phase 2-3"
+          ]
+        },
+        {
+          "conceptId": "C49686",
+          "definition": "A clinical research protocol generally referred to as a pilot or feasibility trial that aims to prove the concept of the new intervention in question. (NCI)",
+          "preferredTerm": "Phase IIa Trial",
+          "submissionValue": "PHASE IIA TRIAL",
+          "synonyms": [
+            "2A",
+            " Trial Phase 2A"
+          ]
+        },
+        {
+          "conceptId": "C49688",
+          "definition": "A clinical research protocol generally referred to as a well-controlled and pivotal trial that aims to prove the mechanism of action of the new intervention in question. A pivotal study will generally be well-controlled, randomized, of adequate size, and whenever possible, double-blind. (NCI)",
+          "preferredTerm": "Phase IIb Trial",
+          "submissionValue": "PHASE IIB TRIAL",
+          "synonyms": [
+            "2B",
+            " Trial Phase 2B"
+          ]
+        },
+        {
+          "conceptId": "C15602",
+          "definition": "Phase 3. Studies are expanded controlled and uncontrolled trials. They are performed after preliminary evidence suggesting effectiveness of the drug has been obtained, and are intended to gather the additional information about effectiveness and safety that is needed to confirm efficacy and evaluate the overall benefit-risk relationship of the drug and to provide an adequate basis for physician labeling. NOTE: Phase 3 studies usually include from several hundred to several thousand subjects. [After FDA CDER Handbook, ICH E8] (CDISC glossary)",
+          "preferredTerm": "Phase III Trial",
+          "submissionValue": "PHASE III TRIAL",
+          "synonyms": [
+            "3",
+            " Trial Phase 3"
+          ]
+        },
+        {
+          "conceptId": "C49687",
+          "definition": "A classification typically assigned retrospectively to a Phase III trial upon determination by regulatory authorities of a need for a Phase III B trial. (NCI)",
+          "preferredTerm": "Phase IIIa Trial",
+          "submissionValue": "PHASE IIIA TRIAL",
+          "synonyms": [
+            "3A",
+            " Trial Phase 3A"
+          ]
+        },
+        {
+          "conceptId": "C49689",
+          "definition": "A subcategory of Phase III trials done near the time of approval to elicit additional findings. NOTE: Dossier review may continue while associated Phase IIIB trials are conducted. These trials may be required as a condition of regulatory authority approval.",
+          "preferredTerm": "Phase IIIb Trial",
+          "submissionValue": "PHASE IIIB TRIAL",
+          "synonyms": [
+            "3B",
+            " Trial Phase 3B"
+          ]
+        },
+        {
+          "conceptId": "C15603",
+          "definition": "Phase 4. Postmarketing (Phase 4) studies to delineate additional information about the drug's risks, benefits, and optimal use that may be requested by regulatory authorities in conjunction with marketing approval. NOTE: These studies could include, but would not be limited to, studying different doses or schedules of administration than were used in Phase 2 studies, use of the drug in other patient populations or other stages of the disease, or use of the drug over a longer period of time. [After FDA CDER Handbook, ICH E8] (CDISC glossary)",
+          "preferredTerm": "Phase IV Trial",
+          "submissionValue": "PHASE IV TRIAL",
+          "synonyms": [
+            "4",
+            " Trial Phase 4"
+          ]
+        },
+        {
+          "conceptId": "C47865",
+          "definition": "Postmarketing surveillance is sometimes referred to as Phase V.",
+          "preferredTerm": "Phase V Trial",
+          "submissionValue": "PHASE V TRIAL",
+          "synonyms": [
+            "5",
+            " Trial Phase 5"
+          ]
+        }
+      ]
+    },
+    {
+      "conceptId": "",
+      "definition": "A terminology codelist relevant to the type of primary outcome or endpoint that the protocol is designed to evaluate.",
+      "extensible": "Yes",
+      "name": "Trial Type Response",
+      "preferredTerm": "CDISC SDTM Trial Type Terminology",
+      "submissionValue": "TTYPE",
+      "synonyms": [
+        "Trial Type Response"
+      ],
+      "terms": [
+        {
+          "conceptId": "C158283",
+          "definition": "A type of study designed to evaluate the strength of the bond between an adhesive and the application surface.",
+          "preferredTerm": "Adhesion Performance Study",
+          "submissionValue": "ADHESION PERFORMANCE",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C158284",
+          "definition": "A type of study designed to evaluate the effects of alcohol on investigational product safety and/or efficacy.",
+          "preferredTerm": "Alcohol Effect Study",
+          "submissionValue": "ALCOHOL EFFECT",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C49664",
+          "definition": "A study of the degree to which or rate at which a drug or other substance is absorbed or becomes available at the site of physiological activity after administration. (NCI)",
+          "preferredTerm": "Bioavailability Study",
+          "submissionValue": "BIO-AVAILABILITY",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C49665",
+          "definition": "A study most often used to compare the efficacy of different formulations to treat a given disease. It is the testing of an old versus a new formulation in healthy volunteers or subjects with the disease under study and usually in one dose. (NCI)",
+          "preferredTerm": "Therapeutic Equivalency Study",
+          "submissionValue": "BIO-EQUIVALENCE",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C158288",
+          "definition": "A type of study designed to evaluate whether a biologic test article is highly similar in function and effect to an existing biologic that has already been clinically tested and approved for use.",
+          "preferredTerm": "Biosimilarity Study",
+          "submissionValue": "BIOSIMILARITY",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C158285",
+          "definition": "A type of study designed to evaluate the interaction between a device and a drug, where the use of one may affect the disposition, function, efficacy, or safety of the other.",
+          "preferredTerm": "Device-Drug Interaction Study",
+          "submissionValue": "DEVICE-DRUG INTERACTION",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C49653",
+          "definition": "A type of study designed to evaluate intervention(s) aimed at identifying a disease or condition.",
+          "preferredTerm": "Diagnosis Study",
+          "submissionValue": "DIAGNOSIS",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C158289",
+          "definition": "An early phase clinical study with the objective of determining the optimal dose of an investigational product.",
+          "preferredTerm": "Dose Finding Study",
+          "submissionValue": "DOSE FINDING",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C158290",
+          "definition": "A type of study designed to evaluate the relationship between dose and resulting exposure.",
+          "preferredTerm": "Dose Proportionality Study",
+          "submissionValue": "DOSE PROPORTIONALITY",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C127803",
+          "definition": "A study of the effect of dose changes on the efficacy of a drug in order to determine the dose-response relationship and optimal dose of a therapy.",
+          "preferredTerm": "Dose Response Study",
+          "submissionValue": "DOSE RESPONSE",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C158286",
+          "definition": "A type of study designed to evaluate the interaction between drugs, where the use of one may affect the disposition, efficacy, or safety of the other.",
+          "preferredTerm": "Drug-Drug Interaction Study",
+          "submissionValue": "DRUG-DRUG INTERACTION",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C49666",
+          "definition": "A study of the relative therapeutic efficacy of treatment of a disease. Usually this is a Phase II or III study. (NCI)",
+          "preferredTerm": "Efficacy Study",
+          "submissionValue": "EFFICACY",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C98729",
+          "definition": "Studies that are conducted to assess the effect of food on the rate and extent of absorption of a drug, either compared to a fasted state or to a reference drug.",
+          "preferredTerm": "Food Effect Study",
+          "submissionValue": "FOOD EFFECT",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C120842",
+          "definition": "A study that assesses an agent's ability to provoke an immune response.",
+          "preferredTerm": "Immunogenicity Study",
+          "submissionValue": "IMMUNOGENICITY",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C49662",
+          "definition": "A study of the biochemical and physiological effect of a drug and the mechanism of drug action and the relationship between drug concentration and effect. (NCI)",
+          "preferredTerm": "Pharmacodynamic Study",
+          "submissionValue": "PHARMACODYNAMIC",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C39493",
+          "definition": "A study that assesses the value associated with a given drug in therapeutic and economic terms. This type of study is multidisciplinary in nature and takes into consideration the social and economic costs (resource utilization costs including direct, indirect, and intangible costs) of drug therapy in addition to its direct therapeutic benefits. Analyses relate the difference in therapeutic benefits to the difference in costs between treatment alternatives. (NCI)",
+          "preferredTerm": "Pharmacoeconomic Study",
+          "submissionValue": "PHARMACOECONOMIC",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C129001",
+          "definition": "A study that assesses variation in DNA sequence, usually within a single gene, and its effect on drug response.",
+          "preferredTerm": "Pharmacogenetic Study",
+          "submissionValue": "PHARMACOGENETIC",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C49661",
+          "definition": "A study that identifies or assesses variations within the entire genome, including DNA, RNA, or transcriptional elements, and its effects on drug response.",
+          "preferredTerm": "Pharmacogenomic Study",
+          "submissionValue": "PHARMACOGENOMIC",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C49663",
+          "definition": "A study of the process by which a drug is absorbed, distributed, metabolized, and eliminated by the body. (NCI)",
+          "preferredTerm": "Pharmacokinetic Study",
+          "submissionValue": "PHARMACOKINETIC",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C161477",
+          "definition": "A type of study designed to evaluate the effect of body position during and/or after administration of the investigational product.",
+          "preferredTerm": "Position Effect Trial",
+          "submissionValue": "POSITION EFFECT",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C49657",
+          "definition": "A type of study designed to identify actions necessary to permanently eliminate or reduce the long-term risk to human life as a result of a particular medication or treatment regimen.",
+          "preferredTerm": "Prevention Study",
+          "submissionValue": "PREVENTION",
+          "synonyms": [
+            "Prophylaxis Study"
+          ]
+        },
+        {
+          "conceptId": "C174366",
+          "definition": "A type of study designed to evaluate the expected, acute types of immunological responses, sometimes considered excessive, following agent administration.",
+          "preferredTerm": "Reactogenicity Study",
+          "submissionValue": "REACTOGENICITY",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C49667",
+          "definition": "A study that assesses the medical risks to a subject. Safety is usually assessed by examining a wide range of clinical parameters, including adverse events, vital signs, physical exam, laboratory tests.",
+          "preferredTerm": "Safety Study",
+          "submissionValue": "SAFETY",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C161478",
+          "definition": "A type of study designed to evaluate the effect of the investigational product on the physiologic act of swallowing.",
+          "preferredTerm": "Swallowing Function Trial",
+          "submissionValue": "SWALLOWING FUNCTION",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C158287",
+          "definition": "A type of study designed to evaluate the ability of an investigational product and/or approved drug to delay cardiac ventricular repolarization as detected by QT prolongation and other ECG parameters.",
+          "preferredTerm": "Thorough QT Study",
+          "submissionValue": "THOROUGH QT",
+          "synonyms": [
+            "TQT Study"
+          ]
+        },
+        {
+          "conceptId": "C98791",
+          "definition": "A type of safety study that assesses the degree to which overt adverse effects can be tolerated by the subject.",
+          "preferredTerm": "Tolerability Study",
+          "submissionValue": "TOLERABILITY",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C49656",
+          "definition": "A type of study designed to evaluate intervention(s) for treatment of disease, syndrome or condition.",
+          "preferredTerm": "Treatment Study",
+          "submissionValue": "TREATMENT",
+          "synonyms": [
+            "Therapy Trial"
+          ]
+        },
+        {
+          "conceptId": "C161479",
+          "definition": "A type of study designed to evaluate the user experience with a product.",
+          "preferredTerm": "Usability Testing Study",
+          "submissionValue": "USABILITY TESTING",
+          "synonyms": []
+        },
+        {
+          "conceptId": "C161480",
+          "definition": "A type of study designed to evaluate the effects of water on investigational product safety and/or efficacy.",
+          "preferredTerm": "Water Effect Trial",
+          "submissionValue": "WATER EFFECT",
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}

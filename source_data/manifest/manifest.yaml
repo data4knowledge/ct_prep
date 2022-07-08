@@ -585,7 +585,6 @@
 "2020-09-25":
   package: "43"
   format: 
-  - "api"
   - "5"
   items:
     adam: "2020-09-25"
