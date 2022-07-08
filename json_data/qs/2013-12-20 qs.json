@@ -13,7 +13,7 @@
   },
   "codelists": [
     {
-      "conceptId": "",
+      "conceptId": "C101805",
       "definition": "Abnormal Involuntary Movement Scale test code.",
       "extensible": "No",
       "name": "Abnormal Involuntary Movement Scale Test Code",
@@ -134,7 +134,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101806",
       "definition": "Abnormal Involuntary Movement Scale test name.",
       "extensible": "No",
       "name": "Abnormal Involuntary Movement Scale Test Name",
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101807",
       "definition": "ADNI AVLT test code.",
       "extensible": "No",
       "name": "ADNI AVLT Test Code",
@@ -1510,7 +1510,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101808",
       "definition": "ADNI AVLT test name.",
       "extensible": "No",
       "name": "ADNI AVLT Test Name",
@@ -2765,7 +2765,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C112435",
       "definition": "Airway Questionnaire 20 test code.",
       "extensible": "No",
       "name": "Airway Questionnaire 20 Test Code",
@@ -2958,7 +2958,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C112434",
       "definition": "Airway Questionnaire 20 test name.",
       "extensible": "No",
       "name": "Airway Questionnaire 20 Test Name",
@@ -3151,7 +3151,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100132",
       "definition": "ADAS-Cog CDISC Version test code.",
       "extensible": "No",
       "name": "Alzheimer's Disease Assessment Scale - Cognitive CDISC Version Test Code",
@@ -4154,7 +4154,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100131",
       "definition": "ADAS-Cog CDISC Version test name.",
       "extensible": "No",
       "name": "Alzheimer's Disease Assessment Scale - Cognitive CDISC Version Test Name",
@@ -5157,7 +5157,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C106651",
       "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory MCI Version test code.",
       "extensible": "No",
       "name": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory MCI Version Questionnaire Test Code",
@@ -5998,7 +5998,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C106650",
       "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory MCI Version test name.",
       "extensible": "No",
       "name": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory MCI Version Questionnaire Test Name",
@@ -6839,7 +6839,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C105140",
       "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory test code.",
       "extensible": "No",
       "name": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory Questionnaire Test Code",
@@ -7563,7 +7563,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C105139",
       "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory test name.",
       "extensible": "No",
       "name": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory Questionnaire Test Name",
@@ -8287,7 +8287,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C106653",
       "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory Severe Dementia Version test code.",
       "extensible": "No",
       "name": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory Severe Dementia Version Questionnaire Test Code",
@@ -8642,7 +8642,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C106652",
       "definition": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory Severe Dementia Version test name.",
       "extensible": "No",
       "name": "Alzheimer's Disease Cooperative Study-Activities of Daily Living Inventory Severe Dementia Version Questionnaire Test Name",
@@ -8997,7 +8997,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103459",
       "definition": "Alzheimer's Disease Cooperative Study-Clinical Global Impression of Change test code.",
       "extensible": "No",
       "name": "Alzheimer's Disease Cooperative Study-Clinical Global Impression of Change Questionnaire Test Code",
@@ -9019,7 +9019,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103458",
       "definition": "Alzheimer's Disease Cooperative Study-Clinical Global Impression of Change test name.",
       "extensible": "No",
       "name": "Alzheimer's Disease Cooperative Study-Clinical Global Impression of Change Questionnaire Test Name",
@@ -9041,7 +9041,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101809",
       "definition": "Barnes Akathisia Rating Scale test code.",
       "extensible": "No",
       "name": "Barnes Akathisia Rating Scale Test Code",
@@ -9090,7 +9090,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101810",
       "definition": "Barnes Akathisia Rating Scale test name.",
       "extensible": "No",
       "name": "Barnes Akathisia Rating Scale Test Name",
@@ -9139,7 +9139,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C106655",
       "definition": "Baseline Dyspnea Index test code.",
       "extensible": "No",
       "name": "Baseline Dyspnea Index Questionnaire Test Code",
@@ -9179,7 +9179,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C106654",
       "definition": "Baseline Dyspnea Index test name.",
       "extensible": "No",
       "name": "Baseline Dyspnea Index Questionnaire Test Name",
@@ -9219,7 +9219,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100164",
       "definition": "Brief Pain Inventory Short Form test code.",
       "extensible": "No",
       "name": "Brief Pain Inventory Short Form Test Code",
@@ -9376,7 +9376,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100163",
       "definition": "Brief Pain Inventory Short Form test name.",
       "extensible": "No",
       "name": "Brief Pain Inventory Short Form Test Name",
@@ -9533,7 +9533,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100162",
       "definition": "Brief Pain Inventory test code.",
       "extensible": "No",
       "name": "Brief Pain Inventory Test Code",
@@ -10167,7 +10167,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100161",
       "definition": "Brief Pain Inventory test name.",
       "extensible": "No",
       "name": "Brief Pain Inventory Test Name",
@@ -10801,7 +10801,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100134",
       "definition": "The Brief Psychiatric Rating Scale-A test code.",
       "extensible": "No",
       "name": "Brief Psychiatric Rating Scale-A Test Code",
@@ -10976,7 +10976,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100133",
       "definition": "The Brief Psychiatric Rating Scale-A test name.",
       "extensible": "No",
       "name": "Brief Psychiatric Rating Scale-A Test Name",
@@ -11151,7 +11151,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101811",
       "definition": "Clinical Dementia Rating test code.",
       "extensible": "No",
       "name": "Clinical Dementia Rating Test Code",
@@ -11218,7 +11218,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101812",
       "definition": "Clinical Dementia Rating test name.",
       "extensible": "No",
       "name": "Clinical Dementia Rating Test Name",
@@ -11285,7 +11285,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100150",
       "definition": "Clinical Global Impression test code.",
       "extensible": "No",
       "name": "Clinical Global Impression Test Code",
@@ -11325,7 +11325,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100149",
       "definition": "Clinical Global Impression test name.",
       "extensible": "No",
       "name": "Clinical Global Impression Test Name",
@@ -11365,7 +11365,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101813",
       "definition": "Clinical Opiate Withdrawal Scale test code.",
       "extensible": "No",
       "name": "Clinical Opiate Withdrawal Scale Test Code",
@@ -11495,7 +11495,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101814",
       "definition": "Clinical Opiate Withdrawal Scale test name.",
       "extensible": "No",
       "name": "Clinical Opiate Withdrawal Scale Test Name",
@@ -11625,7 +11625,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100168",
       "definition": "Columbia-Suicidality Severity Rating Scale Baseline test code.",
       "extensible": "No",
       "name": "Columbia-Suicidality Severity Rating Scale Baseline Test Code",
@@ -11989,7 +11989,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100167",
       "definition": "Columbia-Suicidality Severity Rating Scale Baseline test name.",
       "extensible": "No",
       "name": "Columbia-Suicidality Severity Rating Scale Baseline Test Name",
@@ -12353,7 +12353,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C105132",
       "definition": "Columbia-Suicidality Severity Rating Scale Baseline/Screening Version Phase 1 Study Version 1/14/2009 Questionnaire test code.",
       "extensible": "No",
       "name": "Columbia-Suicidality Severity Rating Scale Baseline/Screening Version Phase 1 Study Questionnaire Test Code",
@@ -12825,7 +12825,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C105131",
       "definition": "Columbia-Suicidality Severity Rating Scale Baseline/Screening Version Phase 1 Study Version 1/14/2009 test name.",
       "extensible": "No",
       "name": "Columbia-Suicidality Severity Rating Scale Baseline/Screening Version Phase 1 Study Questionnaire Test Name",
@@ -13297,7 +13297,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103461",
       "definition": "Columbia-Suicidality Severity Rating Scale Since Last Visit test code.",
       "extensible": "No",
       "name": "Columbia-Suicidality Severity Rating Scale Since Last Visit Questionnaire Test Code",
@@ -13616,7 +13616,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103460",
       "definition": "Columbia-Suicidality Severity Rating Scale Since Last Visit test name.",
       "extensible": "No",
       "name": "Columbia-Suicidality Severity Rating Scale Since Last Visit Questionnaire Test Name",
@@ -13935,7 +13935,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C106659",
       "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subject test code.",
       "extensible": "No",
       "name": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects Questionnaire Test Code",
@@ -14506,7 +14506,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C106658",
       "definition": "Columbia-Suicide Severity Rating Scale Already Enrolled Subject test name.",
       "extensible": "No",
       "name": "Columbia-Suicide Severity Rating Scale Already Enrolled Subjects Questionnaire Test Name",
@@ -15077,7 +15077,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C106661",
       "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version test code.",
       "extensible": "No",
       "name": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Questionnaire Test Code",
@@ -15630,7 +15630,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C106660",
       "definition": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version test name.",
       "extensible": "No",
       "name": "Columbia-Suicide Severity Rating Scale Baseline/Screening Version Questionnaire Test Name",
@@ -16183,7 +16183,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C111336",
       "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline test code.",
       "extensible": "No",
       "name": "Columbia-Suicide Severity Rating Scale Children's Baseline Questionnaire Test Code",
@@ -16529,7 +16529,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C111335",
       "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline test name.",
       "extensible": "No",
       "name": "Columbia-Suicide Severity Rating Scale Children's Baseline Questionnaire Test Name",
@@ -16875,7 +16875,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C111338",
       "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline/Screening test code.",
       "extensible": "No",
       "name": "Columbia-Suicide Severity Rating Scale Children's Baseline/Screening Questionnaire Test Code",
@@ -17275,7 +17275,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C111337",
       "definition": "Columbia-Suicide Severity Rating Scale Children's Baseline/Screening test name.",
       "extensible": "No",
       "name": "Columbia-Suicide Severity Rating Scale Children's Baseline/Screening Questionnaire Test Name",
@@ -17675,7 +17675,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C111340",
       "definition": "Columbia-Suicide Severity Rating Scale Children's Since Last Visit test code.",
       "extensible": "No",
       "name": "Columbia-Suicide Severity Rating Scale Children's Since Last Visit Questionnaire Test Code",
@@ -17976,7 +17976,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C111339",
       "definition": "Columbia-Suicide Severity Rating Scale Children's Since Last Visit test name.",
       "extensible": "No",
       "name": "Columbia-Suicide Severity Rating Scale Children's Since Last Visit Questionnaire Test Name",
@@ -18277,7 +18277,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C111342",
       "definition": "Columbia-Suicide Severity Rating Scale Screening test code.",
       "extensible": "No",
       "name": "Columbia-Suicide Severity Rating Scale Screening Questionnaire Test Code",
@@ -18641,7 +18641,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C111341",
       "definition": "Columbia-Suicide Severity Rating Scale Screening test name.",
       "extensible": "No",
       "name": "Columbia-Suicide Severity Rating Scale Screening Questionnaire Test Name",
@@ -19005,7 +19005,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100158",
       "definition": "Current Opioid Misuse Measure test code.",
       "extensible": "No",
       "name": "Current Opioid Misuse Measure Test Code",
@@ -19180,7 +19180,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100157",
       "definition": "Current Opioid Misuse Measure test name.",
       "extensible": "No",
       "name": "Current Opioid Misuse Measure Test Name",
@@ -19355,7 +19355,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C105130",
       "definition": "Disability Assessment for Dementia test code.",
       "extensible": "No",
       "name": "Disability Assessment for Dementia Questionnaire Test Code",
@@ -19809,7 +19809,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C105129",
       "definition": "Disability Assessment for Dementia test name.",
       "extensible": "No",
       "name": "Disability Assessment for Dementia Questionnaire Test Name",
@@ -20263,7 +20263,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C112437",
       "definition": "Disease Steps test code.",
       "extensible": "No",
       "name": "Disease Steps Questionnaire Test Code",
@@ -20285,7 +20285,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C112436",
       "definition": "Disease Steps test name.",
       "extensible": "No",
       "name": "Disease Steps Questionnaire Test Name",
@@ -20307,7 +20307,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101815",
       "definition": "Eastern Cooperative Oncology Group Performance Status test code.",
       "extensible": "No",
       "name": "Eastern Cooperative Oncology Group Performance Status Test Code",
@@ -20329,7 +20329,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101816",
       "definition": "Eastern Cooperative Oncology Group Performance Status test name.",
       "extensible": "No",
       "name": "Eastern Cooperative Oncology Group Performance Status Test Name",
@@ -20351,7 +20351,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103463",
       "definition": "Epworth Sleepiness Scale test code.",
       "extensible": "No",
       "name": "Epworth Sleepiness Scale Questionnaire Test Code",
@@ -20436,7 +20436,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103462",
       "definition": "Epworth Sleepiness Scale test name.",
       "extensible": "No",
       "name": "Epworth Sleepiness Scale Questionnaire Test Name",
@@ -20521,7 +20521,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100154",
       "definition": "Faces Pain Scale - Revised test code.",
       "extensible": "No",
       "name": "Faces Pain Scale - Revised Test Code",
@@ -20543,7 +20543,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100153",
       "definition": "Faces Pain Scale - Revised test name.",
       "extensible": "No",
       "name": "Faces Pain Scale - Revised Test Name",
@@ -20565,7 +20565,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C111344",
       "definition": "Functional Activities Questionnaire test code.",
       "extensible": "No",
       "name": "Functional Activities Questionnaire Test Code",
@@ -20677,7 +20677,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C111343",
       "definition": "Functional Activities Questionnaire test name.",
       "extensible": "No",
       "name": "Functional Activities Questionnaire Test Name",
@@ -20789,7 +20789,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C111346",
       "definition": "Functional Activities Questionnaire-NACC Version test code.",
       "extensible": "No",
       "name": "Functional Activities Questionnaire-NACC Version Test Code",
@@ -20892,7 +20892,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C111345",
       "definition": "Functional Activities Questionnaire-NACC Version test name.",
       "extensible": "No",
       "name": "Functional Activities Questionnaire-NACC Version Test Name",
@@ -20995,7 +20995,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C112441",
       "definition": "Functional Assessment of Multiple Sclerosis Version 4 test code.",
       "extensible": "No",
       "name": "Functional Assessment of Multiple Sclerosis Version 4 Questionnaire Test Code",
@@ -21530,7 +21530,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C112440",
       "definition": "Functional Assessment of Multiple Sclerosis Version 4 test name.",
       "extensible": "No",
       "name": "Functional Assessment of Multiple Sclerosis Version 4 Questionnaire Test Name",
@@ -22065,7 +22065,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C105138",
       "definition": "General Clinical Global Impressions test code.",
       "extensible": "No",
       "name": "General Clinical Global Impressions Questionnaire Test Code",
@@ -22123,7 +22123,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C105137",
       "definition": "General Clinical Global Impressions test name.",
       "extensible": "No",
       "name": "General Clinical Global Impressions Questionnaire Test Name",
@@ -22181,7 +22181,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103467",
       "definition": "Generalized Anxiety Disorder - 7 test code.",
       "extensible": "No",
       "name": "Generalized Anxiety Disorder - 7 Questionnaire Test Code",
@@ -22266,7 +22266,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103466",
       "definition": "Generalized Anxiety Disorder - 7 test name.",
       "extensible": "No",
       "name": "Generalized Anxiety Disorder - 7 Questionnaire Test Name",
@@ -22351,7 +22351,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C106663",
       "definition": "Geriatric Depression Scale test code.",
       "extensible": "No",
       "name": "Geriatric Depression Scale Questionnaire Test Code",
@@ -22634,7 +22634,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C106662",
       "definition": "Geriatric Depression Scale test name.",
       "extensible": "No",
       "name": "Geriatric Depression Scale Questionnaire Test Name",
@@ -22917,7 +22917,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C106665",
       "definition": "Geriatric Depression Scale Short Form test code.",
       "extensible": "No",
       "name": "Geriatric Depression Scale Short Form Questionnaire Test Code",
@@ -23065,7 +23065,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C106664",
       "definition": "Geriatric Depression Scale Short Form test name.",
       "extensible": "No",
       "name": "Geriatric Depression Scale Short Form Questionnaire Test Name",
@@ -23213,7 +23213,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101819",
       "definition": "Hamilton Anxiety Rating Scale test code.",
       "extensible": "No",
       "name": "Hamilton Anxiety Rating Scale Test Code",
@@ -23352,7 +23352,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101820",
       "definition": "Hamilton Anxiety Rating Scale test name.",
       "extensible": "No",
       "name": "Hamilton Anxiety Rating Scale Test Name",
@@ -23491,7 +23491,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100138",
       "definition": "The Hamilton Depression Rating Scale - 17 Item test code.",
       "extensible": "No",
       "name": "Hamilton Depression Rating Scale - 17 Item Test Code",
@@ -23675,7 +23675,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100137",
       "definition": "The Hamilton Depression Rating Scale - 17 Item test name.",
       "extensible": "No",
       "name": "Hamilton Depression Rating Scale - 17 Item Test Name",
@@ -23859,7 +23859,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101821",
       "definition": "Hamilton Depression Rating Scale 21-Item test code.",
       "extensible": "No",
       "name": "Hamilton Depression Rating Scale 21-Item Test Code",
@@ -24088,7 +24088,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101822",
       "definition": "Hamilton Depression Rating Scale 21-Item test name.",
       "extensible": "No",
       "name": "Hamilton Depression Rating Scale 21-Item Test Name",
@@ -24317,7 +24317,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C106667",
       "definition": "Health Assessment Questionnaire Disability Index test code.",
       "extensible": "No",
       "name": "Health Assessment Questionnaire Disability Index Test Code",
@@ -24744,7 +24744,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C106666",
       "definition": "Health Assessment Questionnaire Disability Index test name.",
       "extensible": "No",
       "name": "Health Assessment Questionnaire Disability Index Test Name",
@@ -25171,7 +25171,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103469",
       "definition": "Hospital Anxiety and Depression Scale test code.",
       "extensible": "No",
       "name": "Hospital Anxiety and Depression Scale Questionnaire Test Code",
@@ -25310,7 +25310,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103468",
       "definition": "Hospital Anxiety and Depression Scale test name.",
       "extensible": "No",
       "name": "Hospital Anxiety and Depression Scale Questionnaire Test Name",
@@ -25449,7 +25449,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103471",
       "definition": "International Index of Erectile Function test code.",
       "extensible": "No",
       "name": "International Index of Erectile Function Questionnaire Test Code",
@@ -25612,7 +25612,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103470",
       "definition": "International Index of Erectile Function test name.",
       "extensible": "No",
       "name": "International Index of Erectile Function Questionnaire Test Name",
@@ -25775,7 +25775,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100170",
       "definition": "Karnofsky Performance Status Scale test code.",
       "extensible": "No",
       "name": "Karnofsky Performance Status Scale Test Code",
@@ -25797,7 +25797,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100169",
       "definition": "Karnofsky Performance Status Scale test name.",
       "extensible": "No",
       "name": "Karnofsky Performance Status Scale Test Name",
@@ -25819,7 +25819,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C112439",
       "definition": "Kurtzke Expanded Disability Status Scale test code.",
       "extensible": "No",
       "name": "Kurtzke Expanded Disability Status Scale Questionnaire Test Code",
@@ -25841,7 +25841,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C112438",
       "definition": "Kurtzke Expanded Disability Status Scale test name.",
       "extensible": "No",
       "name": "Kurtzke Expanded Disability Status Scale Questionnaire Test Name",
@@ -25863,7 +25863,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C112443",
       "definition": "Kurtzke Functional Systems Scores test code.",
       "extensible": "No",
       "name": "Kurtzke Functional Systems Scores Questionnaire Test Code",
@@ -25957,7 +25957,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C112442",
       "definition": "Kurtzke Functional Systems Scores test name.",
       "extensible": "No",
       "name": "Kurtzke Functional Systems Scores Questionnaire Test Name",
@@ -26051,7 +26051,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100152",
       "definition": "Michigan Neuropathy Screening Instrument test code.",
       "extensible": "No",
       "name": "Michigan Neuropathy Screening Instrument Test Code",
@@ -26397,7 +26397,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100151",
       "definition": "Michigan Neuropathy Screening Instrument test name.",
       "extensible": "No",
       "name": "Michigan Neuropathy Screening Instrument Test Name",
@@ -26743,7 +26743,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C112445",
       "definition": "Modified Hachinski Ischemic Scale-NACC Version test code.",
       "extensible": "No",
       "name": "Modified Hachinski Ischemic Scale-NACC Version Questionnaire Test Code",
@@ -26837,7 +26837,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C112444",
       "definition": "Modified Hachinski Ischemic Scale-NACC Version test name.",
       "extensible": "No",
       "name": "Modified Hachinski Ischemic Scale-NACC Version Questionnaire Test Name",
@@ -26931,7 +26931,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C106669",
       "definition": "Modified Medical Research Council Dyspnea Scale test code.",
       "extensible": "No",
       "name": "Modified Medical Research Council Dyspnea Scale Questionnaire Test Code",
@@ -26953,7 +26953,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C106668",
       "definition": "Modified Medical Research Council Dyspnea Scale test name.",
       "extensible": "No",
       "name": "Modified Medical Research Council Dyspnea Scale Questionnaire Test Name",
@@ -26975,7 +26975,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C111348",
       "definition": "Modified Rankin Scale test code.",
       "extensible": "No",
       "name": "Modified Rankin Scale Questionnaire Test Code",
@@ -26997,7 +26997,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C111347",
       "definition": "Modified Rankin Scale test name.",
       "extensible": "No",
       "name": "Modified Rankin Scale Questionnaire Test Name",
@@ -27019,7 +27019,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100140",
       "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale test code.",
       "extensible": "No",
       "name": "Movement Disorder Society UPDRS Test Code",
@@ -27662,7 +27662,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100139",
       "definition": "The Movement Disorder Society version of the Unified Parkinson's Disease Rating Scale test name.",
       "extensible": "No",
       "name": "Movement Disorder Society UPDRS Test Name",
@@ -28305,7 +28305,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C112453",
       "definition": "National Eye Institute Visual Functioning Questionnaire - 25 Version 2000 Interviewer-Administered Format test code.",
       "extensible": "No",
       "name": "National Eye Institute Visual Functioning Questionnaire - 25 Version 2000 Interviewer-Administered Format Test Code",
@@ -28696,7 +28696,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C112452",
       "definition": "National Eye Institute Visual Functioning Questionnaire - 25 Version 2000 Interviewer-Administered Format test name.",
       "extensible": "No",
       "name": "National Eye Institute Visual Functioning Questionnaire - 25 Version 2000 Interviewer-Administered Format Test Name",
@@ -29087,7 +29087,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C112455",
       "definition": "National Eye Institute Visual Functioning Questionnaire - 25 Version 2000 Self-Administered Format test code.",
       "extensible": "No",
       "name": "National Eye Institute Visual Functioning Questionnaire - 25 Version 2000 Self-Administered Format Test Code",
@@ -29478,7 +29478,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C112454",
       "definition": "National Eye Institute Visual Functioning Questionnaire - 25 Version 2000 Self-Administered Format test name.",
       "extensible": "No",
       "name": "National Eye Institute Visual Functioning Questionnaire - 25 Version 2000 Self-Administered Format Test Name",
@@ -29869,7 +29869,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103473",
       "definition": "Neuropathic Pain Scale test code.",
       "extensible": "No",
       "name": "Neuropathic Pain Scale Questionnaire Test Code",
@@ -30017,7 +30017,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103472",
       "definition": "Neuropathic Pain Scale test name.",
       "extensible": "No",
       "name": "Neuropathic Pain Scale Questionnaire Test Name",
@@ -30165,7 +30165,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100144",
       "definition": "The Neuropsychiatric Inventory test code.",
       "extensible": "No",
       "name": "Neuropsychiatric Inventory Test Code",
@@ -31555,7 +31555,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100143",
       "definition": "The Neuropsychiatric Inventory test name.",
       "extensible": "No",
       "name": "Neuropsychiatric Inventory Test Name",
@@ -32945,7 +32945,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C105134",
       "definition": "Pain Intensity test code.",
       "extensible": "No",
       "name": "Pain Intensity Questionnaire Test Code",
@@ -33012,7 +33012,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C105133",
       "definition": "Pain Intensity test name.",
       "extensible": "No",
       "name": "Pain Intensity Questionnaire Test Name",
@@ -33079,7 +33079,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C105136",
       "definition": "Pain Relief test code.",
       "extensible": "No",
       "name": "Pain Relief Questionnaire Test Code",
@@ -33191,7 +33191,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C105135",
       "definition": "Pain Relief test name.",
       "extensible": "No",
       "name": "Pain Relief Questionnaire Test Name",
@@ -33303,7 +33303,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100146",
       "definition": "The Parkinson's Disease Quality of Life Scale test code.",
       "extensible": "No",
       "name": "Parkinson's Disease Quality of Life Test Code",
@@ -33613,7 +33613,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100145",
       "definition": "The Parkinson's Disease Quality of Life Scale test name.",
       "extensible": "No",
       "name": "Parkinson's Disease Quality of Life Test Name",
@@ -33923,7 +33923,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C112447",
       "definition": "Patient Determined Disease Steps test code.",
       "extensible": "No",
       "name": "Patient Determined Disease Steps Questionnaire Test Code",
@@ -33945,7 +33945,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C112446",
       "definition": "Patient Determined Disease Steps test name.",
       "extensible": "No",
       "name": "Patient Determined Disease Steps Questionnaire Test Name",
@@ -33967,7 +33967,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103483",
       "definition": "Patient Health Questionnaire - 15 test code.",
       "extensible": "No",
       "name": "Patient Health Questionnaire - 15 Item Test Code",
@@ -34115,7 +34115,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103482",
       "definition": "Patient Health Questionnaire - 15 test name.",
       "extensible": "No",
       "name": "Patient Health Questionnaire - 15 Item Test Name",
@@ -34263,7 +34263,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103481",
       "definition": "Patient Health Questionnaire - 9 test code.",
       "extensible": "No",
       "name": "Patient Health Questionnaire - 9 Item Test Code",
@@ -34366,7 +34366,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103480",
       "definition": "Patient Health Questionnaire - 9 test name.",
       "extensible": "No",
       "name": "Patient Health Questionnaire - 9 Item Test Name",
@@ -34469,7 +34469,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100129",
       "definition": "A grouping of observations within the Questionnaire domain.",
       "extensible": "Yes",
       "name": "Questionnaire Category",
@@ -35211,7 +35211,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103465",
       "definition": "Revised Fibromyalgia Impact Questionnaire test code.",
       "extensible": "No",
       "name": "Revised Fibromyalgia Impact Questionnaire Test Code",
@@ -35413,7 +35413,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103464",
       "definition": "Revised Fibromyalgia Impact Questionnaire test name.",
       "extensible": "No",
       "name": "Revised Fibromyalgia Impact Questionnaire Test Name",
@@ -35615,7 +35615,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100166",
       "definition": "Roland Morris Disability Questionnaire test code.",
       "extensible": "No",
       "name": "Roland Morris Disability Questionnaire Test Code",
@@ -35853,7 +35853,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100165",
       "definition": "Roland Morris Disability Questionnaire test name.",
       "extensible": "No",
       "name": "Roland Morris Disability Questionnaire Test Name",
@@ -36091,7 +36091,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100160",
       "definition": "Screener and Opioid Assessment for Patients with Pain - Revised test code.",
       "extensible": "No",
       "name": "Screener and Opioid Assessment for Patients with Pain - Revised Test Code",
@@ -36338,7 +36338,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100159",
       "definition": "Screener and Opioid Assessment for Patients with Pain - Revised test name.",
       "extensible": "No",
       "name": "Screener and Opioid Assessment for Patients with Pain - Revised Test Name",
@@ -36585,7 +36585,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C111350",
       "definition": "Sheehan Disability Scale test code.",
       "extensible": "No",
       "name": "Sheehan Disability Scale Questionnaire Test Code",
@@ -36652,7 +36652,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C111349",
       "definition": "Sheehan Disability Scale test name.",
       "extensible": "No",
       "name": "Sheehan Disability Scale Questionnaire Test Name",
@@ -36719,7 +36719,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103487",
       "definition": "Short Opiate Withdrawal Scale test code.",
       "extensible": "No",
       "name": "Short Opiate Withdrawal Scale Questionnaire Test Code",
@@ -36822,7 +36822,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103486",
       "definition": "Short Opiate Withdrawal Scale test name.",
       "extensible": "No",
       "name": "Short Opiate Withdrawal Scale Questionnaire Test Name",
@@ -36925,7 +36925,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100156",
       "definition": "Short-Form McGill Pain Questionnaire-2 test code.",
       "extensible": "No",
       "name": "Short-Form McGill Pain Questionnaire-2 Test Code",
@@ -37136,7 +37136,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100155",
       "definition": "Short-Form McGill Pain Questionnaire-2 test name.",
       "extensible": "No",
       "name": "Short-Form McGill Pain Questionnaire-2 Test Name",
@@ -37347,7 +37347,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C106671",
       "definition": "St. George's Respiratory Questionnaire for COPD Patients test code.",
       "extensible": "No",
       "name": "St. George's Respiratory Questionnaire for COPD Patients Test Code",
@@ -37729,7 +37729,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C106670",
       "definition": "St. George's Respiratory Questionnaire for COPD Patients test name.",
       "extensible": "No",
       "name": "St. George's Respiratory Questionnaire for COPD Patients Test Name",
@@ -38111,7 +38111,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C112449",
       "definition": "St. George's Respiratory Questionnaire Past 3 Months Version test code.",
       "extensible": "No",
       "name": "St. George's Respiratory Questionnaire Past 3 Months Version Test Code",
@@ -38583,7 +38583,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C112448",
       "definition": "St. George's Respiratory Questionnaire Past 3 Months Version test name.",
       "extensible": "No",
       "name": "St. George's Respiratory Questionnaire Past 3 Months Version Test Name",
@@ -39055,7 +39055,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C112451",
       "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version test code.",
       "extensible": "No",
       "name": "St. George's Respiratory Questionnaire Past 4 Weeks Version Test Code",
@@ -39527,7 +39527,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C112450",
       "definition": "St. George's Respiratory Questionnaire Past 4 Weeks Version test name.",
       "extensible": "No",
       "name": "St. George's Respiratory Questionnaire Past 4 Weeks Version Test Name",
@@ -39999,7 +39999,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101828",
       "definition": "Subjective Opiate Withdrawal Scale test code.",
       "extensible": "No",
       "name": "Subjective Opiate Withdrawal Scale Test Code",
@@ -40156,7 +40156,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": 101829,
       "definition": "Subjective Opiate Withdrawal Scale test name.",
       "extensible": "No",
       "name": "Subjective Opiate Withdrawal Scale Test Name",
@@ -40313,7 +40313,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103485",
       "definition": "Symptom Impact Questionnaire test code.",
       "extensible": "No",
       "name": "Symptom Impact Questionnaire Test Code",
@@ -40515,7 +40515,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103484",
       "definition": "Symptom Impact Questionnaire test name.",
       "extensible": "No",
       "name": "Symptom Impact Questionnaire Test Name",
@@ -40717,7 +40717,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103479",
       "definition": "The Oswestry Disability Index Version 2.1a test code.",
       "extensible": "No",
       "name": "The Oswestry Disability Index Version 2.1a Questionnaire Test Code",
@@ -40820,7 +40820,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103478",
       "definition": "The Oswestry Disability Index Version 2.1a test name.",
       "extensible": "No",
       "name": "The Oswestry Disability Index Version 2.1a Questionnaire Test Name",
@@ -40923,7 +40923,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103477",
       "definition": "The Overactive Bladder Questionnaire Short Form test code.",
       "extensible": "No",
       "name": "The Overactive Bladder Questionnaire Short Form Test Code",
@@ -41107,7 +41107,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103476",
       "definition": "The Overactive Bladder Questionnaire Short Form test name.",
       "extensible": "No",
       "name": "The Overactive Bladder Questionnaire Short Form Test Name",
@@ -41291,7 +41291,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103475",
       "definition": "The Overactive Bladder Questionnaire test code.",
       "extensible": "No",
       "name": "The Overactive Bladder Questionnaire Test Code",
@@ -41601,7 +41601,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103474",
       "definition": "The Overactive Bladder Questionnaire test name.",
       "extensible": "No",
       "name": "The Overactive Bladder Questionnaire Test Name",
@@ -41911,7 +41911,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C106657",
       "definition": "Transition Dyspnea Index test code.",
       "extensible": "No",
       "name": "Transition Dyspnea Index Questionnaire Test Code",
@@ -41951,7 +41951,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C106656",
       "definition": "Transition Dyspnea Index test name.",
       "extensible": "No",
       "name": "Transition Dyspnea Index Questionnaire Test Name",
@@ -41991,7 +41991,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100148",
       "definition": "Unified Parkinson's Disease Rating Scale test code.",
       "extensible": "No",
       "name": "Unified Parkinson's Disease Rating Scale Test Code",
@@ -42616,7 +42616,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100147",
       "definition": "Unified Parkinson's Disease Rating Scale test name.",
       "extensible": "No",
       "name": "Unified Parkinson's Disease Rating Scale Test Name",
@@ -43241,7 +43241,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103489",
       "definition": "Urgency Perception Scale test code.",
       "extensible": "No",
       "name": "Urgency Perception Scale Questionnaire Test Code",
@@ -43263,7 +43263,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103488",
       "definition": "Urgency Perception Scale test name.",
       "extensible": "No",
       "name": "Urgency Perception Scale Questionnaire Test Name",
@@ -43285,7 +43285,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100176",
       "definition": "Work Productivity and Activity Impairment Questionnaire - Specific Health Problem V2.0 test code.",
       "extensible": "No",
       "name": "Work Productivity and Activity Impairment Questionnaire - Specific Health Problem V2.0 Test Code",
@@ -43352,7 +43352,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100175",
       "definition": "Work Productivity and Activity Impairment Questionnaire - Specific Health Problem V2.0 test name.",
       "extensible": "No",
       "name": "Work Productivity and Activity Impairment Questionnaire - Specific Health Problem V2.0 Test Name",
@@ -43419,7 +43419,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101830",
       "definition": "Young Mania Rating Scale test code.",
       "extensible": "No",
       "name": "Young Mania Rating Scale Test Code",
@@ -43531,7 +43531,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101831",
       "definition": "Young Mania Rating Scale test name.",
       "extensible": "No",
       "name": "Young Mania Rating Scale Test Name",

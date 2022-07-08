@@ -13,7 +13,7 @@
   },
   "codelists": [
     {
-      "conceptId": "",
+      "conceptId": "C81223",
       "definition": "Date Imputation Flag: Indicates the level of imputation reflected in a date value.",
       "extensible": "No",
       "name": "Date Imputation Flag",
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C81224",
       "definition": "Derivation Type: Analysis value derivation method.",
       "extensible": "Yes",
       "name": "Derivation Type",
@@ -179,7 +179,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C81225",
       "definition": "Parameter Type: Indicates whether the parameter is derived as a function of one or more other parameters.",
       "extensible": "No",
       "name": "Parameter Type",
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C81226",
       "definition": "Time Imputation Flag: Indicates the level of imputation reflected in a time value.",
       "extensible": "No",
       "name": "Time Imputation Flag",

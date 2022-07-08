@@ -13,7 +13,7 @@
   },
   "codelists": [
     {
-      "conceptId": "",
+      "conceptId": "C81225",
       "definition": "Parameter Type",
       "extensible": "No",
       "name": "Parameter Type",
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C81223",
       "definition": "Date Imputation Flag",
       "extensible": "No",
       "name": "Date Imputation Flag",
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C81226",
       "definition": "Time Imputation Flag",
       "extensible": "No",
       "name": "Time Imputation Flag",
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C81224",
       "definition": "Derivation Type",
       "extensible": "Yes",
       "name": "Derivation Type",

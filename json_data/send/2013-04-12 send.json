@@ -13,7 +13,7 @@
   },
   "codelists": [
     {
-      "conceptId": "",
+      "conceptId": "C66781",
       "definition": "Those units of time that are routinely used to express the age of a subject.",
       "extensible": "No",
       "name": "Age Unit",
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C88026",
       "definition": "The terminology that includes concepts relevant to anatomical structure that consists of organs and organ subclasses responsible for certain body functions.",
       "extensible": "Yes",
       "name": "Body System",
@@ -165,7 +165,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C89960",
       "definition": "Terminology for the test codes concerned with the increase in overall body mass.",
       "extensible": "Yes",
       "name": "Body Weight Gain Test Code",
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C89959",
       "definition": "Terminology for the test names concerned with the increase in overall body mass.",
       "extensible": "Yes",
       "name": "Body Weight Gain Test Name",
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C89962",
       "definition": "Terminology for the test codes concerned with the measurement of body mass.",
       "extensible": "Yes",
       "name": "Body Weight Test Code",
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C89961",
       "definition": "Terminology for the test names concerned with the measurement of body mass.",
       "extensible": "Yes",
       "name": "Body Weight Test Name",
@@ -307,7 +307,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C89963",
       "definition": "Terminology related to classifications that describe and group clinical observations.",
       "extensible": "Yes",
       "name": "Category for Clinical Observation",
@@ -356,7 +356,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C90018",
       "definition": "Terminology related to the sense of awareness of self and of the environment.",
       "extensible": "Yes",
       "name": "Consciousness State",
@@ -415,7 +415,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66786",
       "definition": "A collective generic term that refers here to a wide variety of dependencies, areas of special sovereignty, uninhabited islands, and other entities in addition to the traditional countries or independent states. (NCI)",
       "extensible": "No",
       "name": "Country",
@@ -2669,7 +2669,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C89966",
       "definition": "Terminology for the test codes concerned with the circumstance or condition that results in the death of a living being.",
       "extensible": "Yes",
       "name": "Death Diagnosis Test Code",
@@ -2691,7 +2691,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C89965",
       "definition": "Terminology for the test names concerned with the circumstance or condition that results in the death of a living being.",
       "extensible": "Yes",
       "name": "Death Diagnosis Test Name",
@@ -2713,7 +2713,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C99074",
       "definition": "CDISC terminology for anatomical location or specimen further detailing directionality.",
       "extensible": "Yes",
       "name": "Directionality",
@@ -2936,7 +2936,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66734",
       "definition": "A unique, 2-character domain code used in the regulatory submission process. The domain abbreviation is used consistently throughout the submission, i.e. in the dataset name, as the value of the domain variable within the dataset, and as a prefix for most variable names in the dataset. (CDISC Glossary)",
       "extensible": "Yes",
       "name": "Domain Abbreviation",
@@ -3741,7 +3741,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C90013",
       "definition": "Terminology related to electrocardiogram lead names.",
       "extensible": "Yes",
       "name": "ECG Lead",
@@ -3887,7 +3887,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C71150",
       "definition": "Terminology codelist used with ECG Findings and Abnormalities within CDISC.",
       "extensible": "Yes",
       "name": "ECG Result",
@@ -5623,7 +5623,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C71153",
       "definition": "Terminology codelist used with ECG Tests within CDISC.",
       "extensible": "Yes",
       "name": "ECG Test Code",
@@ -6140,7 +6140,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C71151",
       "definition": "Terminology codelist used with ECG Test Methods within CDISC.",
       "extensible": "Yes",
       "name": "ECG Test Method",
@@ -6369,7 +6369,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C71152",
       "definition": "Terminology codelist used with ECG Test Names within CDISC.",
       "extensible": "Yes",
       "name": "ECG Test Name",
@@ -6886,7 +6886,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C89970",
       "definition": "Terminology for the test codes concerned with the subject's consumption of food and/or water.",
       "extensible": "Yes",
       "name": "Food and Water Consumption Test Code",
@@ -6935,7 +6935,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C89969",
       "definition": "Terminology for the test names concerned with the subject's consumption of food and/or water.",
       "extensible": "Yes",
       "name": "Food and Water Consumption Test Name",
@@ -6984,7 +6984,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C71113",
       "definition": "The terminology that includes terms pertaining to frequency within CDISC.",
       "extensible": "Yes",
       "name": "Frequency",
@@ -7662,7 +7662,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C65047",
       "definition": "Terminology used for Laboratory Tests of the CDISC Standard Data Tabulation Model.",
       "extensible": "Yes",
       "name": "Laboratory Test Code",
@@ -16459,7 +16459,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C67154",
       "definition": "Terminology used for Laboratory Tests of the CDISC Standard Data Tabulation Model.",
       "extensible": "Yes",
       "name": "Laboratory Test Name",
@@ -25256,7 +25256,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C99073",
       "definition": "CDISC terminology for anatomical location or specimen further detailing the side(s) of interest.",
       "extensible": "Yes",
       "name": "Laterality",
@@ -25318,7 +25318,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C89972",
       "definition": "Terminology for the test codes concerned with the findings from a specimen that are visible to the naked eye.",
       "extensible": "Yes",
       "name": "Macroscopic Findings Test Code",
@@ -25349,7 +25349,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C89971",
       "definition": "Terminology for the test names concerned with the findings from a specimen that are visible to the naked eye.",
       "extensible": "Yes",
       "name": "Macroscopic Findings Test Name",
@@ -25380,7 +25380,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C89975",
       "definition": "Terminology related to the method by which an experimental organism is sacrificed.",
       "extensible": "Yes",
       "name": "Method of Termination",
@@ -25456,7 +25456,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C89974",
       "definition": "Terminology for the test codes concerned with the findings from a specimen that are visible by microscopic analysis.",
       "extensible": "Yes",
       "name": "Microscopic Findings Test Code",
@@ -25478,7 +25478,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C89973",
       "definition": "Terminology for the test names concerned with the findings from a specimen that are visible by microscopic analysis.",
       "extensible": "Yes",
       "name": "Microscopic Findings Test Name",
@@ -25500,7 +25500,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C90017",
       "definition": "Terminology related to the classifications of the results from a microscopic histopathological analysis.",
       "extensible": "Yes",
       "name": "Microscopic Histopathology Result Category",
@@ -25558,7 +25558,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C88025",
       "definition": "The terminology that includes concepts relevant to benign or malignant tissue growth.",
       "extensible": "Yes",
       "name": "Neoplasm Type",
@@ -28765,7 +28765,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C90004",
       "definition": "Terminology related to the classifications of the results from a histopathological analysis of a tumor.",
       "extensible": "No",
       "name": "Neoplastic Status",
@@ -28814,7 +28814,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66742",
       "definition": "A term that is used to indicate a question with permissible values of yes/no/unknown/not applicable.",
       "extensible": "No",
       "name": "No Yes Response",
@@ -28862,7 +28862,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66789",
       "definition": "Indicates a task, process or examination that has either not been initiated or completed. (NCI)",
       "extensible": "No",
       "name": "Not Done",
@@ -28882,7 +28882,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C89977",
       "definition": "Terminology for the test codes concerned with the measurement of organs.",
       "extensible": "No",
       "name": "Organ Measurement Test Code",
@@ -28931,7 +28931,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C89976",
       "definition": "Terminology for the test names concerned with the measurement of organs.",
       "extensible": "No",
       "name": "Organ Measurement Test Name",
@@ -28980,7 +28980,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66726",
       "definition": "The form of the completed pharmaceutical product, e.g. tablet, capsule, injection, elixir, suppository. Dosage form can have a significant effect on the onset, duration and intensity of the pharmacological action of a drug. A pharmaceutical dosage form controls the rate at which the drug is released into the biological fluids. This release rate affects its intrinsic absorption pattern and therefore, the bioavailability of the drug.",
       "extensible": "Yes",
       "name": "Pharmaceutical Dosage Form",
@@ -30188,7 +30188,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C95121",
       "definition": "Terminology relevant to the test codes that describe the physical characteristics of an entity.",
       "extensible": "Yes",
       "name": "Physical Properties Test Code",
@@ -30291,7 +30291,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C95120",
       "definition": "Terminology relevant to the test names that describe the physical characteristics of an entity.",
       "extensible": "Yes",
       "name": "Physical Properties Test Name",
@@ -30394,7 +30394,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C85494",
       "definition": "Units of measure needed for pharmacokinetic parameters.",
       "extensible": "Yes",
       "name": "PK Parameter Units of Measure",
@@ -32993,7 +32993,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C85493",
       "definition": "Parameters used to describe the time-concentration curve.",
       "extensible": "Yes",
       "name": "PK Parameters",
@@ -35113,7 +35113,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C85839",
       "definition": "Parameter codes used to describe the time-concentration curve.",
       "extensible": "Yes",
       "name": "PK Parameters Code",
@@ -37233,7 +37233,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C99075",
       "definition": "Qualifier for anatomical location or specimen further detailing the portion or totality, which means arrangement of, or apportioning of an entity.",
       "extensible": "Yes",
       "name": "Portion/Totality",
@@ -37293,7 +37293,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C71148",
       "definition": "Terminology codelist used with Body Position within CDISC.",
       "extensible": "Yes",
       "name": "Position",
@@ -37423,7 +37423,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78737",
       "definition": "The description of relationship types between a record or set of records.",
       "extensible": "No",
       "name": "Relationship Type",
@@ -37453,7 +37453,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66729",
       "definition": "The course by which a substance was administered in order to reach the site of action in the body.",
       "extensible": "Yes",
       "name": "Route of Administration",
@@ -38319,7 +38319,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C90012",
       "definition": "Terminology related to classifications that describe SEND ECG tests.",
       "extensible": "Yes",
       "name": "SEND ECG Category",
@@ -38355,7 +38355,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C89982",
       "definition": "Terminology related to the version of the SEND implementation guide that is in use for the study.",
       "extensible": "Yes",
       "name": "SEND Implementation Guide Version",
@@ -38377,7 +38377,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C89981",
       "definition": "Terminology for the test codes concerned with the distinguishing qualities or prominent aspect of a person, object, action, process, or substance.",
       "extensible": "Yes",
       "name": "SEND Subject Characteristics Test Code",
@@ -38454,7 +38454,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C89980",
       "definition": "Terminology for the test names concerned with the distinguishing qualities or prominent aspect of a person, object, action, process, or substance.",
       "extensible": "Yes",
       "name": "SEND Subject Characteristics Test Name",
@@ -38531,7 +38531,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C90009",
       "definition": "Terminology related to the parameter codes of the individual characteristics of a nonclinical study.",
       "extensible": "Yes",
       "name": "SEND Trial Summary Parameter Test Code",
@@ -39233,7 +39233,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C90007",
       "definition": "Terminology related to the parameter names of the individual characteristics of a nonclinical study.",
       "extensible": "Yes",
       "name": "SEND Trial Summary Parameter Test Name",
@@ -39935,7 +39935,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C90000",
       "definition": "SEND terminology related to the degree of an occurrence of something undesirable.",
       "extensible": "No",
       "name": "Severity",
@@ -39987,7 +39987,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66731",
       "definition": "The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female. (NCI)",
       "extensible": "No",
       "name": "Sex",
@@ -40037,7 +40037,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66732",
       "definition": "The specific sex, either male, female, or mixed of the subject group being studied. (NCI)",
       "extensible": "No",
       "name": "Sex of Participants",
@@ -40075,7 +40075,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C77808",
       "definition": "Terminology related to the common name for an animal used as the test system in a study (e.g., dog, monkey, mouse, rabbit, rat).",
       "extensible": "Yes",
       "name": "Species",
@@ -40258,7 +40258,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C77529",
       "definition": "Terminology related to any material sample taken from a biological entity.",
       "extensible": "Yes",
       "name": "Specimen",
@@ -43960,7 +43960,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C89968",
       "definition": "Terminology related to the final disposition of the subject in a study.",
       "extensible": "No",
       "name": "Standardized Disposition Term",
@@ -44029,7 +44029,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C77530",
       "definition": "Terminology used to identify the vendor-supplied species, strain, substrain or breed designation for the test system under study. It may combine the species, background strain, substrain, and associated genetic modifications as supplied by the vendor (e.g., C57BL/6, A/J, B6.129-Pparg<tm2Rev>/J, FISCHER 344, SPRAGUE-DAWLEY IGS, WISTAR Kyoto, BEAGLE, CYNOMOLGUS, RHESUS and CHIMPANZEE).",
       "extensible": "Yes",
       "name": "Strain/Substrain",
@@ -44558,7 +44558,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C90002",
       "definition": "The type of nonclinical study performed e.g. pharmacokinetics, safety pharmacology and toxicology.",
       "extensible": "Yes",
       "name": "Study Category",
@@ -44627,7 +44627,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C89967",
       "definition": "Terminology related to the plan detailing how a study will be performed in order to represent the phenomenon under examination, to answer the research questions that have been asked, and defining the methods of data analysis.",
       "extensible": "Yes",
       "name": "Study Design",
@@ -44696,7 +44696,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C90003",
       "definition": "The further classification of nonclinical studies performed e.g. absorption, distribution and metabolism.",
       "extensible": "Yes",
       "name": "Study Type",
@@ -44983,7 +44983,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C90006",
       "definition": "Terminology for the test codes concerned with the assessment or evaluation of a neoplastic mass.",
       "extensible": "Yes",
       "name": "Tumor Findings Test Code",
@@ -45005,7 +45005,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C90005",
       "definition": "Terminology for the test names concerned with the assessment or evaluation of a neoplastic mass.",
       "extensible": "Yes",
       "name": "Tumor Findings Test Name",
@@ -45027,7 +45027,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C71620",
       "definition": "Terminology codelist used for units within CDISC.",
       "extensible": "Yes",
       "name": "Unit",
@@ -49792,7 +49792,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66770",
       "definition": "The unit used to record and describe the result of a test investigating a vital sign. (NCI)",
       "extensible": "Yes",
       "name": "Units for Vital Signs Results",
@@ -49933,7 +49933,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66741",
       "definition": "The name given to the test that analyzes a particular set of vital signs including temperature, respiratory rate, heart beat (pulse), and blood pressure. (NCI)",
       "extensible": "Yes",
       "name": "Vital Signs Test Code",
@@ -50183,7 +50183,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C67153",
       "definition": "The name given to the test that analyzes a particular set of vital signs including temperature, respiratory rate, heart beat (pulse), and blood pressure. (NCI)",
       "extensible": "Yes",
       "name": "Vital Signs Test Name",

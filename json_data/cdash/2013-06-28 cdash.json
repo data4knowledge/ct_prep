@@ -13,7 +13,7 @@
   },
   "codelists": [
     {
-      "conceptId": "",
+      "conceptId": "C78417",
       "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Concomitant Medication Dose Units codelist. (NCI)",
       "extensible": "Yes",
       "name": "Concomitant Medication Dose Units",
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78418",
       "definition": "A terminology subset of the CDISC SDTM Pharmaceutical Dosage Form codelist created for CDASH Concomitant Medication Dose Form codelist. (NCI)",
       "extensible": "Yes",
       "name": "Concomitant Medication Dose Form",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78419",
       "definition": "A terminology subset of the CDISC SDTM Frequency codelist created for CDASH Concomitant Medication Dosing Frequency per Interval codelist. (NCI)",
       "extensible": "Yes",
       "name": "Concomitant Medication Dosing Frequency per Interval",
@@ -298,7 +298,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78420",
       "definition": "A terminology subset of the CDISC SDTM Route codelist created for CDASH Concomitant Medication Route of Administration codelist. (NCI)",
       "extensible": "Yes",
       "name": "Concomitant Medication Route of Administration",
@@ -404,7 +404,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78421",
       "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Unit of Drug Dispensed or Returned codelist. (NCI)",
       "extensible": "Yes",
       "name": "Unit of Drug Dispensed or Returned",
@@ -528,7 +528,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78422",
       "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH ECG Original Units codelist. (NCI)",
       "extensible": "Yes",
       "name": "ECG Original Units",
@@ -568,7 +568,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78423",
       "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Units for Exposure codelist. (NCI)",
       "extensible": "Yes",
       "name": "Units for Exposure",
@@ -648,7 +648,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78745",
       "definition": "A terminology subset of the CDISC SDTM Frequency codelist created for CDASH Exposure Dosing Frequency per Interval codelist. (NCI)",
       "extensible": "Yes",
       "name": "Exposure Dosing Frequency per Interval",
@@ -735,7 +735,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78425",
       "definition": "A terminology subset of the CDISC SDTM Route codelist created for CDASH Exposure Route of Administration codelist. (NCI)",
       "extensible": "Yes",
       "name": "Exposure Route of Administration",
@@ -841,7 +841,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78426",
       "definition": "A terminology subset of the CDISC SDTM Pharmaceutical Dosage Form codelist created for CDASH Exposure Dose Form codelist. (NCI)",
       "extensible": "Yes",
       "name": "Exposure Dose Form",
@@ -950,7 +950,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78427",
       "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Unit for Duration of Treatment Interruption codelist. (NCI)",
       "extensible": "Yes",
       "name": "Unit for the Duration of Treatment Interruption",
@@ -991,7 +991,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78428",
       "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Total Volume Administration Unit codelist. (NCI)",
       "extensible": "Yes",
       "name": "Total Volume Administration Unit",
@@ -1033,7 +1033,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78429",
       "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Unit of Measure for Flow Rate codelist. (NCI)",
       "extensible": "Yes",
       "name": "Unit of Measure for Flow Rate",
@@ -1094,7 +1094,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78430",
       "definition": "A terminology subset of the CDISC SDTM Unit codelist created for CDASH Units for Planned Exposure codelist. (NCI)",
       "extensible": "Yes",
       "name": "Units for Planned Exposure",
@@ -1174,7 +1174,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78431",
       "definition": "A terminology subset of the CDISC SDTM Position codelist created for CDASH Vital Signs Position of Subject codelist. (NCI)",
       "extensible": "Yes",
       "name": "Vital Signs Position of Subject",
@@ -1214,7 +1214,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C83004",
       "definition": "A terminology subset of the CDISC SDTM Never/Current/Former Classification codelist created for CDASH Substance Use Never/Current/Former Classification codelist. (NCI)",
       "extensible": "Yes",
       "name": "Substance Use Never/Current/Former Classification",

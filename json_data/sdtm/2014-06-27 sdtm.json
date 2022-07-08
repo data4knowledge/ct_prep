@@ -13,7 +13,7 @@
   },
   "codelists": [
     {
-      "conceptId": "",
+      "conceptId": "C66767",
       "definition": "Terminology specifying changes to the study treatment as a result of an adverse event.",
       "extensible": "No",
       "name": "Action Taken with Study Treatment",
@@ -81,7 +81,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101865",
       "definition": "A classification of the presentation of acute coronary syndrome.",
       "extensible": "No",
       "name": "Acute Coronary Syndrome Presentation Category",
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66781",
       "definition": "Those units of time that are routinely used to express the age of a subject.",
       "extensible": "No",
       "name": "Age Unit",
@@ -195,7 +195,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C74456",
       "definition": "Terminology codelist used for anatomical location within CDISC.",
       "extensible": "Yes",
       "name": "Anatomical Location",
@@ -6215,7 +6215,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101842",
       "definition": "The anginal classifications as measured by the Canadian Cardiovascular Society grading scale.",
       "extensible": "No",
       "name": "Canadian Cardiovascular Society Classification",
@@ -6264,7 +6264,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101859",
       "definition": "The reason that a subject had a cardiac procedure.",
       "extensible": "Yes",
       "name": "Cardiac Procedure Indication",
@@ -6511,7 +6511,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101866",
       "definition": "The effect that a cardiac rhythm device malfunction had on the ability to stimulate the heart.",
       "extensible": "Yes",
       "name": "Cardiac Rhythm Device Failure Manifestation",
@@ -6552,7 +6552,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101853",
       "definition": "A terminology codelist to describe the severity of cardiac valvular regurgitation.",
       "extensible": "No",
       "name": "Cardiac Valvular Regurgitation Severity",
@@ -6593,7 +6593,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101854",
       "definition": "A terminology codelist to describe the severity of cardiac valvular stenosis.",
       "extensible": "No",
       "name": "Cardiac Valvular Stenosis Severity",
@@ -6634,7 +6634,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101847",
       "definition": "A terminology codelist to describe the findings test code from a cardiac examination.",
       "extensible": "Yes",
       "name": "Cardiovascular Test Code",
@@ -6729,7 +6729,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101846",
       "definition": "A terminology codelist to describe the findings test name from a cardiac examination.",
       "extensible": "Yes",
       "name": "Cardiovascular Test Name",
@@ -6824,7 +6824,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C74558",
       "definition": "Classifications that describe and group pertinent events that occur throughout the conduct of a clinical trial.",
       "extensible": "Yes",
       "name": "Category for Disposition Event",
@@ -6864,7 +6864,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66797",
       "definition": "A collection of criteria on which subjects are evaluated and that must be met by all study subjects. (NCI)",
       "extensible": "No",
       "name": "Category for Inclusion/Exclusion",
@@ -6891,7 +6891,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66784",
       "definition": "A standard terminology developed to report adverse events occurring in cancer clinical trials. Common terminology criteria for adverse events (CTCAE) are used in study adverse event summaries and Investigational New Drug reports to the Food and Drug Administration. The CTCAE contain a grading scale for each adverse event term representing the severity of the event. (NCI)",
       "extensible": "No",
       "name": "Common Terminology Criteria for Adverse Events V3.0",
@@ -6956,7 +6956,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C87162",
       "definition": "The version 4.0 standard terminology developed to report adverse events occurring in cancer clinical trials. Common terminology criteria for adverse events (CTCAE) are used to study adverse event summaries and Investigational New Drug reports to the Food and Drug Administration. The CTCAE contain a grading scale for each adverse event term representing the severity of the event. (NCI)",
       "extensible": "No",
       "name": "Common Terminology Criteria for Adverse Events V4.0",
@@ -7035,7 +7035,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66727",
       "definition": "The status of the subject's completion of the study or a segment of the study, or the reason the subject discontinued the study or segment of the study.",
       "extensible": "Yes",
       "name": "Completion/Reason for Non-Completion",
@@ -7196,7 +7196,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101838",
       "definition": "Classification system test code for cardiac parameters that are authored or endorsed by organizations.",
       "extensible": "Yes",
       "name": "Consensus Cardiac Classification System Test Code",
@@ -7254,7 +7254,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101837",
       "definition": "Classification system test name for cardiac parameters that are authored or endorsed by organizations.",
       "extensible": "Yes",
       "name": "Consensus Cardiac Classification System Test Name",
@@ -7312,7 +7312,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C102575",
       "definition": "Terminology relevant to the identification and clinical investigation of disease contacts.",
       "extensible": "Yes",
       "name": "Contact Case Investigation Contact Type",
@@ -7360,7 +7360,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C102588",
       "definition": "Terminology relevant to the environment within which the subject may have come into contact with a disease carrier, or played the role of a disease carrier.",
       "extensible": "Yes",
       "name": "Contact Setting",
@@ -7422,7 +7422,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66785",
       "definition": "Comparator against which the study treatment is evaluated (e.g., concurrent (placebo, no treatment, dose-response, active), external (historical, published literature).",
       "extensible": "Yes",
       "name": "Control Type",
@@ -7456,7 +7456,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101843",
       "definition": "A terminology codelist associated with coronary artery disease presentation.",
       "extensible": "No",
       "name": "Coronary Artery Disease Presentation",
@@ -7509,7 +7509,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101849",
       "definition": "A terminology codelist to describe the relative risk of coronary artery disease.",
       "extensible": "No",
       "name": "Coronary Artery Disease Risk",
@@ -7558,7 +7558,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101844",
       "definition": "A terminology codelist that contains symptoms associated with coronary artery disease.",
       "extensible": "No",
       "name": "Coronary Artery Disease Symptoms",
@@ -7599,7 +7599,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101860",
       "definition": "A codelist to describe whether the posterior descending artery comes from the right or left vessel system.",
       "extensible": "No",
       "name": "Coronary Artery Dominance",
@@ -7633,7 +7633,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101850",
       "definition": "A terminology codelist to describe the extent of coronary artery disease.",
       "extensible": "No",
       "name": "Coronary Vessel Disease Extent",
@@ -7693,7 +7693,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66786",
       "definition": "A collective generic term that refers here to a wide variety of dependencies, areas of special sovereignty, uninhabited islands, and other entities in addition to the traditional countries or independent states. (NCI)",
       "extensible": "No",
       "name": "Country",
@@ -9961,7 +9961,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C116108",
       "definition": "Terminology relevant to the death detail assessment short name.",
       "extensible": "Yes",
       "name": "Death Details Test Code",
@@ -9992,7 +9992,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C116107",
       "definition": "Terminology relevant to the death detail assessment name.",
       "extensible": "Yes",
       "name": "Death Details Test Name",
@@ -10023,7 +10023,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C111110",
       "definition": "A terminology codelist based on the action taken with respect to the device.",
       "extensible": "Yes",
       "name": "Device Events Action Taken with Device",
@@ -10057,7 +10057,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C111109",
       "definition": "A terminology codelist based on the category of related records for the device event.",
       "extensible": "Yes",
       "name": "Device Events Category",
@@ -10128,7 +10128,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C106480",
       "definition": "A terminology codelist for the long name of the identifier characteristic of the device.",
       "extensible": "Yes",
       "name": "Device Identifier Long Name",
@@ -10226,7 +10226,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C106481",
       "definition": "A terminology codelist for the short name of the identifier characteristic of the device.",
       "extensible": "Yes",
       "name": "Device Identifier Short Name",
@@ -10324,7 +10324,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C111111",
       "definition": "A terminology codelist based on the test code used to obtain the device property.",
       "extensible": "Yes",
       "name": "Device Properties Test Code",
@@ -10463,7 +10463,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C111112",
       "definition": "A terminology codelist based on the test name used to obtain the device property.",
       "extensible": "Yes",
       "name": "Device Properties Test Name",
@@ -10602,7 +10602,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C112037",
       "definition": "A terminology codelist based on the verbatim or preprinted term for the device tracking and disposition event that occurs.",
       "extensible": "Yes",
       "name": "Device Tracking and Disposition Event Dictionary Derived Term",
@@ -10664,7 +10664,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C106483",
       "definition": "A terminology codelist for the test code of the test or examination used to obtain the measurement or finding of the device in use.",
       "extensible": "Yes",
       "name": "Device-In-Use Test Code",
@@ -10943,7 +10943,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C106482",
       "definition": "A terminology codelist for the test name of the test or examination used to obtain the measurement or finding of the device in use.",
       "extensible": "Yes",
       "name": "Device-In-Use Test Name",
@@ -11222,7 +11222,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101857",
       "definition": "A terminology codelist that describes the treatment method for diabetes.",
       "extensible": "Yes",
       "name": "Diabetes Therapy",
@@ -11263,7 +11263,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66787",
       "definition": "A grouping of individuals on the basis of a shared procedure or disease, or lack thereof (e.g. healthy volunteers, type 2 diabetic subjects, subjects with renal cell cancer). Standardized naming systems are available that define the groups within which a subject should be placed. (NCI)",
       "extensible": "Yes",
       "name": "Diagnosis Group",
@@ -11283,7 +11283,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66788",
       "definition": "A name given to a reference source that lists words and gives their meaning. (NCI)",
       "extensible": "Yes",
       "name": "Dictionary Name",
@@ -11359,7 +11359,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C99074",
       "definition": "CDISC terminology for anatomical location or specimen further detailing directionality.",
       "extensible": "Yes",
       "name": "Directionality",
@@ -11582,7 +11582,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C102576",
       "definition": "Terminology relevant to the physical location at which the medication or therapy was observed, by the healthcare provider, as being taken by the subject.",
       "extensible": "No",
       "name": "Directly Observed Therapy Location",
@@ -11609,7 +11609,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101863",
       "definition": "The destination or circumstance at the time of discharge.",
       "extensible": "Yes",
       "name": "Discharge Disposition",
@@ -11743,7 +11743,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C102578",
       "definition": "Terminology relevant to the measurable result or effect of treatment on a disease.",
       "extensible": "Yes",
       "name": "Disease Outcome",
@@ -11793,7 +11793,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78732",
       "definition": "The short name, or code, of the test for the drug accountability assessment.",
       "extensible": "Yes",
       "name": "Drug Accountability Test Code",
@@ -11824,7 +11824,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78731",
       "definition": "The name of the test for the drug accountability assessment.",
       "extensible": "Yes",
       "name": "Drug Accountability Test Name",
@@ -11855,7 +11855,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C102577",
       "definition": "Terminology relevant to the state or condition of the microbe or lesion to indicate whether it is resistant to drugs normally used in treatment.",
       "extensible": "Yes",
       "name": "Drug Resistance Status",
@@ -11895,7 +11895,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C90013",
       "definition": "Terminology related to electrocardiogram lead names.",
       "extensible": "Yes",
       "name": "ECG Lead",
@@ -12041,7 +12041,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C71150",
       "definition": "Terminology codelist used with ECG Findings and Abnormalities within CDISC.",
       "extensible": "Yes",
       "name": "ECG Result",
@@ -14022,7 +14022,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C71153",
       "definition": "Terminology codelist used with ECG Tests within CDISC.",
       "extensible": "Yes",
       "name": "ECG Test Code",
@@ -14665,7 +14665,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C71151",
       "definition": "Terminology codelist used with ECG Test Methods within CDISC.",
       "extensible": "Yes",
       "name": "ECG Test Method",
@@ -14904,7 +14904,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C71152",
       "definition": "Terminology codelist used with ECG Test Names within CDISC.",
       "extensible": "Yes",
       "name": "ECG Test Name",
@@ -15547,7 +15547,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C111108",
       "definition": "Terminology relevant to the state of being engaged in an activity or service for wages or salary.",
       "extensible": "Yes",
       "name": "Employment Status",
@@ -15581,7 +15581,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C99079",
       "definition": "The name of the EPOCH.",
       "extensible": "Yes",
       "name": "Epoch",
@@ -15650,7 +15650,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66790",
       "definition": "A social group characterized by a distinctive social and cultural tradition maintained from generation to generation, a common history and origin and a sense of identification with the group; members of the group have distinctive features in their way of life, shared experiences and often a common genetic heritage; these features may be reflected in their experience of health and disease. (NCI)",
       "extensible": "No",
       "name": "Ethnic Group",
@@ -15696,7 +15696,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78735",
       "definition": "The role that the individual or entity plays with respect to a specific situation or person.",
       "extensible": "Yes",
       "name": "Evaluator",
@@ -15833,7 +15833,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101832",
       "definition": "Terminology relevant to the test codes that describe findings about an event or intervention.",
       "extensible": "Yes",
       "name": "Findings About Test Code",
@@ -15855,7 +15855,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101833",
       "definition": "Terminology relevant to the test names that describe findings about an event or intervention.",
       "extensible": "Yes",
       "name": "Findings About Test Name",
@@ -15877,7 +15877,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C71113",
       "definition": "The terminology that includes terms pertaining to frequency within CDISC.",
       "extensible": "Yes",
       "name": "Frequency",
@@ -16557,7 +16557,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103329",
       "definition": "Terminology related to the classification of a CDISC domain.",
       "extensible": "No",
       "name": "General Observation Class",
@@ -16637,7 +16637,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C111114",
       "definition": "Terminology relevant to the type of nucleic acid which was derived from the collected sample.",
       "extensible": "Yes",
       "name": "Genetic Sample Type",
@@ -16940,7 +16940,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C99076",
       "definition": "The trial design developed to compare treatment groups.",
       "extensible": "Yes",
       "name": "Intervention Model",
@@ -16981,7 +16981,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C99078",
       "definition": "The kind of product or procedure studied in a trial.",
       "extensible": "No",
       "name": "Intervention Type",
@@ -17059,7 +17059,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101840",
       "definition": "A terminology codelist based on the classification developed by Killip and Kimball, which classifies patients with myocardial infarction based on routine physical examination parameters, such as the presence or absence of rales, or a decreased systolic blood pressure.",
       "extensible": "No",
       "name": "Killip Class Responses",
@@ -17100,7 +17100,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C65047",
       "definition": "Terminology used for laboratory test codes of the CDISC Standard Data Tabulation Model.",
       "extensible": "Yes",
       "name": "Laboratory Test Code",
@@ -27561,7 +27561,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C67154",
       "definition": "Terminology used for laboratory test names of the CDISC Standard Data Tabulation Model.",
       "extensible": "Yes",
       "name": "Laboratory Test Name",
@@ -38022,7 +38022,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C102580",
       "definition": "Terminology relevant to the standardized results, in character format, for laboratory tests.",
       "extensible": "Yes",
       "name": "Laboratory Test Standard Character Result",
@@ -38072,7 +38072,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C99073",
       "definition": "CDISC terminology for anatomical location or specimen further detailing the side(s) of interest.",
       "extensible": "Yes",
       "name": "Laterality",
@@ -38134,7 +38134,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101862",
       "definition": "Terminology related to the complications of cardiac lead systems.",
       "extensible": "Yes",
       "name": "Lead Abnormality",
@@ -38238,7 +38238,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101867",
       "definition": "The status of the lead.",
       "extensible": "Yes",
       "name": "Lead Status",
@@ -38272,7 +38272,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101868",
       "definition": "Terminology for results of left ventricular ejection fraction assessments.",
       "extensible": "Yes",
       "name": "Left Ventricular Ejection Fraction Measurement Result",
@@ -38320,7 +38320,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101861",
       "definition": "Terminology related to the risk of percutaneous coronary intervention for a particular lesion.",
       "extensible": "No",
       "name": "Lesion Complexity",
@@ -38360,7 +38360,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101851",
       "definition": "Terminology used to describe the part of the graft that is most severely stenotic.",
       "extensible": "No",
       "name": "Location of Most Severe Stenosis Within a Graft",
@@ -38396,7 +38396,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C76348",
       "definition": "A demographic parameter indicating a person's current conjugal status.",
       "extensible": "Yes",
       "name": "Marital Status",
@@ -38474,7 +38474,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101845",
       "definition": "A terminology codelist to describe the timing of mechanical circulatory support placement.",
       "extensible": "No",
       "name": "Mechanical Circulatory Support Placement Timing",
@@ -38523,7 +38523,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C96777",
       "definition": "The individual responsible for the medical assessment.",
       "extensible": "Yes",
       "name": "Medical Evaluator",
@@ -38627,7 +38627,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C85492",
       "definition": "Method is any technique or procedure (an action) that determines how an observation or clinical finding was made.",
       "extensible": "Yes",
       "name": "Method",
@@ -40006,7 +40006,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C102581",
       "definition": "Terminology relevant to the degree of certainty of the correctness of a microbial identification test result.",
       "extensible": "No",
       "name": "Microbial Identification Certainty",
@@ -40033,7 +40033,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C85495",
       "definition": "Used to categorize the result of a finding in a standard format.",
       "extensible": "No",
       "name": "Microbiology Susceptibility Testing Result Category",
@@ -40111,7 +40111,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C85491",
       "definition": "Microorganisms, bacteria, fungi and other organisms.",
       "extensible": "Yes",
       "name": "Microorganism",
@@ -48238,7 +48238,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C114117",
       "definition": "A terminology codelist based on the test codes for macroscopic assessments that are seen by the naked eye or observed via procedures such as imaging modalities, endoscopy, or other technologies.",
       "extensible": "Yes",
       "name": "Morphology Test Code",
@@ -48386,7 +48386,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C114116",
       "definition": "A terminology codelist based on the test names for macroscopic assessments that are seen by the naked eye or observed via procedures such as imaging modalities, endoscopy, or other technologies.",
       "extensible": "Yes",
       "name": "Morphology Test Name",
@@ -48534,7 +48534,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C88025",
       "definition": "The terminology that includes concepts relevant to benign or malignant tissue growth.",
       "extensible": "Yes",
       "name": "Neoplasm Type",
@@ -51755,7 +51755,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C116104",
       "definition": "Terminology relevant to the test codes that describe nervous system physiology findings.",
       "extensible": "Yes",
       "name": "Nervous System Physiology Test Code",
@@ -51777,7 +51777,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C116103",
       "definition": "Terminology relevant to the test names that describe nervous system physiology findings.",
       "extensible": "Yes",
       "name": "Nervous System Physiology Test Name",
@@ -51799,7 +51799,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78738",
       "definition": "A classification of usage or experience that falls into three categories; never, current, or former.",
       "extensible": "Yes",
       "name": "Never/Current/Former Classification",
@@ -51835,7 +51835,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101839",
       "definition": "A terminology codelist based on the functional classification developed by the New York Heart Association (NYHA), for categorizing patients with defined or presumed cardiac disease.",
       "extensible": "No",
       "name": "New York Heart Association Classification",
@@ -51884,7 +51884,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66742",
       "definition": "A term that is used to indicate a question with permissible values of yes/no/unknown/not applicable.",
       "extensible": "No",
       "name": "No Yes Response",
@@ -51935,7 +51935,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101855",
       "definition": "A terminology codelist that contains reasons for non-system PCI delay.",
       "extensible": "No",
       "name": "Non-system Reason for PCI Delay",
@@ -51996,7 +51996,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101834",
       "definition": "A terminology codelist to describe a normal or abnormal response.",
       "extensible": "No",
       "name": "Normal Abnormal Response",
@@ -52051,7 +52051,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66789",
       "definition": "Indicates a task, process or examination that has either not been initiated or completed. (NCI)",
       "extensible": "No",
       "name": "Not Done",
@@ -52071,7 +52071,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C96779",
       "definition": "Terminology relevant to the test codes that describe the measurement of a tumor.",
       "extensible": "Yes",
       "name": "Oncology Tumor Properties Test Code",
@@ -52337,7 +52337,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C96778",
       "definition": "Terminology relevant to the test names that describe the measurement of a tumor.",
       "extensible": "Yes",
       "name": "Oncology Tumor Properties Test Name",
@@ -52603,7 +52603,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66768",
       "definition": "A condition or event that is attributed to the adverse event and is the result or conclusion of the adverse event. (NCI)",
       "extensible": "No",
       "name": "Outcome of Event",
@@ -52665,7 +52665,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66726",
       "definition": "The form of the completed pharmaceutical product, e.g. tablet, capsule, injection, elixir, suppository. Dosage form can have a significant effect on the onset, duration and intensity of the pharmacological action of a drug. A pharmaceutical dosage form controls the rate at which the drug is released into the biological fluids. This release rate affects its intrinsic absorption pattern and therefore, the bioavailability of the drug.",
       "extensible": "Yes",
       "name": "Pharmaceutical Dosage Form",
@@ -53873,7 +53873,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C114119",
       "definition": "A terminology codelist relevant to the medical conclusion such as confirmation of a diagnosis or drug resistance based on genetic biological markers.",
       "extensible": "Yes",
       "name": "Pharmacogenomics Biomarker Medical Statement",
@@ -53918,7 +53918,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C116106",
       "definition": "Terminology relevant to the test codes that describe pharmacogenomics findings.",
       "extensible": "Yes",
       "name": "Pharmacogenomics Findings Test Code",
@@ -53940,7 +53940,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C116105",
       "definition": "Terminology relevant to the test names that describe pharmacogenomics findings.",
       "extensible": "Yes",
       "name": "Pharmacogenomics Findings Test Name",
@@ -53962,7 +53962,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C95121",
       "definition": "Terminology relevant to the test codes that describe the physical characteristics of an entity.",
       "extensible": "Yes",
       "name": "Physical Properties Test Code",
@@ -54065,7 +54065,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C95120",
       "definition": "Terminology relevant to the test names that describe the physical characteristics of an entity.",
       "extensible": "Yes",
       "name": "Physical Properties Test Name",
@@ -54168,7 +54168,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C85494",
       "definition": "Units of measure needed for pharmacokinetic parameters.",
       "extensible": "Yes",
       "name": "PK Parameter Units of Measure",
@@ -56945,7 +56945,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C85493",
       "definition": "Parameters used to describe the time-concentration curve.",
       "extensible": "Yes",
       "name": "PK Parameters",
@@ -59462,7 +59462,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C85839",
       "definition": "Parameter codes used to describe the time-concentration curve.",
       "extensible": "Yes",
       "name": "PK Parameters Code",
@@ -61979,7 +61979,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C99075",
       "definition": "Qualifier for anatomical location or specimen further detailing the portion or totality, which means arrangement of, or apportioning of an entity.",
       "extensible": "Yes",
       "name": "Portion/Totality",
@@ -62039,7 +62039,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C71148",
       "definition": "Terminology codelist used with Body Position within CDISC.",
       "extensible": "Yes",
       "name": "Position",
@@ -62185,7 +62185,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C102582",
       "definition": "Terminology relevant to the prioritization of tuberculosis contacts.",
       "extensible": "Yes",
       "name": "Priority of Tuberculosis Contact",
@@ -62219,7 +62219,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101858",
       "definition": "A terminology codelist to describe any activity considered to be a therapeutic or diagnostic procedure.",
       "extensible": "Yes",
       "name": "Procedure",
@@ -62601,7 +62601,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101856",
       "definition": "A terminology codelist that describes the degree of urgency for a procedure.",
       "extensible": "No",
       "name": "Procedure Urgency Status",
@@ -62642,7 +62642,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C114118",
       "definition": "A terminology codelist relevant to protocol-specified, point-in-time events during a study.",
       "extensible": "Yes",
       "name": "Protocol Milestone",
@@ -62669,7 +62669,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C74457",
       "definition": "Terminology codelist used to identify the race of an individual within the Clinical Data Interchange Standards Consortium Study Data Tabulation Model.",
       "extensible": "No",
       "name": "Race",
@@ -62717,7 +62717,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101864",
       "definition": "The reason that a Coronary Sinus Access or Left Ventricular (CS/LV) lead was not implanted.",
       "extensible": "No",
       "name": "Reason CS/LV Lead Not Implanted",
@@ -62779,7 +62779,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C102584",
       "definition": "Terminology relevant to the reason the treatment was administered.",
       "extensible": "Yes",
       "name": "Reason For Treatment",
@@ -62822,7 +62822,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C102583",
       "definition": "Terminology relevant to the reason the drug or therapy was temporarily ceased.",
       "extensible": "Yes",
       "name": "Reason for Treatment Interruption",
@@ -62877,7 +62877,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C102586",
       "definition": "Terminology relevant to the reason the treatment was not administered.",
       "extensible": "Yes",
       "name": "Reason Treatment Not Administered",
@@ -62918,7 +62918,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78736",
       "definition": "A description of the results relative to the normal or expected range of values.",
       "extensible": "Yes",
       "name": "Reference Range Indicator",
@@ -62959,7 +62959,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66728",
       "definition": "The relative relationship of a timepoint to a reference timepoint.",
       "extensible": "No",
       "name": "Relation to Reference Period",
@@ -63026,7 +63026,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C100130",
       "definition": "The relationship of a person to a study subject.",
       "extensible": "Yes",
       "name": "Relationship to Subject",
@@ -63504,7 +63504,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78737",
       "definition": "The description of relationship types between a record or set of records.",
       "extensible": "No",
       "name": "Relationship Type",
@@ -63534,7 +63534,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C106479",
       "definition": "A terminology codelist for the physiological test codes related to the male and female reproductive systems.",
       "extensible": "Yes",
       "name": "Reproductive System Findings Test Code",
@@ -63628,7 +63628,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C106478",
       "definition": "A terminology codelist for the physiological test names related to the male and female reproductive systems.",
       "extensible": "Yes",
       "name": "Reproductive System Findings Test Name",
@@ -63722,7 +63722,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C111106",
       "definition": "A terminology codelist based on the test codes for physiological findings related to the respiratory system, including the organs that are involved in breathing such as the nose, throat, larynx, trachea, bronchi and lungs.",
       "extensible": "Yes",
       "name": "Respiratory Test Code",
@@ -64014,7 +64014,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C111107",
       "definition": "A terminology codelist based on the test names for physiological findings related to the respiratory system, including the organs that are involved in breathing such as the nose, throat, larynx, trachea, bronchi and lungs.",
       "extensible": "Yes",
       "name": "Respiratory Test Name",
@@ -64306,7 +64306,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101848",
       "definition": "A terminology codelist to describe the risk of a disease, disorder or abnormal condition.",
       "extensible": "No",
       "name": "Risk Assessment",
@@ -64350,7 +64350,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66729",
       "definition": "The course by which a substance was administered in order to reach the site of action in the body.",
       "extensible": "Yes",
       "name": "Route of Administration",
@@ -65233,7 +65233,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66734",
       "definition": "A unique, 2-character domain code used in the regulatory submission process. The domain abbreviation is used consistently throughout the submission, i.e. in the dataset name, as the value of the domain variable within the dataset, and as a prefix for most variable names in the dataset. (CDISC Glossary)",
       "extensible": "Yes",
       "name": "SDTM Domain Abbreviation",
@@ -65975,7 +65975,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C116111",
       "definition": "Terminology relevant to the species of the pathogen to which the subject is a host when the pathogen is the focus of the test or interpretation.",
       "extensible": "Yes",
       "name": "SDTM Species",
@@ -66438,7 +66438,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66769",
       "definition": "A scale that defines the degree or state of disease existing in a patient as a result of the occurrence of an adverse event. (NCI)",
       "extensible": "No",
       "name": "Severity/Intensity Scale for Adverse Events",
@@ -66481,7 +66481,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66731",
       "definition": "The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female. (NCI)",
       "extensible": "No",
       "name": "Sex",
@@ -66529,7 +66529,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66732",
       "definition": "The specific sex, either male, female, or mixed of the subject group being studied. (NCI)",
       "extensible": "No",
       "name": "Sex of Participants",
@@ -66567,7 +66567,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66733",
       "definition": "The physical magnitude of something. (NCI)",
       "extensible": "Yes",
       "name": "Size",
@@ -66601,7 +66601,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C76351",
       "definition": "A classification system used to categorize the sensitivity of a subject's skin to sunlight.",
       "extensible": "Yes",
       "name": "Skin Classification",
@@ -66668,7 +66668,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C112024",
       "definition": "A terminology codelist based on the test codes for dermal responses to antigens.",
       "extensible": "Yes",
       "name": "Skin Response Test Code",
@@ -66753,7 +66753,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C112023",
       "definition": "A terminology codelist based on the test names for dermal responses to antigens.",
       "extensible": "Yes",
       "name": "Skin Response Test Name",
@@ -66838,7 +66838,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C74561",
       "definition": "A distinctive characteristic of the skin marked by the amount of sebum secreted by sebaceous glands.",
       "extensible": "Yes",
       "name": "Skin Type",
@@ -66872,7 +66872,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C102587",
       "definition": "Terminology relevant to the social factors such as personal behavior, lifestyle, or environment belonging to the subject which are known to increase the likelihood of infection and disease.",
       "extensible": "Yes",
       "name": "Social Risk Factor",
@@ -66976,7 +66976,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78733",
       "definition": "The physical state or quality of a biological specimen.",
       "extensible": "Yes",
       "name": "Specimen Condition",
@@ -67106,7 +67106,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78734",
       "definition": "The name and description of a biological specimen.",
       "extensible": "Yes",
       "name": "Specimen Type",
@@ -67664,7 +67664,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C99077",
       "definition": "Describes the role the study plays in determining the interventions a subject receives.",
       "extensible": "No",
       "name": "Study Type",
@@ -67698,7 +67698,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C74559",
       "definition": "The test code representing each subject characteristic.",
       "extensible": "Yes",
       "name": "Subject Characteristic Test Code",
@@ -67909,7 +67909,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C103330",
       "definition": "The test name representing each subject characteristic.",
       "extensible": "Yes",
       "name": "Subject Characteristic Test Name",
@@ -68120,7 +68120,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101852",
       "definition": "A terminology codelist that describes syndromes or conditions that put a subject at risk for sudden death.",
       "extensible": "No",
       "name": "Sudden Death Syndrome Type",
@@ -68183,7 +68183,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C102579",
       "definition": "Terminology relevant to the clinical evidence to support reason for re-treatment of disease.",
       "extensible": "Yes",
       "name": "Supporting Evidence for Re-Treatment",
@@ -68219,7 +68219,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C101841",
       "definition": "A terminology codelist of acceptable values to describe TIMI Flow.",
       "extensible": "No",
       "name": "TIMI Flow Responses",
@@ -68268,7 +68268,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C102589",
       "definition": "Terminology relevant to whether an individual is being treated for a disease for the first time.",
       "extensible": "No",
       "name": "Treatment Episode",
@@ -68295,7 +68295,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C102585",
       "definition": "Terminology relevant to the reason the drug or therapy was unsuccessful in treating the condition.",
       "extensible": "Yes",
       "name": "Treatment Failure Reason",
@@ -68336,7 +68336,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66735",
       "definition": "The name of a code list that contains terms to define the type of blinding for the trial. (NCI)",
       "extensible": "Yes",
       "name": "Trial Blinding Schema",
@@ -68370,7 +68370,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66736",
       "definition": "The name of a code list that contains terms to define the type of trial, e.g. cure or prevention. (NCI)",
       "extensible": "Yes",
       "name": "Trial Indication Type",
@@ -68418,7 +68418,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66737",
       "definition": "Clinical trials are broken into three or four phases: Phase I tests a new drug or treatment for safety in a small group; Phase II expands the study to a larger group of people; Phase III expands the study to an even larger group of people to measure whether the treatment actually benefits patients, and whether its benefits exceed its risks; and Phase IV takes place after the drug or treatment has been licensed and marketed. (NCI)",
       "extensible": "Yes",
       "name": "Trial Phase",
@@ -68551,7 +68551,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66738",
       "definition": "The test code for an individual characteristic of a clinical trial, e.g. description of trial design, trial blinding schema, and primary objective of trial.",
       "extensible": "Yes",
       "name": "Trial Summary Parameter Test Code",
@@ -68994,7 +68994,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C67152",
       "definition": "The test name for an individual characteristic of a clinical trial, e.g. description of trial design, trial blinding schema, and primary objective of trial.",
       "extensible": "Yes",
       "name": "Trial Summary Parameter Test Name",
@@ -69437,7 +69437,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66739",
       "definition": "The type of clinical trial performed e.g. efficacy, safety. (NCI)",
       "extensible": "Yes",
       "name": "Trial Type",
@@ -69520,7 +69520,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C96780",
       "definition": "Terminology relevant to tumor identification results.",
       "extensible": "Yes",
       "name": "Tumor Identification Results",
@@ -69605,7 +69605,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C96784",
       "definition": "Terminology relevant to the test codes that describe tumor assessments for identification purposes.",
       "extensible": "Yes",
       "name": "Tumor Identification Test Code",
@@ -69645,7 +69645,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C96783",
       "definition": "Terminology relevant to the test names that describe tumor assessments for identification purposes.",
       "extensible": "Yes",
       "name": "Tumor Identification Test Name",
@@ -69685,7 +69685,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C96782",
       "definition": "Terminology relevant to the test codes that describe an assessment of tumor response to treatment or therapy.",
       "extensible": "Yes",
       "name": "Tumor Response Assessment Test Code",
@@ -69753,7 +69753,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C96781",
       "definition": "Terminology relevant to the test names that describe an assessment of tumor response to treatment or therapy.",
       "extensible": "Yes",
       "name": "Tumor Response Assessment Test Name",
@@ -69821,7 +69821,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C96785",
       "definition": "The result of an assessment of tumor response to treatment or therapy.",
       "extensible": "Yes",
       "name": "Tumor Response Result",
@@ -69946,7 +69946,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C71620",
       "definition": "Terminology codelist used for units within CDISC.",
       "extensible": "Yes",
       "name": "Unit",
@@ -75059,7 +75059,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66770",
       "definition": "The unit used to record and describe the result of a test investigating a vital sign. (NCI)",
       "extensible": "Yes",
       "name": "Units for Vital Signs Results",
@@ -75207,7 +75207,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C102590",
       "definition": "Terminology relevant to the source of information regarding the subject's vaccination status.",
       "extensible": "Yes",
       "name": "Vaccination Evidence Source",
@@ -75241,7 +75241,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C116110",
       "definition": "Terminology used for virology test codes of the CDISC Standard Data Tabulation Model.",
       "extensible": "Yes",
       "name": "Viral Resistance Findings Test Code",
@@ -75335,7 +75335,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C116109",
       "definition": "Terminology used for virology test names of the CDISC Standard Data Tabulation Model.",
       "extensible": "Yes",
       "name": "Viral Resistance Findings Test Name",
@@ -75429,7 +75429,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66741",
       "definition": "The test code given to the test that analyzes a particular set of vital signs including temperature, respiratory rate, heart rate, and blood pressure.",
       "extensible": "Yes",
       "name": "Vital Signs Test Code",
@@ -75688,7 +75688,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C67153",
       "definition": "The test name given to the test that analyzes a particular set of vital signs including temperature, respiratory rate, heart rate, and blood pressure.",
       "extensible": "Yes",
       "name": "Vital Signs Test Name",

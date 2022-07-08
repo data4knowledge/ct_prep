@@ -60,8 +60,8 @@ COLUMN_MAP = {
   "1": { "check": "equal", "check_col": -1, "CL": 1, "CLI": 0, "EXT": 2, "SUB": 4, "PT": 5, "DEF": 6, "SYN": 7, "NAME": 3 },
   "2": { "check": "equal", "check_col": -1, "CL": 1, "CLI": 0, "EXT": 2, "SUB": 4, "PT": 8, "DEF": 7, "SYN": 6, "NAME": 3 },
   "3": { "check": "empty", "check_col": 1, "CL": 0, "CLI": 0, "EXT": 2, "SUB": 4, "PT": 5, "DEF": 7, "SYN": 6, "NAME": 3 },
-  "4": { "check": "empty", "check_col": 1, "CL": 1, "CLI": 0, "EXT": 2, "SUB": 4, "PT": 5, "DEF": 6, "SYN": 7, "NAME": 3 },
-  "5": { "check": "empty", "check_col": 1, "CL": 1, "CLI": 0, "EXT": 2, "SUB": 4, "PT": 7, "DEF": 6, "SYN": 5, "NAME": 3 }
+  "4": { "check": "empty", "check_col": 1, "CL": 0, "CLI": 0, "EXT": 2, "SUB": 4, "PT": 5, "DEF": 6, "SYN": 7, "NAME": 3 },
+  "5": { "check": "empty", "check_col": 1, "CL": 0, "CLI": 0, "EXT": 2, "SUB": 4, "PT": 7, "DEF": 6, "SYN": 5, "NAME": 3 }
 }
 
 manifest = {}

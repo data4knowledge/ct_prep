@@ -13,7 +13,7 @@
   },
   "codelists": [
     {
-      "conceptId": "",
+      "conceptId": "C66767",
       "definition": "Action Taken with Study Treatment",
       "extensible": "No",
       "name": "Action Taken with Study Treatment",
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66768",
       "definition": "Outcome of Event",
       "extensible": "No",
       "name": "Outcome of Event",
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66780",
       "definition": "Age Span",
       "extensible": "Yes",
       "name": "Age Span",
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66781",
       "definition": "Age Unit",
       "extensible": "No",
       "name": "Age Unit",
@@ -303,7 +303,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66797",
       "definition": "Category for Inclusion/Exclusion",
       "extensible": "No",
       "name": "Category for Inclusion/Exclusion",
@@ -334,7 +334,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66783",
       "definition": "CDISC System Organ Class",
       "extensible": "No",
       "name": "CDISC System Organ Class",
@@ -584,7 +584,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66784",
       "definition": "Common Terminology Criteria for Adverse Events",
       "extensible": "No",
       "name": "Common Terminology Criteria for Adverse Events",
@@ -642,7 +642,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66785",
       "definition": "Control Type; Type of Control",
       "extensible": "Yes",
       "name": "Control Type",
@@ -682,7 +682,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66786",
       "definition": "Country",
       "extensible": "No",
       "name": "Country",
@@ -2914,7 +2914,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66787",
       "definition": "Diagnosis Group",
       "extensible": "Yes",
       "name": "Diagnosis Group",
@@ -2936,7 +2936,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66788",
       "definition": "Dictionary Name; Name of Dictionary",
       "extensible": "Yes",
       "name": "Dictionary Name",
@@ -3012,7 +3012,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66789",
       "definition": "Not Done",
       "extensible": "No",
       "name": "Not Done",
@@ -3034,7 +3034,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66790",
       "definition": "Ethnic Group",
       "extensible": "Yes",
       "name": "Ethnic Group",
@@ -3085,7 +3085,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66726",
       "definition": "Pharmaceutical Dosage Form; Dose Form",
       "extensible": "Yes",
       "name": "Pharmaceutical Dosage Form",
@@ -4652,7 +4652,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66727",
       "definition": "Completion/Reason for Non-Completion",
       "extensible": "Yes",
       "name": "Completion/Reason for Non-Completion",
@@ -4810,7 +4810,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66728",
       "definition": "Relation to Reference Period",
       "extensible": "No",
       "name": "Relation to Reference Period",
@@ -4868,7 +4868,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66729",
       "definition": "Route of Administration",
       "extensible": "Yes",
       "name": "Route of Administration",
@@ -5893,7 +5893,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66769",
       "definition": "Severity/Intensity Scale for Adverse Events",
       "extensible": "No",
       "name": "Severity/Intensity Scale for Adverse Events",
@@ -5933,7 +5933,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66731",
       "definition": "Sex",
       "extensible": "No",
       "name": "Sex",
@@ -5984,7 +5984,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66732",
       "definition": "Sex of Participants",
       "extensible": "No",
       "name": "Sex of Participants",
@@ -6025,7 +6025,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66733",
       "definition": "Size",
       "extensible": "Yes",
       "name": "Size",
@@ -6065,7 +6065,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66734",
       "definition": "Domain Abbreviation",
       "extensible": "Yes",
       "name": "Domain Abbreviation",
@@ -6465,7 +6465,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66735",
       "definition": "Trial Blinding Schema",
       "extensible": "Yes",
       "name": "Trial Blinding Schema",
@@ -6507,7 +6507,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66736",
       "definition": "Trial Indication Type",
       "extensible": "Yes",
       "name": "Trial Indication Type",
@@ -6565,7 +6565,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66737",
       "definition": "Trial Phase",
       "extensible": "Yes",
       "name": "Trial Phase",
@@ -6689,7 +6689,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66738",
       "definition": "Trial Summary Parameter Test Code",
       "extensible": "Yes",
       "name": "Trial Summary Parameter Test Code",
@@ -6877,7 +6877,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C67152",
       "definition": "Trial Summary Parameter Test Name",
       "extensible": "Yes",
       "name": "Trial Summary Parameter Test Name",
@@ -7065,7 +7065,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66739",
       "definition": "Trial Type",
       "extensible": "Yes",
       "name": "Trial Type",
@@ -7150,7 +7150,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66770",
       "definition": "Units for Vital Signs Results",
       "extensible": "Yes",
       "name": "Units for Vital Signs Results",
@@ -7293,7 +7293,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66741",
       "definition": "Vital Signs Test Code",
       "extensible": "Yes",
       "name": "Vital Signs Test Code",
@@ -7424,7 +7424,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C67153",
       "definition": "Vital Signs Test Name",
       "extensible": "Yes",
       "name": "Vital Signs Test Name",
@@ -7555,7 +7555,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66742",
       "definition": "No Yes Response",
       "extensible": "No",
       "name": "No Yes Response",
@@ -7604,7 +7604,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C65047",
       "definition": "Laboratory Test Code",
       "extensible": "Yes",
       "name": "Laboratory Test Code",
@@ -11379,7 +11379,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C67154",
       "definition": "Laboratory Test Name",
       "extensible": "Yes",
       "name": "Laboratory Test Name",
@@ -15154,7 +15154,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C71113",
       "definition": "Frequency",
       "extensible": "Yes",
       "name": "Frequency",
@@ -15619,7 +15619,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C71148",
       "definition": "Position",
       "extensible": "Yes",
       "name": "Position",
@@ -15723,7 +15723,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C71150",
       "definition": "ECG Result",
       "extensible": "Yes",
       "name": "ECG Result",
@@ -16728,7 +16728,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C71153",
       "definition": "ECG Test Code",
       "extensible": "Yes",
       "name": "ECG Test Code",
@@ -17155,7 +17155,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C71152",
       "definition": "ECG Test Name",
       "extensible": "Yes",
       "name": "ECG Test Name",
@@ -17582,7 +17582,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C71151",
       "definition": "ECG Test Method",
       "extensible": "Yes",
       "name": "ECG Test Method",
@@ -17793,7 +17793,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C71620",
       "definition": "Unit",
       "extensible": "Yes",
       "name": "Unit",
@@ -20567,7 +20567,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C74456",
       "definition": "Anatomical Location",
       "extensible": "Yes",
       "name": "Anatomical Location",
@@ -23320,7 +23320,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C74558",
       "definition": "Category for Disposition Event",
       "extensible": "Yes",
       "name": "Category for Disposition Event",
@@ -23360,7 +23360,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C76351",
       "definition": "Skin Classification",
       "extensible": "Yes",
       "name": "Skin Classification",
@@ -23427,7 +23427,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C74561",
       "definition": "Skin Type",
       "extensible": "Yes",
       "name": "Skin Type",
@@ -23467,7 +23467,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C74559",
       "definition": "Subject Characteristic Code",
       "extensible": "Yes",
       "name": "Subject Characteristic Code",
@@ -23543,7 +23543,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C76348",
       "definition": "Marital Status",
       "extensible": "Yes",
       "name": "Marital Status",
@@ -23637,7 +23637,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C74457",
       "definition": "Race",
       "extensible": "Yes",
       "name": "Race",
@@ -23695,7 +23695,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78731",
       "definition": "Drug Accountability Test Name",
       "extensible": "Yes",
       "name": "Drug Accountability Test Name",
@@ -23726,7 +23726,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78732",
       "definition": "Drug Accountability Test Code",
       "extensible": "Yes",
       "name": "Drug Accountability Test Code",
@@ -23757,7 +23757,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78733",
       "definition": "Specimen Condition",
       "extensible": "Yes",
       "name": "Specimen Condition",
@@ -23842,7 +23842,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78734",
       "definition": "Specimen Type",
       "extensible": "Yes",
       "name": "Specimen Type",
@@ -24225,7 +24225,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78735",
       "definition": "Evaluator",
       "extensible": "Yes",
       "name": "Evaluator",
@@ -24373,7 +24373,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78736",
       "definition": "Reference Range Indicator",
       "extensible": "Yes",
       "name": "Reference Range Indicator",
@@ -24422,7 +24422,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78737",
       "definition": "Relationship Type",
       "extensible": "No",
       "name": "Relationship Type",
@@ -24453,7 +24453,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78738",
       "definition": "Never/Current/Former Classification",
       "extensible": "Yes",
       "name": "Never/Current/Former Classification",

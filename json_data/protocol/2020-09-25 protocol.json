@@ -13,7 +13,7 @@
   },
   "codelists": [
     {
-      "conceptId": "",
+      "conceptId": "C142191",
       "definition": "A terminology value set relevant to the attributes of the clinical study entity.",
       "extensible": "",
       "name": "Clinical Study Attribute Terminology",
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C139020",
       "definition": "A terminology value set relevant to the attributes of the clinical trial entity.",
       "extensible": "",
       "name": "Clinical Trial Attribute Terminology",
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C170440",
       "definition": "A terminology value set relevant to the attributes of the endpoint entity.",
       "extensible": "",
       "name": "Endpoint Attribute Terminology",
@@ -267,7 +267,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C170441",
       "definition": "The terminology relevant to the type of endpoint for the study.",
       "extensible": "",
       "name": "Endpoint Type Value Set Terminology",
@@ -324,7 +324,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C99076",
       "definition": "A terminology codelist relevant to the trial design developed to compare treatment groups.",
       "extensible": "Yes",
       "name": "Intervention Model Response",
@@ -372,7 +372,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66742",
       "definition": "A term that is used to indicate a question with permissible values of yes/no/unknown/not applicable.",
       "extensible": "No",
       "name": "No Yes Response",
@@ -424,7 +424,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C127259",
       "definition": "The terminology relevant to the trial design for observational studies.",
       "extensible": "Yes",
       "name": "Observational Study Model",
@@ -479,7 +479,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C165641",
       "definition": "A terminology value set relevant to the attributes of the outcome measure entity.",
       "extensible": "",
       "name": "Outcome Measure Attribute Terminology",
@@ -520,7 +520,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C170442",
       "definition": "The terminology relevant to the type of outcome measure for the study.",
       "extensible": "",
       "name": "Outcome Measure Type Value Set Terminology",
@@ -560,7 +560,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C165642",
       "definition": "The terminology relevant to the type of oversight entity for the study.",
       "extensible": "",
       "name": "Oversight Entity Value Set",
@@ -638,7 +638,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C147068",
       "definition": "A terminology codelist for the method of assigning participants, or subjects, to groups or categories within a clinical study.",
       "extensible": "",
       "name": "Participant Allocation Value Set",
@@ -677,7 +677,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C132308",
       "definition": "A terminology value set relevant to the attributes of the physical address entity.",
       "extensible": "",
       "name": "Physical Address Attribute Terminology",
@@ -746,7 +746,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C154681",
       "definition": "The terminology relevant to the role that the individual or entity plays with respect to being a contact within a study protocol.",
       "extensible": "",
       "name": "Protocol Contact Role Value Set",
@@ -888,7 +888,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C132310",
       "definition": "A terminology value set relevant to the entities within a protocol.",
       "extensible": "",
       "name": "Protocol Entity Terminology",
@@ -1001,7 +1001,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C147069",
       "definition": "A terminology codelist relevant to the types of randomization schemas associated with a randomized controlled trial.",
       "extensible": "",
       "name": "Randomization Type Value Set",
@@ -1062,7 +1062,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C172329",
       "definition": "A terminology value set relevant to the attributes of the study arm entity.",
       "extensible": "",
       "name": "Study Arm Attribute Terminology",
@@ -1109,7 +1109,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C174222",
       "definition": "The terminology relevant to the identification of the kind of arm.",
       "extensible": "",
       "name": "Study Arm Type Value Set Terminology",
@@ -1177,7 +1177,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C154682",
       "definition": "A terminology value set relevant to the attributes of the study contact information entity.",
       "extensible": "",
       "name": "Study Contact Information Attribute Terminology",
@@ -1255,7 +1255,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C147066",
       "definition": "A terminology value set relevant to the attributes of the study design entity.",
       "extensible": "",
       "name": "Study Design Attribute Terminology",
@@ -1404,7 +1404,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C163026",
       "definition": "A terminology value set relevant to the attributes of the study monitoring entity.",
       "extensible": "",
       "name": "Study Monitoring Attribute Terminology",
@@ -1493,7 +1493,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C165640",
       "definition": "A terminology value set relevant to the attributes of the study oversight entity.",
       "extensible": "",
       "name": "Study Oversight Entity Attribute Terminology",
@@ -1527,7 +1527,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C160921",
       "definition": "A terminology value set relevant to the attributes of the study population entity.",
       "extensible": "",
       "name": "Study Population Attribute Terminology",
@@ -1648,7 +1648,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C174220",
       "definition": "A terminology value set relevant to the attributes of the study product.",
       "extensible": "",
       "name": "Study Product Attribute Terminology",
@@ -1668,7 +1668,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C174221",
       "definition": "The terminology relevant to the identification of the kind of study product.",
       "extensible": "",
       "name": "Study Product Type Value Set Terminology",
@@ -1725,7 +1725,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C132309",
       "definition": "A terminology value set relevant to the attributes of the study protocol entity.",
       "extensible": "",
       "name": "Study Protocol Attribute Terminology",
@@ -1848,7 +1848,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C147067",
       "definition": "A terminology codelist relevant to the reason(s) or intention(s) for the execution of an interventional or non-interventional clinical study.",
       "extensible": "",
       "name": "Study Purpose Value Set",
@@ -1937,7 +1937,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C99077",
       "definition": "A terminology codelist relevant to the role the study plays in determining the interventions a subject receives.",
       "extensible": "No",
       "name": "Study Type Response",
@@ -1978,7 +1978,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66736",
       "definition": "A terminology codelist relevant to the responses for the planned purpose of the therapy, device, or agent under study in the clinical trial.",
       "extensible": "Yes",
       "name": "Trial Intent Type Response",
@@ -2074,7 +2074,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66737",
       "definition": "A terminology codelist relevant to the phase, or stage, of the clinical trial.",
       "extensible": "Yes",
       "name": "Trial Phase Response",
@@ -2218,7 +2218,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66739",
       "definition": "A terminology codelist relevant to the type of primary outcome or endpoint that the protocol is designed to evaluate.",
       "extensible": "Yes",
       "name": "Trial Type Response",

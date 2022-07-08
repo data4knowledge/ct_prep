@@ -13,7 +13,7 @@
   },
   "codelists": [
     {
-      "conceptId": "",
+      "conceptId": "C66767",
       "definition": "Action Taken with Study Treatment",
       "extensible": "No",
       "name": "Action Taken with Study Treatment",
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66768",
       "definition": "A condition or event that is attributed to the adverse event and is the result or conclusion of the adverse event. (NCI)",
       "extensible": "No",
       "name": "Outcome of Event",
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66780",
       "definition": "Subgroups of populations based on age. (NCI)",
       "extensible": "Yes",
       "name": "Age Span",
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66781",
       "definition": "Those units of time that are routinely used to express the age of a person. (NCI)",
       "extensible": "No",
       "name": "Age Unit",
@@ -256,7 +256,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66797",
       "definition": "A collection of criteria on which subjects are evaluated and that must be met by all study subjects. (NCI)",
       "extensible": "No",
       "name": "Category for Inclusion/Exclusion",
@@ -283,7 +283,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66783",
       "definition": "Terms at the highest level of the CDISC system organ class terminology.",
       "extensible": "No",
       "name": "CDISC System Organ Class",
@@ -478,7 +478,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66784",
       "definition": "A standard terminology developed to report adverse events occurring in cancer clinical trials. Common terminology criteria for adverse events (CTCAE) are used in study adverse event summaries and Investigational New Drug reports to the Food and Drug Administration. The CTCAE contain a grading scale for each adverse event term representing the severity of the event. (NCI)",
       "extensible": "No",
       "name": "Common Terminology Criteria for Adverse Events",
@@ -541,7 +541,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C87162",
       "definition": "The version 4.0 standard terminology developed to report adverse events occurring in cancer clinical trials. Common terminology criteria for adverse events (CTCAE) are used to study adverse event summaries and Investigational New Drug reports to the Food and Drug Administration. The CTCAE contain a grading scale for each adverse event term representing the severity of the event. (NCI)",
       "extensible": "No",
       "name": "Common Terminology Criteria for Adverse Events V4.0",
@@ -619,7 +619,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66785",
       "definition": "Comparator against which the study treatment is evaluated (e.g., concurrent (placebo, no treatment, dose-response, active), external (historical, published literature).",
       "extensible": "Yes",
       "name": "Control Type",
@@ -654,7 +654,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66786",
       "definition": "A collective generic term that refers here to a wide variety of dependencies, areas of special sovereignty, uninhabited islands, and other entities in addition to the traditional countries or independent states. (NCI)",
       "extensible": "No",
       "name": "Country",
@@ -2882,7 +2882,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66787",
       "definition": "A grouping of individuals on the basis of a shared procedure or disease, or lack thereof (e.g. healthy volunteers, type 2 diabetic subjects, subjects with renal cell cancer). Standardized naming systems are available that define the groups within which a subject should be placed. (NCI)",
       "extensible": "Yes",
       "name": "Diagnosis Group",
@@ -2902,7 +2902,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66788",
       "definition": "A name given to a reference source that lists words and gives their meaning. (NCI)",
       "extensible": "Yes",
       "name": "Dictionary Name",
@@ -2979,7 +2979,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66789",
       "definition": "Indicates a task, process or examination that has either not been initiated or completed. (NCI)",
       "extensible": "No",
       "name": "Not Done",
@@ -2999,7 +2999,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66790",
       "definition": "A social group characterized by a distinctive social and cultural tradition maintained from generation to generation, a common history and origin and a sense of identification with the group; members of the group have distinctive features in their way of life, shared experiences and often a common genetic heritage; these features may be reflected in their experience of health and disease. (NCI)",
       "extensible": "Yes",
       "name": "Ethnic Group",
@@ -3045,7 +3045,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66726",
       "definition": "The form of the completed pharmaceutical product, e.g. tablet, capsule, injection, elixir, suppository. Dosage form can have a significant effect on the onset, duration and intensity of the pharmacological action of a drug. A pharmaceutical dosage form controls the rate at which the drug is released into the biological fluids. This release rate affects its intrinsic absorption pattern and therefore, the bioavailability of the drug.",
       "extensible": "Yes",
       "name": "Pharmaceutical Dosage Form",
@@ -4247,7 +4247,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66727",
       "definition": "The status of the subject's completion of the study or a segment of the study, or the reason the subject discontinued the study or segment of the study.",
       "extensible": "Yes",
       "name": "Completion/Reason for Non-Completion",
@@ -4374,7 +4374,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66728",
       "definition": "The relative relationship of a timepoint to a reference timepoint.",
       "extensible": "No",
       "name": "Relation to Reference Period",
@@ -4441,7 +4441,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66729",
       "definition": "The course by which a substance was administered in order to reach the site of action in the body.",
       "extensible": "Yes",
       "name": "Route of Administration",
@@ -5246,7 +5246,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66769",
       "definition": "A scale that defines the degree or state of disease existing in a patient as a result of the occurrence of an adverse event. (NCI)",
       "extensible": "No",
       "name": "Severity/Intensity Scale for Adverse Events",
@@ -5289,7 +5289,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66731",
       "definition": "The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female. (NCI)",
       "extensible": "No",
       "name": "Sex",
@@ -5339,7 +5339,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66732",
       "definition": "The specific sex, either male, female, or mixed of the subject group being studied. (NCI)",
       "extensible": "No",
       "name": "Sex of Participants",
@@ -5377,7 +5377,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66733",
       "definition": "The physical magnitude of something. (NCI)",
       "extensible": "Yes",
       "name": "Size",
@@ -5411,7 +5411,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66734",
       "definition": "A unique, 2-character domain code used in the regulatory submission process. The domain abbreviation is used consistently throughout the submission, i.e. in the dataset name, as the value of the domain variable within the dataset, and as a prefix for most variable names in the dataset. (CDISC Glossary)",
       "extensible": "Yes",
       "name": "Domain Abbreviation",
@@ -5830,7 +5830,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66735",
       "definition": "The name of a code list that contains terms to define the type of blinding for the trial. (NCI)",
       "extensible": "Yes",
       "name": "Trial Blinding Schema",
@@ -5864,7 +5864,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66736",
       "definition": "The name of a code list that contains terms to define the type of trial, e.g. cure or prevention. (NCI)",
       "extensible": "Yes",
       "name": "Trial Indication Type",
@@ -5912,7 +5912,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66737",
       "definition": "Clinical trials are broken into three or four phases: Phase I tests a new drug or treatment for safety in a small group; Phase II expands the study to a larger group of people; Phase III expands the study to an even larger group of people to measure whether the treatment actually benefits patients, and whether its benefits exceed its risks; and Phase IV takes place after the drug or treatment has been licensed and marketed. (NCI)",
       "extensible": "Yes",
       "name": "Trial Phase",
@@ -6042,7 +6042,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66738",
       "definition": "Individual characteristics of a clinical trial, e.g. description of trial design, trial blinding schema, and primary objective of trial. (NCI)",
       "extensible": "Yes",
       "name": "Trial Summary Parameter Test Code",
@@ -6327,7 +6327,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C67152",
       "definition": "Individual characteristics of a clinical trial, e.g. description of trial design, trial blinding schema, and primary objective of trial. (NCI)",
       "extensible": "Yes",
       "name": "Trial Summary Parameter Test Name",
@@ -6612,7 +6612,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66739",
       "definition": "The type of clinical trial performed e.g. efficacy, safety. (NCI)",
       "extensible": "Yes",
       "name": "Trial Type",
@@ -6681,7 +6681,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66770",
       "definition": "The unit used to record and describe the result of a test investigating a vital sign. (NCI)",
       "extensible": "Yes",
       "name": "Units for Vital Signs Results",
@@ -6820,7 +6820,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66741",
       "definition": "The name given to the test that analyzes a particular set of vital signs including temperature, respiratory rate, heart beat (pulse), and blood pressure. (NCI)",
       "extensible": "Yes",
       "name": "Vital Signs Test Code",
@@ -6968,7 +6968,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C67153",
       "definition": "The name given to the test that analyzes a particular set of vital signs including temperature, respiratory rate, heart beat (pulse), and blood pressure. (NCI)",
       "extensible": "Yes",
       "name": "Vital Signs Test Name",
@@ -7116,7 +7116,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C66742",
       "definition": "A term that is used to indicate a question with permissible values of yes/no/unknown/not applicable.",
       "extensible": "No",
       "name": "No Yes Response",
@@ -7164,7 +7164,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C65047",
       "definition": "Terminology used for Laboratory Tests of the CDISC Standard Data Tabulation Model.",
       "extensible": "Yes",
       "name": "Laboratory Test Code",
@@ -13127,7 +13127,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C67154",
       "definition": "Terminology used for Laboratory Tests of the CDISC Standard Data Tabulation Model.",
       "extensible": "Yes",
       "name": "Laboratory Test Name",
@@ -19089,7 +19089,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C71113",
       "definition": "The terminology that includes terms pertaining to frequency within CDISC.",
       "extensible": "Yes",
       "name": "Frequency",
@@ -19562,7 +19562,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C71148",
       "definition": "Terminology codelist used with Body Position within CDISC.",
       "extensible": "Yes",
       "name": "Position",
@@ -19665,7 +19665,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C71150",
       "definition": "Terminology codelist used with ECG Findings and Abnormalities within CDISC.",
       "extensible": "Yes",
       "name": "ECG Result",
@@ -20751,7 +20751,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C71153",
       "definition": "Terminology codelist used with ECG Tests within CDISC.",
       "extensible": "Yes",
       "name": "ECG Test Code",
@@ -21178,7 +21178,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C71152",
       "definition": "Terminology codelist used with ECG Test Names within CDISC.",
       "extensible": "Yes",
       "name": "ECG Test Name",
@@ -21605,7 +21605,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C71151",
       "definition": "Terminology codelist used with ECG Test Methods within CDISC.",
       "extensible": "Yes",
       "name": "ECG Test Method",
@@ -21816,7 +21816,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C71620",
       "definition": "Terminology codelist used for units within CDISC.",
       "extensible": "Yes",
       "name": "Unit",
@@ -24708,7 +24708,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C74456",
       "definition": "Terminology codelist used for anatomical location within CDISC.",
       "extensible": "Yes",
       "name": "Anatomical Location",
@@ -27449,7 +27449,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C74558",
       "definition": "Classifications that describe and group pertinent events that occur throughout the conduct of a clinical trial.",
       "extensible": "Yes",
       "name": "Category for Disposition Event",
@@ -27489,7 +27489,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C76351",
       "definition": "A classification system used to categorize the sensitivity of a subject's skin to sunlight.",
       "extensible": "Yes",
       "name": "Skin Classification",
@@ -27556,7 +27556,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C74561",
       "definition": "A distinctive characteristic of the skin marked by the amount of sebum secreted by sebaceous glands.",
       "extensible": "Yes",
       "name": "Skin Type",
@@ -27590,7 +27590,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C74559",
       "definition": "A unique code representing each Subject Characteristic.",
       "extensible": "Yes",
       "name": "Subject Characteristic Code",
@@ -27666,7 +27666,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C76348",
       "definition": "A demographic parameter indicating a person's current conjugal status.",
       "extensible": "Yes",
       "name": "Marital Status",
@@ -27742,7 +27742,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C74457",
       "definition": "Terminology codelist used to identify the race of an individual within the Clinical Data Interchange Standards Consortium Study Data Tabulation Model.",
       "extensible": "Yes",
       "name": "Race",
@@ -27790,7 +27790,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78731",
       "definition": "The name of the test for the drug accountability assessment.",
       "extensible": "Yes",
       "name": "Drug Accountability Test Name",
@@ -27821,7 +27821,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78732",
       "definition": "The short name, or code, of the test for the drug accountability assessment.",
       "extensible": "Yes",
       "name": "Drug Accountability Test Code",
@@ -27852,7 +27852,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78733",
       "definition": "The physical state or quality of a biological specimen.",
       "extensible": "Yes",
       "name": "Specimen Condition",
@@ -27937,7 +27937,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78734",
       "definition": "The name and description of a biological specimen.",
       "extensible": "Yes",
       "name": "Specimen Type",
@@ -28247,7 +28247,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78735",
       "definition": "The role that the individual or entity plays with respect to a specific situation or person.",
       "extensible": "Yes",
       "name": "Evaluator",
@@ -28370,7 +28370,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78736",
       "definition": "A description of the results relative to the normal or expected range of values.",
       "extensible": "Yes",
       "name": "Reference Range Indicator",
@@ -28411,7 +28411,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78737",
       "definition": "The description of relationship types between a record or set of records.",
       "extensible": "No",
       "name": "Relationship Type",
@@ -28438,7 +28438,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C78738",
       "definition": "A classification of usage or experience that falls into three categories; never, current, or former.",
       "extensible": "Yes",
       "name": "Never/Current/Former Classification",
@@ -28474,7 +28474,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C85495",
       "definition": "Used to categorize the result of a finding in a standard format.",
       "extensible": "No",
       "name": "Microbiology Susceptibility Testing Result Category",
@@ -28552,7 +28552,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C85492",
       "definition": "Method is any technique or procedure (an action) that determines how an observation or clinical finding was made.",
       "extensible": "Yes",
       "name": "Method",
@@ -29096,7 +29096,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C85494",
       "definition": "Units of measure needed for pharmacokinetic parameters.",
       "extensible": "Yes",
       "name": "PK Parameter Units of Measure",
@@ -31473,7 +31473,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C85491",
       "definition": "Microorganisms, bacteria, fungi and other organisms.",
       "extensible": "Yes",
       "name": "Microorganism",
@@ -38224,7 +38224,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C85493",
       "definition": "Parameters used to describe the time-concentration curve.",
       "extensible": "Yes",
       "name": "PK Parameters",
@@ -39921,7 +39921,7 @@
       ]
     },
     {
-      "conceptId": "",
+      "conceptId": "C85839",
       "definition": "Parameter codes used to describe the time-concentration curve.",
       "extensible": "Yes",
       "name": "PK Parameters Code",
