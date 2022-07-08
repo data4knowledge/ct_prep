@@ -562,7 +562,6 @@
 "2020-05-08":
   package: "41"
   format: 
-  - "api"
   - "5"
   items:
     adam: "2020-03-27"
