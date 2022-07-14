@@ -1,0 +1,23 @@
+---
+"introduced":
+  "ADAM": 19
+  "CDASH": 19
+  "COA": 20
+  "DEFINE-XML": 40
+  "GLOSSARY": 44
+  "PROTOCOL": 29
+  "QRS": 22
+  "QS-FT": 19
+  "SDTM": 19
+  "SEND": 19
+"withdrawn":
+  "ADAM": null
+  "CDASH": null
+  "COA": 22
+  "DEFINE-XML": null
+  "GLOSSARY": null
+  "PROTOCOL": null
+  "QRS": 24
+  "QS-FT": 20
+  "SDTM": null
+  "SEND": null
