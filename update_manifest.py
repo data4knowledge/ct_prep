@@ -16,6 +16,10 @@ with open("source_data/manifest/introduced_withdrawn.yaml") as file:
   introduced = data['introduced']
   withdrawn = data['withdrawn']
 
+# Information as to when items within a packahe were introduced or withdrawn.
+with open("source_data/manifest/manifest.yaml") as file:
+  existing_manifest = yaml.load(file, Loader=yaml.FullLoader)
+
 # 1.1 Get all the package information via the API
 api_url = "https://api.library.cdisc.org/api/mdr/ct/packages"
 headers =  {"Content-Type":"application/json", "api-key": API_KEY}
@@ -72,10 +76,20 @@ for key in results:
             table_row.append('^')
       table.rows.append(table_row)
 
-print(json.dumps(manifest, sort_keys=True, indent=4))
+print('')
+print('NEW MANIFEST ENTRIES')
+print('====================')
+print('')
+for k,v in manifest.items():
+  if not k in existing_manifest: 
+    print(k)
+    print(json.dumps(v, sort_keys=True, indent=4))
 
 # 1.3 Print the table, just useful information
 table.maxwidth = 150
+print('')
+print('RELEASE TABLE')
+print('=============')
 print('')
 print('Key: ')
 print('')
