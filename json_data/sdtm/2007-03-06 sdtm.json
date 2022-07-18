@@ -2883,20 +2883,18 @@
         "Not Done",
         "ND"
       ],
-      "terms": []
-    },
-    {
-      "conceptId": "C49484",
-      "definition": "Indicates a task, process or examination that has either not been initiated or completed. (NCI)",
-      "extensible": "",
-      "name": "Not Done",
-      "preferredTerm": "Not Done",
-      "submissionValue": "NOT DONE",
-      "synonyms": [
-        "Not Done",
-        "ND"
-      ],
-      "terms": []
+      "terms": [
+        {
+          "conceptId": "C49484",
+          "definition": "Indicates a task, process or examination that has either not been initiated or completed. (NCI)",
+          "preferredTerm": "Not Done",
+          "submissionValue": "NOT DONE",
+          "synonyms": [
+            "Not Done",
+            "ND"
+          ]
+        }
+      ]
     },
     {
       "conceptId": "C16564",

@@ -124,10 +124,11 @@ def add_code_list_item(format, output, row):
   return code_list_item
 
 def process_sheet_format(df, format, output, item, date):
-  print(df)
+  #print(df)
   code_list = None
   for index, row in df.iterrows():
-    if COLUMN_MAP[format]["check"] == "equal" and row[COLUMN_MAP[format]["CL"]] == row[COLUMN_MAP[format]["CLI"]]:
+    ext = get_cell(row, COLUMN_MAP[format]["EXT"])
+    if COLUMN_MAP[format]["check"] == "equal" and row[COLUMN_MAP[format]["CL"]] == row[COLUMN_MAP[format]["CLI"]] and ext != "":
       code_list = add_code_list(format, output, row)
     elif COLUMN_MAP[format]["check"] == "empty" and get_cell(row, COLUMN_MAP[format]["check_col"]) == "":
       code_list = add_code_list(format, output, row)
@@ -136,7 +137,7 @@ def process_sheet_format(df, format, output, item, date):
   return None
 
 def set_format(item, date):
-  print("SET_FORMAT %s %s" % (item, date))
+  #print("SET_FORMAT %s %s" % (item, date))
   info = manifest[date]["format"]
   if "api" in info:
     return "api"
@@ -185,6 +186,6 @@ def process_release(date, info):
 filename = "%s/%s" % (SOURCE_DIR, "manifest/manifest.yaml")
 with open(filename) as file:
   manifest = yaml.load(file, Loader=yaml.FullLoader)
-  print(manifest)
+  #print(manifest)
   for date, info in manifest.items():
     process_release(date, info)
