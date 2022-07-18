@@ -139,7 +139,7 @@
           "submissionValue": "CAPSULE",
           "synonyms": [
             "Capsule Dosing Unit",
-            " cap"
+            "cap"
           ]
         },
         {
@@ -158,7 +158,7 @@
           "submissionValue": "IU",
           "synonyms": [
             "IE",
-            " International Unit"
+            "International Unit"
           ]
         },
         {
@@ -177,7 +177,7 @@
           "submissionValue": "mL",
           "synonyms": [
             "Milliliter",
-            " cm3"
+            "cm3"
           ]
         },
         {
@@ -196,7 +196,7 @@
           "submissionValue": "TABLET",
           "synonyms": [
             "Tablet Dosing Unit",
-            " tab"
+            "tab"
           ]
         },
         {
@@ -206,7 +206,7 @@
           "submissionValue": "ug",
           "synonyms": [
             "Microgram",
-            " mcg"
+            "mcg"
           ]
         }
       ]
@@ -229,7 +229,7 @@
           "submissionValue": "BID",
           "synonyms": [
             "BD",
-            " Twice per day"
+            "Twice per day"
           ]
         },
         {
@@ -266,7 +266,7 @@
           "submissionValue": "QM",
           "synonyms": [
             "Every Month",
-            " Per Month"
+            "Per Month"
           ]
         },
         {
@@ -294,8 +294,8 @@
           "submissionValue": "UNKNOWN",
           "synonyms": [
             "U",
-            " UNK",
-            " Unknown"
+            "UNK",
+            "Unknown"
           ]
         }
       ]
@@ -355,7 +355,7 @@
           "submissionValue": "ORAL",
           "synonyms": [
             "Intraoral Route of Administration",
-            " PO"
+            "PO"
           ]
         },
         {
@@ -379,7 +379,7 @@
           "submissionValue": "SUBCUTANEOUS",
           "synonyms": [
             "SC",
-            " Subdermal Route of Administration"
+            "Subdermal Route of Administration"
           ]
         },
         {
@@ -988,8 +988,8 @@
           "submissionValue": "UNKNOWN",
           "synonyms": [
             "U",
-            " UNK",
-            " Unknown"
+            "UNK",
+            "Unknown"
           ]
         },
         {
@@ -1202,7 +1202,7 @@
           "submissionValue": "BID",
           "synonyms": [
             "BD",
-            " Twice per day"
+            "Twice per day"
           ]
         },
         {
@@ -1239,7 +1239,7 @@
           "submissionValue": "QM",
           "synonyms": [
             "Every Month",
-            " Per Month"
+            "Per Month"
           ]
         },
         {
@@ -1267,8 +1267,8 @@
           "submissionValue": "UNKNOWN",
           "synonyms": [
             "U",
-            " UNK",
-            " Unknown"
+            "UNK",
+            "Unknown"
           ]
         }
       ]
@@ -1328,7 +1328,7 @@
           "submissionValue": "ORAL",
           "synonyms": [
             "Intraoral Route of Administration",
-            " PO"
+            "PO"
           ]
         },
         {
@@ -1352,7 +1352,7 @@
           "submissionValue": "SUBCUTANEOUS",
           "synonyms": [
             "SC",
-            " Subdermal Route of Administration"
+            "Subdermal Route of Administration"
           ]
         },
         {
@@ -1939,8 +1939,8 @@
           "submissionValue": "UNKNOWN",
           "synonyms": [
             "U",
-            " UNK",
-            " Unknown"
+            "UNK",
+            "Unknown"
           ]
         },
         {
@@ -2078,7 +2078,7 @@
           "submissionValue": "mL",
           "synonyms": [
             "Milliliter",
-            " cm3"
+            "cm3"
           ]
         },
         {
@@ -2088,7 +2088,7 @@
           "submissionValue": "ug",
           "synonyms": [
             "Microgram",
-            " mcg"
+            "mcg"
           ]
         }
       ]
@@ -2111,8 +2111,8 @@
           "submissionValue": "HOURS",
           "synonyms": [
             "Hours",
-            " h",
-            " hr"
+            "h",
+            "hr"
           ]
         },
         {
@@ -2180,7 +2180,7 @@
           "submissionValue": "CAPSULE",
           "synonyms": [
             "Capsule Dosing Unit",
-            " cap"
+            "cap"
           ]
         },
         {
@@ -2208,7 +2208,7 @@
           "submissionValue": "PACKAGE",
           "synonyms": [
             "Pack Dosing Unit",
-            " Package Dosing Unit"
+            "Package Dosing Unit"
           ]
         },
         {
@@ -2236,7 +2236,7 @@
           "submissionValue": "TABLET",
           "synonyms": [
             "Tablet Dosing Unit",
-            " tab"
+            "tab"
           ]
         },
         {
@@ -2331,7 +2331,7 @@
           "submissionValue": "CAPSULE",
           "synonyms": [
             "Capsule Dosing Unit",
-            " cap"
+            "cap"
           ]
         },
         {
@@ -2359,7 +2359,7 @@
           "submissionValue": "mL",
           "synonyms": [
             "Milliliter",
-            " cm3"
+            "cm3"
           ]
         },
         {
@@ -2378,7 +2378,7 @@
           "submissionValue": "TABLET",
           "synonyms": [
             "Tablet Dosing Unit",
-            " tab"
+            "tab"
           ]
         },
         {
@@ -2388,7 +2388,7 @@
           "submissionValue": "ug",
           "synonyms": [
             "Microgram",
-            " mcg"
+            "mcg"
           ]
         }
       ]
@@ -2411,7 +2411,7 @@
           "submissionValue": "CAPSULE",
           "synonyms": [
             "Capsule Dosing Unit",
-            " cap"
+            "cap"
           ]
         },
         {
@@ -2439,7 +2439,7 @@
           "submissionValue": "mL",
           "synonyms": [
             "Milliliter",
-            " cm3"
+            "cm3"
           ]
         },
         {
@@ -2458,7 +2458,7 @@
           "submissionValue": "TABLET",
           "synonyms": [
             "Tablet Dosing Unit",
-            " tab"
+            "tab"
           ]
         },
         {
@@ -2468,7 +2468,7 @@
           "submissionValue": "ug",
           "synonyms": [
             "Microgram",
-            " mcg"
+            "mcg"
           ]
         }
       ]
@@ -2500,7 +2500,7 @@
           "submissionValue": "STANDING",
           "synonyms": [
             "Orthostatic",
-            " Standing"
+            "Standing"
           ]
         },
         {

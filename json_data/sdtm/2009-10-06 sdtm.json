@@ -30,7 +30,7 @@
           "submissionValue": "DOSE INCREASED",
           "synonyms": [
             "An indication that a medication schedule was modified by addition",
-            " either by changing the frequency, strength or amount. (NCI)"
+            "either by changing the frequency, strength or amount. (NCI)"
           ]
         },
         {
@@ -174,7 +174,7 @@
           "submissionValue": "ADOLESCENT (12-17 YEARS)",
           "synonyms": [
             "A juvenile between the onset of puberty and maturity",
-            " in the state of development between puberty and maturity. (NCI)"
+            "in the state of development between puberty and maturity. (NCI)"
           ]
         },
         {
@@ -260,7 +260,7 @@
           "submissionValue": "DAYS",
           "synonyms": [
             "The time for Earth to make a complete rotation on its axis",
-            " ordinarily divided into twenty-four hours. This also refers to a specific day. (NCI)"
+            "ordinarily divided into twenty-four hours. This also refers to a specific day. (NCI)"
           ]
         },
         {
@@ -297,7 +297,7 @@
           "submissionValue": "YEARS",
           "synonyms": [
             "The period of time that it takes for Earth to make a complete revolution around the sun, approximately 365 days",
-            " a specific one year period. (NCI)"
+            "a specific one year period. (NCI)"
           ]
         }
       ]
@@ -459,8 +459,8 @@
           "submissionValue": "INVESTIGATIONS",
           "synonyms": [
             "The act or process of a systematic and thorough examination",
-            " research, study",
-            " the process of inquiring into or following up, intended to develop facts. (NCI)"
+            "research, study",
+            "the process of inquiring into or following up, intended to develop facts. (NCI)"
           ]
         },
         {
@@ -488,7 +488,7 @@
           "submissionValue": "NEOPLASMS BENIGN, MALIGNANT AND UNSPECIFIED (INCL CYSTS AND POLYPS)",
           "synonyms": [
             "An abnormal tissue growth resulted from uncontrolled cell proliferation. Benign neoplastic cells resemble normal cells without exhibiting significant cytologic atypia, while malignant ones exhibit overt signs such as dysplastic features, atypical mitotic figures, necrosis, nuclear pleomorphism, and anaplasia. Representative examples of benign neoplasms include papillomas, cystadenomas, and lipomas",
-            " malignant neoplasms include carcinomas, sarcomas, lymphomas, and leukemias. -- 2004 (NCI)"
+            "malignant neoplasms include carcinomas, sarcomas, lymphomas, and leukemias. -- 2004 (NCI)"
           ]
         },
         {
@@ -762,7 +762,7 @@
           "submissionValue": "ANT",
           "synonyms": [
             "A country in the Caribbean, comprising two island groups in the Caribbean Sea - one includes Curacao and Bonaire north of Venezuela",
-            " the other is east of the Virgin Islands."
+            "the other is east of the Virgin Islands."
           ]
         },
         {
@@ -1249,7 +1249,7 @@
           "submissionValue": "DNK",
           "synonyms": [
             "A country in Northern Europe, bordering the Baltic Sea and the North Sea, on a peninsula north of Germany (Jutland)",
-            " also includes two major islands (Sjaelland and Fyn)."
+            "also includes two major islands (Sjaelland and Fyn)."
           ]
         },
         {
@@ -1367,7 +1367,7 @@
           "submissionValue": "FRA",
           "synonyms": [
             "A country in Western Europe, bordering the Bay of Biscay and English Channel, between Belgium and Spain, southeast of the UK",
-            " bordering the Mediterranean Sea, between Italy and Spain."
+            "bordering the Mediterranean Sea, between Italy and Spain."
           ]
         },
         {
@@ -1485,7 +1485,7 @@
           "submissionValue": "GNQ",
           "synonyms": [
             "A country in Western Africa, bordering the Bight of Biafra, between Cameroon and Gabon",
-            " composed of a mainland portion and five inhabited islands."
+            "composed of a mainland portion and five inhabited islands."
           ]
         },
         {
@@ -1774,7 +1774,7 @@
           "submissionValue": "KIR",
           "synonyms": [
             "A group of 33 coral atolls in the Pacific Ocean, straddling the equator",
-            " the capital Tarawa is about one-half of the way from Hawaii to Australia."
+            "the capital Tarawa is about one-half of the way from Hawaii to Australia."
           ]
         },
         {
@@ -3042,8 +3042,8 @@
       "submissionValue": "ETHNIC",
       "synonyms": [
         "A social group characterized by a distinctive social and cultural tradition maintained from generation to generation, a common history and origin and a sense of identification with the group",
-        " members of the group have distinctive features in their way of life, shared experiences and often a common genetic heritage",
-        " these features may be reflected in their experience of health and disease. (NCI)"
+        "members of the group have distinctive features in their way of life, shared experiences and often a common genetic heritage",
+        "these features may be reflected in their experience of health and disease. (NCI)"
       ],
       "terms": [
         {
@@ -3102,7 +3102,7 @@
           "submissionValue": "AEROSOL",
           "synonyms": [
             "A product that is packaged under pressure and contains therapeutically active ingredients that are released upon activation of an appropriate valve system",
-            " it is intended for topical application to the skin as well as local application into the nose (nasal aerosols), mouth (lingual aerosols), or lungs (inhalation aerosols). (FDA)"
+            "it is intended for topical application to the skin as well as local application into the nose (nasal aerosols), mouth (lingual aerosols), or lungs (inhalation aerosols). (FDA)"
           ]
         },
         {
@@ -3112,7 +3112,7 @@
           "submissionValue": "AEROSOL, FOAM",
           "synonyms": [
             "A dosage form containing one or more active ingredients, surfactants, aqueous or non-aqueous liquids, and the propellants",
-            " if the propellant is in the internal (discontinuous) phase (i.e., of the oil-in-water type), a stable foam is discharged, and if the propellant is in the external (continuous) phase (i.e., of the water-in-oil type), a spray or a quick-breaking foam is discharged. (FDA)"
+            "if the propellant is in the internal (discontinuous) phase (i.e., of the oil-in-water type), a stable foam is discharged, and if the propellant is in the external (continuous) phase (i.e., of the water-in-oil type), a spray or a quick-breaking foam is discharged. (FDA)"
           ]
         },
         {
@@ -3140,7 +3140,7 @@
           "submissionValue": "AEROSOL, SPRAY",
           "synonyms": [
             "An aerosol product which utilizes a compressed gas as the propellant to provide the force necessary to expel the product as a wet spray",
-            " it is applicable to solutions of medicinal agents in aqueous solvents. (NCI)"
+            "it is applicable to solutions of medicinal agents in aqueous solvents. (NCI)"
           ]
         },
         {
@@ -3195,7 +3195,7 @@
           "submissionValue": "CAPSULE, COATED",
           "synonyms": [
             "A solid dosage form in which the drug is enclosed within either a hard or soft soluble container or \"shell\" made from a suitable form of gelatin",
-            " additionally, the capsule is covered in a designated coating. (NCI)"
+            "additionally, the capsule is covered in a designated coating. (NCI)"
           ]
         },
         {
@@ -3205,7 +3205,7 @@
           "submissionValue": "CAPSULE, COATED PELLETS",
           "synonyms": [
             "A solid dosage form in which the drug is enclosed within either a hard or soft soluble container or \"shell\" made from a suitable form of gelatin",
-            " the drug itself is in the form of granules to which varying amounts of coating have been applied. (NCI)"
+            "the drug itself is in the form of granules to which varying amounts of coating have been applied. (NCI)"
           ]
         },
         {
@@ -3215,7 +3215,7 @@
           "submissionValue": "CAPSULE, COATED, EXTENDED RELEASE",
           "synonyms": [
             "A solid dosage form in which the drug is enclosed within either a hard or soft soluble container or \"shell\" made from a suitable form of gelatin",
-            " additionally, the capsule is covered in a designated coating, and which releases a drug (or drugs) in such a manner to allow at least a reduction in dosing frequency as compared to that drug (or drugs) presented as a conventional dosage form. (NCI)"
+            "additionally, the capsule is covered in a designated coating, and which releases a drug (or drugs) in such a manner to allow at least a reduction in dosing frequency as compared to that drug (or drugs) presented as a conventional dosage form. (NCI)"
           ]
         },
         {
@@ -3234,7 +3234,7 @@
           "submissionValue": "CAPSULE, DELAYED RELEASE PELLETS",
           "synonyms": [
             "A solid dosage form in which the drug is enclosed within either a hard or soft soluble container or \"shell\" made from a suitable form of gelatin",
-            " the drug itself is in the form of granules to which enteric coating has been applied, thus delaying release of the drug until its passage into the intestines. (NCI)"
+            "the drug itself is in the form of granules to which enteric coating has been applied, thus delaying release of the drug until its passage into the intestines. (NCI)"
           ]
         },
         {
@@ -3253,7 +3253,7 @@
           "submissionValue": "CAPSULE, FILM COATED, EXTENDED RELEASE",
           "synonyms": [
             "A solid dosage form in which the drug is enclosed within either a hard or soft soluble container or \"shell\" made from a suitable form of gelatin",
-            " additionally, the capsule is covered in a designated film coating, and which releases a drug (or drugs) in such a manner to allow at least a reduction in dosing frequency as compared to that drug (or drugs) presented as a conventional dosage form. (NCI)"
+            "additionally, the capsule is covered in a designated film coating, and which releases a drug (or drugs) in such a manner to allow at least a reduction in dosing frequency as compared to that drug (or drugs) presented as a conventional dosage form. (NCI)"
           ]
         },
         {
@@ -3263,7 +3263,7 @@
           "submissionValue": "CAPSULE, GELATIN COATED",
           "synonyms": [
             "A solid dosage form in which the drug is enclosed within either a hard or soft soluble container made from a suitable form of gelatin",
-            " through a banding process, the capsule is coated with additional layers of gelatin so as to form a complete seal. (NCI)"
+            "through a banding process, the capsule is coated with additional layers of gelatin so as to form a complete seal. (NCI)"
           ]
         },
         {
@@ -3273,7 +3273,7 @@
           "submissionValue": "CAPSULE, LIQUID FILLED",
           "synonyms": [
             "A solid dosage form in which the drug is enclosed within a soluble, gelatin shell which is plasticized by the addition of a polyol, such as sorbitol or glycerin, and is therefore of a somewhat thicker consistency than that of a hard shell capsule",
-            " typically, the active ingredients are dissolved or suspended in a liquid vehicle. (NCI)"
+            "typically, the active ingredients are dissolved or suspended in a liquid vehicle. (NCI)"
           ]
         },
         {
@@ -3355,7 +3355,7 @@
           "submissionValue": "CRYSTAL",
           "synonyms": [
             "A naturally produced angular solid of definite form in which the ultimate units from which it is built up are systematically arranged",
-            " they are usually evenly spaced on a regular space lattice."
+            "they are usually evenly spaced on a regular space lattice."
           ]
         },
         {
@@ -3419,7 +3419,7 @@
           "submissionValue": "ELIXIR",
           "synonyms": [
             "A clear, pleasantly flavored, sweetened hydroalcoholic liquid containing dissolved medicinal agents",
-            " it is intended for oral use. (NCI)"
+            "it is intended for oral use. (NCI)"
           ]
         },
         {
@@ -3429,7 +3429,7 @@
           "submissionValue": "EMULSION",
           "synonyms": [
             "A dosage form consisting of a two-phase system comprised of at least two immiscible liquids (1), one of which is dispersed as droplets (internal or dispersed phase) within the other liquid (external or continuous phase), generally stabilized with one or more emulsifying agents. Note 1: A liquid is pourable",
-            " it flows and conforms to its container at room temperature. It displays Newtonian or pseudoplastic flow behavior. Note 2: Emulsion is used as a dosage form term unless a more specific term is applicable, e.g. cream, lotion, ointment. (NCI)"
+            "it flows and conforms to its container at room temperature. It displays Newtonian or pseudoplastic flow behavior. Note 2: Emulsion is used as a dosage form term unless a more specific term is applicable, e.g. cream, lotion, ointment. (NCI)"
           ]
         },
         {
@@ -3511,7 +3511,7 @@
           "submissionValue": "FOR SUSPENSION, EXTENDED RELEASE",
           "synonyms": [
             "A product, usually a solid, intended for suspension prior to administration",
-            " once the suspension is administered, the drug will be released at a constant rate over a specified period. (FDA)"
+            "once the suspension is administered, the drug will be released at a constant rate over a specified period. (FDA)"
           ]
         },
         {
@@ -3530,7 +3530,7 @@
           "submissionValue": "GEL",
           "synonyms": [
             "A semisolid (1) dosage form that contains a gelling agent to provide stiffness to a solution or a colloidal dispersion (2). A gel may contain suspended particles. Note 1: A semisolid is not pourable",
-            " it does not flow or conform to its container at room temperature. It does not flow at low shear stress and generally exhibits plastic flow behavior. Note 2: A colloidal dispersion is a system in which particles of colloidal dimension (i.e., typically between 1 nm and 1 micrometer) are distributed uniformly throughout a liquid. (NCI)"
+            "it does not flow or conform to its container at room temperature. It does not flow at low shear stress and generally exhibits plastic flow behavior. Note 2: A colloidal dispersion is a system in which particles of colloidal dimension (i.e., typically between 1 nm and 1 micrometer) are distributed uniformly throughout a liquid. (NCI)"
           ]
         },
         {
@@ -3612,7 +3612,7 @@
           "submissionValue": "GRANULE, FOR SOLUTION",
           "synonyms": [
             "A small medicinal particle or grain made available in its more stable dry form, to be reconstituted with solvent just before dispensing",
-            " the granules are so prepared to contain not only the medicinal agent, but the colorants, flavorants, and any other desired pharmaceutic ingredient. (NCI)"
+            "the granules are so prepared to contain not only the medicinal agent, but the colorants, flavorants, and any other desired pharmaceutic ingredient. (NCI)"
           ]
         },
         {
@@ -3622,7 +3622,7 @@
           "submissionValue": "GRANULE, FOR SUSPENSION",
           "synonyms": [
             "A small medicinal particle or grain made available in its more stable dry form, to be reconstituted with solvent just before dispensing to form a suspension",
-            " the granules are so prepared to contain not only the medicinal agent, but the colorants, flavorants, and any other desired pharmaceutic ingredient. (NCI)"
+            "the granules are so prepared to contain not only the medicinal agent, but the colorants, flavorants, and any other desired pharmaceutic ingredient. (NCI)"
           ]
         },
         {
@@ -3632,7 +3632,7 @@
           "submissionValue": "GRANULE, FOR SUSPENSION, EXTENDED RELEASE",
           "synonyms": [
             "A small medicinal particle or grain made available in its more stable dry form, to be reconstituted with solvent just before dispensing to form a suspension",
-            " the extended release system achieves slow release of the drug over an extended period of time and maintains constant drug levels in the blood or target tissue. (NCI)"
+            "the extended release system achieves slow release of the drug over an extended period of time and maintains constant drug levels in the blood or target tissue. (NCI)"
           ]
         },
         {
@@ -3678,7 +3678,7 @@
           "submissionValue": "INHALANT",
           "synonyms": [
             "A special class of inhalations consisting of a drug or combination of drugs, that by virtue of their high vapor pressure, can be carried by an air current into the nasal passage where they exert their effect",
-            " the container from which the inhalant generally is administered is known as an inhaler. (NCI)"
+            "the container from which the inhalant generally is administered is known as an inhaler. (NCI)"
           ]
         },
         {
@@ -3697,7 +3697,7 @@
           "submissionValue": "INJECTION",
           "synonyms": [
             "A sterile preparation intended for parenteral use",
-            " five distinct classes of injections exist as defined by the USP. (NCI)"
+            "five distinct classes of injections exist as defined by the USP. (NCI)"
           ]
         },
         {
@@ -3761,7 +3761,7 @@
           "submissionValue": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
           "synonyms": [
             "A dosage form intended for the solution prepared by lyophilization ('freeze drying'), a process which involves the removal of water from products in the frozen state at extremely low pressures",
-            " this is intended for subsequent addition of liquid to create a solution that conforms in all respects to the requirements for Injections. (NCI)"
+            "this is intended for subsequent addition of liquid to create a solution that conforms in all respects to the requirements for Injections. (NCI)"
           ]
         },
         {
@@ -3771,7 +3771,7 @@
           "submissionValue": "INJECTION, POWDER, LYOPHILIZED, FOR SUSPENSION",
           "synonyms": [
             "A liquid preparation, intended for parenteral use, that contains solids suspended in a suitable fluid medium and conforms in all respects to the requirements for Sterile Suspensions",
-            " the medicinal agents intended for the suspension are prepared by lyophilization (\"freeze drying\"), a process which involves the removal of water from products in the frozen state at extremely low pressures. (NCI)"
+            "the medicinal agents intended for the suspension are prepared by lyophilization (\"freeze drying\"), a process which involves the removal of water from products in the frozen state at extremely low pressures. (NCI)"
           ]
         },
         {
@@ -3853,7 +3853,7 @@
           "submissionValue": "INSERT, EXTENDED RELEASE",
           "synonyms": [
             "A specially formulated and shaped solid preparation (e.g., ring, tablet, or stick) intended to be placed in the vagina by special inserters, where the medication is released, generally for localized effects",
-            " the extended release preparation is designed to allow a reduction in dosing frequency. (NCI)"
+            "the extended release preparation is designed to allow a reduction in dosing frequency. (NCI)"
           ]
         },
         {
@@ -3872,7 +3872,7 @@
           "submissionValue": "IRRIGANT",
           "synonyms": [
             "A sterile solution intended to bathe or flush open wounds or body cavities",
-            " they're used topically, never parenterally. (NCI)"
+            "they're used topically, never parenterally. (NCI)"
           ]
         },
         {
@@ -3927,7 +3927,7 @@
           "submissionValue": "LIQUID",
           "synonyms": [
             "A dosage form consisting of a pure chemical in its liquid state. This dosage form term should not be applied to solutions. Note: A liquid is pourable",
-            " it flows and conforms to its container at room temperature. It displays Newtonian or pseudoplastic flow behavior.(FDA)"
+            "it flows and conforms to its container at room temperature. It displays Newtonian or pseudoplastic flow behavior.(FDA)"
           ]
         },
         {
@@ -3946,7 +3946,7 @@
           "submissionValue": "LOTION",
           "synonyms": [
             "An emulsion, liquid (1) dosage form. This dosage form is generally for external application to the skin (2). Note 1: A liquid is pourable",
-            " it flows and conforms to its container at room temperature. It displays Newtonian or pseudoplastic flow behavior. Note 2: Previously the definition of a lotion was: The term lotion has been used to categorize many topical suspensions, solutions, and emulsions intended for application to the skin. The current definition of a lotion is restricted to an emulsion. (FDA)"
+            "it flows and conforms to its container at room temperature. It displays Newtonian or pseudoplastic flow behavior. Note 2: Previously the definition of a lotion was: The term lotion has been used to categorize many topical suspensions, solutions, and emulsions intended for application to the skin. The current definition of a lotion is restricted to an emulsion. (FDA)"
           ]
         },
         {
@@ -3965,7 +3965,7 @@
           "submissionValue": "LOTION/SHAMPOO",
           "synonyms": [
             "A lotion dosage form which has a soap or detergent that is usually used to clean the hair and scalp",
-            " it is often used as a vehicle for dermatologic agents. (FDA)"
+            "it is often used as a vehicle for dermatologic agents. (FDA)"
           ]
         },
         {
@@ -4011,7 +4011,7 @@
           "submissionValue": "OINTMENT",
           "synonyms": [
             "A suspension or emulsion, semisolid (1) dosage form, usually containing < 20% water and volatiles (2) and > 50% hydrocarbons, waxes, or polyols as the vehicle. This dosage form is generally for external application to the skin or mucous membranes. Note 1: A semisolid is not pourable",
-            " it does not flow or conform to its container at room temperature. It does not flow at low shear stress and generally exhibits plastic flow behavior. Note 2: Percent water and volatiles are measured by a loss on drying test in which the sample is heated at 105 degrees C until constant weight is achieved. (NCI)"
+            "it does not flow or conform to its container at room temperature. It does not flow at low shear stress and generally exhibits plastic flow behavior. Note 2: Percent water and volatiles are measured by a loss on drying test in which the sample is heated at 105 degrees C until constant weight is achieved. (NCI)"
           ]
         },
         {
@@ -4039,7 +4039,7 @@
           "submissionValue": "PASTE",
           "synonyms": [
             "A semisolid dosage form, containing a large proportion (20 - 50%) of solids finely dispersed in a fatty vehicle. This dosage form is generally for external application to the skin or mucous membranes. Note: A semisolid is not pourable",
-            " it does not flow or conform to its container at room temperature. It does not flow at low shear stress and generally exhibits plastic flow behavior. (NCI)"
+            "it does not flow or conform to its container at room temperature. It does not flow at low shear stress and generally exhibits plastic flow behavior. (NCI)"
           ]
         },
         {
@@ -4103,7 +4103,7 @@
           "submissionValue": "PELLET, IMPLANTABLE",
           "synonyms": [
             "A small sterile solid mass consisting of a highly purified drug (with or without excipients) made by the formation of granules, or by compression and molding",
-            " they are intended for implantation in the body (usually subcutaneously) for the purpose of providing continuous release of the drug over long periods of time. (NCI)"
+            "they are intended for implantation in the body (usually subcutaneously) for the purpose of providing continuous release of the drug over long periods of time. (NCI)"
           ]
         },
         {
@@ -4131,7 +4131,7 @@
           "submissionValue": "PLASTER",
           "synonyms": [
             "Substance intended for external application made of such materials and of such consistency as to adhere to the skin and attach to a dressing",
-            " plasters are intended to afford protection and support and/or to furnish an occlusion and macerating action and to bring medication into close contact with the skin. (NCI)"
+            "plasters are intended to afford protection and support and/or to furnish an occlusion and macerating action and to bring medication into close contact with the skin. (NCI)"
           ]
         },
         {
@@ -4240,7 +4240,7 @@
           "submissionValue": "SOAP",
           "synonyms": [
             "Any compound of one or more fatty acids, or their equivalents, with an alkali",
-            " soap is detergent and is much employed in liniments, enemas, and in making pills. It is also a mild aperient, antacid and antiseptic. (NCI)"
+            "soap is detergent and is much employed in liniments, enemas, and in making pills. It is also a mild aperient, antacid and antiseptic. (NCI)"
           ]
         },
         {
@@ -4250,7 +4250,7 @@
           "submissionValue": "SOLUTION",
           "synonyms": [
             "A clear, homogeneous liquid dosage form that contains one or more chemical substances dissolved in a solvent or mixture of mutually miscible solvents. Note: A liquid is pourable",
-            " it flows and conforms to its container at room temperature. It displays Newtonian or pseudoplastic flow behavior. (NCI)"
+            "it flows and conforms to its container at room temperature. It displays Newtonian or pseudoplastic flow behavior. (NCI)"
           ]
         },
         {
@@ -4260,7 +4260,7 @@
           "submissionValue": "SOLUTION, CONCENTRATE",
           "synonyms": [
             "A liquid preparation (i.e., a substance that flows readily in its natural state) that contains a drug dissolved in a suitable solvent or mixture of mutually miscible solvents",
-            " the drug has been strengthened by the evaporation of its non-active parts. (NCI)"
+            "the drug has been strengthened by the evaporation of its non-active parts. (NCI)"
           ]
         },
         {
@@ -4360,7 +4360,7 @@
           "submissionValue": "SUPPOSITORY",
           "synonyms": [
             "A solid body of various weights and shapes, adapted for introduction into the rectal, vaginal, or urethral orifice of the human body",
-            " they usually melt, soften, or dissolve at body temperature. (NCI)"
+            "they usually melt, soften, or dissolve at body temperature. (NCI)"
           ]
         },
         {
@@ -4379,7 +4379,7 @@
           "submissionValue": "SUSPENSION",
           "synonyms": [
             "A liquid dosage form that contains solid particles dispersed in a liquid vehicle. Note: A liquid is pourable",
-            " it flows and conforms to its container at room temperature. It displays Newtonian or pseudoplastic flow behavior.(FDA)"
+            "it flows and conforms to its container at room temperature. It displays Newtonian or pseudoplastic flow behavior.(FDA)"
           ]
         },
         {
@@ -4389,7 +4389,7 @@
           "submissionValue": "SUSPENSION, EXTENDED RELEASE",
           "synonyms": [
             "A liquid preparation consisting of solid particles dispersed throughout a liquid phase in which the particles are not soluble",
-            " the suspension has been formulated in a manner to allow at least a reduction in dosing frequency as compared to that drug presented as a conventional dosage form (e.g., as a solution or a prompt drug-releasing, conventional solid dosage form). (NCI)"
+            "the suspension has been formulated in a manner to allow at least a reduction in dosing frequency as compared to that drug presented as a conventional dosage form (e.g., as a solution or a prompt drug-releasing, conventional solid dosage form). (NCI)"
           ]
         },
         {
@@ -4426,7 +4426,7 @@
           "submissionValue": "SYRUP",
           "synonyms": [
             "An oral solution containing high concentrations of sucrose or other sugars",
-            " the term has also been used to include any other liquid dosage form prepared in a sweet and viscid vehicle, including oral suspensions. (NCI)"
+            "the term has also been used to include any other liquid dosage form prepared in a sweet and viscid vehicle, including oral suspensions. (NCI)"
           ]
         },
         {
@@ -4490,7 +4490,7 @@
           "submissionValue": "TABLET, EFFERVESCENT",
           "synonyms": [
             "A solid dosage form containing mixtures of acids (e.g., citric acid, tartaric acid) and sodium bicarbonate, which release carbon dioxide when dissolved in water",
-            " it is intended to be dissolved or dispersed in water before administration.(FDA)"
+            "it is intended to be dissolved or dispersed in water before administration.(FDA)"
           ]
         },
         {
@@ -4518,7 +4518,7 @@
           "submissionValue": "TABLET, FILM COATED, EXTENDED RELEASE",
           "synonyms": [
             "A solid dosage form that contains medicinal substances with or without suitable diluents and is coated with a thin layer of a water-insoluble or water-soluble polymer",
-            " the tablet is formulated in such manner as to make the contained medicament available over an extended period of time following ingestion. (NCI)"
+            "the tablet is formulated in such manner as to make the contained medicament available over an extended period of time following ingestion. (NCI)"
           ]
         },
         {
@@ -4555,7 +4555,7 @@
           "submissionValue": "TABLET, MULTILAYER, EXTENDED RELEASE",
           "synonyms": [
             "A solid dosage form containing medicinal substances that have been compressed to form a multiple-layered tablet or a tablet-within-a-tablet, the inner tablet being the core and the outer portion being the shell, which, additionally, is covered in a designated coating",
-            " the tablet is formulated in such manner as to allow at least a reduction in dosing frequency as compared to that drug presented as a conventional dosage form. (NCI)"
+            "the tablet is formulated in such manner as to allow at least a reduction in dosing frequency as compared to that drug presented as a conventional dosage form. (NCI)"
           ]
         },
         {
@@ -4628,7 +4628,7 @@
           "submissionValue": "TROCHE",
           "synonyms": [
             "A discoid-shaped solid containing the medicinal agent in a suitably flavored base",
-            " troches are placed in the mouth where they slowly dissolve, liberating the active ingredients. (NCI)"
+            "troches are placed in the mouth where they slowly dissolve, liberating the active ingredients. (NCI)"
           ]
         },
         {
@@ -4678,7 +4678,7 @@
           "submissionValue": "COMPLETED",
           "synonyms": [
             "To possess every necessary or normal part or component or step",
-            " having come or been brought to a conclusion. (NCI)"
+            "having come or been brought to a conclusion. (NCI)"
           ]
         },
         {
@@ -5101,7 +5101,7 @@
           "submissionValue": "INTRACARTILAGINOUS",
           "synonyms": [
             "Administration within a cartilage",
-            " endochondral.(FDA)"
+            "endochondral.(FDA)"
           ]
         },
         {
@@ -5453,7 +5453,7 @@
           "submissionValue": "INTRATHORACIC",
           "synonyms": [
             "Administration within the thorax (internal to the ribs)",
-            " synonymous with the term endothoracic.(FDA)"
+            "synonymous with the term endothoracic.(FDA)"
           ]
         },
         {
@@ -5589,7 +5589,7 @@
           "submissionValue": "NASAL",
           "synonyms": [
             "Administration to the nose",
-            " administered by way of the nose.(FDA)"
+            "administered by way of the nose.(FDA)"
           ]
         },
         {
@@ -5770,7 +5770,7 @@
           "submissionValue": "SUBCUTANEOUS",
           "synonyms": [
             "Administration beneath the skin",
-            " hypodermic. Synonymous with the term SUBDERMAL.(FDA)"
+            "hypodermic. Synonymous with the term SUBDERMAL.(FDA)"
           ]
         },
         {
@@ -5941,8 +5941,8 @@
       "submissionValue": "SEX",
       "synonyms": [
         "The assemblage of physical properties or qualities by which male is distinguished from female",
-        " the physical difference between male and female",
-        " the distinguishing peculiarity of male or female. (NCI)"
+        "the physical difference between male and female",
+        "the distinguishing peculiarity of male or female. (NCI)"
       ],
       "terms": [
         {
@@ -6001,7 +6001,7 @@
           "submissionValue": "BOTH",
           "synonyms": [
             "One and the other",
-            " relating to or being two in conjunction. (NCI)"
+            "relating to or being two in conjunction. (NCI)"
           ]
         },
         {
@@ -6491,7 +6491,7 @@
           "submissionValue": "OPEN LABEL",
           "synonyms": [
             "A trial in which subjects and investigators know which product each subject is receiving",
-            " opposite of a blinded or double-blind study. (CDISC glossary)"
+            "opposite of a blinded or double-blind study. (CDISC glossary)"
           ]
         },
         {
@@ -6501,7 +6501,7 @@
           "submissionValue": "SINGLE BLIND",
           "synonyms": [
             "A study in which one party, either the investigator or the subject, does not know which medication or placebo is administered to the subject",
-            " also called singlemasked study. (CDISC glossary)"
+            "also called singlemasked study. (CDISC glossary)"
           ]
         }
       ]
@@ -6573,9 +6573,9 @@
       "submissionValue": "TPHASE",
       "synonyms": [
         "Clinical trials are broken into three or four phases: Phase I tests a new drug or treatment for safety in a small group",
-        " Phase II expands the study to a larger group of people",
-        " Phase III expands the study to an even larger group of people to measure whether the treatment actually benefits patients, and whether its benefits exceed its risks",
-        " and Phase IV takes place after the drug or treatment has been licensed and marketed. (NCI)"
+        "Phase II expands the study to a larger group of people",
+        "Phase III expands the study to an even larger group of people to measure whether the treatment actually benefits patients, and whether its benefits exceed its risks",
+        "and Phase IV takes place after the drug or treatment has been licensed and marketed. (NCI)"
       ],
       "terms": [
         {
@@ -6778,7 +6778,7 @@
           "submissionValue": "RANDOM",
           "synonyms": [
             "The process of assigning trial subjects to treatment or control groups using an element of chance to determine the assignments in order to reduce bias. NOTE: Unequal randomization is used to allocate subjects into groups at a differential rate",
-            " for example, three subjects may be assigned to a treatment group for every one assigned to the control group. [ICH E6 1.48] See also balanced study. (CDISC glossary)"
+            "for example, three subjects may be assigned to a treatment group for every one assigned to the control group. [ICH E6 1.48] See also balanced study. (CDISC glossary)"
           ]
         },
         {
@@ -6860,9 +6860,9 @@
           "submissionValue": "TPHASE",
           "synonyms": [
             "Clinical trials are broken into three or four phases: Phase I tests a new drug or treatment for safety in a small group",
-            " Phase II expands the study to a larger group of people",
-            " Phase III expands the study to an even larger group of people to measure whether the treatment actually benefits patients, and whether its benefits exceed its risks",
-            " and Phase IV takes place after the drug or treatment has been licensed and marketed. (NCI)"
+            "Phase II expands the study to a larger group of people",
+            "Phase III expands the study to an even larger group of people to measure whether the treatment actually benefits patients, and whether its benefits exceed its risks",
+            "and Phase IV takes place after the drug or treatment has been licensed and marketed. (NCI)"
           ]
         },
         {
@@ -6966,7 +6966,7 @@
           "submissionValue": "Trial is Randomized",
           "synonyms": [
             "The process of assigning trial subjects to treatment or control groups using an element of chance to determine the assignments in order to reduce bias. NOTE: Unequal randomization is used to allocate subjects into groups at a differential rate",
-            " for example, three subjects may be assigned to a treatment group for every one assigned to the control group. [ICH E6 1.48] See also balanced study. (CDISC glossary)"
+            "for example, three subjects may be assigned to a treatment group for every one assigned to the control group. [ICH E6 1.48] See also balanced study. (CDISC glossary)"
           ]
         },
         {
@@ -7048,9 +7048,9 @@
           "submissionValue": "Trial Phase Classification",
           "synonyms": [
             "Clinical trials are broken into three or four phases: Phase I tests a new drug or treatment for safety in a small group",
-            " Phase II expands the study to a larger group of people",
-            " Phase III expands the study to an even larger group of people to measure whether the treatment actually benefits patients, and whether its benefits exceed its risks",
-            " and Phase IV takes place after the drug or treatment has been licensed and marketed. (NCI)"
+            "Phase II expands the study to a larger group of people",
+            "Phase III expands the study to an even larger group of people to measure whether the treatment actually benefits patients, and whether its benefits exceed its risks",
+            "and Phase IV takes place after the drug or treatment has been licensed and marketed. (NCI)"
           ]
         },
         {
@@ -7266,10 +7266,10 @@
           "submissionValue": "m2",
           "synonyms": [
             "The SI unit of area measurement equal to a square whose sides are one meter long. Square meter is equal to 10,000 square centimeters",
-            " 0.01 ares",
-            " 1.196 square yards",
-            " 10.76 square feet",
-            " 1550 square inches. (NCI)"
+            "0.01 ares",
+            "1.196 square yards",
+            "10.76 square feet",
+            "1550 square inches. (NCI)"
           ]
         },
         {
@@ -7355,7 +7355,7 @@
           "submissionValue": "HEIGHT",
           "synonyms": [
             "The vertical measurement or distance from the base to the top of an object",
-            " the vertical dimension of extension. (NCI)"
+            "the vertical dimension of extension. (NCI)"
           ]
         },
         {
@@ -7486,7 +7486,7 @@
           "submissionValue": "Height",
           "synonyms": [
             "The vertical measurement or distance from the base to the top of an object",
-            " the vertical dimension of extension. (NCI)"
+            "the vertical dimension of extension. (NCI)"
           ]
         },
         {
@@ -15189,8 +15189,8 @@
           "submissionValue": "CONTINUOUS",
           "synonyms": [
             "Remain in force or carry on without letup",
-            " keep or maintain in unaltered condition",
-            " exist in time or space without stop or interruption. (NCI)"
+            "keep or maintain in unaltered condition",
+            "exist in time or space without stop or interruption. (NCI)"
           ]
         },
         {
@@ -15636,7 +15636,7 @@
           "submissionValue": "SITTING",
           "synonyms": [
             "The state or act of one who sits",
-            " the posture of one who occupies a seat. (NCI)"
+            "the posture of one who occupies a seat. (NCI)"
           ]
         },
         {
@@ -15758,8 +15758,8 @@
           "submissionValue": "VENTRICULAR ARRHYTHMIA ASSOCIATED WITH LONG QT SYNDROME",
           "synonyms": [
             "A ventricular arrhythmia characterized by syncopal episodes and a long QT interval, sometimes leading to sudden death due to paroxysmal ventricular arrhythmia. This arrhythmia is associated with a prolongation of repolarization following depolarization of the cardiac ventricles. The prolongation of the Q-T interval combined with torsades de pointes manifests as several different forms",
-            " some may be acquired or congenital",
-            " some may lead to serious arrhythmia and sudden cardiac death. (NCI)"
+            "some may be acquired or congenital",
+            "some may lead to serious arrhythmia and sudden cardiac death. (NCI)"
           ]
         },
         {
@@ -15886,7 +15886,7 @@
           "submissionValue": "R ON T PHENOMENON",
           "synonyms": [
             "An electrocardiographic finding phenomena in which the R wave occurs on top of the T wave",
-            " this can trigger ventricular fibrillation or ventricular tachycardia. (NCI)"
+            "this can trigger ventricular fibrillation or ventricular tachycardia. (NCI)"
           ]
         },
         {
@@ -15896,7 +15896,7 @@
           "submissionValue": "1ST DEGREE AV BLOCK",
           "synonyms": [
             "A delay in the time required for the conduction of an electrical impulse through the atrioventricular (AV) node beyond 0.2 seconds",
-            " prolongation of the PR interval beyond 200 milliseconds. (NCI)"
+            "prolongation of the PR interval beyond 200 milliseconds. (NCI)"
           ]
         },
         {
@@ -16167,7 +16167,7 @@
           "submissionValue": "J POINT ELEVATION",
           "synonyms": [
             "Elevation of the J point above the baseline",
-            " the J point represents the end of ventricular depolarization and located at the terminus of the QRS complex. (NCI)"
+            "the J point represents the end of ventricular depolarization and located at the terminus of the QRS complex. (NCI)"
           ]
         },
         {
@@ -16312,10 +16312,10 @@
           "submissionValue": "INCOMPLETE RIGHT BUNDLE BRANCH BLOCK",
           "synonyms": [
             "Various mechanisms may result in a pattern showing an incomplete right bundle branch block (RBBB). These include different degrees of conduction delay through the main trunk of the right bundle branch",
-            " increased conduction time through an elongated right bundle branch",
-            " diffuse Purkinje-myocardial delay due to right ventricular stretch or dilatation",
-            " surgical trauma or disease-related interruption of the major ramifications of the right branch (distal RBBB or right fascicular blocks)",
-            " congenital variations of the distribution of the major ramifications resulting in a slight delay in the activation of the crista supraventricularis. (NCI)"
+            "increased conduction time through an elongated right bundle branch",
+            "diffuse Purkinje-myocardial delay due to right ventricular stretch or dilatation",
+            "surgical trauma or disease-related interruption of the major ramifications of the right branch (distal RBBB or right fascicular blocks)",
+            "congenital variations of the distribution of the major ramifications resulting in a slight delay in the activation of the crista supraventricularis. (NCI)"
           ]
         },
         {
@@ -16370,7 +16370,7 @@
           "submissionValue": "BIGEMINY",
           "synonyms": [
             "An electrocardiographic finding of a normal QRS followed by a premature ventricular contraction",
-            " a rhythmic pairing of normal and abnormal beats originating in the ventricles in a 1-1 ratio. (NCI)"
+            "a rhythmic pairing of normal and abnormal beats originating in the ventricles in a 1-1 ratio. (NCI)"
           ]
         },
         {
@@ -16380,7 +16380,7 @@
           "submissionValue": "TRIGEMINY",
           "synonyms": [
             "An electrocardiographic finding of normal QRS followed by a premature ventricular contraction",
-            " a rhythmic pairing of normal and abnormal beats originating from the ventricles in a 1-2 ratio. (NCI)"
+            "a rhythmic pairing of normal and abnormal beats originating from the ventricles in a 1-2 ratio. (NCI)"
           ]
         },
         {
@@ -17828,7 +17828,7 @@
           "submissionValue": "DAYS",
           "synonyms": [
             "The time for Earth to make a complete rotation on its axis",
-            " ordinarily divided into twenty-four hours. This also refers to a specific day. (NCI)"
+            "ordinarily divided into twenty-four hours. This also refers to a specific day. (NCI)"
           ]
         },
         {
@@ -17910,7 +17910,7 @@
           "submissionValue": "YEARS",
           "synonyms": [
             "The period of time that it takes for earth to make a complete revolution around the sun, approximately 365 days",
-            " a specific one year period.(NCI)"
+            "a specific one year period.(NCI)"
           ]
         },
         {
@@ -17938,7 +17938,7 @@
           "submissionValue": "sec",
           "synonyms": [
             "The second is a unit of time with a duration of 919 263 177 0 periods of the specified light radiation corresponding to the transition between the two hyperfine levels of the cesium 133 atom in its ground state at 0 K. According to the convention, 60 seconds constitute one minute",
-            " 3,600 seconds constitute one hour. Abbreviation Sec. is acceptable in non-scientific usage only.(NCI)"
+            "3,600 seconds constitute one hour. Abbreviation Sec. is acceptable in non-scientific usage only.(NCI)"
           ]
         },
         {
@@ -18092,7 +18092,7 @@
           "submissionValue": "Henry",
           "synonyms": [
             "A unit of electric inductance. A coil with an inductance of one Henry requires a flux of one Weber for each Ampere of induced current. If it is the current which changes, then the induced field will generate a potential difference within the coil: if the inductance is one Henry a current change of one Ampere per second generates a potential difference of one volt. The Henry is a large unit",
-            " inductances in practical circuits are measured in millihenrys or microhenrys.(NCI)"
+            "inductances in practical circuits are measured in millihenrys or microhenrys.(NCI)"
           ]
         },
         {
@@ -18120,7 +18120,7 @@
           "submissionValue": "lx",
           "synonyms": [
             "A unit of illuminance equal to the direct illumination on a surface that is everywhere one meter from a uniform point source of one candela",
-            " a unit of illuminance that is equal to one lumen per square meter.(NCI)"
+            "a unit of illuminance that is equal to one lumen per square meter.(NCI)"
           ]
         },
         {
@@ -18139,7 +18139,7 @@
           "submissionValue": "kat",
           "synonyms": [
             "A unit for measuring catalytic (e.g. enzymatic) activity, the ability of the compound to accelerate the chemical reaction by providing a lower energy pathway between the reactants and the products. One katal is that catalytic activity which will raise the rate of reaction by one mole per second in a specified assay system. When the katal is used, the measurand should be specified by reference to the measurement procedure",
-            " the measurement procedure must identify the indicator reaction. The katal is not used to express a rate of reaction itself, which should be expressed in moles per second.(NCI)"
+            "the measurement procedure must identify the indicator reaction. The katal is not used to express a rate of reaction itself, which should be expressed in moles per second.(NCI)"
           ]
         },
         {
@@ -18149,10 +18149,10 @@
           "submissionValue": "m2",
           "synonyms": [
             "The SI unit of area measurement equal to a square whose sides are one meter long. Square meter is equal to 10,000 square centimeters",
-            " 0.01 are",
-            " 1.196 square yards",
-            " 10.76 square feet",
-            " 1550 square inches. (NCI)"
+            "0.01 are",
+            "1.196 square yards",
+            "10.76 square feet",
+            "1550 square inches. (NCI)"
           ]
         },
         {
@@ -18162,10 +18162,10 @@
           "submissionValue": "m3",
           "synonyms": [
             "A unit of volume or capacity equal to the volume of a cube with edges one meter in length. It is equal to 1,000 liters",
-            " 1,000 cubic decimeters",
-            " 10(E6) cubic centimeters",
-            " 25.3 cubic feet",
-            " 6.29 barrels.(NCI)"
+            "1,000 cubic decimeters",
+            "10(E6) cubic centimeters",
+            "25.3 cubic feet",
+            "6.29 barrels.(NCI)"
           ]
         },
         {
@@ -18814,7 +18814,7 @@
           "submissionValue": "QUANTITY SUFFICIENT",
           "synonyms": [
             "A quantity of an ingredient or product needed to bring up a volume or weight of the preparation to a final amount as it is indicated in the prescription",
-            " also refers to a determination of an adequate supply of medicine to fulfill either a prescribed amount or a sufficient quantity to provide treatment over a specified time frame.(NCI)"
+            "also refers to a determination of an adequate supply of medicine to fulfill either a prescribed amount or a sufficient quantity to provide treatment over a specified time frame.(NCI)"
           ]
         },
         {
@@ -19094,7 +19094,7 @@
           "submissionValue": "eq",
           "synonyms": [
             "A unit of relative amount of a substance that combines with or displaces 8.0 grams of oxygen or 1.008 gram of hydrogen. The unit is usually expressed in grams and is equal to the amount of substance that gains or loses one mole of electrons in a redox reaction, or to the amount of substances that releases or accepts one mole of hydrogen ions in a neutralization reaction",
-            " or to the amount of electrolyte that carries one mole of positive or negative charge. This is a large unit and measurements are more often done in its derivatives, e.g. in milliequivalents.(NCI)"
+            "or to the amount of electrolyte that carries one mole of positive or negative charge. This is a large unit and measurements are more often done in its derivatives, e.g. in milliequivalents.(NCI)"
           ]
         },
         {
@@ -20917,8 +20917,8 @@
           "submissionValue": "ESOPHAGUS",
           "synonyms": [
             "The portion of the digestive canal between the pharynx and stomach. It is about 25 cm long and consists of three parts: the cervical part, from the cricoid cartilage to the thoracic inlet",
-            " thoracic part, from thoracic inlet to the diaphragm",
-            " and abdominal part, below the diaphragm to the cardiac opening of the stomach. (NCI)"
+            "thoracic part, from thoracic inlet to the diaphragm",
+            "and abdominal part, below the diaphragm to the cardiac opening of the stomach. (NCI)"
           ]
         },
         {
@@ -20946,8 +20946,8 @@
           "submissionValue": "PANCREAS",
           "synonyms": [
             "An organ behind the lower part of the stomach that is the shape of a fish and about the size of a hand. It is a compound gland composed of both exocrine and endocrine tissues. The endocrine pancreas makes insulin so that the body can use glucose (sugar) for energy. The exocrine pancreas makes enzymes that help the body digest food. Spread all over the pancreas are areas called the Islets of Langerhans. The cells in these areas each have a special purpose. The alpha cells make glucagon, which raises the level of glucose in the blood",
-            " the beta cells make insulin",
-            " the delta cells make somatostatin. There are also PP cells and D1 cells, about which little is known. (NCI)"
+            "the beta cells make insulin",
+            "the delta cells make somatostatin. There are also PP cells and D1 cells, about which little is known. (NCI)"
           ]
         },
         {
@@ -20993,7 +20993,7 @@
           "submissionValue": "OVARY",
           "synonyms": [
             "One of the paired female reproductive glands containing the ova or germ cells",
-            " the ovary's stroma is a vascular connective tissue containing numbers of ovarian follicles enclosing the ova. (NCI)"
+            "the ovary's stroma is a vascular connective tissue containing numbers of ovarian follicles enclosing the ova. (NCI)"
           ]
         },
         {
@@ -21210,7 +21210,7 @@
           "submissionValue": "BLOOD",
           "synonyms": [
             "A liquid tissue",
-            " its major function is to transport oxygen throughout the body. It also supplies the tissues with nutrients, removes waste products, and contains various components of the immune system defending the body against infection. Several hormones also travel in the blood. (NCI)"
+            "its major function is to transport oxygen throughout the body. It also supplies the tissues with nutrients, removes waste products, and contains various components of the immune system defending the body against infection. Several hormones also travel in the blood. (NCI)"
           ]
         },
         {
@@ -21319,7 +21319,7 @@
           "submissionValue": "ADRENAL GLAND",
           "synonyms": [
             "Suprarenal gland. A flattened, roughly triangular body resting upon the upper end of each kidney",
-            " it is one of the ductless glands furnishing internal secretions (epinephrine and norepinephrine from the medulla and steroid hormones from the cortex). (NCI)"
+            "it is one of the ductless glands furnishing internal secretions (epinephrine and norepinephrine from the medulla and steroid hormones from the cortex). (NCI)"
           ]
         },
         {
@@ -21329,7 +21329,7 @@
           "submissionValue": "AORTA",
           "synonyms": [
             "The major arterial trunk that carries oxygenated blood from the left ventricle into the ascending aorta behind the heart, the aortic arch, through the thorax as the descending aorta and through the abdomen as the abdominal aorta",
-            " it bifurcates into the left and right common iliac arteries. (NCI)"
+            "it bifurcates into the left and right common iliac arteries. (NCI)"
           ]
         },
         {
@@ -21393,7 +21393,7 @@
           "submissionValue": "CAROTID ARTERY",
           "synonyms": [
             "One of two arteries that supply oxygenated blood to the head and neck",
-            " the left common carotid branches from the aorta and the right common carotid from the innominate (brachiocephalic artery). (NCI)"
+            "the left common carotid branches from the aorta and the right common carotid from the innominate (brachiocephalic artery). (NCI)"
           ]
         },
         {
@@ -21439,8 +21439,8 @@
           "submissionValue": "ETHMOID BONE",
           "synonyms": [
             "A light and spongy bone that is cubical in shape. This bone is positioned at the anterior part of the cranium, sitting between the two orbits, at the roof of the nose. It consists of four parts: a horizontal or cribriform plate",
-            " a perpendicular plate",
-            " and two lateral masses or labyrinths. (NCI)"
+            "a perpendicular plate",
+            "and two lateral masses or labyrinths. (NCI)"
           ]
         },
         {
@@ -22584,7 +22584,7 @@
           "submissionValue": "MEDIASTINAL LYMPH NODE",
           "synonyms": [
             "A lymph node located in the mediastinum. Mediastinal lymph nodes are arranged in three groups, one on the lateral, another on the medial, and a third on the anterior aspect of the vessels",
-            " the third group is, however, sometimes absent. (NCI)"
+            "the third group is, however, sometimes absent. (NCI)"
           ]
         },
         {
@@ -23251,7 +23251,7 @@
           "submissionValue": "CHEST WALL",
           "synonyms": [
             "The total system of structures outside the lungs that move as a part of breathing",
-            " it includes all structures from the skin to the parietal pleura. (NCI)"
+            "it includes all structures from the skin to the parietal pleura. (NCI)"
           ]
         },
         {
@@ -24111,7 +24111,7 @@
           "submissionValue": "SALIVA",
           "synonyms": [
             "A clear liquid secreted into the mouth by the salivary glands and mucous glands of the mouth",
-            " moistens the mouth and starts the digestion of starches. (NCI)"
+            "moistens the mouth and starts the digestion of starches. (NCI)"
           ]
         },
         {
@@ -24461,7 +24461,7 @@
       "submissionValue": "NCF",
       "synonyms": [
         "A classification of usage or experience that falls into three categories",
-        " never, current, or former."
+        "never, current, or former."
       ],
       "terms": [
         {
@@ -24471,7 +24471,7 @@
           "submissionValue": "NEVER",
           "synonyms": [
             "Not ever",
-            " at no time in the past."
+            "at no time in the past."
           ]
         },
         {

@@ -72,7 +72,7 @@
           "submissionValue": "UNKNOWN",
           "synonyms": [
             "U",
-            " Unknown"
+            "Unknown"
           ]
         }
       ]
@@ -95,7 +95,7 @@
           "submissionValue": "FATAL",
           "synonyms": [
             "Grade 5",
-            " 5"
+            "5"
           ]
         },
         {
@@ -133,7 +133,7 @@
           "submissionValue": "UNKNOWN",
           "synonyms": [
             "U",
-            " Unknown"
+            "Unknown"
           ]
         }
       ]
@@ -495,7 +495,7 @@
           "submissionValue": "1",
           "synonyms": [
             "Grade 1",
-            " 1"
+            "1"
           ]
         },
         {
@@ -505,7 +505,7 @@
           "submissionValue": "2",
           "synonyms": [
             "Grade 2",
-            " 2"
+            "2"
           ]
         },
         {
@@ -515,7 +515,7 @@
           "submissionValue": "3",
           "synonyms": [
             "Grade 3",
-            " 3"
+            "3"
           ]
         },
         {
@@ -525,7 +525,7 @@
           "submissionValue": "4",
           "synonyms": [
             "Grade 4",
-            " 4"
+            "4"
           ]
         },
         {
@@ -535,7 +535,7 @@
           "submissionValue": "5",
           "synonyms": [
             "Grade 5",
-            " 5"
+            "5"
           ]
         }
       ]
@@ -549,7 +549,7 @@
       "submissionValue": "TCNTRL",
       "synonyms": [
         "Control Type",
-        " Type of Control"
+        "Type of Control"
       ],
       "terms": [
         {
@@ -583,7 +583,7 @@
       "preferredTerm": "CDISC SDTM Country Terminology",
       "submissionValue": "COUNTRY",
       "synonyms": [
-        "Country "
+        "Country"
       ],
       "terms": [
         {
@@ -1439,7 +1439,7 @@
           "submissionValue": "HKG",
           "synonyms": [
             "HKG",
-            " HONG KONG"
+            "HONG KONG"
           ]
         },
         {
@@ -2805,7 +2805,7 @@
       "submissionValue": "DICTNAM",
       "synonyms": [
         "Dictionary Name",
-        " Name of Dictionary"
+        "Name of Dictionary"
       ],
       "terms": [
         {
@@ -2934,7 +2934,7 @@
           "submissionValue": "UNKNOWN",
           "synonyms": [
             "U",
-            " Unknown"
+            "Unknown"
           ]
         }
       ]
@@ -2948,7 +2948,7 @@
       "submissionValue": "FRM",
       "synonyms": [
         "Pharmaceutical Dosage Form",
-        " Dose Form"
+        "Dose Form"
       ],
       "terms": [
         {
@@ -4302,7 +4302,7 @@
           "submissionValue": "U",
           "synonyms": [
             "U",
-            " Unknown"
+            "Unknown"
           ]
         }
       ]
@@ -5124,7 +5124,7 @@
           "submissionValue": "MILD",
           "synonyms": [
             "Grade 1",
-            " 1"
+            "1"
           ]
         },
         {
@@ -5134,7 +5134,7 @@
           "submissionValue": "MODERATE",
           "synonyms": [
             "Grade 2",
-            " 2"
+            "2"
           ]
         },
         {
@@ -5144,7 +5144,7 @@
           "submissionValue": "SEVERE",
           "synonyms": [
             "Grade 3",
-            " 3"
+            "3"
           ]
         }
       ]
@@ -5185,7 +5185,7 @@
           "submissionValue": "U",
           "synonyms": [
             "U",
-            " Unknown"
+            "Unknown"
           ]
         },
         {
@@ -5631,7 +5631,7 @@
           "submissionValue": "TE",
           "synonyms": [
             "TE",
-            " Trial Elements"
+            "Trial Elements"
           ]
         },
         {
@@ -5772,7 +5772,7 @@
           "submissionValue": "Phase I Trial",
           "synonyms": [
             "Trial Phase 1",
-            " 1"
+            "1"
           ]
         },
         {
@@ -5782,7 +5782,7 @@
           "submissionValue": "Phase I/II Trial",
           "synonyms": [
             "Trial Phase 1-2",
-            " 1-2"
+            "1-2"
           ]
         },
         {
@@ -5792,7 +5792,7 @@
           "submissionValue": "Phase II Trial",
           "synonyms": [
             "Trial Phase 2",
-            " 2"
+            "2"
           ]
         },
         {
@@ -5802,7 +5802,7 @@
           "submissionValue": "Phase II/III Trial",
           "synonyms": [
             "Trial Phase 2-3",
-            " 2-3"
+            "2-3"
           ]
         },
         {
@@ -5812,7 +5812,7 @@
           "submissionValue": "Phase IIa Trial",
           "synonyms": [
             "Trial Phase 2A",
-            " 2A"
+            "2A"
           ]
         },
         {
@@ -5822,7 +5822,7 @@
           "submissionValue": "Phase IIb Trial",
           "synonyms": [
             "Trial Phase 2B",
-            " 2B"
+            "2B"
           ]
         },
         {
@@ -5832,7 +5832,7 @@
           "submissionValue": "Phase III Trial",
           "synonyms": [
             "Trial Phase 3",
-            " 3"
+            "3"
           ]
         },
         {
@@ -5842,7 +5842,7 @@
           "submissionValue": "Phase IIIaTrial",
           "synonyms": [
             "Trial Phase 3A",
-            " 3A"
+            "3A"
           ]
         },
         {
@@ -5852,7 +5852,7 @@
           "submissionValue": "Phase IIIb Trial",
           "synonyms": [
             "Trial Phase 3B",
-            " 3B"
+            "3B"
           ]
         },
         {
@@ -5862,7 +5862,7 @@
           "submissionValue": "Phase IV Trial",
           "synonyms": [
             "Trial Phase 4",
-            " 4"
+            "4"
           ]
         },
         {
@@ -5872,7 +5872,7 @@
           "submissionValue": "Phase V Trial",
           "synonyms": [
             "Trial Phase 5",
-            " 5"
+            "5"
           ]
         },
         {
@@ -6621,7 +6621,7 @@
           "preferredTerm": "Systolic Blood Pressure",
           "submissionValue": "SYSBP",
           "synonyms": [
-            "Systolic Blood "
+            "Systolic Blood"
           ]
         },
         {
@@ -6808,7 +6808,7 @@
           "submissionValue": "U",
           "synonyms": [
             "U",
-            " Unknown"
+            "Unknown"
           ]
         },
         {
@@ -6830,7 +6830,7 @@
       "preferredTerm": "CDISC SDTM Laboratory Test Terminology by Code",
       "submissionValue": "LBTESTCD",
       "synonyms": [
-        "Laboratory Test Code "
+        "Laboratory Test Code"
       ],
       "terms": [
         {
@@ -7644,7 +7644,7 @@
       "preferredTerm": "CDISC SDTM Laboratory Test Terminology by Name",
       "submissionValue": "LBTEST",
       "synonyms": [
-        "Laboratory Test Name "
+        "Laboratory Test Name"
       ],
       "terms": [
         {
@@ -8477,7 +8477,7 @@
           "submissionValue": "UNKNOWN",
           "synonyms": [
             "U",
-            " Unknown"
+            "Unknown"
           ]
         },
         {
@@ -11120,7 +11120,7 @@
           "preferredTerm": "Kilogram",
           "submissionValue": "kg",
           "synonyms": [
-            "Kilogram  "
+            "Kilogram"
           ]
         },
         {
@@ -11210,7 +11210,7 @@
           "preferredTerm": "Candela",
           "submissionValue": "cd",
           "synonyms": [
-            "Candela "
+            "Candela"
           ]
         },
         {
@@ -11237,7 +11237,7 @@
           "preferredTerm": "Newton",
           "submissionValue": "Newton ",
           "synonyms": [
-            "Newton "
+            "Newton"
           ]
         },
         {
@@ -11273,7 +11273,7 @@
           "preferredTerm": "Coulomb",
           "submissionValue": "Coulomb ",
           "synonyms": [
-            "Coulomb "
+            "Coulomb"
           ]
         },
         {
@@ -11427,11 +11427,11 @@
           "submissionValue": "kg/m3",
           "synonyms": [
             "Kilogram per Cubic Meter",
-            " g/L",
-            " Gram per Liter",
-            " ug/uL",
-            " Microgram per Microliter",
-            " Milligram per Milliliter"
+            "g/L",
+            "Gram per Liter",
+            "ug/uL",
+            "Microgram per Microliter",
+            "Milligram per Milliliter"
           ]
         },
         {
@@ -11503,7 +11503,7 @@
           "preferredTerm": "Curie",
           "submissionValue": "Ci",
           "synonyms": [
-            "Curie "
+            "Curie"
           ]
         },
         {
@@ -11737,7 +11737,7 @@
           "preferredTerm": "Micromole",
           "submissionValue": "umol",
           "synonyms": [
-            "Micromole "
+            "Micromole"
           ]
         },
         {
@@ -12143,10 +12143,10 @@
           "submissionValue": "mmol/L",
           "synonyms": [
             "Millimole per Liter",
-            " umol/mL",
-            " Micromole per Milliliter",
-            " mol/m3",
-            " Mole per Cubic Meter"
+            "umol/mL",
+            "Micromole per Milliliter",
+            "mol/m3",
+            "Mole per Cubic Meter"
           ]
         },
         {
@@ -12164,7 +12164,7 @@
           "preferredTerm": "Femtogram",
           "submissionValue": "fg",
           "synonyms": [
-            "Femtogram  "
+            "Femtogram"
           ]
         },
         {
@@ -12201,8 +12201,8 @@
           "submissionValue": "kg/L",
           "synonyms": [
             "Kilogram per Liter",
-            " g/mL",
-            " Gram per Milliliter"
+            "g/mL",
+            "Gram per Milliliter"
           ]
         },
         {
@@ -12212,10 +12212,10 @@
           "submissionValue": "g/m3",
           "synonyms": [
             "Gram per Cubic Meter",
-            " ug/mL",
-            " Microgram per Milliliter",
-            " mg/L",
-            " Milligram per Liter"
+            "ug/mL",
+            "Microgram per Milliliter",
+            "mg/L",
+            "Milligram per Liter"
           ]
         },
         {
@@ -12350,7 +12350,7 @@
           "preferredTerm": "Equivalent Weight",
           "submissionValue": "eq",
           "synonyms": [
-            "Equivalent Weight "
+            "Equivalent Weight"
           ]
         },
         {
@@ -12378,10 +12378,10 @@
           "submissionValue": "ug/L",
           "synonyms": [
             "Microgram per Liter",
-            " mg/m3",
-            " Milligram per Cubic Meter",
-            " ng/mL",
-            " Nanogram per Milliliter"
+            "mg/m3",
+            "Milligram per Cubic Meter",
+            "ng/mL",
+            "Nanogram per Milliliter"
           ]
         },
         {
@@ -12444,7 +12444,7 @@
           "preferredTerm": "Pound per Square Inch",
           "submissionValue": "psi",
           "synonyms": [
-            "Pounds per Square Inch "
+            "Pounds per Square Inch"
           ]
         },
         {
@@ -12481,8 +12481,8 @@
           "submissionValue": "IU/mL",
           "synonyms": [
             "International Unit per Milliliter",
-            " kIU/L",
-            " Kilo International Unit per Liter"
+            "kIU/L",
+            "Kilo International Unit per Liter"
           ]
         },
         {
@@ -12653,7 +12653,7 @@
           "preferredTerm": "Degree Unit of Plane Angle",
           "submissionValue": "deg",
           "synonyms": [
-            "Degree Unit of Plane Angle "
+            "Degree Unit of Plane Angle"
           ]
         },
         {
@@ -12716,7 +12716,7 @@
           "preferredTerm": "Standard Cubic Foot",
           "submissionValue": "ft3",
           "synonyms": [
-            "Standard Cubic Foot\u00a0"
+            "Standard Cubic Foot"
           ]
         },
         {
@@ -12752,7 +12752,7 @@
           "preferredTerm": "Enzyme-Linked Immunosorbent Assay Unit per Milliliter",
           "submissionValue": "ELISA unit/mL",
           "synonyms": [
-            "Enzyme-Linked Immunosorbent Assay Unit per Milliliter "
+            "Enzyme-Linked Immunosorbent Assay Unit per Milliliter"
           ]
         },
         {
@@ -12824,7 +12824,7 @@
           "preferredTerm": "Million Colony Forming Units",
           "submissionValue": "million CFU",
           "synonyms": [
-            "Million Colony Forming Units "
+            "Million Colony Forming Units"
           ]
         },
         {
@@ -12896,7 +12896,7 @@
           "preferredTerm": "Million Colony Forming Units per Milliliter",
           "submissionValue": "million CFU/mL",
           "synonyms": [
-            "Million Colony Forming Units per Milliliter "
+            "Million Colony Forming Units per Milliliter"
           ]
         },
         {
@@ -12933,8 +12933,8 @@
           "submissionValue": "g/kg",
           "synonyms": [
             "Gram per Kilogram",
-            " mg/g",
-            " Milligram per Gram"
+            "mg/g",
+            "Milligram per Gram"
           ]
         },
         {
@@ -12961,7 +12961,7 @@
           "preferredTerm": "Microliter per Milliliter",
           "submissionValue": "uL/mL",
           "synonyms": [
-            "Microliter per Milliliter "
+            "Microliter per Milliliter"
           ]
         },
         {
@@ -13042,7 +13042,7 @@
           "preferredTerm": "Log10 50 Percent Cell Culture Infective Dose per Dose",
           "submissionValue": "log10 CCID 50/dose",
           "synonyms": [
-            "Log10 50 Percent Cell Culture Infective Dose per Dose "
+            "Log10 50 Percent Cell Culture Infective Dose per Dose"
           ]
         },
         {
@@ -13096,7 +13096,7 @@
           "preferredTerm": "Anti-Xa Activity International Unit per Milliliter",
           "submissionValue": "anti-Xa IU/mL",
           "synonyms": [
-            "Anti-Xa Activity International Unit per Milliliter "
+            "Anti-Xa Activity International Unit per Milliliter"
           ]
         },
         {
@@ -13105,7 +13105,7 @@
           "preferredTerm": "Antigen Unit per Milliliter",
           "submissionValue": "AgU/mL",
           "synonyms": [
-            "Antigen Unit per Milliliter "
+            "Antigen Unit per Milliliter"
           ]
         },
         {
@@ -13241,10 +13241,10 @@
           "submissionValue": "Bq/ug",
           "synonyms": [
             "Becquerel per Microgram",
-            " kBq/mg",
-            " Kilobecquerel per Milligram",
-            " MBq/g",
-            " Megabecquerel per Gram"
+            "kBq/mg",
+            "Kilobecquerel per Milligram",
+            "MBq/g",
+            "Megabecquerel per Gram"
           ]
         },
         {
@@ -13254,8 +13254,8 @@
           "submissionValue": "Bq/mg",
           "synonyms": [
             "Becquerel per Milligram",
-            " kBq/g",
-            " Kilobecquerel per Gram"
+            "kBq/g",
+            "Kilobecquerel per Gram"
           ]
         },
         {
@@ -13265,8 +13265,8 @@
           "submissionValue": "GBq/g",
           "synonyms": [
             "Gigabecquerel per Gram",
-            " kBq/ug",
-            " Kilobecquerel per Microgram"
+            "kBq/ug",
+            "Kilobecquerel per Microgram"
           ]
         },
         {
@@ -13276,8 +13276,8 @@
           "submissionValue": "GBq/ug",
           "synonyms": [
             "Gigabecquerel per Microgram",
-            " MBq/ug",
-            " Megabecquerel per Microgram"
+            "MBq/ug",
+            "Megabecquerel per Microgram"
           ]
         },
         {
@@ -13287,8 +13287,8 @@
           "submissionValue": "GBq/mg",
           "synonyms": [
             "Gigabecquerel per Milligram",
-            " MBq/mg",
-            " Megabecquerel per Milligram"
+            "MBq/mg",
+            "Megabecquerel per Milligram"
           ]
         },
         {
@@ -13298,10 +13298,10 @@
           "submissionValue": "Ci/g",
           "synonyms": [
             "Curie per Gram",
-            " uCi/ug",
-            " Microcurie per Microgram",
-            " mCi/mg",
-            " Millicurie per Milligram"
+            "uCi/ug",
+            "Microcurie per Microgram",
+            "mCi/mg",
+            "Millicurie per Milligram"
           ]
         },
         {
@@ -13311,10 +13311,10 @@
           "submissionValue": "Ci/kg",
           "synonyms": [
             "Curie per Kilogram",
-            " uCi/mg",
-            " Microcurie per Milligram",
-            " mCi/g",
-            " Millicurie per Gram"
+            "uCi/mg",
+            "Microcurie per Milligram",
+            "mCi/g",
+            "Millicurie per Gram"
           ]
         },
         {
@@ -13333,8 +13333,8 @@
           "submissionValue": "Ci/mg",
           "synonyms": [
             "Curie per Milligram",
-            " mCi/ug",
-            " Millicurie per Microgram"
+            "mCi/ug",
+            "Millicurie per Microgram"
           ]
         },
         {
@@ -13416,8 +13416,8 @@
           "submissionValue": "mCi/kg",
           "synonyms": [
             "Millicurie per Kilogram",
-            " uCi/g",
-            " Microcurie per Gram"
+            "uCi/g",
+            "Microcurie per Gram"
           ]
         },
         {
@@ -13481,10 +13481,10 @@
           "submissionValue": "Bq/uL",
           "synonyms": [
             "Becquerel per Microliter",
-            " kBq/mL",
-            " Kilobecquerel per Milliliter",
-            " MBq/L",
-            " Megabecquerel per Liter"
+            "kBq/mL",
+            "Kilobecquerel per Milliliter",
+            "MBq/L",
+            "Megabecquerel per Liter"
           ]
         },
         {
@@ -13494,8 +13494,8 @@
           "submissionValue": "Bq/mL",
           "synonyms": [
             "Becquerel per Milliliter",
-            " kBq/L",
-            " Kilobecquerel per Liter"
+            "kBq/L",
+            "Kilobecquerel per Liter"
           ]
         },
         {
@@ -13505,10 +13505,10 @@
           "submissionValue": "kBq/uL",
           "synonyms": [
             "Kilobecquerel per Microliter",
-            " GBq/L",
-            " Gigabecquerel per Liter",
-            " MBq/mL",
-            " Megabecquerel per Milliliter"
+            "GBq/L",
+            "Gigabecquerel per Liter",
+            "MBq/mL",
+            "Megabecquerel per Milliliter"
           ]
         },
         {
@@ -13518,8 +13518,8 @@
           "submissionValue": "MBq/uL",
           "synonyms": [
             "Megabecquerel per Microliter",
-            " GBq/mL",
-            " Gigabecquerel per Milliliter"
+            "GBq/mL",
+            "Gigabecquerel per Milliliter"
           ]
         },
         {
@@ -13529,8 +13529,8 @@
           "submissionValue": "Ci/L",
           "synonyms": [
             "Curie per Liter",
-            " uCi/uL",
-            " Microcurie per Microliter"
+            "uCi/uL",
+            "Microcurie per Microliter"
           ]
         },
         {
@@ -13567,8 +13567,8 @@
           "submissionValue": "mCi/L",
           "synonyms": [
             "Millicurie per Liter",
-            " uCi/mL",
-            " Microcurie per Milliliter"
+            "uCi/mL",
+            "Microcurie per Milliliter"
           ]
         },
         {
@@ -13622,7 +13622,7 @@
           "preferredTerm": "Thousand Organisms",
           "submissionValue": "thousand organisms",
           "synonyms": [
-            "Thousand Organisms "
+            "Thousand Organisms"
           ]
         },
         {
@@ -13658,7 +13658,7 @@
           "preferredTerm": "Million Organisms per Gram",
           "submissionValue": "million organisms/g",
           "synonyms": [
-            "Million Organisms per Gram "
+            "Million Organisms per Gram"
           ]
         },
         {
@@ -13812,8 +13812,8 @@
           "submissionValue": "ug/kg/min",
           "synonyms": [
             "Microgram per Kilogram per Minute",
-            " Gamma per Kilogram per Minute",
-            " gamma/kg/min"
+            "Gamma per Kilogram per Minute",
+            "gamma/kg/min"
           ]
         },
         {

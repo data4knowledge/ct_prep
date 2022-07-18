@@ -21,7 +21,7 @@
       "submissionValue": "ACN",
       "synonyms": [
         "ACN",
-        " Action Taken with Study Treatment"
+        "Action Taken with Study Treatment"
       ],
       "terms": [
         {
@@ -75,8 +75,8 @@
           "preferredTerm": "Not Applicable",
           "submissionValue": "NOT APPLICABLE",
           "synonyms": [
-            "NOT APPLICABLE ",
-            " NA"
+            "NOT APPLICABLE",
+            "NA"
           ]
         },
         {
@@ -86,8 +86,8 @@
           "submissionValue": "UNKNOWN",
           "synonyms": [
             "UNKNOWN",
-            " U",
-            " Unknown"
+            "U",
+            "Unknown"
           ]
         }
       ]
@@ -101,7 +101,7 @@
       "submissionValue": "OUT",
       "synonyms": [
         "OUT",
-        " Outcome of Event"
+        "Outcome of Event"
       ],
       "terms": [
         {
@@ -111,8 +111,8 @@
           "submissionValue": "FATAL",
           "synonyms": [
             "FATAL",
-            "  Grade 5",
-            " 5"
+            "Grade 5",
+            "5"
           ]
         },
         {
@@ -158,8 +158,8 @@
           "submissionValue": "UNKNOWN",
           "synonyms": [
             "UNKNOWN",
-            " U",
-            " Unknown"
+            "U",
+            "Unknown"
           ]
         }
       ]
@@ -173,7 +173,7 @@
       "submissionValue": "AGESPAN",
       "synonyms": [
         "AGESPAN",
-        " Age Span"
+        "Age Span"
       ],
       "terms": [
         {
@@ -259,7 +259,7 @@
       "submissionValue": "AGEU",
       "synonyms": [
         "AGEU",
-        " Age Unit"
+        "Age Unit"
       ],
       "terms": [
         {
@@ -318,7 +318,7 @@
       "submissionValue": "IECAT",
       "synonyms": [
         "IECAT",
-        " Category for Inclusion/Exclusion"
+        "Category for Inclusion/Exclusion"
       ],
       "terms": [
         {
@@ -350,7 +350,7 @@
       "submissionValue": "SOC",
       "synonyms": [
         "SOC",
-        " CDISC System Organ Class"
+        "CDISC System Organ Class"
       ],
       "terms": [
         {
@@ -598,7 +598,7 @@
       "submissionValue": "TOXGR",
       "synonyms": [
         "TOXGR",
-        " Common Terminology Criteria for Adverse Events"
+        "Common Terminology Criteria for Adverse Events"
       ],
       "terms": [
         {
@@ -608,8 +608,8 @@
           "submissionValue": "1",
           "synonyms": [
             "MILD",
-            " Grade 1",
-            " 1"
+            "Grade 1",
+            "1"
           ]
         },
         {
@@ -619,8 +619,8 @@
           "submissionValue": "2",
           "synonyms": [
             "MODERATE",
-            " Grade 2",
-            " 2"
+            "Grade 2",
+            "2"
           ]
         },
         {
@@ -630,8 +630,8 @@
           "submissionValue": "3",
           "synonyms": [
             "SEVERE",
-            " Grade 3",
-            " 3"
+            "Grade 3",
+            "3"
           ]
         },
         {
@@ -641,8 +641,8 @@
           "submissionValue": "4",
           "synonyms": [
             "LIFE THREATENING",
-            " Grade 4",
-            " 4"
+            "Grade 4",
+            "4"
           ]
         },
         {
@@ -652,8 +652,8 @@
           "submissionValue": "5",
           "synonyms": [
             "FATAL",
-            "  Grade 5",
-            " 5"
+            "Grade 5",
+            "5"
           ]
         }
       ]
@@ -666,9 +666,9 @@
       "preferredTerm": "CDISC SDTM Control Type Terminology",
       "submissionValue": "TCNTRL",
       "synonyms": [
-        " TCNTRL",
-        " Control Type",
-        " Type of Control"
+        "TCNTRL",
+        "Control Type",
+        "Type of Control"
       ],
       "terms": [
         {
@@ -709,7 +709,7 @@
       "submissionValue": "COUNTRY",
       "synonyms": [
         "COUNTRY",
-        " Country "
+        "Country"
       ],
       "terms": [
         {
@@ -719,7 +719,7 @@
           "submissionValue": "ABW",
           "synonyms": [
             "ABW",
-            " ARUBA"
+            "ARUBA"
           ]
         },
         {
@@ -729,7 +729,7 @@
           "submissionValue": "AFG",
           "synonyms": [
             "AFG",
-            " AFGHANISTAN"
+            "AFGHANISTAN"
           ]
         },
         {
@@ -739,7 +739,7 @@
           "submissionValue": "AGO",
           "synonyms": [
             "AGO",
-            " ANGOLA"
+            "ANGOLA"
           ]
         },
         {
@@ -749,7 +749,7 @@
           "submissionValue": "AIA",
           "synonyms": [
             "AIA",
-            " ANGUILLA"
+            "ANGUILLA"
           ]
         },
         {
@@ -759,7 +759,7 @@
           "submissionValue": "ALA",
           "synonyms": [
             "ALA",
-            " ALAND ISLANDS"
+            "ALAND ISLANDS"
           ]
         },
         {
@@ -769,7 +769,7 @@
           "submissionValue": "ALB",
           "synonyms": [
             "ALB",
-            " ALBANIA"
+            "ALBANIA"
           ]
         },
         {
@@ -779,7 +779,7 @@
           "submissionValue": "AND",
           "synonyms": [
             "AND",
-            " ANDORRA"
+            "ANDORRA"
           ]
         },
         {
@@ -789,7 +789,7 @@
           "submissionValue": "ANT",
           "synonyms": [
             "ANT",
-            " NETHERLANDS ANTILLES"
+            "NETHERLANDS ANTILLES"
           ]
         },
         {
@@ -799,7 +799,7 @@
           "submissionValue": "ARE",
           "synonyms": [
             "ARE",
-            " UNITED ARAB EMIRATES"
+            "UNITED ARAB EMIRATES"
           ]
         },
         {
@@ -809,7 +809,7 @@
           "submissionValue": "ARG",
           "synonyms": [
             "ARG",
-            " ARGENTINA"
+            "ARGENTINA"
           ]
         },
         {
@@ -819,7 +819,7 @@
           "submissionValue": "ARM",
           "synonyms": [
             "ARM",
-            " ARMENIA"
+            "ARMENIA"
           ]
         },
         {
@@ -829,7 +829,7 @@
           "submissionValue": "ASM",
           "synonyms": [
             "ASM",
-            " AMERICAN SAMOA"
+            "AMERICAN SAMOA"
           ]
         },
         {
@@ -839,7 +839,7 @@
           "submissionValue": "ATA",
           "synonyms": [
             "ATA",
-            " ANTARCTICA"
+            "ANTARCTICA"
           ]
         },
         {
@@ -849,7 +849,7 @@
           "submissionValue": "ATF",
           "synonyms": [
             "ATF",
-            " FRENCH SOUTHERN TERRITORIES"
+            "FRENCH SOUTHERN TERRITORIES"
           ]
         },
         {
@@ -859,7 +859,7 @@
           "submissionValue": "ATG",
           "synonyms": [
             "ATG",
-            " ANTIGUA AND BARBUDA"
+            "ANTIGUA AND BARBUDA"
           ]
         },
         {
@@ -869,7 +869,7 @@
           "submissionValue": "AUS",
           "synonyms": [
             "AUS",
-            " AUSTRALIA"
+            "AUSTRALIA"
           ]
         },
         {
@@ -879,7 +879,7 @@
           "submissionValue": "AUT",
           "synonyms": [
             "AUT",
-            " AUSTRIA"
+            "AUSTRIA"
           ]
         },
         {
@@ -889,7 +889,7 @@
           "submissionValue": "AZE",
           "synonyms": [
             "AZE",
-            " AZERBAIJAN"
+            "AZERBAIJAN"
           ]
         },
         {
@@ -899,7 +899,7 @@
           "submissionValue": "BDI",
           "synonyms": [
             "BDI",
-            " BURUNDI"
+            "BURUNDI"
           ]
         },
         {
@@ -909,7 +909,7 @@
           "submissionValue": "BEL",
           "synonyms": [
             "BEL",
-            " BELGIUM"
+            "BELGIUM"
           ]
         },
         {
@@ -919,7 +919,7 @@
           "submissionValue": "BEN",
           "synonyms": [
             "BEN",
-            " BENIN REPUBLIC"
+            "BENIN REPUBLIC"
           ]
         },
         {
@@ -929,7 +929,7 @@
           "submissionValue": "BFA",
           "synonyms": [
             "BFA",
-            " BURKINA FASO"
+            "BURKINA FASO"
           ]
         },
         {
@@ -939,7 +939,7 @@
           "submissionValue": "BGD",
           "synonyms": [
             "BGD",
-            " BANGLADESH"
+            "BANGLADESH"
           ]
         },
         {
@@ -949,7 +949,7 @@
           "submissionValue": "BGR",
           "synonyms": [
             "BGR",
-            " BULGARIA"
+            "BULGARIA"
           ]
         },
         {
@@ -959,7 +959,7 @@
           "submissionValue": "BHR",
           "synonyms": [
             "BHR",
-            " BAHRAIN"
+            "BAHRAIN"
           ]
         },
         {
@@ -969,7 +969,7 @@
           "submissionValue": "BHS",
           "synonyms": [
             "BHS",
-            " BAHAMAS"
+            "BAHAMAS"
           ]
         },
         {
@@ -979,7 +979,7 @@
           "submissionValue": "BIH",
           "synonyms": [
             "BIH",
-            " BOSNIA-HERZEGOVINA"
+            "BOSNIA-HERZEGOVINA"
           ]
         },
         {
@@ -989,7 +989,7 @@
           "submissionValue": "BLR",
           "synonyms": [
             "BLR",
-            " BELARUS"
+            "BELARUS"
           ]
         },
         {
@@ -999,7 +999,7 @@
           "submissionValue": "BLZ",
           "synonyms": [
             "BLZ",
-            " BELIZE"
+            "BELIZE"
           ]
         },
         {
@@ -1009,7 +1009,7 @@
           "submissionValue": "BMU",
           "synonyms": [
             "BMU",
-            " BERMUDA"
+            "BERMUDA"
           ]
         },
         {
@@ -1019,7 +1019,7 @@
           "submissionValue": "BOL",
           "synonyms": [
             "BOL",
-            " BOLIVIA"
+            "BOLIVIA"
           ]
         },
         {
@@ -1029,7 +1029,7 @@
           "submissionValue": "BRA",
           "synonyms": [
             "BRA",
-            " BRAZIL"
+            "BRAZIL"
           ]
         },
         {
@@ -1039,7 +1039,7 @@
           "submissionValue": "BRB",
           "synonyms": [
             "BRB",
-            " BARBADOS"
+            "BARBADOS"
           ]
         },
         {
@@ -1049,7 +1049,7 @@
           "submissionValue": "BRN",
           "synonyms": [
             "BRN",
-            " BRUNEI"
+            "BRUNEI"
           ]
         },
         {
@@ -1059,7 +1059,7 @@
           "submissionValue": "BTN",
           "synonyms": [
             "BTN",
-            " BHUTAN"
+            "BHUTAN"
           ]
         },
         {
@@ -1069,7 +1069,7 @@
           "submissionValue": "BVT",
           "synonyms": [
             "BVT",
-            " BOUVET ISLAND"
+            "BOUVET ISLAND"
           ]
         },
         {
@@ -1079,7 +1079,7 @@
           "submissionValue": "BWA",
           "synonyms": [
             "BWA",
-            " BOTSWANA"
+            "BOTSWANA"
           ]
         },
         {
@@ -1089,7 +1089,7 @@
           "submissionValue": "CAF",
           "synonyms": [
             "CAF",
-            " CENTRAL AFRICAN REPUBLIC"
+            "CENTRAL AFRICAN REPUBLIC"
           ]
         },
         {
@@ -1099,7 +1099,7 @@
           "submissionValue": "CAN",
           "synonyms": [
             "CAN",
-            " CANADA"
+            "CANADA"
           ]
         },
         {
@@ -1109,7 +1109,7 @@
           "submissionValue": "CCK",
           "synonyms": [
             "CCK",
-            " COCOS (KEELING) ISLANDS"
+            "COCOS (KEELING) ISLANDS"
           ]
         },
         {
@@ -1119,7 +1119,7 @@
           "submissionValue": "CHE",
           "synonyms": [
             "CHE",
-            " SWITZERLAND"
+            "SWITZERLAND"
           ]
         },
         {
@@ -1129,7 +1129,7 @@
           "submissionValue": "CHL",
           "synonyms": [
             "CHL",
-            " CHILE"
+            "CHILE"
           ]
         },
         {
@@ -1139,7 +1139,7 @@
           "submissionValue": "CHN",
           "synonyms": [
             "CHN",
-            " CHINA"
+            "CHINA"
           ]
         },
         {
@@ -1149,7 +1149,7 @@
           "submissionValue": "CIV",
           "synonyms": [
             "CIV",
-            " COTE D'IVOIRE"
+            "COTE D'IVOIRE"
           ]
         },
         {
@@ -1159,7 +1159,7 @@
           "submissionValue": "CMR",
           "synonyms": [
             "CMR",
-            " CAMEROON"
+            "CAMEROON"
           ]
         },
         {
@@ -1169,7 +1169,7 @@
           "submissionValue": "COD",
           "synonyms": [
             "COD",
-            " DEMOCRATIC REPUBLIC OF THE CONGO"
+            "DEMOCRATIC REPUBLIC OF THE CONGO"
           ]
         },
         {
@@ -1179,7 +1179,7 @@
           "submissionValue": "COG",
           "synonyms": [
             "COG",
-            " CONGO"
+            "CONGO"
           ]
         },
         {
@@ -1189,7 +1189,7 @@
           "submissionValue": "COK",
           "synonyms": [
             "COK",
-            " COOK ISLANDS"
+            "COOK ISLANDS"
           ]
         },
         {
@@ -1199,7 +1199,7 @@
           "submissionValue": "COL",
           "synonyms": [
             "COL",
-            " COLOMBIA"
+            "COLOMBIA"
           ]
         },
         {
@@ -1209,7 +1209,7 @@
           "submissionValue": "COM",
           "synonyms": [
             "COM",
-            " COMOROS"
+            "COMOROS"
           ]
         },
         {
@@ -1219,7 +1219,7 @@
           "submissionValue": "CPV",
           "synonyms": [
             "CPV",
-            " CAPE VERDE"
+            "CAPE VERDE"
           ]
         },
         {
@@ -1229,7 +1229,7 @@
           "submissionValue": "CRI",
           "synonyms": [
             "CRI",
-            " COSTA RICA"
+            "COSTA RICA"
           ]
         },
         {
@@ -1239,7 +1239,7 @@
           "submissionValue": "CUB",
           "synonyms": [
             "CUB",
-            " CUBA"
+            "CUBA"
           ]
         },
         {
@@ -1249,7 +1249,7 @@
           "submissionValue": "CXR",
           "synonyms": [
             "CXR",
-            " CHRISTMAS ISLAND"
+            "CHRISTMAS ISLAND"
           ]
         },
         {
@@ -1259,7 +1259,7 @@
           "submissionValue": "CYM",
           "synonyms": [
             "CYM",
-            " CAYMAN ISLANDS"
+            "CAYMAN ISLANDS"
           ]
         },
         {
@@ -1269,7 +1269,7 @@
           "submissionValue": "CYP",
           "synonyms": [
             "CYP",
-            " CYPRUS"
+            "CYPRUS"
           ]
         },
         {
@@ -1279,7 +1279,7 @@
           "submissionValue": "CZE",
           "synonyms": [
             "CZE",
-            " CZECH REPUBLIC"
+            "CZECH REPUBLIC"
           ]
         },
         {
@@ -1289,7 +1289,7 @@
           "submissionValue": "DEU",
           "synonyms": [
             "DEU",
-            " GERMANY"
+            "GERMANY"
           ]
         },
         {
@@ -1299,7 +1299,7 @@
           "submissionValue": "DJI",
           "synonyms": [
             "DJI",
-            " DJIBOUTI"
+            "DJIBOUTI"
           ]
         },
         {
@@ -1309,7 +1309,7 @@
           "submissionValue": "DMA",
           "synonyms": [
             "DMA",
-            " DOMINICA"
+            "DOMINICA"
           ]
         },
         {
@@ -1319,7 +1319,7 @@
           "submissionValue": "DNK",
           "synonyms": [
             "DNK",
-            " DENMARK"
+            "DENMARK"
           ]
         },
         {
@@ -1329,7 +1329,7 @@
           "submissionValue": "DOM",
           "synonyms": [
             "DOM",
-            " DOMINICAN REPUBLIC"
+            "DOMINICAN REPUBLIC"
           ]
         },
         {
@@ -1339,7 +1339,7 @@
           "submissionValue": "DZA",
           "synonyms": [
             "DZA",
-            " ALGERIA"
+            "ALGERIA"
           ]
         },
         {
@@ -1349,7 +1349,7 @@
           "submissionValue": "ECU",
           "synonyms": [
             "ECU",
-            " ECUADOR"
+            "ECUADOR"
           ]
         },
         {
@@ -1359,7 +1359,7 @@
           "submissionValue": "EGY",
           "synonyms": [
             "EGY",
-            " EGYPT"
+            "EGYPT"
           ]
         },
         {
@@ -1369,7 +1369,7 @@
           "submissionValue": "ERI",
           "synonyms": [
             "ERI",
-            " ERITREA"
+            "ERITREA"
           ]
         },
         {
@@ -1379,7 +1379,7 @@
           "submissionValue": "ESH",
           "synonyms": [
             "ESH",
-            " WESTERN SAHARA"
+            "WESTERN SAHARA"
           ]
         },
         {
@@ -1389,7 +1389,7 @@
           "submissionValue": "ESP",
           "synonyms": [
             "ESP",
-            " SPAIN"
+            "SPAIN"
           ]
         },
         {
@@ -1399,7 +1399,7 @@
           "submissionValue": "EST",
           "synonyms": [
             "EST",
-            " ESTONIA"
+            "ESTONIA"
           ]
         },
         {
@@ -1409,7 +1409,7 @@
           "submissionValue": "ETH",
           "synonyms": [
             "ETH",
-            " ETHIOPIA"
+            "ETHIOPIA"
           ]
         },
         {
@@ -1419,7 +1419,7 @@
           "submissionValue": "FIN",
           "synonyms": [
             "FIN",
-            " FINLAND"
+            "FINLAND"
           ]
         },
         {
@@ -1429,7 +1429,7 @@
           "submissionValue": "FJI",
           "synonyms": [
             "FJI",
-            " FIJI"
+            "FIJI"
           ]
         },
         {
@@ -1439,7 +1439,7 @@
           "submissionValue": "FLK",
           "synonyms": [
             "FLK",
-            " FALKLAND ISLANDS"
+            "FALKLAND ISLANDS"
           ]
         },
         {
@@ -1449,7 +1449,7 @@
           "submissionValue": "FRA",
           "synonyms": [
             "FRA",
-            " FRANCE"
+            "FRANCE"
           ]
         },
         {
@@ -1459,7 +1459,7 @@
           "submissionValue": "FRO",
           "synonyms": [
             "FRO",
-            " FAROE ISLANDS"
+            "FAROE ISLANDS"
           ]
         },
         {
@@ -1469,7 +1469,7 @@
           "submissionValue": "FSM",
           "synonyms": [
             "FSM",
-            " MICRONESIA, FEDERATED STATES OF"
+            "MICRONESIA, FEDERATED STATES OF"
           ]
         },
         {
@@ -1479,7 +1479,7 @@
           "submissionValue": "GAB",
           "synonyms": [
             "GAB",
-            " GABON"
+            "GABON"
           ]
         },
         {
@@ -1489,7 +1489,7 @@
           "submissionValue": "GBR",
           "synonyms": [
             "GBR",
-            " UNITED KINGDOM"
+            "UNITED KINGDOM"
           ]
         },
         {
@@ -1499,7 +1499,7 @@
           "submissionValue": "GEO",
           "synonyms": [
             "GEO",
-            " GEORGIA"
+            "GEORGIA"
           ]
         },
         {
@@ -1509,7 +1509,7 @@
           "submissionValue": "GGY",
           "synonyms": [
             "GGY",
-            " GUERNSEY"
+            "GUERNSEY"
           ]
         },
         {
@@ -1519,7 +1519,7 @@
           "submissionValue": "GHA",
           "synonyms": [
             "GHA",
-            " GHANA"
+            "GHANA"
           ]
         },
         {
@@ -1529,7 +1529,7 @@
           "submissionValue": "GIB",
           "synonyms": [
             "GIB",
-            " GIBRALTAR"
+            "GIBRALTAR"
           ]
         },
         {
@@ -1539,7 +1539,7 @@
           "submissionValue": "GIN",
           "synonyms": [
             "GIN",
-            " GUINEA"
+            "GUINEA"
           ]
         },
         {
@@ -1549,7 +1549,7 @@
           "submissionValue": "GLP",
           "synonyms": [
             "GLP",
-            " GUADELOUPE"
+            "GUADELOUPE"
           ]
         },
         {
@@ -1559,7 +1559,7 @@
           "submissionValue": "GMB",
           "synonyms": [
             "GMB",
-            " GAMBIA"
+            "GAMBIA"
           ]
         },
         {
@@ -1569,7 +1569,7 @@
           "submissionValue": "GNB",
           "synonyms": [
             "GNB",
-            " GUINEA-BISSAU"
+            "GUINEA-BISSAU"
           ]
         },
         {
@@ -1579,7 +1579,7 @@
           "submissionValue": "GNQ",
           "synonyms": [
             "GNQ",
-            " EQUATORIAL GUINEA"
+            "EQUATORIAL GUINEA"
           ]
         },
         {
@@ -1589,7 +1589,7 @@
           "submissionValue": "GRC",
           "synonyms": [
             "GRC",
-            " GREECE"
+            "GREECE"
           ]
         },
         {
@@ -1599,7 +1599,7 @@
           "submissionValue": "GRD",
           "synonyms": [
             "GRD",
-            " GRENADA"
+            "GRENADA"
           ]
         },
         {
@@ -1609,7 +1609,7 @@
           "submissionValue": "GRL",
           "synonyms": [
             "GRL",
-            " GREENLAND"
+            "GREENLAND"
           ]
         },
         {
@@ -1619,7 +1619,7 @@
           "submissionValue": "GTM",
           "synonyms": [
             "GTM",
-            " GUATEMALA"
+            "GUATEMALA"
           ]
         },
         {
@@ -1629,7 +1629,7 @@
           "submissionValue": "GUF",
           "synonyms": [
             "GUF",
-            " FRENCH GUIANA"
+            "FRENCH GUIANA"
           ]
         },
         {
@@ -1639,7 +1639,7 @@
           "submissionValue": "GUM",
           "synonyms": [
             "GUM",
-            " GUAM"
+            "GUAM"
           ]
         },
         {
@@ -1649,7 +1649,7 @@
           "submissionValue": "GUY",
           "synonyms": [
             "GUY",
-            " GUYANA"
+            "GUYANA"
           ]
         },
         {
@@ -1659,7 +1659,7 @@
           "submissionValue": "HKG",
           "synonyms": [
             "HKG",
-            " HONG KONG"
+            "HONG KONG"
           ]
         },
         {
@@ -1669,7 +1669,7 @@
           "submissionValue": "HMD",
           "synonyms": [
             "HMD",
-            " HEARD ISLAND AND MCDONALD ISLANDS"
+            "HEARD ISLAND AND MCDONALD ISLANDS"
           ]
         },
         {
@@ -1679,7 +1679,7 @@
           "submissionValue": "HND",
           "synonyms": [
             "HND",
-            " HONDURAS"
+            "HONDURAS"
           ]
         },
         {
@@ -1689,7 +1689,7 @@
           "submissionValue": "HRV",
           "synonyms": [
             "HRV",
-            " CROATIA"
+            "CROATIA"
           ]
         },
         {
@@ -1699,7 +1699,7 @@
           "submissionValue": "HTI",
           "synonyms": [
             "HTI",
-            " HAITI"
+            "HAITI"
           ]
         },
         {
@@ -1709,7 +1709,7 @@
           "submissionValue": "HUN",
           "synonyms": [
             "HUN",
-            " HUNGARY"
+            "HUNGARY"
           ]
         },
         {
@@ -1719,7 +1719,7 @@
           "submissionValue": "IDN",
           "synonyms": [
             "IDN",
-            " INDONESIA"
+            "INDONESIA"
           ]
         },
         {
@@ -1729,7 +1729,7 @@
           "submissionValue": "IND",
           "synonyms": [
             "IND",
-            " INDIA"
+            "INDIA"
           ]
         },
         {
@@ -1739,7 +1739,7 @@
           "submissionValue": "IOT",
           "synonyms": [
             "IOT",
-            " BRITISH INDIAN OCEAN TERRITORY"
+            "BRITISH INDIAN OCEAN TERRITORY"
           ]
         },
         {
@@ -1749,7 +1749,7 @@
           "submissionValue": "IRL",
           "synonyms": [
             "IRL",
-            " IRELAND"
+            "IRELAND"
           ]
         },
         {
@@ -1759,7 +1759,7 @@
           "submissionValue": "IRN",
           "synonyms": [
             "IRN",
-            " IRAN"
+            "IRAN"
           ]
         },
         {
@@ -1769,7 +1769,7 @@
           "submissionValue": "IRQ",
           "synonyms": [
             "IRQ",
-            " IRAQ"
+            "IRAQ"
           ]
         },
         {
@@ -1779,7 +1779,7 @@
           "submissionValue": "ISL",
           "synonyms": [
             "ISL",
-            " ICELAND"
+            "ICELAND"
           ]
         },
         {
@@ -1789,7 +1789,7 @@
           "submissionValue": "ISR",
           "synonyms": [
             "ISR",
-            " ISRAEL"
+            "ISRAEL"
           ]
         },
         {
@@ -1799,7 +1799,7 @@
           "submissionValue": "ITA",
           "synonyms": [
             "ITA",
-            " ITALY"
+            "ITALY"
           ]
         },
         {
@@ -1809,7 +1809,7 @@
           "submissionValue": "JAM",
           "synonyms": [
             "JAM",
-            " JAMAICA"
+            "JAMAICA"
           ]
         },
         {
@@ -1819,7 +1819,7 @@
           "submissionValue": "JOR",
           "synonyms": [
             "JOR",
-            " JORDAN"
+            "JORDAN"
           ]
         },
         {
@@ -1829,7 +1829,7 @@
           "submissionValue": "JPN",
           "synonyms": [
             "JPN",
-            " JAPAN"
+            "JAPAN"
           ]
         },
         {
@@ -1839,7 +1839,7 @@
           "submissionValue": "JRE",
           "synonyms": [
             "JRE",
-            " JERSEY"
+            "JERSEY"
           ]
         },
         {
@@ -1849,7 +1849,7 @@
           "submissionValue": "KAZ",
           "synonyms": [
             "KAZ",
-            " KAZAKHSTAN"
+            "KAZAKHSTAN"
           ]
         },
         {
@@ -1859,7 +1859,7 @@
           "submissionValue": "KEN",
           "synonyms": [
             "KEN",
-            " KENYA"
+            "KENYA"
           ]
         },
         {
@@ -1869,7 +1869,7 @@
           "submissionValue": "KGZ",
           "synonyms": [
             "KGZ",
-            " KYRGYZSTAN"
+            "KYRGYZSTAN"
           ]
         },
         {
@@ -1879,7 +1879,7 @@
           "submissionValue": "KHM",
           "synonyms": [
             "KHM",
-            " CAMBODIA"
+            "CAMBODIA"
           ]
         },
         {
@@ -1889,7 +1889,7 @@
           "submissionValue": "KIR",
           "synonyms": [
             "KIR",
-            " KIRIBATI"
+            "KIRIBATI"
           ]
         },
         {
@@ -1899,7 +1899,7 @@
           "submissionValue": "KNA",
           "synonyms": [
             "KNA",
-            " SAINT KITTS AND NEVIS"
+            "SAINT KITTS AND NEVIS"
           ]
         },
         {
@@ -1909,7 +1909,7 @@
           "submissionValue": "KOR",
           "synonyms": [
             "KOR",
-            " SOUTH KOREA"
+            "SOUTH KOREA"
           ]
         },
         {
@@ -1919,7 +1919,7 @@
           "submissionValue": "KWT",
           "synonyms": [
             "KWT",
-            " KUWAIT"
+            "KUWAIT"
           ]
         },
         {
@@ -1929,7 +1929,7 @@
           "submissionValue": "LAO",
           "synonyms": [
             "LAO",
-            " LAO PEOPLE'S DEMOCRATIC REPUBLIC"
+            "LAO PEOPLE'S DEMOCRATIC REPUBLIC"
           ]
         },
         {
@@ -1939,7 +1939,7 @@
           "submissionValue": "LBN",
           "synonyms": [
             "LBN",
-            " LEBANON"
+            "LEBANON"
           ]
         },
         {
@@ -1949,7 +1949,7 @@
           "submissionValue": "LBR",
           "synonyms": [
             "LBR",
-            " LIBERIA"
+            "LIBERIA"
           ]
         },
         {
@@ -1959,7 +1959,7 @@
           "submissionValue": "LBY",
           "synonyms": [
             "LBY",
-            " LIBYAN ARAB JAMAHIRIYA"
+            "LIBYAN ARAB JAMAHIRIYA"
           ]
         },
         {
@@ -1969,7 +1969,7 @@
           "submissionValue": "LCA",
           "synonyms": [
             "LCA",
-            " SAINT LUCIA"
+            "SAINT LUCIA"
           ]
         },
         {
@@ -1979,7 +1979,7 @@
           "submissionValue": "LIE",
           "synonyms": [
             "LIE",
-            " LIECHTENSTEIN"
+            "LIECHTENSTEIN"
           ]
         },
         {
@@ -1989,7 +1989,7 @@
           "submissionValue": "LKA",
           "synonyms": [
             "LKA",
-            " SRI LANKA"
+            "SRI LANKA"
           ]
         },
         {
@@ -1999,7 +1999,7 @@
           "submissionValue": "LSO",
           "synonyms": [
             "LSO",
-            " LESOTHO"
+            "LESOTHO"
           ]
         },
         {
@@ -2009,7 +2009,7 @@
           "submissionValue": "LTU",
           "synonyms": [
             "LTU",
-            " LITHUANIA"
+            "LITHUANIA"
           ]
         },
         {
@@ -2019,7 +2019,7 @@
           "submissionValue": "LUX",
           "synonyms": [
             "LUX",
-            " LUXEMBOURG"
+            "LUXEMBOURG"
           ]
         },
         {
@@ -2029,7 +2029,7 @@
           "submissionValue": "LVA",
           "synonyms": [
             "LVA",
-            " LATVIA"
+            "LATVIA"
           ]
         },
         {
@@ -2039,7 +2039,7 @@
           "submissionValue": "MAC",
           "synonyms": [
             "MAC",
-            " MACAO"
+            "MACAO"
           ]
         },
         {
@@ -2049,7 +2049,7 @@
           "submissionValue": "MAR",
           "synonyms": [
             "MAR",
-            " MOROCCO"
+            "MOROCCO"
           ]
         },
         {
@@ -2059,7 +2059,7 @@
           "submissionValue": "MCO",
           "synonyms": [
             "MCO",
-            " MONACO"
+            "MONACO"
           ]
         },
         {
@@ -2069,7 +2069,7 @@
           "submissionValue": "MDA",
           "synonyms": [
             "MDA",
-            " MOLDOVA, REPUBLIC OF"
+            "MOLDOVA, REPUBLIC OF"
           ]
         },
         {
@@ -2079,7 +2079,7 @@
           "submissionValue": "MDG",
           "synonyms": [
             "MDG",
-            " MADAGASCAR"
+            "MADAGASCAR"
           ]
         },
         {
@@ -2089,7 +2089,7 @@
           "submissionValue": "MDV",
           "synonyms": [
             "MDV",
-            " MALDIVES"
+            "MALDIVES"
           ]
         },
         {
@@ -2099,7 +2099,7 @@
           "submissionValue": "MEX",
           "synonyms": [
             "MEX",
-            " MEXICO"
+            "MEXICO"
           ]
         },
         {
@@ -2109,7 +2109,7 @@
           "submissionValue": "MHL",
           "synonyms": [
             "MHL",
-            " MARSHALL ISLANDS"
+            "MARSHALL ISLANDS"
           ]
         },
         {
@@ -2119,7 +2119,7 @@
           "submissionValue": "MKD",
           "synonyms": [
             "MKD",
-            " REPUBLIC OF MACEDONIA"
+            "REPUBLIC OF MACEDONIA"
           ]
         },
         {
@@ -2129,7 +2129,7 @@
           "submissionValue": "MLI",
           "synonyms": [
             "MLI",
-            " MALI"
+            "MALI"
           ]
         },
         {
@@ -2139,7 +2139,7 @@
           "submissionValue": "MLT",
           "synonyms": [
             "MLT",
-            " MALTA"
+            "MALTA"
           ]
         },
         {
@@ -2149,7 +2149,7 @@
           "submissionValue": "MMR",
           "synonyms": [
             "MMR",
-            " MYANMAR"
+            "MYANMAR"
           ]
         },
         {
@@ -2159,7 +2159,7 @@
           "submissionValue": "MNE",
           "synonyms": [
             "MNE",
-            " MONTENEGRO"
+            "MONTENEGRO"
           ]
         },
         {
@@ -2169,7 +2169,7 @@
           "submissionValue": "MNG",
           "synonyms": [
             "MNG",
-            " MONGOLIA"
+            "MONGOLIA"
           ]
         },
         {
@@ -2179,7 +2179,7 @@
           "submissionValue": "MNP",
           "synonyms": [
             "MNP",
-            " NORTHERN MARIANA ISLANDS"
+            "NORTHERN MARIANA ISLANDS"
           ]
         },
         {
@@ -2189,7 +2189,7 @@
           "submissionValue": "MOZ",
           "synonyms": [
             "MOZ",
-            " MOZAMBIQUE"
+            "MOZAMBIQUE"
           ]
         },
         {
@@ -2199,7 +2199,7 @@
           "submissionValue": "MRT",
           "synonyms": [
             "MRT",
-            " MAURITANIA"
+            "MAURITANIA"
           ]
         },
         {
@@ -2209,7 +2209,7 @@
           "submissionValue": "MSR",
           "synonyms": [
             "MSR",
-            " MONTSERRAT"
+            "MONTSERRAT"
           ]
         },
         {
@@ -2219,7 +2219,7 @@
           "submissionValue": "MTQ",
           "synonyms": [
             "MTQ",
-            " MARTINIQUE"
+            "MARTINIQUE"
           ]
         },
         {
@@ -2229,7 +2229,7 @@
           "submissionValue": "MUS",
           "synonyms": [
             "MUS",
-            " MAURITIUS"
+            "MAURITIUS"
           ]
         },
         {
@@ -2239,7 +2239,7 @@
           "submissionValue": "MWI",
           "synonyms": [
             "MWI",
-            " MALAWI"
+            "MALAWI"
           ]
         },
         {
@@ -2249,7 +2249,7 @@
           "submissionValue": "MYS",
           "synonyms": [
             "MYS",
-            " MALAYSIA"
+            "MALAYSIA"
           ]
         },
         {
@@ -2259,7 +2259,7 @@
           "submissionValue": "MYT",
           "synonyms": [
             "MYT",
-            " MAYOTTE"
+            "MAYOTTE"
           ]
         },
         {
@@ -2269,7 +2269,7 @@
           "submissionValue": "NAM",
           "synonyms": [
             "NAM",
-            " NAMIBIA"
+            "NAMIBIA"
           ]
         },
         {
@@ -2279,7 +2279,7 @@
           "submissionValue": "NCL",
           "synonyms": [
             "NCL",
-            " NEW CALEDONIA"
+            "NEW CALEDONIA"
           ]
         },
         {
@@ -2289,7 +2289,7 @@
           "submissionValue": "NER",
           "synonyms": [
             "NER",
-            " NIGER"
+            "NIGER"
           ]
         },
         {
@@ -2299,7 +2299,7 @@
           "submissionValue": "NFK",
           "synonyms": [
             "NFK",
-            " NORFOLK ISLAND"
+            "NORFOLK ISLAND"
           ]
         },
         {
@@ -2309,7 +2309,7 @@
           "submissionValue": "NGA",
           "synonyms": [
             "NGA",
-            " NIGERIA"
+            "NIGERIA"
           ]
         },
         {
@@ -2319,7 +2319,7 @@
           "submissionValue": "NIC",
           "synonyms": [
             "NIC",
-            " NICARAGUA"
+            "NICARAGUA"
           ]
         },
         {
@@ -2329,7 +2329,7 @@
           "submissionValue": "NIU",
           "synonyms": [
             "NIU",
-            " NIUE"
+            "NIUE"
           ]
         },
         {
@@ -2339,7 +2339,7 @@
           "submissionValue": "NLD",
           "synonyms": [
             "NLD",
-            " NETHERLANDS"
+            "NETHERLANDS"
           ]
         },
         {
@@ -2349,7 +2349,7 @@
           "submissionValue": "NOR",
           "synonyms": [
             "NOR",
-            " NORWAY"
+            "NORWAY"
           ]
         },
         {
@@ -2359,7 +2359,7 @@
           "submissionValue": "NPL",
           "synonyms": [
             "NPL",
-            " NEPAL"
+            "NEPAL"
           ]
         },
         {
@@ -2369,7 +2369,7 @@
           "submissionValue": "NRU",
           "synonyms": [
             "NRU",
-            " NAURU"
+            "NAURU"
           ]
         },
         {
@@ -2379,7 +2379,7 @@
           "submissionValue": "NZL",
           "synonyms": [
             "NZL",
-            " NEW ZEALAND"
+            "NEW ZEALAND"
           ]
         },
         {
@@ -2389,7 +2389,7 @@
           "submissionValue": "OMN",
           "synonyms": [
             "OMN",
-            " OMAN"
+            "OMAN"
           ]
         },
         {
@@ -2399,7 +2399,7 @@
           "submissionValue": "PAK",
           "synonyms": [
             "PAK",
-            " PAKISTAN"
+            "PAKISTAN"
           ]
         },
         {
@@ -2409,7 +2409,7 @@
           "submissionValue": "PAN",
           "synonyms": [
             "PAN",
-            " PANAMA"
+            "PANAMA"
           ]
         },
         {
@@ -2419,7 +2419,7 @@
           "submissionValue": "PCN",
           "synonyms": [
             "PCN",
-            " PITCAIRN"
+            "PITCAIRN"
           ]
         },
         {
@@ -2429,7 +2429,7 @@
           "submissionValue": "PER",
           "synonyms": [
             "PER",
-            " PERU"
+            "PERU"
           ]
         },
         {
@@ -2439,7 +2439,7 @@
           "submissionValue": "PHL",
           "synonyms": [
             "PHL",
-            " PHILIPPINES"
+            "PHILIPPINES"
           ]
         },
         {
@@ -2449,7 +2449,7 @@
           "submissionValue": "PLW",
           "synonyms": [
             "PLW",
-            " PALAU"
+            "PALAU"
           ]
         },
         {
@@ -2459,7 +2459,7 @@
           "submissionValue": "PNG",
           "synonyms": [
             "PNG",
-            " PAPUA NEW GUINEA"
+            "PAPUA NEW GUINEA"
           ]
         },
         {
@@ -2469,7 +2469,7 @@
           "submissionValue": "POL",
           "synonyms": [
             "POL",
-            " POLAND"
+            "POLAND"
           ]
         },
         {
@@ -2479,7 +2479,7 @@
           "submissionValue": "PRI",
           "synonyms": [
             "PRI",
-            " PUERTO RICO"
+            "PUERTO RICO"
           ]
         },
         {
@@ -2489,7 +2489,7 @@
           "submissionValue": "PRK",
           "synonyms": [
             "PRK",
-            " NORTH KOREA"
+            "NORTH KOREA"
           ]
         },
         {
@@ -2499,7 +2499,7 @@
           "submissionValue": "PRT",
           "synonyms": [
             "PRT",
-            " PORTUGAL"
+            "PORTUGAL"
           ]
         },
         {
@@ -2509,7 +2509,7 @@
           "submissionValue": "PRY",
           "synonyms": [
             "PRY",
-            " PARAGUAY"
+            "PARAGUAY"
           ]
         },
         {
@@ -2519,7 +2519,7 @@
           "submissionValue": "PSE",
           "synonyms": [
             "PSE",
-            " PALESTINIAN TERRITORY, OCCUPIED"
+            "PALESTINIAN TERRITORY, OCCUPIED"
           ]
         },
         {
@@ -2529,7 +2529,7 @@
           "submissionValue": "PYF",
           "synonyms": [
             "PYF",
-            " FRENCH POLYNESIA"
+            "FRENCH POLYNESIA"
           ]
         },
         {
@@ -2539,7 +2539,7 @@
           "submissionValue": "QAT",
           "synonyms": [
             "QAT",
-            " QATAR"
+            "QATAR"
           ]
         },
         {
@@ -2549,7 +2549,7 @@
           "submissionValue": "REU",
           "synonyms": [
             "REU",
-            " REUNION"
+            "REUNION"
           ]
         },
         {
@@ -2559,7 +2559,7 @@
           "submissionValue": "ROU",
           "synonyms": [
             "ROU",
-            " ROMANIA"
+            "ROMANIA"
           ]
         },
         {
@@ -2569,7 +2569,7 @@
           "submissionValue": "RUS",
           "synonyms": [
             "RUS",
-            " RUSSIAN FEDERATION"
+            "RUSSIAN FEDERATION"
           ]
         },
         {
@@ -2579,7 +2579,7 @@
           "submissionValue": "RWA",
           "synonyms": [
             "RWA",
-            " RWANDA"
+            "RWANDA"
           ]
         },
         {
@@ -2589,7 +2589,7 @@
           "submissionValue": "SAU",
           "synonyms": [
             "SAU",
-            " SAUDI ARABIA"
+            "SAUDI ARABIA"
           ]
         },
         {
@@ -2599,7 +2599,7 @@
           "submissionValue": "SCG",
           "synonyms": [
             "SCG",
-            " SERBIA"
+            "SERBIA"
           ]
         },
         {
@@ -2609,7 +2609,7 @@
           "submissionValue": "SDN",
           "synonyms": [
             "SDN",
-            " SUDAN"
+            "SUDAN"
           ]
         },
         {
@@ -2619,7 +2619,7 @@
           "submissionValue": "SEN",
           "synonyms": [
             "SEN",
-            " SENEGAL"
+            "SENEGAL"
           ]
         },
         {
@@ -2629,7 +2629,7 @@
           "submissionValue": "SGP",
           "synonyms": [
             "SGP",
-            " SINGAPORE"
+            "SINGAPORE"
           ]
         },
         {
@@ -2639,7 +2639,7 @@
           "submissionValue": "SGS",
           "synonyms": [
             "SGS",
-            " SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS"
+            "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS"
           ]
         },
         {
@@ -2649,7 +2649,7 @@
           "submissionValue": "SHN",
           "synonyms": [
             "SHN",
-            " SAINT HELENA"
+            "SAINT HELENA"
           ]
         },
         {
@@ -2659,7 +2659,7 @@
           "submissionValue": "SJM",
           "synonyms": [
             "SJM",
-            " SVALBARD AND JAN MAYEN"
+            "SVALBARD AND JAN MAYEN"
           ]
         },
         {
@@ -2669,7 +2669,7 @@
           "submissionValue": "SLB",
           "synonyms": [
             "SLB",
-            " SOLOMON ISLANDS"
+            "SOLOMON ISLANDS"
           ]
         },
         {
@@ -2679,7 +2679,7 @@
           "submissionValue": "SLE",
           "synonyms": [
             "SLE",
-            " SIERRA LEONE"
+            "SIERRA LEONE"
           ]
         },
         {
@@ -2689,7 +2689,7 @@
           "submissionValue": "SLV",
           "synonyms": [
             "SLV",
-            " EL SALVADOR"
+            "EL SALVADOR"
           ]
         },
         {
@@ -2699,7 +2699,7 @@
           "submissionValue": "SMR",
           "synonyms": [
             "SMR",
-            " SAN MARINO"
+            "SAN MARINO"
           ]
         },
         {
@@ -2709,7 +2709,7 @@
           "submissionValue": "SOM",
           "synonyms": [
             "SOM",
-            " SOMALIA"
+            "SOMALIA"
           ]
         },
         {
@@ -2719,7 +2719,7 @@
           "submissionValue": "SPM",
           "synonyms": [
             "SPM",
-            " SAINT PIERRE AND MIQUELON"
+            "SAINT PIERRE AND MIQUELON"
           ]
         },
         {
@@ -2729,7 +2729,7 @@
           "submissionValue": "STP",
           "synonyms": [
             "STP",
-            " SAO TOME AND PRINCIPE"
+            "SAO TOME AND PRINCIPE"
           ]
         },
         {
@@ -2739,7 +2739,7 @@
           "submissionValue": "SUR",
           "synonyms": [
             "SUR",
-            " SURINAME"
+            "SURINAME"
           ]
         },
         {
@@ -2749,7 +2749,7 @@
           "submissionValue": "SVK",
           "synonyms": [
             "SVK",
-            " SLOVAKIA"
+            "SLOVAKIA"
           ]
         },
         {
@@ -2759,7 +2759,7 @@
           "submissionValue": "SVN",
           "synonyms": [
             "SVN",
-            " SLOVENIA"
+            "SLOVENIA"
           ]
         },
         {
@@ -2769,7 +2769,7 @@
           "submissionValue": "SWE",
           "synonyms": [
             "SWE",
-            " SWEDEN"
+            "SWEDEN"
           ]
         },
         {
@@ -2779,7 +2779,7 @@
           "submissionValue": "SWZ",
           "synonyms": [
             "SWZ",
-            " SWAZILAND"
+            "SWAZILAND"
           ]
         },
         {
@@ -2789,7 +2789,7 @@
           "submissionValue": "SYC",
           "synonyms": [
             "SYC",
-            " SEYCHELLES"
+            "SEYCHELLES"
           ]
         },
         {
@@ -2799,7 +2799,7 @@
           "submissionValue": "SYR",
           "synonyms": [
             "SYR",
-            " SYRIAN ARAB REPUBLIC"
+            "SYRIAN ARAB REPUBLIC"
           ]
         },
         {
@@ -2809,7 +2809,7 @@
           "submissionValue": "TCA",
           "synonyms": [
             "TCA",
-            " TURKS AND CAICOS ISLANDS"
+            "TURKS AND CAICOS ISLANDS"
           ]
         },
         {
@@ -2819,7 +2819,7 @@
           "submissionValue": "TCD",
           "synonyms": [
             "TCD",
-            " CHAD"
+            "CHAD"
           ]
         },
         {
@@ -2829,7 +2829,7 @@
           "submissionValue": "TGO",
           "synonyms": [
             "TGO",
-            " TOGO"
+            "TOGO"
           ]
         },
         {
@@ -2839,7 +2839,7 @@
           "submissionValue": "THA",
           "synonyms": [
             "THA",
-            " THAILAND"
+            "THAILAND"
           ]
         },
         {
@@ -2849,7 +2849,7 @@
           "submissionValue": "TJK",
           "synonyms": [
             "TJK",
-            " TAJIKISTAN"
+            "TAJIKISTAN"
           ]
         },
         {
@@ -2859,7 +2859,7 @@
           "submissionValue": "TKL",
           "synonyms": [
             "TKL",
-            " TOKELAU"
+            "TOKELAU"
           ]
         },
         {
@@ -2869,7 +2869,7 @@
           "submissionValue": "TKM",
           "synonyms": [
             "TKM",
-            " TURKMENISTAN"
+            "TURKMENISTAN"
           ]
         },
         {
@@ -2879,7 +2879,7 @@
           "submissionValue": "TLS",
           "synonyms": [
             "TLS",
-            " TIMOR-LESTE"
+            "TIMOR-LESTE"
           ]
         },
         {
@@ -2889,7 +2889,7 @@
           "submissionValue": "TON",
           "synonyms": [
             "TON",
-            " TONGA"
+            "TONGA"
           ]
         },
         {
@@ -2899,7 +2899,7 @@
           "submissionValue": "TTO",
           "synonyms": [
             "TTO",
-            " TRINIDAD AND TOBAGO"
+            "TRINIDAD AND TOBAGO"
           ]
         },
         {
@@ -2909,7 +2909,7 @@
           "submissionValue": "TUN",
           "synonyms": [
             "TUN",
-            " TUNISIA"
+            "TUNISIA"
           ]
         },
         {
@@ -2919,7 +2919,7 @@
           "submissionValue": "TUR",
           "synonyms": [
             "TUR",
-            " TURKEY"
+            "TURKEY"
           ]
         },
         {
@@ -2929,7 +2929,7 @@
           "submissionValue": "TUV",
           "synonyms": [
             "TUV",
-            " TUVALU"
+            "TUVALU"
           ]
         },
         {
@@ -2939,7 +2939,7 @@
           "submissionValue": "TWN",
           "synonyms": [
             "TWN",
-            " TAIWAN"
+            "TAIWAN"
           ]
         },
         {
@@ -2949,7 +2949,7 @@
           "submissionValue": "TZA",
           "synonyms": [
             "TZA",
-            " TANZANIA, UNITED REPUBLIC OF"
+            "TANZANIA, UNITED REPUBLIC OF"
           ]
         },
         {
@@ -2959,7 +2959,7 @@
           "submissionValue": "UGA",
           "synonyms": [
             "UGA",
-            " UGANDA"
+            "UGANDA"
           ]
         },
         {
@@ -2969,7 +2969,7 @@
           "submissionValue": "UKR",
           "synonyms": [
             "UKR",
-            " UKRAINE"
+            "UKRAINE"
           ]
         },
         {
@@ -2979,7 +2979,7 @@
           "submissionValue": "UMI",
           "synonyms": [
             "UMI",
-            " UNITED STATES MINOR OUTLYING ISLANDS"
+            "UNITED STATES MINOR OUTLYING ISLANDS"
           ]
         },
         {
@@ -2989,7 +2989,7 @@
           "submissionValue": "URY",
           "synonyms": [
             "URY",
-            " URUGUAY"
+            "URUGUAY"
           ]
         },
         {
@@ -2999,7 +2999,7 @@
           "submissionValue": "USA",
           "synonyms": [
             "USA",
-            " UNITED STATES"
+            "UNITED STATES"
           ]
         },
         {
@@ -3009,7 +3009,7 @@
           "submissionValue": "UZB",
           "synonyms": [
             "UZB",
-            " UZBEKISTAN"
+            "UZBEKISTAN"
           ]
         },
         {
@@ -3019,7 +3019,7 @@
           "submissionValue": "VAT",
           "synonyms": [
             "VAT",
-            " VATICAN CITY STATE"
+            "VATICAN CITY STATE"
           ]
         },
         {
@@ -3029,7 +3029,7 @@
           "submissionValue": "VCT",
           "synonyms": [
             "VCT",
-            " SAINT VINCENT AND THE GRENADINES"
+            "SAINT VINCENT AND THE GRENADINES"
           ]
         },
         {
@@ -3039,7 +3039,7 @@
           "submissionValue": "VEN",
           "synonyms": [
             "VEN",
-            " VENEZUELA"
+            "VENEZUELA"
           ]
         },
         {
@@ -3049,7 +3049,7 @@
           "submissionValue": "VGB",
           "synonyms": [
             "VGB",
-            " VIRGIN ISLANDS,BRITISH"
+            "VIRGIN ISLANDS,BRITISH"
           ]
         },
         {
@@ -3059,7 +3059,7 @@
           "submissionValue": "VIR",
           "synonyms": [
             "VIR",
-            " VIRGIN ISLANDS, U.S."
+            "VIRGIN ISLANDS, U.S."
           ]
         },
         {
@@ -3069,7 +3069,7 @@
           "submissionValue": "VNM",
           "synonyms": [
             "VNM",
-            " VIETNAM"
+            "VIETNAM"
           ]
         },
         {
@@ -3079,7 +3079,7 @@
           "submissionValue": "VUT",
           "synonyms": [
             "VUT",
-            " VANUATU"
+            "VANUATU"
           ]
         },
         {
@@ -3089,7 +3089,7 @@
           "submissionValue": "WLF",
           "synonyms": [
             "WLF",
-            " WALLIS AND FUTUNA"
+            "WALLIS AND FUTUNA"
           ]
         },
         {
@@ -3099,7 +3099,7 @@
           "submissionValue": "WSM",
           "synonyms": [
             "WSM",
-            " SAMOA"
+            "SAMOA"
           ]
         },
         {
@@ -3109,7 +3109,7 @@
           "submissionValue": "YEM",
           "synonyms": [
             "YEM",
-            " YEMEN"
+            "YEMEN"
           ]
         },
         {
@@ -3119,7 +3119,7 @@
           "submissionValue": "ZAF",
           "synonyms": [
             "ZAF",
-            " SOUTH AFRICA"
+            "SOUTH AFRICA"
           ]
         },
         {
@@ -3129,7 +3129,7 @@
           "submissionValue": "ZMB",
           "synonyms": [
             "ZMB",
-            " ZAMBIA"
+            "ZAMBIA"
           ]
         },
         {
@@ -3139,7 +3139,7 @@
           "submissionValue": "ZWE",
           "synonyms": [
             "ZWE",
-            " ZIMBABWE"
+            "ZIMBABWE"
           ]
         }
       ]
@@ -3153,7 +3153,7 @@
       "submissionValue": "TDIGRP",
       "synonyms": [
         "TDIGRP",
-        " Diagnosis Group"
+        "Diagnosis Group"
       ],
       "terms": [
         {
@@ -3176,8 +3176,8 @@
       "submissionValue": "DICTNAM",
       "synonyms": [
         "DICTNAM",
-        " Dictionary Name",
-        " Name of Dictionary"
+        "Dictionary Name",
+        "Name of Dictionary"
       ],
       "terms": [
         {
@@ -3187,7 +3187,7 @@
           "submissionValue": "COSTART",
           "synonyms": [
             "COSTART",
-            " Coding Symbols for a Thesaurus of Adverse Reaction Terms"
+            "Coding Symbols for a Thesaurus of Adverse Reaction Terms"
           ]
         },
         {
@@ -3197,7 +3197,7 @@
           "submissionValue": "ICD",
           "synonyms": [
             "ICD",
-            " International Classification of Diseases"
+            "International Classification of Diseases"
           ]
         },
         {
@@ -3207,7 +3207,7 @@
           "submissionValue": "LOINC",
           "synonyms": [
             "LOINC",
-            " Logical Observation Identifiers Names and Codes"
+            "Logical Observation Identifiers Names and Codes"
           ]
         },
         {
@@ -3217,7 +3217,7 @@
           "submissionValue": "MedDRA",
           "synonyms": [
             "MedDRA",
-            " Medical Dictionary for Regulatory Activities"
+            "Medical Dictionary for Regulatory Activities"
           ]
         },
         {
@@ -3227,7 +3227,7 @@
           "submissionValue": "SNOMED",
           "synonyms": [
             "SNOMED",
-            " Systematized Nomenclature of Medicine"
+            "Systematized Nomenclature of Medicine"
           ]
         },
         {
@@ -3237,7 +3237,7 @@
           "submissionValue": "WHOART",
           "synonyms": [
             "WHOART",
-            " World Health Organization Adverse Reaction Terms"
+            "World Health Organization Adverse Reaction Terms"
           ]
         },
         {
@@ -3247,7 +3247,7 @@
           "submissionValue": "WHODD",
           "synonyms": [
             "WHODD",
-            " World Health Organization Drug Dictionary"
+            "World Health Organization Drug Dictionary"
           ]
         }
       ]
@@ -3261,7 +3261,7 @@
       "submissionValue": "ND",
       "synonyms": [
         "ND",
-        " Not Done"
+        "Not Done"
       ],
       "terms": [
         {
@@ -3284,7 +3284,7 @@
       "submissionValue": "ETHNIC",
       "synonyms": [
         "ETHNIC",
-        " Patient Ethnic Group"
+        "Patient Ethnic Group"
       ],
       "terms": [
         {
@@ -3321,8 +3321,8 @@
           "submissionValue": "UNKNOWN",
           "synonyms": [
             "UNKNOWN",
-            " U",
-            " Unknown"
+            "U",
+            "Unknown"
           ]
         }
       ]
@@ -3336,8 +3336,8 @@
       "submissionValue": "FRM",
       "synonyms": [
         "FRM",
-        " Pharmaceutical Dosage Form",
-        " Dose Form"
+        "Pharmaceutical Dosage Form",
+        "Dose Form"
       ],
       "terms": [
         {
@@ -4742,7 +4742,7 @@
           "submissionValue": "TABLET, FOR SUSPENSION",
           "synonyms": [
             "TABLET, FOR SUSPENSION",
-            " TABLET, DISPERSIBLE"
+            "TABLET, DISPERSIBLE"
           ]
         },
         {
@@ -4864,7 +4864,7 @@
       "submissionValue": "NCOMPLT",
       "synonyms": [
         "NCOMPLT",
-        " Completion/Reason for Non-Completion"
+        "Completion/Reason for Non-Completion"
       ],
       "terms": [
         {
@@ -4928,7 +4928,7 @@
           "submissionValue": "OTHER",
           "synonyms": [
             "OTHER",
-            " Other"
+            "Other"
           ]
         },
         {
@@ -5023,7 +5023,7 @@
       "submissionValue": "STENRF",
       "synonyms": [
         "STENRF",
-        " Relation to Reference Period"
+        "Relation to Reference Period"
       ],
       "terms": [
         {
@@ -5069,8 +5069,8 @@
           "submissionValue": "U",
           "synonyms": [
             "UNKNOWN",
-            " U",
-            " Unknown"
+            "U",
+            "Unknown"
           ]
         }
       ]
@@ -5084,7 +5084,7 @@
       "submissionValue": "ROUTE",
       "synonyms": [
         "ROUTE",
-        " Route of Administration"
+        "Route of Administration"
       ],
       "terms": [
         {
@@ -5679,7 +5679,7 @@
           "submissionValue": "INTRATUMOR",
           "synonyms": [
             "INTRATUMOR",
-            " Intratumor Route of Administration"
+            "Intratumor Route of Administration"
           ]
         },
         {
@@ -6107,7 +6107,7 @@
       "submissionValue": "AESEV",
       "synonyms": [
         "AESEV",
-        " Severity/Intensity Scale for Adverse Events"
+        "Severity/Intensity Scale for Adverse Events"
       ],
       "terms": [
         {
@@ -6117,8 +6117,8 @@
           "submissionValue": "MILD",
           "synonyms": [
             "MILD",
-            " Grade 1",
-            " 1"
+            "Grade 1",
+            "1"
           ]
         },
         {
@@ -6128,8 +6128,8 @@
           "submissionValue": "MODERATE",
           "synonyms": [
             "MODERATE",
-            " Grade 2",
-            " 2"
+            "Grade 2",
+            "2"
           ]
         },
         {
@@ -6139,8 +6139,8 @@
           "submissionValue": "SEVERE",
           "synonyms": [
             "SEVERE",
-            " Grade 3",
-            " 3"
+            "Grade 3",
+            "3"
           ]
         }
       ]
@@ -6154,7 +6154,7 @@
       "submissionValue": "SEX",
       "synonyms": [
         "SEX",
-        " Sex"
+        "Sex"
       ],
       "terms": [
         {
@@ -6164,7 +6164,7 @@
           "submissionValue": "F",
           "synonyms": [
             "F",
-            " Female"
+            "Female"
           ]
         },
         {
@@ -6174,7 +6174,7 @@
           "submissionValue": "M",
           "synonyms": [
             "M",
-            " Male"
+            "Male"
           ]
         },
         {
@@ -6184,8 +6184,8 @@
           "submissionValue": "U",
           "synonyms": [
             "UNKNOWN",
-            " U",
-            " Unknown"
+            "U",
+            "Unknown"
           ]
         },
         {
@@ -6195,7 +6195,7 @@
           "submissionValue": "UN",
           "synonyms": [
             "UN",
-            " Undifferentiated"
+            "Undifferentiated"
           ]
         }
       ]
@@ -6209,7 +6209,7 @@
       "submissionValue": "SEXPOP",
       "synonyms": [
         "SEXPOP",
-        " Sex of Participants"
+        "Sex of Participants"
       ],
       "terms": [
         {
@@ -6228,7 +6228,7 @@
           "submissionValue": "F",
           "synonyms": [
             "F",
-            " Female"
+            "Female"
           ]
         },
         {
@@ -6238,7 +6238,7 @@
           "submissionValue": "M",
           "synonyms": [
             "M",
-            " Male"
+            "Male"
           ]
         }
       ]
@@ -6252,7 +6252,7 @@
       "submissionValue": "SIZE",
       "synonyms": [
         "SIZE",
-        " Size"
+        "Size"
       ],
       "terms": [
         {
@@ -6293,7 +6293,7 @@
       "submissionValue": "DOMAIN",
       "synonyms": [
         "DOMAIN",
-        " Domain Abbreviation"
+        "Domain Abbreviation"
       ],
       "terms": [
         {
@@ -6303,7 +6303,7 @@
           "submissionValue": "AD",
           "synonyms": [
             "AD",
-            " Analysis Dataset"
+            "Analysis Dataset"
           ]
         },
         {
@@ -6313,7 +6313,7 @@
           "submissionValue": "AE",
           "synonyms": [
             "AE",
-            " Adverse Events"
+            "Adverse Events"
           ]
         },
         {
@@ -6323,7 +6323,7 @@
           "submissionValue": "AU",
           "synonyms": [
             "AU",
-            " Autopsy"
+            "Autopsy"
           ]
         },
         {
@@ -6333,7 +6333,7 @@
           "submissionValue": "BM",
           "synonyms": [
             "BM",
-            " Bone Mineral Density (BMD) Data"
+            "Bone Mineral Density (BMD) Data"
           ]
         },
         {
@@ -6343,7 +6343,7 @@
           "submissionValue": "BR",
           "synonyms": [
             "BR",
-            " Biopsy"
+            "Biopsy"
           ]
         },
         {
@@ -6353,7 +6353,7 @@
           "submissionValue": "CM",
           "synonyms": [
             "CM",
-            " Concomitant Meds"
+            "Concomitant Meds"
           ]
         },
         {
@@ -6363,7 +6363,7 @@
           "submissionValue": "CO",
           "synonyms": [
             "CO",
-            " Comments"
+            "Comments"
           ]
         },
         {
@@ -6373,7 +6373,7 @@
           "submissionValue": "DA",
           "synonyms": [
             "DA",
-            " Drug Accountability"
+            "Drug Accountability"
           ]
         },
         {
@@ -6383,7 +6383,7 @@
           "submissionValue": "DC",
           "synonyms": [
             "DC",
-            " Disease Characteristics"
+            "Disease Characteristics"
           ]
         },
         {
@@ -6393,7 +6393,7 @@
           "submissionValue": "DM",
           "synonyms": [
             "DM",
-            " Demographics"
+            "Demographics"
           ]
         },
         {
@@ -6403,7 +6403,7 @@
           "submissionValue": "DS",
           "synonyms": [
             "DS",
-            " Disposition"
+            "Disposition"
           ]
         },
         {
@@ -6413,7 +6413,7 @@
           "submissionValue": "DV",
           "synonyms": [
             "DV",
-            " Protocol Deviations"
+            "Protocol Deviations"
           ]
         },
         {
@@ -6423,7 +6423,7 @@
           "submissionValue": "EE",
           "synonyms": [
             "EE",
-            " Electroencephalogram"
+            "Electroencephalogram"
           ]
         },
         {
@@ -6433,7 +6433,7 @@
           "submissionValue": "EG",
           "synonyms": [
             "EG",
-            " Electrocardiogram"
+            "Electrocardiogram"
           ]
         },
         {
@@ -6443,7 +6443,7 @@
           "submissionValue": "EX",
           "synonyms": [
             "EX",
-            " Exposure"
+            "Exposure"
           ]
         },
         {
@@ -6453,7 +6453,7 @@
           "submissionValue": "FH",
           "synonyms": [
             "FH",
-            " Family History"
+            "Family History"
           ]
         },
         {
@@ -6463,7 +6463,7 @@
           "submissionValue": "HU",
           "synonyms": [
             "HU",
-            " Healthcare Resource Utilization"
+            "Healthcare Resource Utilization"
           ]
         },
         {
@@ -6473,7 +6473,7 @@
           "submissionValue": "IE",
           "synonyms": [
             "IE",
-            " Inclusion/Exclusion"
+            "Inclusion/Exclusion"
           ]
         },
         {
@@ -6483,7 +6483,7 @@
           "submissionValue": "LB",
           "synonyms": [
             "LB",
-            " Laboratory Data"
+            "Laboratory Data"
           ]
         },
         {
@@ -6493,7 +6493,7 @@
           "submissionValue": "MB",
           "synonyms": [
             "MB",
-            " Microbiology"
+            "Microbiology"
           ]
         },
         {
@@ -6503,7 +6503,7 @@
           "submissionValue": "MH",
           "synonyms": [
             "MH",
-            " Medical History"
+            "Medical History"
           ]
         },
         {
@@ -6513,7 +6513,7 @@
           "submissionValue": "ML",
           "synonyms": [
             "ML",
-            " Meal Data"
+            "Meal Data"
           ]
         },
         {
@@ -6523,7 +6523,7 @@
           "submissionValue": "MS",
           "synonyms": [
             "MS",
-            " Microbiology Susceptibility"
+            "Microbiology Susceptibility"
           ]
         },
         {
@@ -6533,7 +6533,7 @@
           "submissionValue": "OM",
           "synonyms": [
             "OM",
-            " Organ Measurements"
+            "Organ Measurements"
           ]
         },
         {
@@ -6543,7 +6543,7 @@
           "submissionValue": "PC",
           "synonyms": [
             "PC",
-            " Pharmacokinetic Concentration"
+            "Pharmacokinetic Concentration"
           ]
         },
         {
@@ -6553,7 +6553,7 @@
           "submissionValue": "PE",
           "synonyms": [
             "PE",
-            " Physical Exam"
+            "Physical Exam"
           ]
         },
         {
@@ -6563,7 +6563,7 @@
           "submissionValue": "PG",
           "synonyms": [
             "PG",
-            " Pharmacogenomics"
+            "Pharmacogenomics"
           ]
         },
         {
@@ -6573,7 +6573,7 @@
           "submissionValue": "PP",
           "synonyms": [
             "PP",
-            " Pharmacokinetic Parameters"
+            "Pharmacokinetic Parameters"
           ]
         },
         {
@@ -6583,7 +6583,7 @@
           "submissionValue": "QS",
           "synonyms": [
             "QS",
-            " Questionnaires"
+            "Questionnaires"
           ]
         },
         {
@@ -6593,7 +6593,7 @@
           "submissionValue": "SC",
           "synonyms": [
             "SC",
-            " Subject Characteristics"
+            "Subject Characteristics"
           ]
         },
         {
@@ -6603,7 +6603,7 @@
           "submissionValue": "SE",
           "synonyms": [
             "SE",
-            " Subject Element"
+            "Subject Element"
           ]
         },
         {
@@ -6613,7 +6613,7 @@
           "submissionValue": "SG",
           "synonyms": [
             "SG",
-            " Surgery"
+            "Surgery"
           ]
         },
         {
@@ -6623,7 +6623,7 @@
           "submissionValue": "SK",
           "synonyms": [
             "SK",
-            " Skin Test"
+            "Skin Test"
           ]
         },
         {
@@ -6633,7 +6633,7 @@
           "submissionValue": "SL",
           "synonyms": [
             "SL",
-            " Sleep Polysomnography Data"
+            "Sleep Polysomnography Data"
           ]
         },
         {
@@ -6643,7 +6643,7 @@
           "submissionValue": "ST",
           "synonyms": [
             "ST",
-            " Stress (Exercise) Test Data"
+            "Stress (Exercise) Test Data"
           ]
         },
         {
@@ -6653,7 +6653,7 @@
           "submissionValue": "SU",
           "synonyms": [
             "SU",
-            " Substance Use"
+            "Substance Use"
           ]
         },
         {
@@ -6663,7 +6663,7 @@
           "submissionValue": "SV",
           "synonyms": [
             "SV",
-            " Subject Visits"
+            "Subject Visits"
           ]
         },
         {
@@ -6673,7 +6673,7 @@
           "submissionValue": "TA",
           "synonyms": [
             "TA",
-            " Trial Arms"
+            "Trial Arms"
           ]
         },
         {
@@ -6683,7 +6683,7 @@
           "submissionValue": "TE",
           "synonyms": [
             "TE",
-            " Trial Elements"
+            "Trial Elements"
           ]
         },
         {
@@ -6693,7 +6693,7 @@
           "submissionValue": "TI",
           "synonyms": [
             "TI",
-            " Trial Inclusion/Exclusion Criteria"
+            "Trial Inclusion/Exclusion Criteria"
           ]
         },
         {
@@ -6703,7 +6703,7 @@
           "submissionValue": "TS",
           "synonyms": [
             "TS",
-            " Trial Summary"
+            "Trial Summary"
           ]
         },
         {
@@ -6713,7 +6713,7 @@
           "submissionValue": "TV",
           "synonyms": [
             "TV",
-            " Trial Visits"
+            "Trial Visits"
           ]
         },
         {
@@ -6723,7 +6723,7 @@
           "submissionValue": "VS",
           "synonyms": [
             "VS",
-            " Vital Signs"
+            "Vital Signs"
           ]
         }
       ]
@@ -6737,7 +6737,7 @@
       "submissionValue": "TBLIND",
       "synonyms": [
         "TBLIND",
-        " Trial Blinding Schema"
+        "Trial Blinding Schema"
       ],
       "terms": [
         {
@@ -6778,7 +6778,7 @@
       "submissionValue": "TINDTP",
       "synonyms": [
         "TINDTP",
-        " Trial Indication Type"
+        "Trial Indication Type"
       ],
       "terms": [
         {
@@ -6837,7 +6837,7 @@
       "submissionValue": "TPHASE",
       "synonyms": [
         "TPHASE",
-        " Trial Phase"
+        "Trial Phase"
       ],
       "terms": [
         {
@@ -6847,8 +6847,8 @@
           "submissionValue": "Phase I Trial",
           "synonyms": [
             "Phase I Trial",
-            " Trial Phase 1",
-            " 1"
+            "Trial Phase 1",
+            "1"
           ]
         },
         {
@@ -6858,8 +6858,8 @@
           "submissionValue": "Phase I/II Trial",
           "synonyms": [
             "Phase I/II Trial",
-            " Trial Phase 1-2",
-            " 1-2"
+            "Trial Phase 1-2",
+            "1-2"
           ]
         },
         {
@@ -6869,8 +6869,8 @@
           "submissionValue": "Phase II Trial",
           "synonyms": [
             "Phase II Trial",
-            " Trial Phase 2",
-            " 2"
+            "Trial Phase 2",
+            "2"
           ]
         },
         {
@@ -6880,8 +6880,8 @@
           "submissionValue": "Phase II/III Trial",
           "synonyms": [
             "Phase II/III Trial",
-            " Trial Phase 2-3",
-            " 2-3"
+            "Trial Phase 2-3",
+            "2-3"
           ]
         },
         {
@@ -6891,8 +6891,8 @@
           "submissionValue": "Phase II A Trial",
           "synonyms": [
             "Phase II A Trial",
-            " Trial Phase 2A",
-            " 2A"
+            "Trial Phase 2A",
+            "2A"
           ]
         },
         {
@@ -6902,8 +6902,8 @@
           "submissionValue": "Phase II B Trial",
           "synonyms": [
             "Phase II B Trial",
-            " Trial Phase 2B",
-            " 2B"
+            "Trial Phase 2B",
+            "2B"
           ]
         },
         {
@@ -6913,8 +6913,8 @@
           "submissionValue": "Phase III Trial",
           "synonyms": [
             "Phase III Trial",
-            " Trial Phase 3",
-            " 3"
+            "Trial Phase 3",
+            "3"
           ]
         },
         {
@@ -6924,8 +6924,8 @@
           "submissionValue": "Phase IIIA Trial",
           "synonyms": [
             "Phase IIIA Trial",
-            " Trial Phase 3A",
-            " 3A"
+            "Trial Phase 3A",
+            "3A"
           ]
         },
         {
@@ -6935,8 +6935,8 @@
           "submissionValue": "Phase III B Trial",
           "synonyms": [
             "Phase III B Trial",
-            " Trial Phase 3B",
-            " 3B"
+            "Trial Phase 3B",
+            "3B"
           ]
         },
         {
@@ -6946,8 +6946,8 @@
           "submissionValue": "Phase IV Trial",
           "synonyms": [
             "Phase IV Trial",
-            " Trial Phase 4",
-            " 4"
+            "Trial Phase 4",
+            "4"
           ]
         },
         {
@@ -6957,8 +6957,8 @@
           "submissionValue": "Phase V Trial",
           "synonyms": [
             "Phase V Trial",
-            " Trial Phase 5",
-            " 5"
+            "Trial Phase 5",
+            "5"
           ]
         },
         {
@@ -6967,8 +6967,8 @@
           "preferredTerm": "Not Applicable",
           "submissionValue": "",
           "synonyms": [
-            "NOT APPLICABLE ",
-            " NA"
+            "NOT APPLICABLE",
+            "NA"
           ]
         }
       ]
@@ -6982,7 +6982,7 @@
       "submissionValue": "TSPARMCD",
       "synonyms": [
         "TSPARMCD",
-        " Trial Summary Parameter Test Code"
+        "Trial Summary Parameter Test Code"
       ],
       "terms": [
         {
@@ -6992,7 +6992,7 @@
           "submissionValue": "ADDON",
           "synonyms": [
             "ADDON",
-            " Added on to Existing Treatments"
+            "Added on to Existing Treatments"
           ]
         },
         {
@@ -7002,7 +7002,7 @@
           "submissionValue": "AEDICT",
           "synonyms": [
             "AEDICT",
-            " Adverse Event Dictionary"
+            "Adverse Event Dictionary"
           ]
         },
         {
@@ -7012,7 +7012,7 @@
           "submissionValue": "AGEMAX",
           "synonyms": [
             "AGEMAX",
-            " Planned Maximum Age of Subjects"
+            "Planned Maximum Age of Subjects"
           ]
         },
         {
@@ -7022,7 +7022,7 @@
           "submissionValue": "AGEMIN",
           "synonyms": [
             "AGEMIN",
-            " Planned Minimum Age of Subjects"
+            "Planned Minimum Age of Subjects"
           ]
         },
         {
@@ -7032,7 +7032,7 @@
           "submissionValue": "AGESPAN",
           "synonyms": [
             "AGESPAN",
-            " Age Group"
+            "Age Group"
           ]
         },
         {
@@ -7042,7 +7042,7 @@
           "submissionValue": "AGEU",
           "synonyms": [
             "AGEU",
-            " Age Unit"
+            "Age Unit"
           ]
         },
         {
@@ -7052,7 +7052,7 @@
           "submissionValue": "DOSE",
           "synonyms": [
             "DOSE",
-            " Dose per Administration"
+            "Dose per Administration"
           ]
         },
         {
@@ -7062,7 +7062,7 @@
           "submissionValue": "DRUGDICT",
           "synonyms": [
             "DRUGDICT",
-            " Drug Dictionary"
+            "Drug Dictionary"
           ]
         },
         {
@@ -7072,7 +7072,7 @@
           "submissionValue": "LENGTH",
           "synonyms": [
             "LENGTH",
-            " Trial Length"
+            "Trial Length"
           ]
         },
         {
@@ -7082,7 +7082,7 @@
           "submissionValue": "MHDICT",
           "synonyms": [
             "MHDICT",
-            " Medical History Dictionary"
+            "Medical History Dictionary"
           ]
         },
         {
@@ -7092,7 +7092,7 @@
           "submissionValue": "PLANSUB",
           "synonyms": [
             "PLANSUB",
-            " Planned Number of Subjects"
+            "Planned Number of Subjects"
           ]
         },
         {
@@ -7102,7 +7102,7 @@
           "submissionValue": "RANDOM",
           "synonyms": [
             "RANDOM",
-            " Trial is Randomized"
+            "Trial is Randomized"
           ]
         },
         {
@@ -7112,7 +7112,7 @@
           "submissionValue": "ROUTE",
           "synonyms": [
             "ROUTE",
-            " Route of Administration"
+            "Route of Administration"
           ]
         },
         {
@@ -7122,7 +7122,7 @@
           "submissionValue": "SEXPOP",
           "synonyms": [
             "SEXPOP",
-            " Sex of Participants"
+            "Sex of Participants"
           ]
         },
         {
@@ -7132,7 +7132,7 @@
           "submissionValue": "STOPRULE",
           "synonyms": [
             "STOPRULE",
-            " Study Stop Rules"
+            "Study Stop Rules"
           ]
         },
         {
@@ -7142,7 +7142,7 @@
           "submissionValue": "TBLIND",
           "synonyms": [
             "TBLIND",
-            " Trial Blinding Schema"
+            "Trial Blinding Schema"
           ]
         },
         {
@@ -7152,7 +7152,7 @@
           "submissionValue": "TCNTRL",
           "synonyms": [
             "TCNTRL",
-            " Control Type"
+            "Control Type"
           ]
         },
         {
@@ -7162,7 +7162,7 @@
           "submissionValue": "TDIGRP",
           "synonyms": [
             "TDIGRP",
-            " Diagnosis Group"
+            "Diagnosis Group"
           ]
         },
         {
@@ -7172,7 +7172,7 @@
           "submissionValue": "TINDTP",
           "synonyms": [
             "TINDTP",
-            " Trial Indication Type"
+            "Trial Indication Type"
           ]
         },
         {
@@ -7182,7 +7182,7 @@
           "submissionValue": "TITLE",
           "synonyms": [
             "TITLE",
-            " Trial Title"
+            "Trial Title"
           ]
         },
         {
@@ -7192,7 +7192,7 @@
           "submissionValue": "TPHASE",
           "synonyms": [
             "TPHASE",
-            " Trial Phase Classification"
+            "Trial Phase Classification"
           ]
         },
         {
@@ -7202,7 +7202,7 @@
           "submissionValue": "TTYPE",
           "synonyms": [
             "TTYPE",
-            " Trial Type"
+            "Trial Type"
           ]
         }
       ]
@@ -7216,7 +7216,7 @@
       "submissionValue": "TSPARM",
       "synonyms": [
         "TSPARM",
-        " Trial Summary Parameter Test Name"
+        "Trial Summary Parameter Test Name"
       ],
       "terms": [
         {
@@ -7226,7 +7226,7 @@
           "submissionValue": "Added on to Existing Treatments",
           "synonyms": [
             "ADDON",
-            " Added on to Existing Treatments"
+            "Added on to Existing Treatments"
           ]
         },
         {
@@ -7236,7 +7236,7 @@
           "submissionValue": "Adverse Event Dictionary",
           "synonyms": [
             "AEDICT",
-            " Adverse Event Dictionary"
+            "Adverse Event Dictionary"
           ]
         },
         {
@@ -7246,7 +7246,7 @@
           "submissionValue": "Planned Maximum Age of Subjects",
           "synonyms": [
             "AGEMAX",
-            " Planned Maximum Age of Subjects"
+            "Planned Maximum Age of Subjects"
           ]
         },
         {
@@ -7256,7 +7256,7 @@
           "submissionValue": "Planned Minimum Age of Subjects",
           "synonyms": [
             "AGEMIN",
-            " Planned Minimum Age of Subjects"
+            "Planned Minimum Age of Subjects"
           ]
         },
         {
@@ -7266,7 +7266,7 @@
           "submissionValue": "Age Span",
           "synonyms": [
             "AGESPAN",
-            " Age Group"
+            "Age Group"
           ]
         },
         {
@@ -7276,7 +7276,7 @@
           "submissionValue": "Age Unit",
           "synonyms": [
             "AGEU",
-            " Age Unit"
+            "Age Unit"
           ]
         },
         {
@@ -7286,7 +7286,7 @@
           "submissionValue": "Dose per Administration",
           "synonyms": [
             "DOSE",
-            " Dose per Administration"
+            "Dose per Administration"
           ]
         },
         {
@@ -7296,7 +7296,7 @@
           "submissionValue": "Drug Dictionary",
           "synonyms": [
             "DRUGDICT",
-            " Drug Dictionary"
+            "Drug Dictionary"
           ]
         },
         {
@@ -7306,7 +7306,7 @@
           "submissionValue": "Trial Length",
           "synonyms": [
             "LENGTH",
-            " Trial Length"
+            "Trial Length"
           ]
         },
         {
@@ -7316,7 +7316,7 @@
           "submissionValue": "Medical History Dictionary",
           "synonyms": [
             "MHDICT",
-            " Medical History Dictionary"
+            "Medical History Dictionary"
           ]
         },
         {
@@ -7326,7 +7326,7 @@
           "submissionValue": "Planned Number of Subjects",
           "synonyms": [
             "PLANSUB",
-            " Planned Number of Subjects"
+            "Planned Number of Subjects"
           ]
         },
         {
@@ -7336,7 +7336,7 @@
           "submissionValue": "Trial is Randomized",
           "synonyms": [
             "RANDOM",
-            " Trial is Randomized"
+            "Trial is Randomized"
           ]
         },
         {
@@ -7346,7 +7346,7 @@
           "submissionValue": "Route of Administration",
           "synonyms": [
             "ROUTE",
-            " Route of Administration"
+            "Route of Administration"
           ]
         },
         {
@@ -7356,7 +7356,7 @@
           "submissionValue": "Sex of Participants",
           "synonyms": [
             "SEXPOP",
-            " Sex of Participants"
+            "Sex of Participants"
           ]
         },
         {
@@ -7366,7 +7366,7 @@
           "submissionValue": "Study Stop Rules",
           "synonyms": [
             "STOPRULE",
-            " Study Stop Rules"
+            "Study Stop Rules"
           ]
         },
         {
@@ -7376,7 +7376,7 @@
           "submissionValue": "Trial Blinding Schema",
           "synonyms": [
             "TBLIND",
-            " Trial Blinding Schema"
+            "Trial Blinding Schema"
           ]
         },
         {
@@ -7386,7 +7386,7 @@
           "submissionValue": "Control Type",
           "synonyms": [
             "TCNTRL",
-            " Control Type"
+            "Control Type"
           ]
         },
         {
@@ -7396,7 +7396,7 @@
           "submissionValue": "Diagnosis Group",
           "synonyms": [
             "TDIGRP",
-            " Diagnosis Group"
+            "Diagnosis Group"
           ]
         },
         {
@@ -7406,7 +7406,7 @@
           "submissionValue": "Trial Indication Type",
           "synonyms": [
             "TINDTP",
-            " Trial Indication Type"
+            "Trial Indication Type"
           ]
         },
         {
@@ -7416,7 +7416,7 @@
           "submissionValue": "Trial Title",
           "synonyms": [
             "TITLE",
-            " Trial Title"
+            "Trial Title"
           ]
         },
         {
@@ -7426,7 +7426,7 @@
           "submissionValue": "Trial Phase Classification",
           "synonyms": [
             "TPHASE",
-            " Trial Phase Classification"
+            "Trial Phase Classification"
           ]
         },
         {
@@ -7436,7 +7436,7 @@
           "submissionValue": "Trial Type",
           "synonyms": [
             "TTYPE",
-            " Trial Type"
+            "Trial Type"
           ]
         }
       ]
@@ -7450,7 +7450,7 @@
       "submissionValue": "TTYPE",
       "synonyms": [
         "TTYPE",
-        " Trial Type"
+        "Trial Type"
       ],
       "terms": [
         {
@@ -7536,7 +7536,7 @@
       "submissionValue": "VSRESU",
       "synonyms": [
         "VSRESU",
-        " Units for Vital Signs Results"
+        "Units for Vital Signs Results"
       ],
       "terms": [
         {
@@ -7546,7 +7546,7 @@
           "submissionValue": "%",
           "synonyms": [
             "%",
-            " Percentage"
+            "Percentage"
           ]
         },
         {
@@ -7556,7 +7556,7 @@
           "submissionValue": "BEATS/MIN",
           "synonyms": [
             "BEATS/MIN",
-            " Beats per Minute"
+            "Beats per Minute"
           ]
         },
         {
@@ -7566,7 +7566,7 @@
           "submissionValue": "BREATHS/MIN",
           "synonyms": [
             "BREATHS/MIN",
-            " Breaths per Minute"
+            "Breaths per Minute"
           ]
         },
         {
@@ -7576,7 +7576,7 @@
           "submissionValue": "C",
           "synonyms": [
             "C",
-            " Degree Celsius"
+            "Degree Celsius"
           ]
         },
         {
@@ -7586,7 +7586,7 @@
           "submissionValue": "cm",
           "synonyms": [
             "cm",
-            " Centimeter"
+            "Centimeter"
           ]
         },
         {
@@ -7596,7 +7596,7 @@
           "submissionValue": "F",
           "synonyms": [
             "F",
-            " Degree Fahrenheit"
+            "Degree Fahrenheit"
           ]
         },
         {
@@ -7606,7 +7606,7 @@
           "submissionValue": "g",
           "synonyms": [
             "g",
-            " Gram"
+            "Gram"
           ]
         },
         {
@@ -7625,7 +7625,7 @@
           "submissionValue": "kg",
           "synonyms": [
             "kg",
-            " Kilogram"
+            "Kilogram"
           ]
         },
         {
@@ -7635,7 +7635,7 @@
           "submissionValue": "kg/m2",
           "synonyms": [
             "kg/m2",
-            " Kilogram Per Square Meter"
+            "Kilogram Per Square Meter"
           ]
         },
         {
@@ -7645,7 +7645,7 @@
           "submissionValue": "LB",
           "synonyms": [
             "LB",
-            " Pound"
+            "Pound"
           ]
         },
         {
@@ -7655,7 +7655,7 @@
           "submissionValue": "m2",
           "synonyms": [
             "m2",
-            " Square Meter"
+            "Square Meter"
           ]
         },
         {
@@ -7665,7 +7665,7 @@
           "submissionValue": "mmHg",
           "synonyms": [
             "mmHg",
-            " Millimeter of Mercury"
+            "Millimeter of Mercury"
           ]
         },
         {
@@ -7688,7 +7688,7 @@
       "submissionValue": "VSTESTCD",
       "synonyms": [
         "VSTESTCD",
-        " Vital Signs Test Code"
+        "Vital Signs Test Code"
       ],
       "terms": [
         {
@@ -7698,7 +7698,7 @@
           "submissionValue": "BMI",
           "synonyms": [
             "BMI",
-            " Body Mass Index"
+            "Body Mass Index"
           ]
         },
         {
@@ -7708,7 +7708,7 @@
           "submissionValue": "BODYFAT",
           "synonyms": [
             "BODYFAT",
-            " Adipose Tissue"
+            "Adipose Tissue"
           ]
         },
         {
@@ -7718,7 +7718,7 @@
           "submissionValue": "BSA",
           "synonyms": [
             "BSA",
-            " Body Surface Area"
+            "Body Surface Area"
           ]
         },
         {
@@ -7728,7 +7728,7 @@
           "submissionValue": "DIABP",
           "synonyms": [
             "DIABP",
-            " Diastolic Blood Pressure"
+            "Diastolic Blood Pressure"
           ]
         },
         {
@@ -7738,7 +7738,7 @@
           "submissionValue": "FRMSIZE",
           "synonyms": [
             "FRMSIZE",
-            " Body Frame Size"
+            "Body Frame Size"
           ]
         },
         {
@@ -7748,7 +7748,7 @@
           "submissionValue": "HEIGHT",
           "synonyms": [
             "HEIGHT",
-            " Height"
+            "Height"
           ]
         },
         {
@@ -7758,7 +7758,7 @@
           "submissionValue": "HR",
           "synonyms": [
             "HR",
-            " Heart Rate"
+            "Heart Rate"
           ]
         },
         {
@@ -7768,7 +7768,7 @@
           "submissionValue": "MAP",
           "synonyms": [
             "MAP",
-            " Mean Arterial Pressure"
+            "Mean Arterial Pressure"
           ]
         },
         {
@@ -7778,7 +7778,7 @@
           "submissionValue": "PULSE",
           "synonyms": [
             "PULSE",
-            " Pulse Rate"
+            "Pulse Rate"
           ]
         },
         {
@@ -7788,7 +7788,7 @@
           "submissionValue": "RESP",
           "synonyms": [
             "RESP",
-            " Respiratory Rate"
+            "Respiratory Rate"
           ]
         },
         {
@@ -7798,7 +7798,7 @@
           "submissionValue": "SYSBP",
           "synonyms": [
             "SYSBP",
-            " Systolic Blood Pressure"
+            "Systolic Blood Pressure"
           ]
         },
         {
@@ -7808,7 +7808,7 @@
           "submissionValue": "TEMP",
           "synonyms": [
             "TEMP",
-            " Temperature"
+            "Temperature"
           ]
         },
         {
@@ -7818,7 +7818,7 @@
           "submissionValue": "WEIGHT",
           "synonyms": [
             "WEIGHT",
-            " Weight"
+            "Weight"
           ]
         }
       ]
@@ -7832,7 +7832,7 @@
       "submissionValue": "VSTEST",
       "synonyms": [
         "VSTEST",
-        " Vital Signs Test Name"
+        "Vital Signs Test Name"
       ],
       "terms": [
         {
@@ -7842,7 +7842,7 @@
           "submissionValue": "Body Mass Index",
           "synonyms": [
             "BMI",
-            " Body Mass Index"
+            "Body Mass Index"
           ]
         },
         {
@@ -7852,7 +7852,7 @@
           "submissionValue": "Body Fat",
           "synonyms": [
             "BODYFAT",
-            " Adipose Tissue"
+            "Adipose Tissue"
           ]
         },
         {
@@ -7862,7 +7862,7 @@
           "submissionValue": "Body Surface Area",
           "synonyms": [
             "BSA",
-            " Body Surface Area"
+            "Body Surface Area"
           ]
         },
         {
@@ -7872,7 +7872,7 @@
           "submissionValue": "Diastolic Blood Pressure",
           "synonyms": [
             "DIABP",
-            " Diastolic Blood Pressure"
+            "Diastolic Blood Pressure"
           ]
         },
         {
@@ -7882,7 +7882,7 @@
           "submissionValue": "Frame Size",
           "synonyms": [
             "FRMSIZE",
-            " Body Frame Size"
+            "Body Frame Size"
           ]
         },
         {
@@ -7892,7 +7892,7 @@
           "submissionValue": "Height",
           "synonyms": [
             "HEIGHT",
-            " Height"
+            "Height"
           ]
         },
         {
@@ -7902,7 +7902,7 @@
           "submissionValue": "Heart Rate",
           "synonyms": [
             "HR",
-            " Heart Rate"
+            "Heart Rate"
           ]
         },
         {
@@ -7912,7 +7912,7 @@
           "submissionValue": "Mean Arterial Pressure",
           "synonyms": [
             "MAP",
-            " Mean Arterial Pressure"
+            "Mean Arterial Pressure"
           ]
         },
         {
@@ -7922,7 +7922,7 @@
           "submissionValue": "Pulse Rate",
           "synonyms": [
             "PULSE",
-            " Pulse Rate"
+            "Pulse Rate"
           ]
         },
         {
@@ -7932,7 +7932,7 @@
           "submissionValue": "Respiratory Rate",
           "synonyms": [
             "RESP",
-            " Respiratory Rate"
+            "Respiratory Rate"
           ]
         },
         {
@@ -7942,7 +7942,7 @@
           "submissionValue": "Systolic Blood Pressure",
           "synonyms": [
             "SYSBP",
-            " Systolic Blood Pressure"
+            "Systolic Blood Pressure"
           ]
         },
         {
@@ -7952,7 +7952,7 @@
           "submissionValue": "Temperature",
           "synonyms": [
             "TEMP",
-            " Temperature"
+            "Temperature"
           ]
         },
         {
@@ -7962,7 +7962,7 @@
           "submissionValue": "Weight",
           "synonyms": [
             "WEIGHT",
-            " Weight"
+            "Weight"
           ]
         }
       ]
@@ -7976,7 +7976,7 @@
       "submissionValue": "NY",
       "synonyms": [
         "NY",
-        " No Yes Response"
+        "No Yes Response"
       ],
       "terms": [
         {
@@ -7986,7 +7986,7 @@
           "submissionValue": "N",
           "synonyms": [
             "N",
-            " No"
+            "No"
           ]
         },
         {
@@ -7996,7 +7996,7 @@
           "submissionValue": "",
           "synonyms": [
             "NOT APPLICABLE",
-            " NA"
+            "NA"
           ]
         },
         {
@@ -8006,8 +8006,8 @@
           "submissionValue": "U",
           "synonyms": [
             "UNKNOWN",
-            " U",
-            " Unknown"
+            "U",
+            "Unknown"
           ]
         },
         {
@@ -8017,7 +8017,7 @@
           "submissionValue": "Y",
           "synonyms": [
             "Y",
-            " Yes"
+            "Yes"
           ]
         }
       ]
@@ -8031,7 +8031,7 @@
       "submissionValue": "LBTESTCD",
       "synonyms": [
         "LBTESTCD",
-        " Laboratory Test Code "
+        "Laboratory Test Code"
       ],
       "terms": [
         {
@@ -8041,7 +8041,7 @@
           "submissionValue": "ANISO",
           "synonyms": [
             "ANISO",
-            " Anisocytosis"
+            "Anisocytosis"
           ]
         },
         {
@@ -8051,7 +8051,7 @@
           "submissionValue": "POIKILO",
           "synonyms": [
             "POIKILO",
-            " Poikilocytes"
+            "Poikilocytes"
           ]
         },
         {
@@ -8061,7 +8061,7 @@
           "submissionValue": "BILI",
           "synonyms": [
             "BILI",
-            " Bilirubin"
+            "Bilirubin"
           ]
         },
         {
@@ -8071,7 +8071,7 @@
           "submissionValue": "APTT",
           "synonyms": [
             "APTT",
-            " Activated Partial Thromboplastin Time"
+            "Activated Partial Thromboplastin Time"
           ]
         },
         {
@@ -8081,7 +8081,7 @@
           "submissionValue": "GLUC",
           "synonyms": [
             "GLUC",
-            " Glucose"
+            "Glucose"
           ]
         },
         {
@@ -8091,7 +8091,7 @@
           "submissionValue": "PH",
           "synonyms": [
             "PH",
-            " pH"
+            "pH"
           ]
         },
         {
@@ -8101,7 +8101,7 @@
           "submissionValue": "RBC",
           "synonyms": [
             "RBC",
-            " Erythrocytes"
+            "Erythrocytes"
           ]
         },
         {
@@ -8111,7 +8111,7 @@
           "submissionValue": "RETI",
           "synonyms": [
             "RETI",
-            " Reticulocytes"
+            "Reticulocytes"
           ]
         },
         {
@@ -8121,7 +8121,7 @@
           "submissionValue": "WBC",
           "synonyms": [
             "WBC",
-            " Leukocytes"
+            "Leukocytes"
           ]
         },
         {
@@ -8131,7 +8131,7 @@
           "submissionValue": "LYM",
           "synonyms": [
             "LYM",
-            " Lymphocytes"
+            "Lymphocytes"
           ]
         },
         {
@@ -8141,7 +8141,7 @@
           "submissionValue": "PLAT",
           "synonyms": [
             "PLAT",
-            " Platelet"
+            "Platelet"
           ]
         },
         {
@@ -8151,7 +8151,7 @@
           "submissionValue": "BUN",
           "synonyms": [
             "BUN",
-            " Blood Urea Nitrogen"
+            "Blood Urea Nitrogen"
           ]
         },
         {
@@ -8161,7 +8161,7 @@
           "submissionValue": "CHOL",
           "synonyms": [
             "CHOL",
-            " Cholesterol"
+            "Cholesterol"
           ]
         },
         {
@@ -8171,7 +8171,7 @@
           "submissionValue": "HDL",
           "synonyms": [
             "HDL",
-            " HDL Cholesterol"
+            "HDL Cholesterol"
           ]
         },
         {
@@ -8181,7 +8181,7 @@
           "submissionValue": "LDL",
           "synonyms": [
             "LDL",
-            " LDL Cholesterol"
+            "LDL Cholesterol"
           ]
         },
         {
@@ -8191,7 +8191,7 @@
           "submissionValue": "PT",
           "synonyms": [
             "PT",
-            " Prothrombin Time"
+            "Prothrombin Time"
           ]
         },
         {
@@ -8201,7 +8201,7 @@
           "submissionValue": "NEUT",
           "synonyms": [
             "NEUT",
-            " Neutrophils"
+            "Neutrophils"
           ]
         },
         {
@@ -8211,7 +8211,7 @@
           "submissionValue": "ALB",
           "synonyms": [
             "ALB",
-            " Albumin"
+            "Albumin"
           ]
         },
         {
@@ -8221,7 +8221,7 @@
           "submissionValue": "ALP",
           "synonyms": [
             "ALP",
-            " Alkaline Phosphatase"
+            "Alkaline Phosphatase"
           ]
         },
         {
@@ -8231,7 +8231,7 @@
           "submissionValue": "ALT",
           "synonyms": [
             "ALT",
-            " Alanine Aminotransferase"
+            "Alanine Aminotransferase"
           ]
         },
         {
@@ -8241,7 +8241,7 @@
           "submissionValue": "AMYLASE",
           "synonyms": [
             "AMYLASE",
-            " Amylase"
+            "Amylase"
           ]
         },
         {
@@ -8251,7 +8251,7 @@
           "submissionValue": "AST",
           "synonyms": [
             "AST",
-            " Aspartate Aminotransferase"
+            "Aspartate Aminotransferase"
           ]
         },
         {
@@ -8261,7 +8261,7 @@
           "submissionValue": "BACT",
           "synonyms": [
             "BACT",
-            " Bacteria"
+            "Bacteria"
           ]
         },
         {
@@ -8271,7 +8271,7 @@
           "submissionValue": "BASO",
           "synonyms": [
             "BASO",
-            " Basophils"
+            "Basophils"
           ]
         },
         {
@@ -8281,7 +8281,7 @@
           "submissionValue": "BASOLE",
           "synonyms": [
             "BASOLE",
-            " Basophils/Leukocytes"
+            "Basophils/Leukocytes"
           ]
         },
         {
@@ -8291,7 +8291,7 @@
           "submissionValue": "BILDIR",
           "synonyms": [
             "BILDIR",
-            " Direct Bilirubin"
+            "Direct Bilirubin"
           ]
         },
         {
@@ -8301,7 +8301,7 @@
           "submissionValue": "BILIND",
           "synonyms": [
             "BILIND",
-            " Indirect Bilirubin"
+            "Indirect Bilirubin"
           ]
         },
         {
@@ -8311,7 +8311,7 @@
           "submissionValue": "BLASTLE",
           "synonyms": [
             "BLASTLE",
-            " Blasts/Leukocytes"
+            "Blasts/Leukocytes"
           ]
         },
         {
@@ -8321,7 +8321,7 @@
           "submissionValue": "CA",
           "synonyms": [
             "CA",
-            " Calcium"
+            "Calcium"
           ]
         },
         {
@@ -8331,7 +8331,7 @@
           "submissionValue": "CK",
           "synonyms": [
             "CK",
-            " Creatine Kinase"
+            "Creatine Kinase"
           ]
         },
         {
@@ -8341,7 +8341,7 @@
           "submissionValue": "CKBB",
           "synonyms": [
             "CKBB",
-            " Creatine Kinase BB"
+            "Creatine Kinase BB"
           ]
         },
         {
@@ -8351,7 +8351,7 @@
           "submissionValue": "CKMB",
           "synonyms": [
             "CKMB",
-            " Creatine Kinase MB"
+            "Creatine Kinase MB"
           ]
         },
         {
@@ -8361,7 +8361,7 @@
           "submissionValue": "CKMM",
           "synonyms": [
             "CKMM",
-            " Creatine Kinase MM"
+            "Creatine Kinase MM"
           ]
         },
         {
@@ -8371,7 +8371,7 @@
           "submissionValue": "CL",
           "synonyms": [
             "CL",
-            " Chloride"
+            "Chloride"
           ]
         },
         {
@@ -8381,7 +8381,7 @@
           "submissionValue": "CO2",
           "synonyms": [
             "CO2",
-            " Carbon Dioxide"
+            "Carbon Dioxide"
           ]
         },
         {
@@ -8391,7 +8391,7 @@
           "submissionValue": "COLOR",
           "synonyms": [
             "COLOR",
-            " Color"
+            "Color"
           ]
         },
         {
@@ -8401,7 +8401,7 @@
           "submissionValue": "CREAT",
           "synonyms": [
             "CREAT",
-            " Creatinine"
+            "Creatinine"
           ]
         },
         {
@@ -8411,7 +8411,7 @@
           "submissionValue": "CRP",
           "synonyms": [
             "CRP",
-            " C Reactive Protein"
+            "C Reactive Protein"
           ]
         },
         {
@@ -8421,7 +8421,7 @@
           "submissionValue": "ELLIPCY",
           "synonyms": [
             "ELLIPCY",
-            " Elliptocytes"
+            "Elliptocytes"
           ]
         },
         {
@@ -8431,7 +8431,7 @@
           "submissionValue": "EOS",
           "synonyms": [
             "EOS",
-            " Eosinophils"
+            "Eosinophils"
           ]
         },
         {
@@ -8441,7 +8441,7 @@
           "submissionValue": "EOSLE",
           "synonyms": [
             "EOSLE",
-            " Eosinophils/Leukocytes"
+            "Eosinophils/Leukocytes"
           ]
         },
         {
@@ -8451,7 +8451,7 @@
           "submissionValue": "EPIC",
           "synonyms": [
             "EPIC",
-            " Epithelial Cells"
+            "Epithelial Cells"
           ]
         },
         {
@@ -8461,7 +8461,7 @@
           "submissionValue": "FIBRINO",
           "synonyms": [
             "FIBRINO",
-            " Fibrinogen"
+            "Fibrinogen"
           ]
         },
         {
@@ -8471,7 +8471,7 @@
           "submissionValue": "HCT",
           "synonyms": [
             "HCT",
-            " Hematocrit"
+            "Hematocrit"
           ]
         },
         {
@@ -8481,7 +8481,7 @@
           "submissionValue": "MCH",
           "synonyms": [
             "MCH",
-            " Ery. Mean Corpuscular Hemoglobin"
+            "Ery. Mean Corpuscular Hemoglobin"
           ]
         },
         {
@@ -8491,7 +8491,7 @@
           "submissionValue": "MCHC",
           "synonyms": [
             "MCHC",
-            " Ery. Mean Corpuscular HB Concentration"
+            "Ery. Mean Corpuscular HB Concentration"
           ]
         },
         {
@@ -8501,7 +8501,7 @@
           "submissionValue": "MCV",
           "synonyms": [
             "MCV",
-            " Ery. Mean Corpuscular Volume"
+            "Ery. Mean Corpuscular Volume"
           ]
         },
         {
@@ -8511,7 +8511,7 @@
           "submissionValue": "RDW",
           "synonyms": [
             "RDW",
-            " Erythrocytes Distribution Width"
+            "Erythrocytes Distribution Width"
           ]
         },
         {
@@ -8521,7 +8521,7 @@
           "submissionValue": "TEARDCY",
           "synonyms": [
             "TEARDCY",
-            " Dacryocytes"
+            "Dacryocytes"
           ]
         },
         {
@@ -8531,7 +8531,7 @@
           "submissionValue": "HYPO",
           "synonyms": [
             "HYPO",
-            " Hypochromia"
+            "Hypochromia"
           ]
         },
         {
@@ -8541,7 +8541,7 @@
           "submissionValue": "POLYCHR",
           "synonyms": [
             "POLYCHR",
-            " Polychromasia"
+            "Polychromasia"
           ]
         },
         {
@@ -8551,7 +8551,7 @@
           "submissionValue": "INR",
           "synonyms": [
             "INR",
-            " Prothrombin Intl. Normalized Ratio"
+            "Prothrombin Intl. Normalized Ratio"
           ]
         },
         {
@@ -8561,7 +8561,7 @@
           "submissionValue": "VLDL",
           "synonyms": [
             "VLDL",
-            " VLDL Cholesterol"
+            "VLDL Cholesterol"
           ]
         },
         {
@@ -8571,7 +8571,7 @@
           "submissionValue": "LIPASE",
           "synonyms": [
             "LIPASE",
-            " Triacylglycerol Lipase"
+            "Triacylglycerol Lipase"
           ]
         },
         {
@@ -8581,7 +8581,7 @@
           "submissionValue": "SODIUM",
           "synonyms": [
             "SODIUM",
-            " Sodium"
+            "Sodium"
           ]
         },
         {
@@ -8591,7 +8591,7 @@
           "submissionValue": "NITRITE",
           "synonyms": [
             "NITRITE",
-            " Nitrite"
+            "Nitrite"
           ]
         },
         {
@@ -8601,7 +8601,7 @@
           "submissionValue": "TRIG",
           "synonyms": [
             "TRIG",
-            " Triglycerides"
+            "Triglycerides"
           ]
         },
         {
@@ -8611,7 +8611,7 @@
           "submissionValue": "TSH",
           "synonyms": [
             "TSH",
-            " Thyrotropin"
+            "Thyrotropin"
           ]
         },
         {
@@ -8621,7 +8621,7 @@
           "submissionValue": "URATE",
           "synonyms": [
             "URATE",
-            " Urate"
+            "Urate"
           ]
         },
         {
@@ -8631,7 +8631,7 @@
           "submissionValue": "UREA",
           "synonyms": [
             "UREA",
-            " Urea"
+            "Urea"
           ]
         },
         {
@@ -8641,7 +8641,7 @@
           "submissionValue": "UROBIL",
           "synonyms": [
             "UROBIL",
-            " Urobilinogen"
+            "Urobilinogen"
           ]
         },
         {
@@ -8651,7 +8651,7 @@
           "submissionValue": "VITB12",
           "synonyms": [
             "VITB12",
-            " Vitamin B12"
+            "Vitamin B12"
           ]
         },
         {
@@ -8661,7 +8661,7 @@
           "submissionValue": "LYMAT",
           "synonyms": [
             "LYMAT",
-            " Lymphocytes Atypical"
+            "Lymphocytes Atypical"
           ]
         },
         {
@@ -8671,7 +8671,7 @@
           "submissionValue": "LYMATLE",
           "synonyms": [
             "LYMATLE",
-            " Lymphocytes Atypical/Leukocytes"
+            "Lymphocytes Atypical/Leukocytes"
           ]
         },
         {
@@ -8681,7 +8681,7 @@
           "submissionValue": "LYMLE",
           "synonyms": [
             "LYMLE",
-            " Lymphocytes/Leukocytes"
+            "Lymphocytes/Leukocytes"
           ]
         },
         {
@@ -8691,7 +8691,7 @@
           "submissionValue": "MACROCY",
           "synonyms": [
             "MACROCY",
-            " Macrocytes"
+            "Macrocytes"
           ]
         },
         {
@@ -8701,7 +8701,7 @@
           "submissionValue": "MICROCY",
           "synonyms": [
             "MICROCY",
-            " Microcytes"
+            "Microcytes"
           ]
         },
         {
@@ -8711,7 +8711,7 @@
           "submissionValue": "MONO",
           "synonyms": [
             "MONO",
-            " Monocytes"
+            "Monocytes"
           ]
         },
         {
@@ -8721,7 +8721,7 @@
           "submissionValue": "MONOLE",
           "synonyms": [
             "MONOLE",
-            " Monocytes/Leukocytes"
+            "Monocytes/Leukocytes"
           ]
         },
         {
@@ -8731,7 +8731,7 @@
           "submissionValue": "MYBLALE",
           "synonyms": [
             "MYBLALE",
-            " Myeloblasts/Leukocytes"
+            "Myeloblasts/Leukocytes"
           ]
         },
         {
@@ -8741,7 +8741,7 @@
           "submissionValue": "MYCYLE",
           "synonyms": [
             "MYCYLE",
-            " Myelocytes/Leukocytes"
+            "Myelocytes/Leukocytes"
           ]
         },
         {
@@ -8751,7 +8751,7 @@
           "submissionValue": "NEUTLE",
           "synonyms": [
             "NEUTLE",
-            " Neutrophils/Leukocytes"
+            "Neutrophils/Leukocytes"
           ]
         },
         {
@@ -8761,7 +8761,7 @@
           "submissionValue": "RETIRBC",
           "synonyms": [
             "RETIRBC",
-            " Reticulocytes/Erythrocytes"
+            "Reticulocytes/Erythrocytes"
           ]
         },
         {
@@ -8771,7 +8771,7 @@
           "submissionValue": "PRLYMLE",
           "synonyms": [
             "PRLYMLE",
-            " Prolymphocytes/Leukocytes"
+            "Prolymphocytes/Leukocytes"
           ]
         },
         {
@@ -8781,7 +8781,7 @@
           "submissionValue": "NEUTB",
           "synonyms": [
             "NEUTB",
-            " Neutrophils Band Form"
+            "Neutrophils Band Form"
           ]
         },
         {
@@ -8791,7 +8791,7 @@
           "submissionValue": "NEUTBLE",
           "synonyms": [
             "NEUTBLE",
-            " Neutrophils Band Form/Leukocytes"
+            "Neutrophils Band Form/Leukocytes"
           ]
         },
         {
@@ -8801,7 +8801,7 @@
           "submissionValue": "SPGRAV",
           "synonyms": [
             "SPGRAV",
-            " Specific Gravity"
+            "Specific Gravity"
           ]
         },
         {
@@ -8811,7 +8811,7 @@
           "submissionValue": "MG",
           "synonyms": [
             "MG",
-            " Magnesium"
+            "Magnesium"
           ]
         },
         {
@@ -8821,7 +8821,7 @@
           "submissionValue": "GGT",
           "synonyms": [
             "GGT",
-            " Gamma Glutamyl Transferase"
+            "Gamma Glutamyl Transferase"
           ]
         },
         {
@@ -8831,7 +8831,7 @@
           "submissionValue": "HGB",
           "synonyms": [
             "HGB",
-            " Hemoglobin"
+            "Hemoglobin"
           ]
         },
         {
@@ -8841,7 +8841,7 @@
           "submissionValue": "HBA1C",
           "synonyms": [
             "HBA1C",
-            " Hemoglobin A1C"
+            "Hemoglobin A1C"
           ]
         },
         {
@@ -8851,7 +8851,7 @@
           "submissionValue": "HBSAG",
           "synonyms": [
             "HBSAG",
-            " Hepatitis B Virus Surface Antigen"
+            "Hepatitis B Virus Surface Antigen"
           ]
         },
         {
@@ -8861,7 +8861,7 @@
           "submissionValue": "HCG",
           "synonyms": [
             "HCG",
-            " Choriogonadotropin Beta"
+            "Choriogonadotropin Beta"
           ]
         },
         {
@@ -8871,7 +8871,7 @@
           "submissionValue": "K",
           "synonyms": [
             "K",
-            " Potassium"
+            "Potassium"
           ]
         },
         {
@@ -8881,7 +8881,7 @@
           "submissionValue": "KETONES",
           "synonyms": [
             "KETONES",
-            " Ketones"
+            "Ketones"
           ]
         },
         {
@@ -8891,7 +8891,7 @@
           "submissionValue": "LDH",
           "synonyms": [
             "LDH",
-            " Lactate Dehydrogenase"
+            "Lactate Dehydrogenase"
           ]
         },
         {
@@ -8901,7 +8901,7 @@
           "submissionValue": "LEUKASE",
           "synonyms": [
             "LEUKASE",
-            " Leukocyte Esterase"
+            "Leukocyte Esterase"
           ]
         },
         {
@@ -8911,7 +8911,7 @@
           "submissionValue": "PHOS",
           "synonyms": [
             "PHOS",
-            " Phosphate"
+            "Phosphate"
           ]
         },
         {
@@ -8921,7 +8921,7 @@
           "submissionValue": "PROT",
           "synonyms": [
             "PROT",
-            " Protein"
+            "Protein"
           ]
         }
       ]
@@ -8935,7 +8935,7 @@
       "submissionValue": "LBTEST",
       "synonyms": [
         "LBTEST",
-        " Laboratory Test Name "
+        "Laboratory Test Name"
       ],
       "terms": [
         {
@@ -8945,7 +8945,7 @@
           "submissionValue": "Anisocytosis",
           "synonyms": [
             "ANISO",
-            " Anisocytosis"
+            "Anisocytosis"
           ]
         },
         {
@@ -8955,7 +8955,7 @@
           "submissionValue": "Poikilocytes",
           "synonyms": [
             "POIKILO",
-            " Poikilocytes"
+            "Poikilocytes"
           ]
         },
         {
@@ -8965,7 +8965,7 @@
           "submissionValue": "Bilirubin",
           "synonyms": [
             "BILI",
-            " Bilirubin"
+            "Bilirubin"
           ]
         },
         {
@@ -8975,7 +8975,7 @@
           "submissionValue": "Activated Partial Thromboplastin Time",
           "synonyms": [
             "APTT",
-            " Activated Partial Thromboplastin Time"
+            "Activated Partial Thromboplastin Time"
           ]
         },
         {
@@ -8985,7 +8985,7 @@
           "submissionValue": "Glucose",
           "synonyms": [
             "GLUC",
-            " Glucose"
+            "Glucose"
           ]
         },
         {
@@ -8995,7 +8995,7 @@
           "submissionValue": "pH",
           "synonyms": [
             "PH",
-            " pH"
+            "pH"
           ]
         },
         {
@@ -9005,7 +9005,7 @@
           "submissionValue": "Erythrocytes",
           "synonyms": [
             "RBC",
-            " Erythrocytes"
+            "Erythrocytes"
           ]
         },
         {
@@ -9015,7 +9015,7 @@
           "submissionValue": "Reticulocytes",
           "synonyms": [
             "RETI",
-            " Reticulocytes"
+            "Reticulocytes"
           ]
         },
         {
@@ -9025,7 +9025,7 @@
           "submissionValue": "Leukocytes",
           "synonyms": [
             "WBC",
-            " Leukocytes"
+            "Leukocytes"
           ]
         },
         {
@@ -9035,7 +9035,7 @@
           "submissionValue": "Lymphocytes",
           "synonyms": [
             "LYM",
-            " Lymphocytes"
+            "Lymphocytes"
           ]
         },
         {
@@ -9045,7 +9045,7 @@
           "submissionValue": "Platelet",
           "synonyms": [
             "PLAT",
-            " Platelet"
+            "Platelet"
           ]
         },
         {
@@ -9055,7 +9055,7 @@
           "submissionValue": "Blood Urea Nitrogen",
           "synonyms": [
             "BUN",
-            " Blood Urea Nitrogen"
+            "Blood Urea Nitrogen"
           ]
         },
         {
@@ -9065,7 +9065,7 @@
           "submissionValue": "Cholesterol",
           "synonyms": [
             "CHOL",
-            " Cholesterol"
+            "Cholesterol"
           ]
         },
         {
@@ -9075,7 +9075,7 @@
           "submissionValue": "HDL Cholesterol",
           "synonyms": [
             "HDL",
-            " HDL Cholesterol"
+            "HDL Cholesterol"
           ]
         },
         {
@@ -9085,7 +9085,7 @@
           "submissionValue": "LDL Cholesterol",
           "synonyms": [
             "LDL",
-            " LDL Cholesterol"
+            "LDL Cholesterol"
           ]
         },
         {
@@ -9095,7 +9095,7 @@
           "submissionValue": "Prothrombin Time",
           "synonyms": [
             "PT",
-            " Prothrombin Time"
+            "Prothrombin Time"
           ]
         },
         {
@@ -9105,7 +9105,7 @@
           "submissionValue": "Neutrophils",
           "synonyms": [
             "NEUT",
-            " Neutrophils"
+            "Neutrophils"
           ]
         },
         {
@@ -9115,7 +9115,7 @@
           "submissionValue": "Albumin",
           "synonyms": [
             "ALB",
-            " Albumin"
+            "Albumin"
           ]
         },
         {
@@ -9125,7 +9125,7 @@
           "submissionValue": "Alkaline Phosphatase",
           "synonyms": [
             "ALP",
-            " Alkaline Phosphatase"
+            "Alkaline Phosphatase"
           ]
         },
         {
@@ -9135,7 +9135,7 @@
           "submissionValue": "Alanine Aminotransferase",
           "synonyms": [
             "ALT",
-            " Alanine Aminotransferase"
+            "Alanine Aminotransferase"
           ]
         },
         {
@@ -9145,7 +9145,7 @@
           "submissionValue": "Amylase",
           "synonyms": [
             "AMYLASE",
-            " Amylase"
+            "Amylase"
           ]
         },
         {
@@ -9155,7 +9155,7 @@
           "submissionValue": "Aspartate Aminotransferase",
           "synonyms": [
             "AST",
-            " Aspartate Aminotransferase"
+            "Aspartate Aminotransferase"
           ]
         },
         {
@@ -9165,7 +9165,7 @@
           "submissionValue": "Bacteria",
           "synonyms": [
             "BACT",
-            " Bacteria"
+            "Bacteria"
           ]
         },
         {
@@ -9175,7 +9175,7 @@
           "submissionValue": "Basophils",
           "synonyms": [
             "BASO",
-            " Basophils"
+            "Basophils"
           ]
         },
         {
@@ -9185,7 +9185,7 @@
           "submissionValue": "Basophils/Leukocytes",
           "synonyms": [
             "BASOLE",
-            " Basophils/Leukocytes"
+            "Basophils/Leukocytes"
           ]
         },
         {
@@ -9195,7 +9195,7 @@
           "submissionValue": "Direct Bilirubin",
           "synonyms": [
             "BILDIR",
-            " Direct Bilirubin"
+            "Direct Bilirubin"
           ]
         },
         {
@@ -9205,7 +9205,7 @@
           "submissionValue": "Indirect Bilirubin",
           "synonyms": [
             "BILIND",
-            " Indirect Bilirubin"
+            "Indirect Bilirubin"
           ]
         },
         {
@@ -9215,7 +9215,7 @@
           "submissionValue": "Blasts/Leukocytes",
           "synonyms": [
             "BLASTLE",
-            " Blasts/Leukocytes"
+            "Blasts/Leukocytes"
           ]
         },
         {
@@ -9225,7 +9225,7 @@
           "submissionValue": "Calcium",
           "synonyms": [
             "CA",
-            " Calcium"
+            "Calcium"
           ]
         },
         {
@@ -9235,7 +9235,7 @@
           "submissionValue": "Creatine Kinase",
           "synonyms": [
             "CK",
-            " Creatine Kinase"
+            "Creatine Kinase"
           ]
         },
         {
@@ -9245,7 +9245,7 @@
           "submissionValue": "Creatine Kinase BB",
           "synonyms": [
             "CKBB",
-            " Creatine Kinase BB"
+            "Creatine Kinase BB"
           ]
         },
         {
@@ -9255,7 +9255,7 @@
           "submissionValue": "Creatine Kinase MB",
           "synonyms": [
             "CKMB",
-            " Creatine Kinase MB"
+            "Creatine Kinase MB"
           ]
         },
         {
@@ -9265,7 +9265,7 @@
           "submissionValue": "Creatine Kinase MM",
           "synonyms": [
             "CKMM",
-            " Creatine Kinase MM"
+            "Creatine Kinase MM"
           ]
         },
         {
@@ -9275,7 +9275,7 @@
           "submissionValue": "Chloride",
           "synonyms": [
             "CL",
-            " Chloride"
+            "Chloride"
           ]
         },
         {
@@ -9285,7 +9285,7 @@
           "submissionValue": "Carbon Dioxide",
           "synonyms": [
             "CO2",
-            " Carbon Dioxide"
+            "Carbon Dioxide"
           ]
         },
         {
@@ -9295,7 +9295,7 @@
           "submissionValue": "Color",
           "synonyms": [
             "COLOR",
-            " Color"
+            "Color"
           ]
         },
         {
@@ -9305,7 +9305,7 @@
           "submissionValue": "Creatinine",
           "synonyms": [
             "CREAT",
-            " Creatinine"
+            "Creatinine"
           ]
         },
         {
@@ -9315,7 +9315,7 @@
           "submissionValue": "C Reactive Protein",
           "synonyms": [
             "CRP",
-            " C Reactive Protein"
+            "C Reactive Protein"
           ]
         },
         {
@@ -9325,7 +9325,7 @@
           "submissionValue": "Elliptocytes",
           "synonyms": [
             "ELLIPCY",
-            " Elliptocytes"
+            "Elliptocytes"
           ]
         },
         {
@@ -9335,7 +9335,7 @@
           "submissionValue": "Eosinophils",
           "synonyms": [
             "EOS",
-            " Eosinophils"
+            "Eosinophils"
           ]
         },
         {
@@ -9345,7 +9345,7 @@
           "submissionValue": "Eosinophils/Leukocytes",
           "synonyms": [
             "EOSLE",
-            " Eosinophils/Leukocytes"
+            "Eosinophils/Leukocytes"
           ]
         },
         {
@@ -9355,7 +9355,7 @@
           "submissionValue": "Epithelial Cells",
           "synonyms": [
             "EPIC",
-            " Epithelial Cells"
+            "Epithelial Cells"
           ]
         },
         {
@@ -9365,7 +9365,7 @@
           "submissionValue": "Fibrinogen",
           "synonyms": [
             "FIBRINO",
-            " Fibrinogen"
+            "Fibrinogen"
           ]
         },
         {
@@ -9375,7 +9375,7 @@
           "submissionValue": "Hematocrit",
           "synonyms": [
             "HCT",
-            " Hematocrit"
+            "Hematocrit"
           ]
         },
         {
@@ -9385,7 +9385,7 @@
           "submissionValue": "Ery. Mean Corpuscular Hemoglobin",
           "synonyms": [
             "MCH",
-            " Ery. Mean Corpuscular Hemoglobin"
+            "Ery. Mean Corpuscular Hemoglobin"
           ]
         },
         {
@@ -9395,7 +9395,7 @@
           "submissionValue": "Ery. Mean Corpuscular HB Concentration",
           "synonyms": [
             "MCHC",
-            " Ery. Mean Corpuscular HB Concentration"
+            "Ery. Mean Corpuscular HB Concentration"
           ]
         },
         {
@@ -9405,7 +9405,7 @@
           "submissionValue": "Ery. Mean Corpuscular Volume",
           "synonyms": [
             "MCV",
-            " Ery. Mean Corpuscular Volume"
+            "Ery. Mean Corpuscular Volume"
           ]
         },
         {
@@ -9415,7 +9415,7 @@
           "submissionValue": "Erythrocytes Distribution Width",
           "synonyms": [
             "RDW",
-            " Erythrocytes Distribution Width"
+            "Erythrocytes Distribution Width"
           ]
         },
         {
@@ -9425,7 +9425,7 @@
           "submissionValue": "Dacryocytes",
           "synonyms": [
             "TEARDCY",
-            " Dacryocytes"
+            "Dacryocytes"
           ]
         },
         {
@@ -9435,7 +9435,7 @@
           "submissionValue": "Hypochromia",
           "synonyms": [
             "HYPO",
-            " Hypochromia"
+            "Hypochromia"
           ]
         },
         {
@@ -9445,7 +9445,7 @@
           "submissionValue": "Polychromasia",
           "synonyms": [
             "POLYCHR",
-            " Polychromasia"
+            "Polychromasia"
           ]
         },
         {
@@ -9455,7 +9455,7 @@
           "submissionValue": "Prothrombin Intl. Normalized Ratio",
           "synonyms": [
             "INR",
-            " Prothrombin Intl. Normalized Ratio"
+            "Prothrombin Intl. Normalized Ratio"
           ]
         },
         {
@@ -9465,7 +9465,7 @@
           "submissionValue": "VLDL Cholesterol",
           "synonyms": [
             "VLDL",
-            " VLDL Cholesterol"
+            "VLDL Cholesterol"
           ]
         },
         {
@@ -9475,7 +9475,7 @@
           "submissionValue": "Triacylglycerol Lipase",
           "synonyms": [
             "LIPASE",
-            " Triacylglycerol Lipase"
+            "Triacylglycerol Lipase"
           ]
         },
         {
@@ -9485,7 +9485,7 @@
           "submissionValue": "Sodium",
           "synonyms": [
             "SODIUM",
-            " Sodium"
+            "Sodium"
           ]
         },
         {
@@ -9495,7 +9495,7 @@
           "submissionValue": "Nitrite",
           "synonyms": [
             "NITRITE",
-            " Nitrite"
+            "Nitrite"
           ]
         },
         {
@@ -9505,7 +9505,7 @@
           "submissionValue": "Triglycerides",
           "synonyms": [
             "TRIG",
-            " Triglycerides"
+            "Triglycerides"
           ]
         },
         {
@@ -9515,7 +9515,7 @@
           "submissionValue": "Thyrotropin",
           "synonyms": [
             "TSH",
-            " Thyrotropin"
+            "Thyrotropin"
           ]
         },
         {
@@ -9525,7 +9525,7 @@
           "submissionValue": "Urate",
           "synonyms": [
             "URATE",
-            " Urate"
+            "Urate"
           ]
         },
         {
@@ -9535,7 +9535,7 @@
           "submissionValue": "Urea",
           "synonyms": [
             "UREA",
-            " Urea"
+            "Urea"
           ]
         },
         {
@@ -9545,7 +9545,7 @@
           "submissionValue": "Urobilinogen",
           "synonyms": [
             "UROBIL",
-            " Urobilinogen"
+            "Urobilinogen"
           ]
         },
         {
@@ -9555,7 +9555,7 @@
           "submissionValue": "Vitamin B12",
           "synonyms": [
             "VITB12",
-            " Vitamin B12"
+            "Vitamin B12"
           ]
         },
         {
@@ -9565,7 +9565,7 @@
           "submissionValue": "Lymphocytes Atypical",
           "synonyms": [
             "LYMAT",
-            " Lymphocytes Atypical"
+            "Lymphocytes Atypical"
           ]
         },
         {
@@ -9575,7 +9575,7 @@
           "submissionValue": "Lymphocytes Atypical/Leukocytes",
           "synonyms": [
             "LYMATLE",
-            " Lymphocytes Atypical/Leukocytes"
+            "Lymphocytes Atypical/Leukocytes"
           ]
         },
         {
@@ -9585,7 +9585,7 @@
           "submissionValue": "Lymphocytes/Leukocytes",
           "synonyms": [
             "LYMLE",
-            " Lymphocytes/Leukocytes"
+            "Lymphocytes/Leukocytes"
           ]
         },
         {
@@ -9595,7 +9595,7 @@
           "submissionValue": "Macrocytes",
           "synonyms": [
             "MACROCY",
-            " Macrocytes"
+            "Macrocytes"
           ]
         },
         {
@@ -9605,7 +9605,7 @@
           "submissionValue": "Microcytes",
           "synonyms": [
             "MICROCY",
-            " Microcytes"
+            "Microcytes"
           ]
         },
         {
@@ -9615,7 +9615,7 @@
           "submissionValue": "Monocytes",
           "synonyms": [
             "MONO",
-            " Monocytes"
+            "Monocytes"
           ]
         },
         {
@@ -9625,7 +9625,7 @@
           "submissionValue": "Monocytes/Leukocytes",
           "synonyms": [
             "MONOLE",
-            " Monocytes/Leukocytes"
+            "Monocytes/Leukocytes"
           ]
         },
         {
@@ -9635,7 +9635,7 @@
           "submissionValue": "Myeloblasts/Leukocytes",
           "synonyms": [
             "MYBLALE",
-            " Myeloblasts/Leukocytes"
+            "Myeloblasts/Leukocytes"
           ]
         },
         {
@@ -9645,7 +9645,7 @@
           "submissionValue": "Myelocytes/Leukocytes",
           "synonyms": [
             "MYCYLE",
-            " Myelocytes/Leukocytes"
+            "Myelocytes/Leukocytes"
           ]
         },
         {
@@ -9655,7 +9655,7 @@
           "submissionValue": "Neutrophils/Leukocytes",
           "synonyms": [
             "NEUTLE",
-            " Neutrophils/Leukocytes"
+            "Neutrophils/Leukocytes"
           ]
         },
         {
@@ -9665,7 +9665,7 @@
           "submissionValue": "Reticulocytes/Erythrocytes",
           "synonyms": [
             "RETIRBC",
-            " Reticulocytes/Erythrocytes"
+            "Reticulocytes/Erythrocytes"
           ]
         },
         {
@@ -9675,7 +9675,7 @@
           "submissionValue": "Prolymphocytes/Leukocytes",
           "synonyms": [
             "PRLYMLE",
-            " Prolymphocytes/Leukocytes"
+            "Prolymphocytes/Leukocytes"
           ]
         },
         {
@@ -9685,7 +9685,7 @@
           "submissionValue": "Neutrophils Band Form",
           "synonyms": [
             "NEUTB",
-            " Neutrophils Band Form"
+            "Neutrophils Band Form"
           ]
         },
         {
@@ -9695,7 +9695,7 @@
           "submissionValue": "Neutrophils Band Form/Leukocytes",
           "synonyms": [
             "NEUTBLE",
-            " Neutrophils Band Form/Leukocytes"
+            "Neutrophils Band Form/Leukocytes"
           ]
         },
         {
@@ -9705,7 +9705,7 @@
           "submissionValue": "Specific Gravity",
           "synonyms": [
             "SPGRAV",
-            " Specific Gravity"
+            "Specific Gravity"
           ]
         },
         {
@@ -9715,7 +9715,7 @@
           "submissionValue": "Magnesium",
           "synonyms": [
             "MG",
-            " Magnesium"
+            "Magnesium"
           ]
         },
         {
@@ -9725,7 +9725,7 @@
           "submissionValue": "Gamma Glutamyl Transferase",
           "synonyms": [
             "GGT",
-            " Gamma Glutamyl Transferase"
+            "Gamma Glutamyl Transferase"
           ]
         },
         {
@@ -9735,7 +9735,7 @@
           "submissionValue": "Hemoglobin",
           "synonyms": [
             "HGB",
-            " Hemoglobin"
+            "Hemoglobin"
           ]
         },
         {
@@ -9745,7 +9745,7 @@
           "submissionValue": "Hemoglobin A1C",
           "synonyms": [
             "HBA1C",
-            " Hemoglobin A1C"
+            "Hemoglobin A1C"
           ]
         },
         {
@@ -9755,7 +9755,7 @@
           "submissionValue": "Hepatitis B Virus Surface Antigen",
           "synonyms": [
             "HBSAG",
-            " Hepatitis B Virus Surface Antigen"
+            "Hepatitis B Virus Surface Antigen"
           ]
         },
         {
@@ -9765,7 +9765,7 @@
           "submissionValue": "Choriogonadotropin Beta",
           "synonyms": [
             "HCG",
-            " Choriogonadotropin Beta"
+            "Choriogonadotropin Beta"
           ]
         },
         {
@@ -9775,7 +9775,7 @@
           "submissionValue": "Potassium",
           "synonyms": [
             "K",
-            " Potassium"
+            "Potassium"
           ]
         },
         {
@@ -9785,7 +9785,7 @@
           "submissionValue": "Ketones",
           "synonyms": [
             "KETONES",
-            " Ketones"
+            "Ketones"
           ]
         },
         {
@@ -9795,7 +9795,7 @@
           "submissionValue": "Lactate Dehydrogenase",
           "synonyms": [
             "LDH",
-            " Lactate Dehydrogenase"
+            "Lactate Dehydrogenase"
           ]
         },
         {
@@ -9805,7 +9805,7 @@
           "submissionValue": "Leukocyte Esterase",
           "synonyms": [
             "LEUKASE",
-            " Leukocyte Esterase"
+            "Leukocyte Esterase"
           ]
         },
         {
@@ -9815,7 +9815,7 @@
           "submissionValue": "Phosphate",
           "synonyms": [
             "PHOS",
-            " Phosphate"
+            "Phosphate"
           ]
         },
         {
@@ -9825,7 +9825,7 @@
           "submissionValue": "Protein",
           "synonyms": [
             "PROT",
-            " Protein"
+            "Protein"
           ]
         }
       ]

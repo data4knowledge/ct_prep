@@ -224,7 +224,7 @@
           "submissionValue": "Trial Site",
           "synonyms": [
             "Investigative Site",
-            " Investigator Site"
+            "Investigator Site"
           ]
         },
         {
@@ -234,7 +234,7 @@
           "submissionValue": "Trial Type",
           "synonyms": [
             "Trial Scope",
-            " Trial Type"
+            "Trial Type"
           ]
         }
       ]
@@ -398,7 +398,7 @@
           "submissionValue": "",
           "synonyms": [
             "NA",
-            " Not Applicable"
+            "Not Applicable"
           ]
         },
         {
@@ -408,8 +408,8 @@
           "submissionValue": "U",
           "synonyms": [
             "U",
-            " UNK",
-            " Unknown"
+            "UNK",
+            "Unknown"
           ]
         },
         {
@@ -577,13 +577,13 @@
           "submissionValue": "Data Monitoring Committee",
           "synonyms": [
             "DMC",
-            " DMOC",
-            " DSMC",
-            " Data Monitoring and Oversight Committee",
-            " Data and Safety Monitoring Board",
-            " Data and Safety Monitoring Committee DSMB",
-            " IDMC",
-            " Independent Data Monitoring Committee"
+            "DMOC",
+            "DSMC",
+            "Data Monitoring and Oversight Committee",
+            "Data and Safety Monitoring Board",
+            "Data and Safety Monitoring Committee DSMB",
+            "IDMC",
+            "Independent Data Monitoring Committee"
           ]
         },
         {
@@ -620,8 +620,8 @@
           "submissionValue": "Observational Study Monitoring Committee",
           "synonyms": [
             "OSMB",
-            " OSMC",
-            " Observational Study Monitoring Board"
+            "OSMC",
+            "Observational Study Monitoring Board"
           ]
         },
         {
@@ -631,8 +631,8 @@
           "submissionValue": "Safety Monitoring Committee",
           "synonyms": [
             "SMC",
-            " Safety Assessment Committee",
-            " Safety Monitoring Board"
+            "Safety Assessment Committee",
+            "Safety Monitoring Board"
           ]
         }
       ]
@@ -662,7 +662,7 @@
           "submissionValue": "Not Applicable",
           "synonyms": [
             "NA",
-            " Not Applicable"
+            "Not Applicable"
           ]
         },
         {
@@ -858,8 +858,8 @@
           "submissionValue": "Sponsor",
           "synonyms": [
             "Clinical Study Sponsor",
-            " Sponsor",
-            " Study Sponsor"
+            "Sponsor",
+            "Study Sponsor"
           ]
         },
         {
@@ -1201,7 +1201,7 @@
           "submissionValue": "Contact Name",
           "synonyms": [
             "Individual's Name",
-            " Person Name"
+            "Person Name"
           ]
         },
         {
@@ -1299,9 +1299,9 @@
           "submissionValue": "Overall Study Design",
           "synonyms": [
             "Overall Design",
-            " Study Design Description",
-            " Study Design Overview",
-            " Summary of Study Design"
+            "Study Design Description",
+            "Study Design Overview",
+            "Summary of Study Design"
           ]
         },
         {
@@ -1336,9 +1336,9 @@
           "submissionValue": "Planned Number of Participants",
           "synonyms": [
             "Anticipated Enrollment",
-            " Planned Enrollment",
-            " Planned Number of Subjects",
-            " Target Enrollment"
+            "Planned Enrollment",
+            "Planned Number of Subjects",
+            "Target Enrollment"
           ]
         },
         {
@@ -1428,8 +1428,8 @@
           "submissionValue": "Data and Safety Monitoring Plan",
           "synonyms": [
             "DSMP",
-            " Data Safety Monitoring Plan",
-            " Safety Data Monitoring Plan"
+            "Data Safety Monitoring Plan",
+            "Safety Data Monitoring Plan"
           ]
         },
         {
@@ -1579,8 +1579,8 @@
           "submissionValue": "Females of Childbearing Potential",
           "synonyms": [
             "FOCBP",
-            " WOCBP",
-            " Women of Childbearing Potential"
+            "WOCBP",
+            "Women of Childbearing Potential"
           ]
         },
         {
@@ -1710,7 +1710,7 @@
           "submissionValue": "Placebo Comparator",
           "synonyms": [
             "Placebo",
-            " Placebo Control"
+            "Placebo Control"
           ]
         },
         {
@@ -1802,7 +1802,7 @@
           "submissionValue": "Schedule of Activities",
           "synonyms": [
             "Schedule of Events",
-            " SoA"
+            "SoA"
           ]
         },
         {
@@ -1819,7 +1819,7 @@
           "submissionValue": "Sponsor Protocol Identifier",
           "synonyms": [
             "Sponsor Protocol Code",
-            " Sponsor Protocol Number"
+            "Sponsor Protocol Number"
           ]
         },
         {
@@ -2091,7 +2091,7 @@
           "submissionValue": "NOT APPLICABLE",
           "synonyms": [
             "NA",
-            " Not Applicable"
+            "Not Applicable"
           ]
         },
         {
@@ -2101,8 +2101,8 @@
           "submissionValue": "PHASE 0 TRIAL",
           "synonyms": [
             "0",
-            " Pre-clinical Trial",
-            " Trial Phase 0"
+            "Pre-clinical Trial",
+            "Trial Phase 0"
           ]
         },
         {
@@ -2112,7 +2112,7 @@
           "submissionValue": "PHASE I TRIAL",
           "synonyms": [
             "1",
-            " Trial Phase 1"
+            "Trial Phase 1"
           ]
         },
         {
@@ -2122,7 +2122,7 @@
           "submissionValue": "PHASE I/II TRIAL",
           "synonyms": [
             "1-2",
-            " Trial Phase 1-2"
+            "Trial Phase 1-2"
           ]
         },
         {
@@ -2132,7 +2132,7 @@
           "submissionValue": "PHASE II TRIAL",
           "synonyms": [
             "2",
-            " Trial Phase 2"
+            "Trial Phase 2"
           ]
         },
         {
@@ -2142,7 +2142,7 @@
           "submissionValue": "PHASE II/III TRIAL",
           "synonyms": [
             "2-3",
-            " Trial Phase 2-3"
+            "Trial Phase 2-3"
           ]
         },
         {
@@ -2152,7 +2152,7 @@
           "submissionValue": "PHASE IIA TRIAL",
           "synonyms": [
             "2A",
-            " Trial Phase 2A"
+            "Trial Phase 2A"
           ]
         },
         {
@@ -2162,7 +2162,7 @@
           "submissionValue": "PHASE IIB TRIAL",
           "synonyms": [
             "2B",
-            " Trial Phase 2B"
+            "Trial Phase 2B"
           ]
         },
         {
@@ -2172,7 +2172,7 @@
           "submissionValue": "PHASE III TRIAL",
           "synonyms": [
             "3",
-            " Trial Phase 3"
+            "Trial Phase 3"
           ]
         },
         {
@@ -2182,7 +2182,7 @@
           "submissionValue": "PHASE IIIA TRIAL",
           "synonyms": [
             "3A",
-            " Trial Phase 3A"
+            "Trial Phase 3A"
           ]
         },
         {
@@ -2192,7 +2192,7 @@
           "submissionValue": "PHASE IIIB TRIAL",
           "synonyms": [
             "3B",
-            " Trial Phase 3B"
+            "Trial Phase 3B"
           ]
         },
         {
@@ -2202,7 +2202,7 @@
           "submissionValue": "PHASE IV TRIAL",
           "synonyms": [
             "4",
-            " Trial Phase 4"
+            "Trial Phase 4"
           ]
         },
         {
@@ -2212,7 +2212,7 @@
           "submissionValue": "PHASE V TRIAL",
           "synonyms": [
             "5",
-            " Trial Phase 5"
+            "Trial Phase 5"
           ]
         }
       ]

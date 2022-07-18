@@ -72,7 +72,7 @@
           "submissionValue": "UNKNOWN",
           "synonyms": [
             "U",
-            " Unknown"
+            "Unknown"
           ]
         }
       ]
@@ -95,7 +95,7 @@
           "submissionValue": "FATAL",
           "synonyms": [
             "Grade 5",
-            " 5"
+            "5"
           ]
         },
         {
@@ -133,7 +133,7 @@
           "submissionValue": "UNKNOWN",
           "synonyms": [
             "U",
-            " Unknown"
+            "Unknown"
           ]
         }
       ]
@@ -495,7 +495,7 @@
           "submissionValue": "1",
           "synonyms": [
             "Grade 1",
-            " 1"
+            "1"
           ]
         },
         {
@@ -505,7 +505,7 @@
           "submissionValue": "2",
           "synonyms": [
             "Grade 2",
-            " 2"
+            "2"
           ]
         },
         {
@@ -515,7 +515,7 @@
           "submissionValue": "3",
           "synonyms": [
             "Grade 3",
-            " 3"
+            "3"
           ]
         },
         {
@@ -525,7 +525,7 @@
           "submissionValue": "4",
           "synonyms": [
             "Grade 4",
-            " 4"
+            "4"
           ]
         },
         {
@@ -535,7 +535,7 @@
           "submissionValue": "5",
           "synonyms": [
             "Grade 5",
-            " 5"
+            "5"
           ]
         }
       ]
@@ -549,7 +549,7 @@
       "submissionValue": "TCNTRL",
       "synonyms": [
         "Control Type",
-        " Type of Control"
+        "Type of Control"
       ],
       "terms": [
         {
@@ -1439,7 +1439,7 @@
           "submissionValue": "HKG",
           "synonyms": [
             "HKG",
-            " HONG KONG"
+            "HONG KONG"
           ]
         },
         {
@@ -2805,7 +2805,7 @@
       "submissionValue": "DICTNAM",
       "synonyms": [
         "Dictionary Name",
-        " Name of Dictionary"
+        "Name of Dictionary"
       ],
       "terms": [
         {
@@ -2934,7 +2934,7 @@
           "submissionValue": "UNKNOWN",
           "synonyms": [
             "U",
-            " Unknown"
+            "Unknown"
           ]
         }
       ]
@@ -2948,7 +2948,7 @@
       "submissionValue": "FRM",
       "synonyms": [
         "Pharmaceutical Dosage Form",
-        " Dose Form"
+        "Dose Form"
       ],
       "terms": [
         {
@@ -4302,7 +4302,7 @@
           "submissionValue": "U",
           "synonyms": [
             "U",
-            " Unknown"
+            "Unknown"
           ]
         }
       ]
@@ -5124,7 +5124,7 @@
           "submissionValue": "MILD",
           "synonyms": [
             "Grade 1",
-            " 1"
+            "1"
           ]
         },
         {
@@ -5134,7 +5134,7 @@
           "submissionValue": "MODERATE",
           "synonyms": [
             "Grade 2",
-            " 2"
+            "2"
           ]
         },
         {
@@ -5144,7 +5144,7 @@
           "submissionValue": "SEVERE",
           "synonyms": [
             "Grade 3",
-            " 3"
+            "3"
           ]
         }
       ]
@@ -5185,7 +5185,7 @@
           "submissionValue": "U",
           "synonyms": [
             "U",
-            " Unknown"
+            "Unknown"
           ]
         },
         {
@@ -5631,7 +5631,7 @@
           "submissionValue": "TE",
           "synonyms": [
             "TE",
-            " Trial Elements"
+            "Trial Elements"
           ]
         },
         {
@@ -5772,7 +5772,7 @@
           "submissionValue": "Phase I Trial",
           "synonyms": [
             "Trial Phase 1",
-            " 1"
+            "1"
           ]
         },
         {
@@ -5782,7 +5782,7 @@
           "submissionValue": "Phase I/II Trial",
           "synonyms": [
             "Trial Phase 1-2",
-            " 1-2"
+            "1-2"
           ]
         },
         {
@@ -5792,7 +5792,7 @@
           "submissionValue": "Phase II Trial",
           "synonyms": [
             "Trial Phase 2",
-            " 2"
+            "2"
           ]
         },
         {
@@ -5802,7 +5802,7 @@
           "submissionValue": "Phase II/III Trial",
           "synonyms": [
             "Trial Phase 2-3",
-            " 2-3"
+            "2-3"
           ]
         },
         {
@@ -5812,7 +5812,7 @@
           "submissionValue": "Phase IIa Trial",
           "synonyms": [
             "Trial Phase 2A",
-            " 2A"
+            "2A"
           ]
         },
         {
@@ -5822,7 +5822,7 @@
           "submissionValue": "Phase IIb Trial",
           "synonyms": [
             "Trial Phase 2B",
-            " 2B"
+            "2B"
           ]
         },
         {
@@ -5832,7 +5832,7 @@
           "submissionValue": "Phase III Trial",
           "synonyms": [
             "Trial Phase 3",
-            " 3"
+            "3"
           ]
         },
         {
@@ -5842,7 +5842,7 @@
           "submissionValue": "Phase IIIaTrial",
           "synonyms": [
             "Trial Phase 3A",
-            " 3A"
+            "3A"
           ]
         },
         {
@@ -5852,7 +5852,7 @@
           "submissionValue": "Phase IIIb Trial",
           "synonyms": [
             "Trial Phase 3B",
-            " 3B"
+            "3B"
           ]
         },
         {
@@ -5862,7 +5862,7 @@
           "submissionValue": "Phase IV Trial",
           "synonyms": [
             "Trial Phase 4",
-            " 4"
+            "4"
           ]
         },
         {
@@ -5872,7 +5872,7 @@
           "submissionValue": "Phase V Trial",
           "synonyms": [
             "Trial Phase 5",
-            " 5"
+            "5"
           ]
         },
         {
@@ -6808,7 +6808,7 @@
           "submissionValue": "U",
           "synonyms": [
             "U",
-            " Unknown"
+            "Unknown"
           ]
         },
         {
@@ -7785,7 +7785,7 @@
           "submissionValue": "LYMPL",
           "synonyms": [
             "Plasmacytoid Lymphocytes",
-            " Plymphocytes"
+            "Plymphocytes"
           ]
         },
         {
@@ -7795,7 +7795,7 @@
           "submissionValue": "PLSPCE",
           "synonyms": [
             "Precursor Plasma Cells",
-            " Plasmablast"
+            "Plasmablast"
           ]
         },
         {
@@ -7859,7 +7859,7 @@
           "submissionValue": "SMDGCE",
           "synonyms": [
             "Smudge Cells",
-            " Basket Cells"
+            "Basket Cells"
           ]
         },
         {
@@ -7878,9 +7878,9 @@
           "submissionValue": "BLASTLM",
           "synonyms": [
             "Leukemic Blasts",
-            " Lymphocytes",
-            " Lymphoblasts",
-            " Immunoblastic"
+            "Lymphocytes",
+            "Lymphoblasts",
+            "Immunoblastic"
           ]
         },
         {
@@ -8142,7 +8142,7 @@
           "submissionValue": "PLSMCE",
           "synonyms": [
             "Mature Plasma Cells",
-            " Plasmacytes"
+            "Plasmacytes"
           ]
         },
         {
@@ -8197,7 +8197,7 @@
           "submissionValue": "BICARB",
           "synonyms": [
             "Bicarbonate",
-            " HCO3"
+            "HCO3"
           ]
         },
         {
@@ -8270,7 +8270,7 @@
           "submissionValue": "FOLICAC",
           "synonyms": [
             "Folic Acid",
-            " Vitamin B9"
+            "Vitamin B9"
           ]
         },
         {
@@ -8289,7 +8289,7 @@
           "submissionValue": "FRUCT",
           "synonyms": [
             "Fructosamine",
-            " Glycated Serum Protein"
+            "Glycated Serum Protein"
           ]
         },
         {
@@ -8299,7 +8299,7 @@
           "submissionValue": "IRON",
           "synonyms": [
             "Iron",
-            " FE"
+            "FE"
           ]
         },
         {
@@ -8435,7 +8435,7 @@
           "submissionValue": "BURRCE",
           "synonyms": [
             "Burr Cells",
-            " Keratocytes"
+            "Keratocytes"
           ]
         },
         {
@@ -8454,7 +8454,7 @@
           "submissionValue": "CRENCE",
           "synonyms": [
             "Crenated Cells",
-            " Echinocytes"
+            "Echinocytes"
           ]
         },
         {
@@ -8509,7 +8509,7 @@
           "submissionValue": "HEINZ",
           "synonyms": [
             "Heinz Bodies",
-            " Heinz-Erhlich Bodies"
+            "Heinz-Erhlich Bodies"
           ]
         },
         {
@@ -8726,7 +8726,7 @@
           "submissionValue": "BNP",
           "synonyms": [
             "Brain Natriuretic Peptide",
-            " B-Type Natriuretic Peptide"
+            "B-Type Natriuretic Peptide"
           ]
         },
         {
@@ -8808,7 +8808,7 @@
           "submissionValue": "SHBG",
           "synonyms": [
             "Sex Hormone Binding Globulin",
-            " Sex Hormone Binding Protein"
+            "Sex Hormone Binding Protein"
           ]
         },
         {
@@ -8935,7 +8935,7 @@
           "submissionValue": "ALBCREAT",
           "synonyms": [
             "Albumin/Creatinine Ratio",
-            " Microalbumin/Creatinine Ratio"
+            "Microalbumin/Creatinine Ratio"
           ]
         },
         {
@@ -9053,7 +9053,7 @@
           "submissionValue": "EPISQTCE",
           "synonyms": [
             "Squamous Transitional Epithelial Cells",
-            " Epithelial Cells"
+            "Epithelial Cells"
           ]
         },
         {
@@ -9162,7 +9162,7 @@
           "submissionValue": "T4FR",
           "synonyms": [
             "Thyroxin, Free",
-            "  Free T4"
+            "Free T4"
           ]
         },
         {
@@ -9172,7 +9172,7 @@
           "submissionValue": "T3FR",
           "synonyms": [
             "Triiodothyronine, Free",
-            " Free T3"
+            "Free T3"
           ]
         },
         {
@@ -9218,7 +9218,7 @@
           "submissionValue": "SOMATRO",
           "synonyms": [
             "Somatotropin",
-            " Growth Hormone",
+            "Growth Hormone",
             ""
           ]
         },
@@ -11609,7 +11609,7 @@
           "submissionValue": "Plasmacytoid Lymphocytes",
           "synonyms": [
             "Plasmacytoid Lymphocytes",
-            " Plymphocytes"
+            "Plymphocytes"
           ]
         },
         {
@@ -11619,7 +11619,7 @@
           "submissionValue": "Precursor Plasma Cells",
           "synonyms": [
             "Precursor Plasma Cells",
-            " Plasmablast"
+            "Plasmablast"
           ]
         },
         {
@@ -11683,7 +11683,7 @@
           "submissionValue": "Smudge Cells",
           "synonyms": [
             "Smudge Cells",
-            " Basket Cells"
+            "Basket Cells"
           ]
         },
         {
@@ -11702,9 +11702,9 @@
           "submissionValue": "Leukemic Blasts",
           "synonyms": [
             "Leukemic Blasts",
-            " Lymphocytes",
-            " Lymphoblasts",
-            " Immunoblastic"
+            "Lymphocytes",
+            "Lymphoblasts",
+            "Immunoblastic"
           ]
         },
         {
@@ -11966,7 +11966,7 @@
           "submissionValue": "Mature Plasma Cells",
           "synonyms": [
             "Mature Plasma Cells",
-            " Plasmacytes"
+            "Plasmacytes"
           ]
         },
         {
@@ -12021,7 +12021,7 @@
           "submissionValue": "Bicarbonate",
           "synonyms": [
             "Bicarbonate",
-            " HCO3"
+            "HCO3"
           ]
         },
         {
@@ -12094,7 +12094,7 @@
           "submissionValue": "Folic Acid",
           "synonyms": [
             "Folic Acid",
-            " Vitamin B9"
+            "Vitamin B9"
           ]
         },
         {
@@ -12113,7 +12113,7 @@
           "submissionValue": "Fructosamine",
           "synonyms": [
             "Fructosamine",
-            " Glycated Serum Protein"
+            "Glycated Serum Protein"
           ]
         },
         {
@@ -12123,7 +12123,7 @@
           "submissionValue": "Iron",
           "synonyms": [
             "Iron",
-            " FE"
+            "FE"
           ]
         },
         {
@@ -12259,7 +12259,7 @@
           "submissionValue": "Burr Cells",
           "synonyms": [
             "Burr Cells",
-            " Keratocytes"
+            "Keratocytes"
           ]
         },
         {
@@ -12278,7 +12278,7 @@
           "submissionValue": "Crenated Cells",
           "synonyms": [
             "Crenated Cells",
-            " Echinocytes"
+            "Echinocytes"
           ]
         },
         {
@@ -12333,7 +12333,7 @@
           "submissionValue": "Heinz Bodies",
           "synonyms": [
             "Heinz Bodies",
-            " Heinz-Erhlich Bodies"
+            "Heinz-Erhlich Bodies"
           ]
         },
         {
@@ -12550,7 +12550,7 @@
           "submissionValue": "Brain Natriuretic Peptide",
           "synonyms": [
             "Brain Natriuretic Peptide",
-            " B-Type Natriuretic Peptide"
+            "B-Type Natriuretic Peptide"
           ]
         },
         {
@@ -12632,7 +12632,7 @@
           "submissionValue": "Sex Hormone Binding Globulin",
           "synonyms": [
             "Sex Hormone Binding Globulin",
-            " Sex Hormone Binding Protein"
+            "Sex Hormone Binding Protein"
           ]
         },
         {
@@ -12759,7 +12759,7 @@
           "submissionValue": "Albumin/Creatinine Ratio",
           "synonyms": [
             "Albumin/Creatinine Ratio",
-            " Microalbumin/Creatinine Ratio"
+            "Microalbumin/Creatinine Ratio"
           ]
         },
         {
@@ -12877,7 +12877,7 @@
           "submissionValue": "Squamous Transitional Epithelial Cells",
           "synonyms": [
             "Squamous Transitional Epithelial Cells",
-            " Epithelial Cells"
+            "Epithelial Cells"
           ]
         },
         {
@@ -12986,7 +12986,7 @@
           "submissionValue": "Thyroxin, Free",
           "synonyms": [
             "Thyroxin, Free",
-            "  Free T4"
+            "Free T4"
           ]
         },
         {
@@ -12996,7 +12996,7 @@
           "submissionValue": "Triiodothyronine, Free",
           "synonyms": [
             "Triiodothyronine, Free",
-            " Free T3"
+            "Free T3"
           ]
         },
         {
@@ -13042,7 +13042,7 @@
           "submissionValue": "Somatotropin",
           "synonyms": [
             "Somatotropin",
-            " Growth Hormone",
+            "Growth Hormone",
             ""
           ]
         },
@@ -14497,7 +14497,7 @@
           "submissionValue": "UNKNOWN",
           "synonyms": [
             "U",
-            " Unknown"
+            "Unknown"
           ]
         },
         {
@@ -17447,11 +17447,11 @@
           "submissionValue": "kg/m3",
           "synonyms": [
             "Kilogram per Cubic Meter",
-            " g/L",
-            " Gram per Liter",
-            " ug/uL",
-            " Microgram per Microliter",
-            " Milligram per Milliliter"
+            "g/L",
+            "Gram per Liter",
+            "ug/uL",
+            "Microgram per Microliter",
+            "Milligram per Milliliter"
           ]
         },
         {
@@ -18163,10 +18163,10 @@
           "submissionValue": "mmol/L",
           "synonyms": [
             "Millimole per Liter",
-            " umol/mL",
-            " Micromole per Milliliter",
-            " mol/m3",
-            " Mole per Cubic Meter"
+            "umol/mL",
+            "Micromole per Milliliter",
+            "mol/m3",
+            "Mole per Cubic Meter"
           ]
         },
         {
@@ -18221,8 +18221,8 @@
           "submissionValue": "kg/L",
           "synonyms": [
             "Kilogram per Liter",
-            " g/mL",
-            " Gram per Milliliter"
+            "g/mL",
+            "Gram per Milliliter"
           ]
         },
         {
@@ -18232,10 +18232,10 @@
           "submissionValue": "g/m3",
           "synonyms": [
             "Gram per Cubic Meter",
-            " ug/mL",
-            " Microgram per Milliliter",
-            " mg/L",
-            " Milligram per Liter"
+            "ug/mL",
+            "Microgram per Milliliter",
+            "mg/L",
+            "Milligram per Liter"
           ]
         },
         {
@@ -18398,10 +18398,10 @@
           "submissionValue": "ug/L",
           "synonyms": [
             "Microgram per Liter",
-            " mg/m3",
-            " Milligram per Cubic Meter",
-            " ng/mL",
-            " Nanogram per Milliliter"
+            "mg/m3",
+            "Milligram per Cubic Meter",
+            "ng/mL",
+            "Nanogram per Milliliter"
           ]
         },
         {
@@ -18501,8 +18501,8 @@
           "submissionValue": "IU/mL",
           "synonyms": [
             "International Unit per Milliliter",
-            " kIU/L",
-            " Kilo International Unit per Liter"
+            "kIU/L",
+            "Kilo International Unit per Liter"
           ]
         },
         {
@@ -18944,8 +18944,8 @@
           "submissionValue": "g/kg",
           "synonyms": [
             "Gram per Kilogram",
-            " mg/g",
-            " Milligram per Gram"
+            "mg/g",
+            "Milligram per Gram"
           ]
         },
         {
@@ -19252,10 +19252,10 @@
           "submissionValue": "Bq/ug",
           "synonyms": [
             "Becquerel per Microgram",
-            " kBq/mg",
-            " Kilobecquerel per Milligram",
-            " MBq/g",
-            " Megabecquerel per Gram"
+            "kBq/mg",
+            "Kilobecquerel per Milligram",
+            "MBq/g",
+            "Megabecquerel per Gram"
           ]
         },
         {
@@ -19265,8 +19265,8 @@
           "submissionValue": "Bq/mg",
           "synonyms": [
             "Becquerel per Milligram",
-            " kBq/g",
-            " Kilobecquerel per Gram"
+            "kBq/g",
+            "Kilobecquerel per Gram"
           ]
         },
         {
@@ -19276,8 +19276,8 @@
           "submissionValue": "GBq/g",
           "synonyms": [
             "Gigabecquerel per Gram",
-            " kBq/ug",
-            " Kilobecquerel per Microgram"
+            "kBq/ug",
+            "Kilobecquerel per Microgram"
           ]
         },
         {
@@ -19287,8 +19287,8 @@
           "submissionValue": "GBq/ug",
           "synonyms": [
             "Gigabecquerel per Microgram",
-            " MBq/ug",
-            " Megabecquerel per Microgram"
+            "MBq/ug",
+            "Megabecquerel per Microgram"
           ]
         },
         {
@@ -19298,8 +19298,8 @@
           "submissionValue": "GBq/mg",
           "synonyms": [
             "Gigabecquerel per Milligram",
-            " MBq/mg",
-            " Megabecquerel per Milligram"
+            "MBq/mg",
+            "Megabecquerel per Milligram"
           ]
         },
         {
@@ -19309,10 +19309,10 @@
           "submissionValue": "Ci/g",
           "synonyms": [
             "Curie per Gram",
-            " uCi/ug",
-            " Microcurie per Microgram",
-            " mCi/mg",
-            " Millicurie per Milligram"
+            "uCi/ug",
+            "Microcurie per Microgram",
+            "mCi/mg",
+            "Millicurie per Milligram"
           ]
         },
         {
@@ -19322,10 +19322,10 @@
           "submissionValue": "Ci/kg",
           "synonyms": [
             "Curie per Kilogram",
-            " uCi/mg",
-            " Microcurie per Milligram",
-            " mCi/g",
-            " Millicurie per Gram"
+            "uCi/mg",
+            "Microcurie per Milligram",
+            "mCi/g",
+            "Millicurie per Gram"
           ]
         },
         {
@@ -19344,8 +19344,8 @@
           "submissionValue": "Ci/mg",
           "synonyms": [
             "Curie per Milligram",
-            " mCi/ug",
-            " Millicurie per Microgram"
+            "mCi/ug",
+            "Millicurie per Microgram"
           ]
         },
         {
@@ -19427,8 +19427,8 @@
           "submissionValue": "mCi/kg",
           "synonyms": [
             "Millicurie per Kilogram",
-            " uCi/g",
-            " Microcurie per Gram"
+            "uCi/g",
+            "Microcurie per Gram"
           ]
         },
         {
@@ -19492,10 +19492,10 @@
           "submissionValue": "Bq/uL",
           "synonyms": [
             "Becquerel per Microliter",
-            " kBq/mL",
-            " Kilobecquerel per Milliliter",
-            " MBq/L",
-            " Megabecquerel per Liter"
+            "kBq/mL",
+            "Kilobecquerel per Milliliter",
+            "MBq/L",
+            "Megabecquerel per Liter"
           ]
         },
         {
@@ -19505,8 +19505,8 @@
           "submissionValue": "Bq/mL",
           "synonyms": [
             "Becquerel per Milliliter",
-            " kBq/L",
-            " Kilobecquerel per Liter"
+            "kBq/L",
+            "Kilobecquerel per Liter"
           ]
         },
         {
@@ -19516,10 +19516,10 @@
           "submissionValue": "kBq/uL",
           "synonyms": [
             "Kilobecquerel per Microliter",
-            " GBq/L",
-            " Gigabecquerel per Liter",
-            " MBq/mL",
-            " Megabecquerel per Milliliter"
+            "GBq/L",
+            "Gigabecquerel per Liter",
+            "MBq/mL",
+            "Megabecquerel per Milliliter"
           ]
         },
         {
@@ -19529,8 +19529,8 @@
           "submissionValue": "MBq/uL",
           "synonyms": [
             "Megabecquerel per Microliter",
-            " GBq/mL",
-            " Gigabecquerel per Milliliter"
+            "GBq/mL",
+            "Gigabecquerel per Milliliter"
           ]
         },
         {
@@ -19540,8 +19540,8 @@
           "submissionValue": "Ci/L",
           "synonyms": [
             "Curie per Liter",
-            " uCi/uL",
-            " Microcurie per Microliter"
+            "uCi/uL",
+            "Microcurie per Microliter"
           ]
         },
         {
@@ -19578,8 +19578,8 @@
           "submissionValue": "mCi/L",
           "synonyms": [
             "Millicurie per Liter",
-            " uCi/mL",
-            " Microcurie per Milliliter"
+            "uCi/mL",
+            "Microcurie per Milliliter"
           ]
         },
         {
@@ -19823,8 +19823,8 @@
           "submissionValue": "ug/kg/min",
           "synonyms": [
             "Microgram per Kilogram per Minute",
-            " Gamma per Kilogram per Minute",
-            " gamma/kg/min"
+            "Gamma per Kilogram per Minute",
+            "gamma/kg/min"
           ]
         },
         {

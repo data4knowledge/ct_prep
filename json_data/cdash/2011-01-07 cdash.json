@@ -39,7 +39,7 @@
           "submissionValue": "ug",
           "synonyms": [
             "Microgram",
-            " mcg"
+            "mcg"
           ]
         },
         {
@@ -49,7 +49,7 @@
           "submissionValue": "mL",
           "synonyms": [
             "cm3",
-            " Milliliter"
+            "Milliliter"
           ]
         },
         {
@@ -77,7 +77,7 @@
           "submissionValue": "TABLET",
           "synonyms": [
             "tab",
-            " Tablet Dosing Unit"
+            "Tablet Dosing Unit"
           ]
         },
         {
@@ -87,7 +87,7 @@
           "submissionValue": "CAPSULE",
           "synonyms": [
             "cap",
-            " Capsule Dosing Unit"
+            "Capsule Dosing Unit"
           ]
         },
         {
@@ -228,7 +228,7 @@
           "submissionValue": "BID",
           "synonyms": [
             "BD",
-            " Twice per Day"
+            "Twice per Day"
           ]
         },
         {
@@ -283,7 +283,7 @@
           "submissionValue": "UNKNOWN",
           "synonyms": [
             "Unknown",
-            " U"
+            "U"
           ]
         },
         {
@@ -445,7 +445,7 @@
           "submissionValue": "CAPSULE",
           "synonyms": [
             "cap",
-            " Capsule Dosing Unit"
+            "Capsule Dosing Unit"
           ]
         },
         {
@@ -473,7 +473,7 @@
           "submissionValue": "PACKAGE",
           "synonyms": [
             "Pack Dosing Unit",
-            " Package Dosing Unit"
+            "Package Dosing Unit"
           ]
         },
         {
@@ -501,7 +501,7 @@
           "submissionValue": "TABLET",
           "synonyms": [
             "tab",
-            " Tablet Dosing Unit"
+            "Tablet Dosing Unit"
           ]
         },
         {
@@ -582,7 +582,7 @@
           "submissionValue": "TABLET",
           "synonyms": [
             "tab",
-            " Tablet Dosing Unit"
+            "Tablet Dosing Unit"
           ]
         },
         {
@@ -592,7 +592,7 @@
           "submissionValue": "CAPSULE",
           "synonyms": [
             "cap",
-            " Capsule Dosing Unit"
+            "Capsule Dosing Unit"
           ]
         },
         {
@@ -611,7 +611,7 @@
           "submissionValue": "mL",
           "synonyms": [
             "cm3",
-            " Milliliter"
+            "Milliliter"
           ]
         },
         {
@@ -621,7 +621,7 @@
           "submissionValue": "ug",
           "synonyms": [
             "Microgram",
-            " mcg"
+            "mcg"
           ]
         },
         {
@@ -662,7 +662,7 @@
           "submissionValue": "BID",
           "synonyms": [
             "BD",
-            " Twice per Day"
+            "Twice per Day"
           ]
         },
         {
@@ -717,7 +717,7 @@
           "submissionValue": "UNKNOWN",
           "synonyms": [
             "Unknown",
-            " U"
+            "U"
           ]
         },
         {
@@ -1001,7 +1001,7 @@
           "submissionValue": "mL",
           "synonyms": [
             "cm3",
-            " Milliliter"
+            "Milliliter"
           ]
         },
         {
@@ -1011,7 +1011,7 @@
           "submissionValue": "ug",
           "synonyms": [
             "Microgram",
-            " mcg"
+            "mcg"
           ]
         },
         {
@@ -1043,7 +1043,7 @@
           "submissionValue": "ug/min",
           "synonyms": [
             "mcg/min",
-            " Micrograms per Minute"
+            "Micrograms per Minute"
           ]
         },
         {
@@ -1053,7 +1053,7 @@
           "submissionValue": "ug/day",
           "synonyms": [
             "mcg/day",
-            " Microgram per Day"
+            "Microgram per Day"
           ]
         },
         {
@@ -1081,7 +1081,7 @@
           "submissionValue": "umol/day",
           "synonyms": [
             "mcmol/day",
-            " Micromoles per Day"
+            "Micromoles per Day"
           ]
         }
       ]
@@ -1104,7 +1104,7 @@
           "submissionValue": "TABLET",
           "synonyms": [
             "tab",
-            " Tablet Dosing Unit"
+            "Tablet Dosing Unit"
           ]
         },
         {
@@ -1114,7 +1114,7 @@
           "submissionValue": "CAPSULE",
           "synonyms": [
             "cap",
-            " Capsule Dosing Unit"
+            "Capsule Dosing Unit"
           ]
         },
         {
@@ -1133,7 +1133,7 @@
           "submissionValue": "mL",
           "synonyms": [
             "cm3",
-            " Milliliter"
+            "Milliliter"
           ]
         },
         {
@@ -1143,7 +1143,7 @@
           "submissionValue": "ug",
           "synonyms": [
             "Microgram",
-            " mcg"
+            "mcg"
           ]
         },
         {

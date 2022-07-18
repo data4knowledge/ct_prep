@@ -92,7 +92,7 @@ def get_synonym(row, index):
   if cell == "":
     return []
   else:
-    return cell.split(";")
+    return [x.strip() for x in cell.split(';')]
 
 def add_code_list(format, output, row):
   #print("ADD_CODE_LIST %s %s" % (format, row))
