@@ -10,13 +10,13 @@ from beautifultable import BeautifulTable
 # Get API key. Uses an environment variable.
 API_KEY = os.getenv('CDISC_API_KEY')
 
-# Information as to when items within a packahe were introduced or withdrawn.
+# Information as to when items within a package were introduced or withdrawn.
 with open("source_data/manifest/introduced_withdrawn.yaml") as file:
   data = yaml.load(file, Loader=yaml.FullLoader)
   introduced = data['introduced']
   withdrawn = data['withdrawn']
 
-# Information as to when items within a packahe were introduced or withdrawn.
+# Information as to when items within a package were introduced or withdrawn.
 with open("source_data/manifest/manifest.yaml") as file:
   existing_manifest = yaml.load(file, Loader=yaml.FullLoader)
 
