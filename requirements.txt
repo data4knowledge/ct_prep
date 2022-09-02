@@ -3,3 +3,9 @@ beautifultable
 requests
 pandas
 xlrd
+py2neo
+pytest
+urllib3
+deepdiff
+python-dotenv
+stringcase
