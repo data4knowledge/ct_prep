@@ -9,3 +9,4 @@ urllib3
 deepdiff
 python-dotenv
 stringcase
+neo4j

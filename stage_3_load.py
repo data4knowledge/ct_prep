@@ -6,8 +6,8 @@ from stringcase import pascalcase, snakecase
 def file_load(driver):
   project_root = os.path.abspath(os.path.dirname(__file__))
   load_files = []
-  for filename in glob.glob("data/*.csv"):
-    parts = filename.replace("data/", "").split("-")
+  for filename in glob.glob("load_data/*.csv"):
+    parts = filename.replace("load_data/", "").split("-")
     file_path = os.path.join(project_root, filename)
     #print(file_path)
     if parts[0] == "node":
