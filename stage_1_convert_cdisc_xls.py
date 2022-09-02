@@ -188,4 +188,5 @@ with open(filename) as file:
   manifest = yaml.load(file, Loader=yaml.FullLoader)
   #print(manifest)
   for date, info in manifest.items():
-    process_release(date, info)
+    if info['owner'] == "CDISC":
+      process_release(date, info)
