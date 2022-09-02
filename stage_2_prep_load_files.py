@@ -28,7 +28,7 @@ def process_action():
     action = actions.peek()
     #print(action)
     if action == None:
-      action['data'] = {}
+      action = {'data': {}}
       count = 0
     elif action['klass'] == "ActionScheme":
       release_date = action['data']['release_date']

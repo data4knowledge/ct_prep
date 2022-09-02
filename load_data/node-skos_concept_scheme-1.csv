@@ -1,6 +1,2 @@
 "id:ID","label","uuid","uri"
-"366","sdtm","1d08c7d9-56e4-45d3-9283-b59be0153327","dataset/cdisc/ct/cs/2007-03-06/sdtm"
-"367","sdtm","f147abeb-ab4d-4e80-b2ec-a9e5e26631b2","dataset/cdisc/ct/cs/2007-04-20/sdtm"
-"368","sdtm","e19dbdb2-c7ab-4e4e-9b25-3b94e8a30c47","dataset/cdisc/ct/cs/2007-04-26/sdtm"
-"369","sdtm","0deb3195-f1a5-4767-bf72-50078768e4c9","dataset/cdisc/ct/cs/2007-05-31/sdtm"
-"370","sdtm","2b61d506-579a-4cfc-b591-5b5fbfd778e1","dataset/cdisc/ct/cs/2007-06-05/sdtm"
+"12","test-codes","b64c6a14-205a-4adc-8e01-7415cd5bc85f","dataset/cdisc/ct/cs/2022-09-01/test-codes"

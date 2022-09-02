@@ -16,7 +16,7 @@
       "conceptId": "D000001",
       "definition": "",
       "extensible": true,
-      "pref_label": "Extra test codes",
+      "name": "Extra test codes",
       "preferredTerm": "Extra test codes",
       "submissionValue": "TEST CODES",
       "synonyms": [],
