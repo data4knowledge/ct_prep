@@ -20,13 +20,11 @@ class Manifest():
     releases = []
     start_date_as_date = self._from_iso8601_str(start_date)
     for date_str in self.__manifest.keys():
-      #print("RELEASE_LIST [1]:", date_str)
       manifest_date = self._from_iso8601_str(date_str)
       diff = manifest_date - start_date_as_date
-      #print("RELEASE_LIST [2]: %s v %s = %s" % (manifest_date, start_date, diff))
       if diff.days >= 0:
-        releases.append(date_str)
-    #print("RELEASE_LIST [3]:", releases)
+        print(self.__manifest[date_str])
+        releases.append({'date': date_str, 'owner': self.__manifest[date_str]['owner']})
     return releases
 
   def concept_scheme_list(self, release_date):

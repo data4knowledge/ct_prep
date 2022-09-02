@@ -4,8 +4,8 @@ import os
 import pathlib
 from service_environment import ServiceEnvironment
 
-CT = "../../python/cdisc_ct_prep/json_data/"
-MANIFEST = "../../python/cdisc_ct_prep/source_data/"
+CT = "json_data/"
+MANIFEST = "source_data/"
 
 class Drive():
     

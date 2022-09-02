@@ -23,21 +23,34 @@ class ActionList(Action):
 
   def add_releases(self):
     uri_db = URIDB()
-    ns_json = RaServer().namespace_by_name("CDISC CT namespace")
-    ns = Namespace(uri=ns_json['uri'], uuid=str(uuid4()))
-    #print(ns_json)
-    ra_json = RaServer().registration_authority_by_namespace_uuid(ns_json['uuid'])
-    #print(ra_json)
-    ra = RegistrationAuthority(uri=ra_json['uri'], uuid=str(uuid4()))
-    
-    #self.__repo.save(ns, ra)
     n_r = NodesAndRelationships()
-    n_r.add_nodes(ns, ra)
-    uri_db.add(ns.uri, ns)
-    uri_db.add(ra.uri, ra)
 
+    ns_c_json = RaServer().namespace_by_name("CDISC CT namespace")
+    ns_c = Namespace(uri=ns_c_json['uri'], uuid=str(uuid4()))
+    ra_c_json = RaServer().registration_authority_by_namespace_uuid(ns_c_json['uuid'])
+    ra_c = RegistrationAuthority(uri=ra_c_json['uri'], uuid=str(uuid4()))
+
+    ns_s_json = RaServer().namespace_by_name("d4k CT namespace")
+    ns_s = Namespace(uri=ns_s_json['uri'], uuid=str(uuid4()))
+    ra_s_json = RaServer().registration_authority_by_namespace_uuid(ns_s_json['uuid'])
+    ra_s = RegistrationAuthority(uri=ra_s_json['uri'], uuid=str(uuid4()))
+
+    n_r.add_nodes(ns_c, ra_c, ns_s, ra_s)
+    uri_db.add(ns_c.uri, ns_c)
+    uri_db.add(ra_c.uri, ra_c)
+    uri_db.add(ns_s.uri, ns_s)
+    uri_db.add(ra_s.uri, ra_s)
     dates = self.__manifest.release_list(self.__config.start_date)
-    self.__actions.add([ActionRelease(release_date=i, namespace_uri=ns.uri, registration_authority_uri=ra.uri).preserve() for i in dates])
+    items = []
+    for item in dates:
+      if item['owner'] == "CDISC":
+        ns_uri = ns_c.uri
+        ra_uri = ra_c.uri
+      else:
+        ns_uri = ns_s.uri
+        ra_uri = ra_s.uri
+      items.append(ActionRelease(release_date=item['date'], namespace_uri=ns_uri, registration_authority_uri=ra_uri).preserve())
+    self.__actions.add(items)
 
   def next(self):
     #start_dt = datetime.now()

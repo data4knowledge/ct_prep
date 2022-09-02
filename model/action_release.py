@@ -34,10 +34,10 @@ class ActionRelease(Action):
     ns = uri_db.find(self.namespace_uri)
     ra = uri_db.find(self.registration_authority_uri)
     if previous == None:
-      print("ACTIONRELEASE.PROCESS [1]: first release")
+      #print("ACTIONRELEASE.PROCESS [1]: first release")
       version = "1"
     else:
-      print("ACTIONRELEASE.PROCESS [1]: %s" % (previous.label))
+      #print("ACTIONRELEASE.PROCESS [1]: %s" % (previous.label))
       version = "%s" % (previous.version() + 1)
     sv = SemanticVersion(major=version, minor="0", patch="0")
     si = ScopedIdentifier(version=int(version), version_label=self.release_date, identifier="CT", 
