@@ -83,16 +83,18 @@ class ActionCodeList(Action):
     codelist['notation'] = codelist.pop('submissionValue')
     codelist['pref_label'] = codelist.pop('preferredTerm')
     if 'synonyms' in codelist:
-      codelist['alt_label'] = codelist.pop('synonyms')
+      codelist['alt_label'] = ";".join(codelist['synonyms'])  
+      codelist.pop('synonyms')
     else:
-      codelist['alt_label'] = []
+      codelist['alt_label'] = ""
     for term in codelist['terms']:
       term['identifier'] = term.pop('conceptId')
       term['label'] = term['preferredTerm']
       term['notation'] = term.pop('submissionValue')
       term['pref_label'] = term.pop('preferredTerm')
       if 'synonyms' in term:
-        term['alt_label'] = term.pop('synonyms')
+        term['alt_label'] = ";".join(term['synonyms'])  
+        term.pop('synonyms')
       else:
         term['alt_label'] = []
     #print("ACTIONCODELIST.PROCESS [5a]: %s" % (codelist))
