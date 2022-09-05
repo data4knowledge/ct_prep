@@ -27,7 +27,7 @@ def file_load(driver):
   query = """CALL apoc.import.csv( [%s], [%s], {stringIds: false})""" % (", ".join(nodes), ", ".join(relationships))
   result = session.run(query)
   for record in result:
-    print(record)
+    #print(record)
     return_value = {'nodes': record['nodes'], 'relationships': record['relationships'], 'time': record['time']}
   driver.close()
   return return_value
