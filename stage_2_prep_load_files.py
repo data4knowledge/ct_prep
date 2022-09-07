@@ -20,7 +20,7 @@ def list_actions():
 
 def process_action():
   count = 0
-  action = {}
+  action = {'data': {}}
   actions = ActionList(manifest)
   #print(actions.list())
   if actions.more():
@@ -58,19 +58,20 @@ def action_until(until):
     else:
       current_dt = datetime.strptime("2000-01-01", '%Y-%m-%d')
     #print(f'Check {current_dt} versus until {until_dt}')
-    now_dt = datetime.now()
-    total_duration = now_dt - start_dt
-    last_duration = now_dt - previous_dt
-    total_duration_in_secs = total_duration.total_seconds()  
-    last_duration_in_secs = last_duration.total_seconds()  
-    print(f'Running for {total_duration_in_secs:.0f} secs [{total_duration_in_secs/3600.0:.2f} hrs]. Last step {last_duration_in_secs:.0f} secs')
-    if current_dt >= until_dt:
-      print("Release timings", json.dumps(release_timings, sort_keys=True, indent=4))
-      print('End date encountered ...')
-      execute = False
-    else:
-      previous_dt = now_dt
-      #time.sleep(0.1)
+    if execute:
+      now_dt = datetime.now()
+      total_duration = now_dt - start_dt
+      last_duration = now_dt - previous_dt
+      total_duration_in_secs = total_duration.total_seconds()  
+      last_duration_in_secs = last_duration.total_seconds()  
+      print(f'Running for {total_duration_in_secs:.0f} secs [{total_duration_in_secs/3600.0:.2f} hrs]. Last step {last_duration_in_secs:.0f} secs')
+      if current_dt >= until_dt:
+        print("Release timings", json.dumps(release_timings, sort_keys=True, indent=4))
+        print('End date encountered ...')
+        execute = False
+      else:
+        previous_dt = now_dt
+        #time.sleep(0.1)
   n_r = NodesAndRelationships()
   n_r.dump()
 
