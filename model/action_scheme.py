@@ -56,14 +56,14 @@ class ActionScheme(Action):
       version = "1"
     else:
       version = "%s" % (previous.version() + 1)
-    print("ACTIONSCHEME.PROCESS [1]: next version = %s" % (version))
+    #print("ACTIONSCHEME.PROCESS [1]: next version = %s" % (version))
     if self.release_date != self.date and previous != None:
       n_r.add_relationship(":PREVIOUS", sr.uuid, previous.uuid)
       #sr.consists_of.add(previous)
       #self.__repo.save(sr)
       return []
     else:
-      print("ACTIONSCHEME.PROCESS [2]")
+      #print("ACTIONSCHEME.PROCESS [2]")
       sv = SemanticVersion(major = version, minor="0", patch="0")
       si = ScopedIdentifier(version=int(version), version_label=self.date, identifier=identifier, 
         semantic_version = sv.__str__(), uuid=str(uuid4()))

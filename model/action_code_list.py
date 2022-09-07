@@ -45,6 +45,8 @@ class ActionCodeList(Action):
     previous = latest_db.latest(self.identifier)
     scs = uri_db.find(self.parent_uri)
 
+    #print("ACTIONCODELIST.PROCESS [1]:", previous)
+
     #scs = SkosConceptScheme.match(db.graph()).where(uri=self.parent_uri).first()
     #previous = scs.latest_code_list(self.identifier)
     if previous == None:
@@ -56,6 +58,7 @@ class ActionCodeList(Action):
       previous_dict.pop('uuid')
       previous_dict.pop('uri')
       previous_dict['terms'] = []
+      #print("ACTIONCODELIST.PROCESS [2a]:", previous_dict)
       for item in previous.narrower:
         item_dict = item.dict()
         item_dict.pop('uuid')
@@ -63,6 +66,7 @@ class ActionCodeList(Action):
         previous_dict['terms'].append(item_dict)
         previous_items[item.identifier] = item
         previous_dicts[item.identifier] = item_dict
+      #print("ACTIONCODELIST.PROCESS [2b]:", previous_dict['terms'])
 
     if self.format == "api":
       api = CtApi(self.scheme, self.date)
@@ -97,6 +101,7 @@ class ActionCodeList(Action):
         term.pop('synonyms')
       else:
         term['alt_label'] = []
+      term['extensible'] = False
     #print("ACTIONCODELIST.PROCESS [5a]: %s" % (codelist))
     #print("ACTIONCODELIST.PROCESS [5b]: %s" % (DeepDiff(previous_dict, codelist, ignore_order=True)))
     if (previous_dict == None) or (not previous_dict == None and DeepDiff(previous_dict, codelist, ignore_order=True)):
@@ -184,7 +189,7 @@ class ActionCodeList(Action):
         else:
           child = previous_term
         #print("ACTIONCODELIST.PROCESS [5]: ", child)
-        #cs.narrower.add(child)
+        cs.narrower.add(child)
         n_r.add_relationship(":NARROWER", cs.uuid, child.uuid)
       #db.repository().save(cs, scs)
     else:
