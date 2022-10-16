@@ -66,7 +66,9 @@ for key in results:
           manifest[rel_date]['items'][k.lower()] = rel_date
           latest[k.lower()] = rel_date
         else:
-          if key < introduced[k]:
+          if not k in introduced:
+            table_row.append("NA")
+          elif key < introduced[k]:
             table_row.append("NA")
           elif withdrawn[k] == None:
             table_row.append('^')

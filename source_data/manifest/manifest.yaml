@@ -777,4 +777,17 @@
   - "yaml"
   items: 
     test-codes: "2022-09-01"
-
+"2022-09-30":
+  owner: "CDISC"
+  package: "51"
+  format: 
+  - "api"
+  items:
+    adam: "2022-06-24"
+    cdash: "2022-09-30"
+    ddf: "2022-09-30"
+    define-xml: "2022-09-30"
+    glossary: "2021-12-17"
+    protocol: "2022-09-30"
+    sdtm: "2022-09-30"
+    send: "2022-09-30"
