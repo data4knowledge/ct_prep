@@ -47,8 +47,9 @@ class ActionRelease(Action):
     rs = RegistrationStatus(registration_status="Released", effective_date=self.release_date, 
       until_date="", uuid=str(uuid4()))
     #rs.managed_by.add(ra)
-    uri = "%sdataset/cdisc/ct/rel/%s" % (ns.value, self.release_date)
-    print("URI:", uri)
+    uri = "%sdataset/rel/%s" % (ns.value, self.release_date)
+    print("URI1:", ns.value)
+    print("URI2:", uri)
     rel = Release(label = "Controlled Terminology", uuid = str(uuid4()), uri = uri)
     rel.identified_by.add(si)
     latest_db.add(si.identifier, rel)

@@ -128,7 +128,7 @@ class ActionCodeList(Action):
 
 
       uuid = str(uuid4())
-      uri = "%sdataset/cdisc/ct/sc/%s/%s/%s" % (ns.value, self.date, self.scheme, self.identifier)
+      uri = "%sdataset/sc/%s/%s/%s" % (ns.value, self.date, self.scheme, self.identifier)
       cs = SkosConcept(label = codelist['label'],
         identifier = codelist['identifier'],
         notation = codelist['notation'],
@@ -171,7 +171,7 @@ class ActionCodeList(Action):
           diff = True
         if diff:  
           uuid = str(uuid4())
-          uri = "%sdataset/cdisc/ct/sc/%s/%s/%s/%s" % (ns.value, self.date, self.scheme, self.identifier, cl['identifier'])
+          uri = "%sdataset/sc/%s/%s/%s/%s" % (ns.value, self.date, self.scheme, self.identifier, cl['identifier'])
           child = SkosConcept(label = cl['label'],
             identifier = cl['identifier'],
             notation = cl['notation'],
