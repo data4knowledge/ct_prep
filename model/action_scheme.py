@@ -71,7 +71,7 @@ class ActionScheme(Action):
       rs = RegistrationStatus(registration_status = "Released", effective_date = self.date, until_date = "", uuid=str(uuid4()))
       #rs.managed_by.add(ra)
       uuid = str(uuid4())
-      uri = "%sdataset/cdisc/ct/cs/%s/%s" % (ServiceEnvironment().get("BASE_URI"), self.date, self.scheme)
+      uri = "%sdataset/cdisc/ct/cs/%s/%s" % (ns.value, self.date, self.scheme)
       cs = SkosConceptScheme(label = self.scheme, uuid = uuid, uri = uri)
       #if not previous == None:
       #  cs.previous.add(previous)

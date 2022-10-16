@@ -26,20 +26,33 @@ class ActionList(Action):
     n_r = NodesAndRelationships()
 
     ns_c_json = RaServer().namespace_by_name("CDISC CT namespace")
-    ns_c = Namespace(uri=ns_c_json['uri'], uuid=str(uuid4()))
+    ns_c = Namespace(uri=ns_c_json['uri'], value=ns_c_json['value'], uuid=str(uuid4()))
     ra_c_json = RaServer().registration_authority_by_namespace_uuid(ns_c_json['uuid'])
     ra_c = RegistrationAuthority(uri=ra_c_json['uri'], uuid=str(uuid4()))
 
+    print("A:", ns_c_json)
+    print("B:", ra_c_json)
+    print("C:", ns_c.uri)
+    print("B:", ra_c.uri)
+
     ns_s_json = RaServer().namespace_by_name("d4k CT namespace")
-    ns_s = Namespace(uri=ns_s_json['uri'], uuid=str(uuid4()))
+    ns_s = Namespace(uri=ns_s_json['uri'], value=ns_s_json['value'], uuid=str(uuid4()))
     ra_s_json = RaServer().registration_authority_by_namespace_uuid(ns_s_json['uuid'])
     ra_s = RegistrationAuthority(uri=ra_s_json['uri'], uuid=str(uuid4()))
 
+    print("1:", ns_s_json)
+    print("2:", ra_s_json)
+    print("3:", ns_s.uri)
+    print("4:", ra_s.uri)
+    
     n_r.add_nodes(ns_c, ra_c, ns_s, ra_s)
     uri_db.add(ns_c.uri, ns_c)
     uri_db.add(ra_c.uri, ra_c)
     uri_db.add(ns_s.uri, ns_s)
     uri_db.add(ra_s.uri, ra_s)
+
+    print("N-R:", n_r)
+
     dates = self.__manifest.release_list(self.__config.start_date)
     items = []
     for item in dates:
