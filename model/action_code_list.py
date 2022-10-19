@@ -78,21 +78,21 @@ class ActionCodeList(Action):
       codelist['extensible'] = codelist.pop('extensible')
     codelist.pop('conceptId')
     codelist['identifier'] = self.identifier
-    codelist['label'] = codelist.pop('name')
+    codelist['name'] = codelist.pop('name')
     codelist['notation'] = codelist.pop('submissionValue')
     codelist['pref_label'] = codelist.pop('preferredTerm')
     if 'synonyms' in codelist:
-      codelist['alt_label'] = ";".join(codelist['synonyms'])  
+      codelist['alt_label'] = codelist['synonyms']
       codelist.pop('synonyms')
     else:
-      codelist['alt_label'] = ""
+      codelist['alt_label'] = []
     for term in codelist['terms']:
       term['identifier'] = term.pop('conceptId')
-      term['label'] = term['preferredTerm']
+      term['name'] = term['preferredTerm']
       term['notation'] = term.pop('submissionValue')
       term['pref_label'] = term.pop('preferredTerm')
       if 'synonyms' in term:
-        term['alt_label'] = ";".join(term['synonyms'])  
+        term['alt_label'] = term['synonyms']
         term.pop('synonyms')
       else:
         term['alt_label'] = []
@@ -108,7 +108,7 @@ class ActionCodeList(Action):
       n_r.add_relationship(":MANAGED_BY", rs.uuid, ra.uuid)
       uuid = str(uuid4())
       uri = "%sdataset/sc/%s/%s/%s" % (ns.value, self.date, self.scheme, self.identifier)
-      cs = SkosConcept(label = codelist['label'],
+      cs = SkosConcept(name = codelist['name'],
         identifier = codelist['identifier'],
         notation = codelist['notation'],
         alt_label = codelist['alt_label'],
@@ -141,7 +141,7 @@ class ActionCodeList(Action):
         if diff:  
           uuid = str(uuid4())
           uri = "%sdataset/sc/%s/%s/%s/%s" % (ns.value, self.date, self.scheme, self.identifier, cl['identifier'])
-          child = SkosConcept(label = cl['label'],
+          child = SkosConcept(name = cl['name'],
             identifier = cl['identifier'],
             notation = cl['notation'],
             alt_label = cl['alt_label'],

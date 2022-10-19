@@ -7,7 +7,7 @@ from neo4j_model.neo4j_database import Neo4jDatabase
 class Concept(Model):
   uuid = Property()
   uri = Property()
-  label = Property()
+  name = Property()
   
   identified_by = RelatedTo(ScopedIdentifier, "IDENTIFIED_BY")
   has_status = RelatedTo(RegistrationStatus, "HAS_STATUS")
