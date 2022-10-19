@@ -26,9 +26,9 @@ class ActionList(Action):
     n_r = NodesAndRelationships()
 
     ns_c_json = RaServer().namespace_by_name("CDISC CT namespace")
-    ns_c = Namespace(uri=ns_c_json['uri'], value=ns_c_json['value'], uuid=str(uuid4()))
+    ns_c = Namespace(reference_uri=ns_c_json['uri'], name=ns_c_json['name'], value=ns_c_json['value'], uuid=str(uuid4()))
     ra_c_json = RaServer().registration_authority_by_namespace_uuid(ns_c_json['uuid'])
-    ra_c = RegistrationAuthority(uri=ra_c_json['uri'], uuid=str(uuid4()))
+    ra_c = RegistrationAuthority(reference_uri=ra_c_json['uri'], name=ra_c_json['name'], uuid=str(uuid4()))
 
     print("A:", ns_c_json)
     print("B:", ra_c_json)
@@ -36,9 +36,9 @@ class ActionList(Action):
     print("B:", ra_c.uri)
 
     ns_s_json = RaServer().namespace_by_name("d4k CT namespace")
-    ns_s = Namespace(uri=ns_s_json['uri'], value=ns_s_json['value'], uuid=str(uuid4()))
+    ns_s = Namespace(reference_uri=ns_s_json['uri'], name=ns_s_json['name'], value=ns_s_json['value'], uuid=str(uuid4()))
     ra_s_json = RaServer().registration_authority_by_namespace_uuid(ns_s_json['uuid'])
-    ra_s = RegistrationAuthority(uri=ra_s_json['uri'], uuid=str(uuid4()))
+    ra_s = RegistrationAuthority(reference_uri=ra_s_json['uri'], name=ra_s_json['name'], uuid=str(uuid4()))
 
     print("1:", ns_s_json)
     print("2:", ra_s_json)

@@ -1,5 +1,6 @@
 from py2neo.ogm import Model, Property
 
 class RegistrationAuthority(Model):
-  uri = Property()
+  reference_uri = Property()
   uuid = Property()
+  name = Property()
