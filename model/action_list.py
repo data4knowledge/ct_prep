@@ -32,8 +32,8 @@ class ActionList(Action):
 
     print("A:", ns_c_json)
     print("B:", ra_c_json)
-    print("C:", ns_c.uri)
-    print("B:", ra_c.uri)
+    print("C:", ns_c.reference_uri)
+    print("B:", ra_c.reference_uri)
 
     ns_s_json = RaServer().namespace_by_name("d4k CT namespace")
     ns_s = Namespace(reference_uri=ns_s_json['uri'], name=ns_s_json['name'], value=ns_s_json['value'], uuid=str(uuid4()))
@@ -42,14 +42,14 @@ class ActionList(Action):
 
     print("1:", ns_s_json)
     print("2:", ra_s_json)
-    print("3:", ns_s.uri)
-    print("4:", ra_s.uri)
+    print("3:", ns_s.reference_uri)
+    print("4:", ra_s.reference_uri)
     
     n_r.add_nodes(ns_c, ra_c, ns_s, ra_s)
-    uri_db.add(ns_c.uri, ns_c)
-    uri_db.add(ra_c.uri, ra_c)
-    uri_db.add(ns_s.uri, ns_s)
-    uri_db.add(ra_s.uri, ra_s)
+    uri_db.add(ns_c.reference_uri, ns_c)
+    uri_db.add(ra_c.reference_uri, ra_c)
+    uri_db.add(ns_s.reference_uri, ns_s)
+    uri_db.add(ra_s.reference_uri, ra_s)
 
     print("N-R:", n_r)
 
@@ -57,11 +57,11 @@ class ActionList(Action):
     items = []
     for item in dates:
       if item['owner'] == "CDISC":
-        ns_uri = ns_c.uri
-        ra_uri = ra_c.uri
+        ns_uri = ns_c.reference_uri
+        ra_uri = ra_c.reference_uri
       else:
-        ns_uri = ns_s.uri
-        ra_uri = ra_s.uri
+        ns_uri = ns_s.reference_uri
+        ra_uri = ra_s.reference_uri
       items.append(ActionRelease(release_date=item['date'], namespace_uri=ns_uri, registration_authority_uri=ra_uri).preserve())
     self.__actions.add(items)
 
