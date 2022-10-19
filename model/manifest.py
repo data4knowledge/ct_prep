@@ -23,23 +23,14 @@ class Manifest():
       manifest_date = self._from_iso8601_str(date_str)
       diff = manifest_date - start_date_as_date
       if diff.days >= 0:
-        print(self.__manifest[date_str])
         releases.append({'date': date_str, 'owner': self.__manifest[date_str]['owner']})
     return releases
 
   def concept_scheme_list(self, release_date):
-    #print("CONCEPT_SCHEME_LIST [1]:", release_date)
-    #print("CONCEPT_SCHEME_LIST [2]:", self.__manifest[release_date])
     results = []
     for k, v in self.__manifest[release_date]["items"].items():
-
-      # FOR TEST!!!
-#      if k != "adam":
-#        continue
-
       date, format_for_date = self._format_and_date(release_date, k)
-      results.append({ 'scheme': k, 'release_date': release_date, 'date': date, 'format': format_for_date })  
-    #print("CONCEPT_SCHEME_LIST [3]:", results)
+      results.append({ 'scheme': k, 'release_date': release_date, 'date': date, 'format': format_for_date })
     return results
 
   def _from_iso8601_str(self, text):

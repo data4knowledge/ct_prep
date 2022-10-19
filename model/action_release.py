@@ -34,28 +34,19 @@ class ActionRelease(Action):
     ns = uri_db.find(self.namespace_uri)
     ra = uri_db.find(self.registration_authority_uri)
     if previous == None:
-      #print("ACTIONRELEASE.PROCESS [1]: first release")
       version = "1"
     else:
-      #print("ACTIONRELEASE.PROCESS [1]: %s" % (previous.label))
       version = "%s" % (previous.version() + 1)
     sv = SemanticVersion(major=version, minor="0", patch="0")
     si = ScopedIdentifier(version=int(version), version_label=self.release_date, identifier="CT", 
       semantic_version=sv.__str__(), uuid=str(uuid4()))
-    #print(si)
-    #si.scoped_by.add(ns)
     rs = RegistrationStatus(registration_status="Released", effective_date=self.release_date, 
       until_date="", uuid=str(uuid4()))
-    #rs.managed_by.add(ra)
     uri = "%sdataset/rel/%s" % (ns.value, self.release_date)
-    print("URI1:", ns.value)
-    print("URI2:", uri)
     rel = Release(label = "Controlled Terminology", uuid = str(uuid4()), uri = uri)
     rel.identified_by.add(si)
     latest_db.add(si.identifier, rel)
     uri_db.add(rel.uri, rel)
-
-    #db.repository().save(rel, rs, si)
     n_r.add_nodes(rel, rs, si)
     n_r.add_relationship(":SCOPED_BY", si.uuid, ns.uuid)
     n_r.add_relationship(":MANAGED_BY", rs.uuid, ra.uuid)
@@ -63,11 +54,9 @@ class ActionRelease(Action):
     n_r.add_relationship(":IDENTIFIED_BY", rel.uuid, si.uuid)
     if not previous == None:
       n_r.add_relationship(":PREVIOUS", rel.uuid, previous.uuid)
-
     list = manifest.concept_scheme_list(self.release_date)
     for i in list:
       i['parent_uri'] = uri
       i['namespace_uri'] = self.namespace_uri
       i['registration_authority_uri'] = self.registration_authority_uri
-    print("XXX", i)
     return [ActionScheme(**i).preserve() for i in list]

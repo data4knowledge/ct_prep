@@ -57,7 +57,6 @@ def action_until(until):
       current_dt = datetime.strptime(data['next']['date'], '%Y-%m-%d')
     else:
       current_dt = datetime.strptime("2000-01-01", '%Y-%m-%d')
-    #print(f'Check {current_dt} versus until {until_dt}')
     if execute:
       now_dt = datetime.now()
       total_duration = now_dt - start_dt
@@ -71,7 +70,6 @@ def action_until(until):
         execute = False
       else:
         previous_dt = now_dt
-        #time.sleep(0.1)
   n_r = NodesAndRelationships()
   n_r.dump()
 

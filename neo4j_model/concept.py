@@ -19,6 +19,10 @@ class Concept(Model):
       return int(item.version)
     return None
 
+  def version_label(self):
+    for item in self.identified_by:
+      return item.version_label
+    return None
+
   def dict(self):
-    #print("Node: ", dict(self.__ogm__.node))
     return dict(self.__ogm__.node)

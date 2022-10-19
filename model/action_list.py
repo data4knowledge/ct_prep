@@ -66,23 +66,11 @@ class ActionList(Action):
     self.__actions.add(items)
 
   def next(self):
-    #start_dt = datetime.now()
     data = self.__actions.first()
     klass = globals()[data['klass']]
     action = klass(**data['data'])
-    #print("DATA", data)
-    #print("KLASS", klass)
-    #del self.__actions[0]
     new_actions = action.process(self.__manifest)
-    #action_dt = datetime.now()
-    #print("ACTIONLIST.NEXT [1] count =", len(json.dumps(new_actions)))
     self.__actions.add(new_actions)
-    #store_dt = datetime.now()
-    #action_duration = action_dt - start_dt
-    #store_duration = store_dt - action_dt
-    #action_duration_in_secs = action_duration.total_seconds()  
-    #store_duration_in_secs = store_duration.total_seconds()  
-    #print(f'ACTIONLIST.NEXT [2] action step = {action_duration_in_secs:.0f} secs, store step = {store_duration_in_secs:.0f} secs')
     return self.__actions.count()
     
   def list(self):
