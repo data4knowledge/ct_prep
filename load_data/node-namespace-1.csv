@@ -1,3 +1,3 @@
 "id:ID","reference_uri","name","value","uuid"
-"1","http://ra.d4k.dk/dataset/ns/cdisc-ct-namespace","CDISC CT namespace","https://ct.d4k.dk/cdisc/","5018ebf0-8e07-4163-acae-686331b53f6a"
-"2","http://ra.d4k.dk/dataset/ns/d4k-ct-namespace","d4k CT namespace","https://ct.d4k.dk/","8293b11e-ed1a-401f-837e-5b579c5e23db"
+"1","http://ra.d4k.dk/dataset/ns/cdisc-ct-namespace","CDISC CT namespace","https://ct.d4k.dk/cdisc/","9c01cf97-a7e4-4542-aa1a-ae70c07c7e7d"
+"2","http://ra.d4k.dk/dataset/ns/d4k-ct-namespace","d4k CT namespace","https://ct.d4k.dk/","b91a8ea9-74af-4837-b420-942649b609d8"
