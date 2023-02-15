@@ -805,3 +805,24 @@
   - "yaml"
   items: 
     test-codes: "2022-11-30"
+"2022-12-16":
+  owner: "CDISC"
+  package: "52"
+  format: 
+  - "api"
+  items:
+    adam: "2022-06-24"
+    cdash: "2022-12-16"
+    ddf: "2022-12-16"
+    define-xml: "2022-12-16"
+    glossary: "2022-12-16"
+    protocol: "2022-12-16"
+    sdtm: "2022-12-16"
+    send: "2022-12-16"
+"2023-02-15":
+  owner: "d4k"
+  package: ""
+  format: 
+  - "yaml"
+  items: 
+    test-codes: "2023-02-15"

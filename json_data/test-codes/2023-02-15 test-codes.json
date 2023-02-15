@@ -1,0 +1,179 @@
+{
+  "_links": {
+    "priorVersion": {
+      "href": "",
+      "title": "",
+      "type": "Terminology"
+    },
+    "self": {
+      "href": "",
+      "title": "",
+      "type": "Terminology"
+    }
+  },
+  "codelists": [
+    {
+      "conceptId": "D000001",
+      "definition": "",
+      "extensible": true,
+      "name": "Extra test codes",
+      "preferredTerm": "Extra test codes",
+      "submissionValue": "TEST CODES",
+      "synonyms": [],
+      "terms": [
+        {
+          "conceptId": "D100000",
+          "definition": "",
+          "name": "Age",
+          "preferredTerm": "Age",
+          "submissionValue": "AGE",
+          "synonyms": []
+        },
+        {
+          "conceptId": "D100001",
+          "definition": "",
+          "name": "Race",
+          "preferredTerm": "Race",
+          "submissionValue": "RACE",
+          "synonyms": []
+        },
+        {
+          "conceptId": "D100002",
+          "definition": "",
+          "name": "Sex",
+          "preferredTerm": "Sex",
+          "submissionValue": "SEX",
+          "synonyms": []
+        },
+        {
+          "conceptId": "D100003",
+          "definition": "",
+          "name": "Ethnicity",
+          "preferredTerm": "Ethnicity",
+          "submissionValue": "ETHNIC",
+          "synonyms": []
+        },
+        {
+          "conceptId": "D100004",
+          "definition": "",
+          "name": "Adverse Event",
+          "preferredTerm": "Adverse Event",
+          "submissionValue": "ADVERSE EVENT",
+          "synonyms": []
+        },
+        {
+          "conceptId": "D100005",
+          "definition": "",
+          "name": "Drug Exposure",
+          "preferredTerm": "Drug Exposure",
+          "submissionValue": "DRUG EXPOSURE",
+          "synonyms": []
+        },
+        {
+          "conceptId": "D100006",
+          "definition": "",
+          "name": "Date of Birth",
+          "preferredTerm": "Date of Birth",
+          "submissionValue": "DATE OF BIRTH",
+          "synonyms": []
+        },
+        {
+          "conceptId": "D100007",
+          "definition": "",
+          "name": "Inclusion Criteria",
+          "preferredTerm": "Inclusion Criteria",
+          "submissionValue": "INCLCRIT",
+          "synonyms": []
+        },
+        {
+          "conceptId": "D100008",
+          "definition": "",
+          "name": "Exclusion Criteria",
+          "preferredTerm": "Exclusion Criteria",
+          "submissionValue": "EXCLCRIT",
+          "synonyms": []
+        },
+        {
+          "conceptId": "D100009",
+          "definition": "",
+          "name": "Enrollment Date",
+          "preferredTerm": "Enrollment Date",
+          "submissionValue": "ENROLLMENT",
+          "synonyms": []
+        },
+        {
+          "conceptId": "D100010",
+          "definition": "",
+          "name": "Medical History",
+          "preferredTerm": "Medical History",
+          "submissionValue": "MEDHIST",
+          "synonyms": []
+        },
+        {
+          "conceptId": "D100011",
+          "definition": "",
+          "name": "Plasmodium vivax, Asexual",
+          "preferredTerm": "Plasmodium vivax, Asexual",
+          "submissionValue": "PVIVAXA",
+          "synonyms": []
+        },
+        {
+          "conceptId": "D100012",
+          "definition": "",
+          "name": "Plasmodium vivax, Sexual",
+          "preferredTerm": "Plasmodium vivax, Sexual",
+          "submissionValue": "PVIVAXS",
+          "synonyms": []
+        },
+        {
+          "conceptId": "D100013",
+          "definition": "",
+          "name": "Plasmodium falciparum, Asexual",
+          "preferredTerm": "Plasmodium falciparum, Asexual",
+          "submissionValue": "PFALCIPA",
+          "synonyms": []
+        },
+        {
+          "conceptId": "D100014",
+          "definition": "",
+          "name": "Anemia",
+          "preferredTerm": "Anemia",
+          "submissionValue": "ANEMIA",
+          "synonyms": []
+        },
+        {
+          "conceptId": "D100015",
+          "definition": "",
+          "name": "???",
+          "preferredTerm": "???",
+          "submissionValue": "EVI",
+          "synonyms": []
+        },
+        {
+          "conceptId": "D100016",
+          "definition": "",
+          "name": "???",
+          "preferredTerm": "???",
+          "submissionValue": "NLN",
+          "synonyms": []
+        },
+        {
+          "conceptId": "D100017",
+          "definition": "",
+          "name": "???",
+          "preferredTerm": "???",
+          "submissionValue": "SES",
+          "synonyms": []
+        },
+        {
+          "conceptId": "D100018",
+          "definition": "",
+          "name": "Malaria Rapid Daignostic Test",
+          "preferredTerm": "Malaria Rapid Daignostic Test",
+          "submissionValue": "MALARIA RDT",
+          "synonyms": []
+        }
+      ]
+    }
+  ]
+}
