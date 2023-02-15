@@ -144,24 +144,24 @@
         {
           "conceptId": "D100015",
           "definition": "",
-          "name": "???",
-          "preferredTerm": "???",
+          "name": "Enhanced Vegitation Index",
+          "preferredTerm": "Enhanced Vegitation Index",
           "submissionValue": "EVI",
           "synonyms": []
         },
         {
           "conceptId": "D100016",
           "definition": "",
-          "name": "???",
-          "preferredTerm": "???",
+          "name": "Net Use",
+          "preferredTerm": "Net Use",
           "submissionValue": "NLN",
           "synonyms": []
         },
         {
           "conceptId": "D100017",
           "definition": "",
-          "name": "???",
-          "preferredTerm": "???",
+          "name": "Socio-economic Wealth Quintiles from MCA",
+          "preferredTerm": "Socio-economic Wealth Quintiles from MCA",
           "submissionValue": "SES",
           "synonyms": []
         },
