@@ -79,7 +79,7 @@ def str2bool(v):
 if __name__ == '__main__':
   run_config = False
   start_date = "2000-01-01"
-  until_date = "2023-01-01"
+  until_date = "2099-01-01"
   kwargs = dict(arg.split('=') for arg in sys.argv[1:])
   if "config" in kwargs:
     run_config = str2bool(kwargs['config'])

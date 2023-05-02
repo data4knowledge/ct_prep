@@ -826,3 +826,17 @@
   - "yaml"
   items: 
     test-codes: "2023-02-15"
+"2023-03-31":
+  owner: "CDISC"
+  format: 
+  - "api"
+  items:
+    adam: "2023-03-31"
+    cdash: "2022-12-16"
+    ddf: "2023-03-31"
+    define-xml: "2022-12-16"
+    glossary: "2022-12-16"
+    protocol: "2023-03-31"
+    sdtm: "2023-03-31"
+    send: "2023-03-31"
+  package: "53"
