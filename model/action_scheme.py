@@ -11,7 +11,6 @@ from neo4j_model.namespace import Namespace
 from neo4j_model.registration_authority import RegistrationAuthority
 from neo4j_model.release import Release
 from uuid import uuid4
-from service_environment import ServiceEnvironment
 from model.latest_db import LatestDB
 from model.uri_db import URIDB
 from model.nodes_and_relationships import NodesAndRelationships

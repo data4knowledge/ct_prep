@@ -1,5 +1,5 @@
 import requests
-from service_environment import ServiceEnvironment
+from utility.service_environment import ServiceEnvironment
 
 class RaServer():
 

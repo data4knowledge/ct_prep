@@ -12,7 +12,6 @@ from neo4j_model.skos_concept import SkosConcept
 from neo4j_model.skos_concept_scheme import SkosConceptScheme
 from neo4j_model.namespace import Namespace
 from uuid import uuid4
-from service_environment import ServiceEnvironment
 from deepdiff import DeepDiff
 from model.latest_db import LatestDB
 from model.uri_db import URIDB

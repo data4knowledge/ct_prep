@@ -1,13 +1,14 @@
 from py2neo.ogm import Repository
-from service_environment import ServiceEnvironment
+from utility.service_environment import ServiceEnvironment
 
 class Neo4jDatabase():
   
   def __init__(self):
-    db_name = ServiceEnvironment().get('NEO4J_DB_NAME')
-    url = ServiceEnvironment().get('NEO4J_URL')
-    usr = ServiceEnvironment().get('NEO4J_USER')
-    pwd = ServiceEnvironment().get('NEO4J_PWD')
+    sv = ServiceEnvironment()
+    db_name = sv.get('NEO4J_DB_NAME')
+    url = sv.get('NEO4J_URI')
+    usr = sv.get('NEO4J_USERNAME')
+    pwd = sv.get('NEO4J_PASSWORD')
     self.__repo = Repository(url, name=db_name, user=usr, password=pwd)
 
   def repository(self):
