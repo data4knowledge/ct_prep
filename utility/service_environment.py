@@ -13,6 +13,9 @@ class ServiceEnvironment():
     else:
       return "development"
 
+  def production(self):
+    return self.environment() == "production"
+
   def get(self, name):
     if name in os.environ:
       return os.environ[name]

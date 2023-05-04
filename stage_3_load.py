@@ -54,6 +54,5 @@ driver = GraphDatabase.driver(url, auth=(usr, pwd))
 print("Deleting database ...")
 clear_neo4j(driver, db_name)
 print("Database deleted. Load new data ...")
-result = file_load(driver, db_name)
+result = file_load(driver, db_name, sv)
 print("Load complete. %s nodes and %s relationships loaded in %s milliseconds." % (result['nodes'], result['relationships'], result['time']))
-
