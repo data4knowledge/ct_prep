@@ -840,3 +840,17 @@
     sdtm: "2023-03-31"
     send: "2023-03-31"
   package: "53"
+"2023-06-30":
+  owner: "CDISC"
+  format: 
+  - "api"
+  items:
+    adam: "2023-06-30"
+    cdash: "2022-12-16"
+    ddf: "2023-06-30"
+    define-xml: "2022-12-16"
+    glossary: "2022-12-16"
+    protocol: "2023-06-30"
+    sdtm: "2023-06-30"
+    send: "2023-06-30"
+  package: "54"
